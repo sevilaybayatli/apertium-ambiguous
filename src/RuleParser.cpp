@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <string.h>
 
-#include "../pugixml/pugixml.hpp"
+#include "pugixml.hpp"
 #include "TranElemLiterals.h"
 
 using namespace std;

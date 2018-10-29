@@ -1,7 +1,7 @@
 #ifndef SRC_RULEEXECUTION_H_
 #define SRC_RULEEXECUTION_H_
 
-#include "../pugixml/pugixml.hpp"
+#include "pugixml.hpp"
 
 using namespace std;
 using namespace pugi;

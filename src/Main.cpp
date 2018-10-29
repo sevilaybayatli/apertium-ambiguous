@@ -12,8 +12,8 @@
 #include <time.h>
 #include <sys/time.h>
 #include <sstream>
+#include <pugixml.hpp>
 
-#include "../pugixml/pugixml.hpp"
 #include "RuleParser.h"
 #include "RuleExecution.h"
 #include "TranElemLiterals.h"
