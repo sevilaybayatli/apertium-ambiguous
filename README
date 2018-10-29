@@ -1,6 +1,13 @@
 # apertium-kaz-tur-mt
 
+# Subdirectories
 
+* `Debug`:
+* `src`:
+* `results`:
+* `scripts`:
+* `models`:
+* `datasets`:
 
 # Dependencies:
 
