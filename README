@@ -2,3 +2,11 @@
 
 
 http://wiki.apertium.org/wiki/Using_weights_for_ambiguous_rules
+
+# Dependencies:
+
+* `pugixml`: 
+
+```
+$ sudo apt-get install libpugixml-dev
+```
