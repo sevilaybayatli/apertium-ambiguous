@@ -1,7 +1,6 @@
 # apertium-kaz-tur-mt
 
 
-http://wiki.apertium.org/wiki/Using_weights_for_ambiguous_rules
 
 # Dependencies:
 
@@ -10,3 +9,15 @@ http://wiki.apertium.org/wiki/Using_weights_for_ambiguous_rules
 ```
 $ sudo apt-get install libpugixml-dev
 ```
+
+# Building
+
+```
+./autogen.sh
+./configure
+make
+```
+
+# Further documentation
+
+http://wiki.apertium.org/wiki/Using_weights_for_ambiguous_rules
