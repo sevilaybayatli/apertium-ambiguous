@@ -2,7 +2,6 @@ AC_PREREQ(2.52)
 
 AC_INIT([], [0.1.0], [piraye@users.sourceforge.net])
 
-
 PACKAGE=apertium-ambiguous
 VERSION=0.1.0
 
