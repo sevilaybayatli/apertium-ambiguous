@@ -1,7 +1,7 @@
 h_sources = CLExec.h RuleExecution.h RuleParser.h TranElemLiterals.h 
 cc_sources = CLExec.cpp Main.cpp RuleExecution.cpp RuleParser.cpp 
 
-library_include_HEADERS = $(h_sources)
+#library_include_HEADERS = $(h_sources)
 
 bin_PROGRAMS = apertium-ambiguous
 
