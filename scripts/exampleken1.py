@@ -10,7 +10,7 @@ text = sys.stdin.read()
 #print("Loding model started")
 
 # Load the language model
-LM = os.path.join(os.path.dirname('/home/sevilay/Normalisek/training.klm'), '..', 'Normalisek', 'training.klm')
+LM = os.path.join(os.path.dirname('/home/sevilay/apertium-kaz-tur-mt/scripts/training.klm'), '..', 'scripts', 'training.klm')
 model = kenlm.LanguageModel(LM)
 
 #print("Loding model finished")
