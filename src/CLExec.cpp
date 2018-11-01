@@ -110,7 +110,7 @@ void
 CLExec::assignWeights (string inFilePath, string outFilePath)
 {
   exec (
-      (string ("python2 $HOME/Normalisek/exampleken1.py <") + string (inFilePath)
+      (string ("python2 $HOME/apertium-kaz-tur-mt/scripts/exampleken1.py <") + string (inFilePath)
 	  + string (">") + string (outFilePath)).c_str ());
 }
 
