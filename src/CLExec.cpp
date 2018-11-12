@@ -64,20 +64,6 @@ CLExec::getFilesInDir (string dir)
   return files;
 }
 
-void
-CLExec::runYasmet ()
-{
-  vector<string> datasets = getFilesInDir (DATASETS);
-
-  for (unsigned i = 0; i < datasets.size (); i++)
-    {
-      string dataset = datasets[i];
-
-      exec (
-	  (string ("./yasmet <") + DATASETS + string ("/") + dataset + string (">")
-	      + MODELS + string ("/") + dataset + string (".model")).c_str ());
-    }
-}
 
 map<string, map<string, vector<float> > >
 CLExec::loadYasmetModels ()
