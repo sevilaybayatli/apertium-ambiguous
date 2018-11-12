@@ -41,16 +41,7 @@ exec (string cmd)
   return data;
 }
 
-void
-CLExec::segmenter (string inFilePath, string outFilePath)
-{
-  // clear file before writing again
-  ofstream ofs;
-  ofs.open (outFilePath.c_str (), ofstream::out | ofstream::trunc);
-  exec (
-      string ("ruby2.3 kazSentenceTokenizer.rb ") + inFilePath + string (" ")
-	  + outFilePath);
-}
+
 
 void
 CLExec::biltrans (string inFilePath, string outFilePath)
