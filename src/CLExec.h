@@ -18,8 +18,7 @@ public:
   static vector<string>
   getFilesInDir (string dir);
 
-  static void
-  runYasmet ();
+ 
 
   static map<string, map<string, vector<float> > >
   loadYasmetModels ();
