@@ -15,25 +15,6 @@ class CLExec
 {
 public:
 
- 
-
-  static void
-  lextor (string inFilePath, string outFilePath);
-
-  static void
-  biltrans (string inFilePath, string outFilePath);
-
-  static void
-  interchunk (string inFilePath, string outFilePath);
-
-  static void
-  postchunk (string inFilePath, string outFilePath);
-
-  static void
-  transfer (string inFilePath, string outFilePath);
-
-  
-
   static vector<string>
   getFilesInDir (string dir);
 
