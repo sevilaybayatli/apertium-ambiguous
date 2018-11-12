@@ -32,8 +32,7 @@ public:
   static void
   transfer (string inFilePath, string outFilePath);
 
-  static void
-  assignWeights (string inFilePath, string outFilePath);
+  
 
   static vector<string>
   getFilesInDir (string dir);
