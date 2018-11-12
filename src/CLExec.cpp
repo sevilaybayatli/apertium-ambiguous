@@ -42,62 +42,6 @@ exec (string cmd)
 }
 
 
-
-void
-CLExec::biltrans (string inFilePath, string outFilePath)
-{
-  // clear file before writing again
-  ofstream ofs;
-  ofs.open (outFilePath.c_str (), ofstream::out | ofstream::trunc);
-  exec (
-      string ("apertium -d $HOME/apertium-kaz-tur kaz-tur-biltrans ") + inFilePath
-	  + string (" ") + outFilePath);
-}
-
-void
-CLExec::lextor (string inFilePath, string outFilePath)
-{
-  // clear file before writing again
-  ofstream ofs;
-  ofs.open (outFilePath.c_str (), ofstream::out | ofstream::trunc);
-  exec (
-      string ("lrx-proc -m $HOME/apertium-kaz-tur/kaz-tur.autolex.bin ") + inFilePath
-	  + string (" >") + outFilePath);
-}
-
-void
-CLExec::interchunk (string inFilePath, string outFilePath)
-{
-  exec (
-      string ("apertium-interchunk")
-	  + string (" $HOME/apertium-kaz-tur/apertium-kaz-tur.kaz-tur.t2x")
-	  + string (" $HOME/apertium-kaz-tur/kaz-tur.t2x.bin ") + inFilePath
-	  + string (" ") + outFilePath);
-}
-
-void
-CLExec::postchunk (string inFilePath, string outFilePath)
-{
-  exec (
-      string ("apertium-postchunk")
-	  + string (" $HOME/apertium-kaz-tur/apertium-kaz-tur.kaz-tur.t3x")
-	  + string (" $HOME/apertium-kaz-tur/kaz-tur.t3x.bin ") + inFilePath
-	  + string (" ") + outFilePath);
-}
-
-void
-CLExec::transfer (string inFilePath, string outFilePath)
-{
-  exec (
-      string ("apertium-transfer -n")
-	  + string (" $HOME/apertium-kaz-tur/apertium-kaz-tur.kaz-tur.t4x")
-	  + string (" $HOME/apertium-kaz-tur/kaz-tur.t4x.bin ") + inFilePath
-	  + string (" | lt-proc -g $HOME/apertium-kaz-tur/kaz-tur.autogen.bin")
-	  + string (" | lt-proc -p $HOME/apertium-kaz-tur/kaz-tur.autopgen.bin")
-	  + string (" >") + outFilePath);
-}
-
-
 vector<string>
 CLExec::getFilesInDir (string dir)
 {
