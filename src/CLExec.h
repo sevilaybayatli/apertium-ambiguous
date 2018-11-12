@@ -15,8 +15,7 @@ class CLExec
 {
 public:
 
-  static void
-  segmenter (string inFilePath, string outFilePath);
+ 
 
   static void
   lextor (string inFilePath, string outFilePath);
