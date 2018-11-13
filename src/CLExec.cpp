@@ -282,9 +282,9 @@ CLExec::beamSearch (
 	  for (unsigned y = 0; y < ambigRules[x].size (); y++)
 	    {
 	      xml_node rule = ambigRules[x][y];
-	      string ruleCmnt = rule.first_attribute ().value ();
+	      string ruleId = rule.first_attribute ().value ();
 
-	      rulesNums += ruleCmnt.substr (ruleCmnt.find_last_of ("-") + 1);
+	      rulesNums += ruleId.substr (ruleId.find_last_of ("") + 1);
 	      rulesNums += "_";
 
 	    }
