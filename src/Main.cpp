@@ -13,7 +13,7 @@
 #include <sys/time.h>
 #include <sstream>
 #include <pugixml.hpp>
-
+//#include "../pugixml/pugixml.hpp"
 #include "RuleParser.h"
 #include "RuleExecution.h"
 #include "TranElemLiterals.h"
@@ -33,21 +33,38 @@ main (int argc, char **argv)
       lextorFilePath = "lextor.txt", outputFilePath = "default.out", interInFilePath =
 	  "interchunkIn.txt", interOutFilePath = "interchunkOut.txt", postOutFilePath =
 	  "postchunkOut.txt", transferOutFilePath = "transferOut.txt", weightOutFilePath =
-	  "weightOut.txt", beamFilePath = "beamResults.txt";
+	  "weightOut.txt", beamFilePath = "beamResults";
 
-  if (argc > 2)
+  if (argc == 2)
+    {
+      inFilePath = argv[1];
+      cout << "Yasmet dataset mode (without output file)" << endl;
+    }
+
+  else if (argc == 3)
     {
       inFilePath = argv[1];
       outputFilePath = argv[2];
-      if (argc == 3)
-	cout << "Yasmet training mode" << endl;
-      else if (argc == 4)
-	cout << "Beam search mode" << endl;
+      cout << "Yasmet dataset mode (with output file)" << endl;
+    }
+
+  else if (argc >= 4)
+    {
+      inFilePath = argv[1];
+      outputFilePath = argv[2];
+
+//      if (string (argv[3]) == "0")
+//	cout << "Best model weight mode" << endl;
+//      else if (string (argv[3]) == "-1")
+//	cout << "Random mode" << endl;
+//      else
+      cout << "Beam search mode" << endl;
     }
   else
     {
-      cout << "Error!! Please pass at least two arguments , input and output." << endl;
-      return -1;
+//      cout << "Yasmet training models mode" << endl;
+//      CLExec::runYasmet ();
+      return 0;
     }
 
   cout << "Input file : " << inFilePath << endl;
@@ -288,16 +305,28 @@ main (int argc, char **argv)
 		weights.push_back (weight);
 		sum += weight;
 	      }
-	    for (unsigned j = 0; j < outs.size (); j++)
-	      {
-		weights[j] /= sum;
-	      }
+
+	    // to avoid nans
+	    if (sum == 0)
+	      for (unsigned j = 0; j < outs.size (); j++)
+		{
+		  weights[j] = 1 / outs.size ();
+		}
+
+	    else
+	      for (unsigned j = 0; j < outs.size (); j++)
+		{
+
+		  weights[j] /= sum;
+		}
 
 	    vweights[i] = weights;
 	  }
       else
 	cout << "error in opening weightOutFile" << endl;
       weightOutFile.close ();
+
+
 
       // prepare yasmet datasets
       if (argc == 3)
@@ -399,102 +428,192 @@ main (int argc, char **argv)
 	}
 
       // beamSearch
-      if (argc == 4)
+      if (argc >= 4)
 	{
 	  cout << "Beam search started" << endl;
 
-//	  CLExec::runYasmet ();
+	  //CLExec::runYasmet ();
 
 	  // load yasmet models data
 	  map<string, map<string, vector<float> > > classesWeights =
 	      CLExec::loadYasmetModels ();
 
-	  int beam;
-	  istringstream buffer (argv[3]);
-	  buffer >> beam;
-
-	  vector<pair<unsigned, float> > bestTransInds;
-
-	  for (unsigned i = 0; i < sourceSentences.size (); i++)
+	  for (int ind = 3; ind < argc; ind++)
 	    {
-	      vector<pair<vector<unsigned>, float> > beamTree;
-	      CLExec::beamSearch (&beamTree, beam, vslTokens[i], vambigInfo[i],
-				  classesWeights);
+	      int beam;
+	      istringstream buffer (argv[ind]);
+	      buffer >> beam;
 
-	      vector<pair<unsigned, float> > transInds;
-	      CLExec::getTransInds (&transInds, beamTree, vrulesIds[i]);
+	      vector<vector<pair<unsigned, float> > > bestTransInds;
 
-	      // Take the best translation index and weight only
-	      bestTransInds.push_back (transInds[0]);
+	      for (unsigned i = 0; i < sourceSentences.size (); i++)
+		{
+		  vector<pair<vector<unsigned>, float> > beamTree;
+		  CLExec::beamSearch (&beamTree, beam, vslTokens[i], vambigInfo[i],
+				      classesWeights);
+
+		  vector<pair<unsigned, float> > transInds;
+		  CLExec::getTransInds (&transInds, beamTree, vrulesIds[i]);
+
+		  // Take the best translation index and weight only
+		  bestTransInds.push_back (transInds);
+		}
+
+	      // write best translations to file
+	      ofstream beamFile ((beamFilePath + string (argv[ind])).c_str ());
+	      if (beamFile.is_open ())
+		{
+		  beamFile << "Beam search algorithm results with beam = " << beam
+		      << endl;
+		  beamFile
+		      << "-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-"
+		      << endl << endl << endl;
+		  for (unsigned i = 0; i < sourceSentences.size (); i++)
+		    {
+		      beamFile << (i + 1) << endl;
+		      beamFile << "Source : " << sourceSentences[i] << endl << endl;
+
+		      for (unsigned j = 0; j < bestTransInds[i].size (); j++)
+			{
+			  beamFile << "Target : "
+			      << vtransfers[i][bestTransInds[i][j].first] << endl;
+//			  if (bestTransInds[i][j].second == 0)
+//			    beamFile << "Weight : " << 1 << endl << endl;
+//			  else
+			  beamFile << "Weight : " << bestTransInds[i][j].second << endl
+			      << endl;
+			}
+		      beamFile << "--------------------------------------------------"
+			  << endl << endl;
+		    }
+		  beamFile.close ();
+		}
 	    }
+	  cout << "Beam search finished" << endl;
 
-	  // write best translations to file
-	  ofstream beamFile (beamFilePath.c_str ());
-	  if (beamFile.is_open ())
+	  // Model weighting
+	  string modelWeightFilePath = "modelWeight.txt";
+	  ofstream outputFile (modelWeightFilePath.c_str ());
+	  if (outputFile.is_open ())
 	    {
-	      beamFile << "Beam search algorithm results with beam = " << beam << endl;
-	      beamFile << "-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-"
+	      outputFile
+		  << "---------------------------------------------------------------------------------------------------------"
+		  << endl;
+	      outputFile << "Best sentences with model weighting" << endl;
+	      outputFile
+		  << "---------------------------------------------------------------------------------------------------------"
 		  << endl << endl << endl;
 	      for (unsigned i = 0; i < sourceSentences.size (); i++)
 		{
-		  beamFile << (i + 1) << endl;
-		  beamFile << "Source : " << sourceSentences[i] << endl;
-		  beamFile << "Target : " << vtransfers[i][bestTransInds[i].first]
-		      << endl;
-		  if (bestTransInds[i].second == 0)
-		    beamFile << "Weight : " << 1 << endl;
-		  else
-		    beamFile << "Weight : " << bestTransInds[i].second << endl;
-		  beamFile << "--------------------------------------------------" << endl
-		      << endl;
+		  outputFile << (i + 1) << endl;
+		  outputFile << "Source :  " << sourceSentences[i] << endl << endl;
+
+		  unsigned maxInd = 0;
+		  for (unsigned j = 1; j < vweights[i].size (); j++)
+		    {
+		      if (vweights[i][j] > vweights[i][maxInd])
+			maxInd = j;
+		    }
+
+		  // final sentence
+		  outputFile << "Target :  " << vtransfers[i][maxInd] << endl;
+		  // score
+		  outputFile << "Weight :  " << vweights[i][maxInd] << endl;
+		  // rules
+		  outputFile << "Rules :  ";
+		  for (unsigned k = 0; k < vrulesIds[i][maxInd].size (); k++)
+		    outputFile << vrulesIds[i][maxInd][k] << " ";
+
+		  outputFile << endl
+		      << "---------------------------------------------------------------------------------------------------------"
+		      << endl << endl << endl;
 		}
-	      beamFile.close ();
+	      outputFile.close ();
 	    }
 
-	  cout << "Beam search finished" << endl;
+	  // Random choosing
+	  string randomFilePath = "random.txt";
+	  ofstream randomFile (randomFilePath.c_str ());
+	  if (randomFile.is_open ())
+	    {
+	      randomFile
+		  << "---------------------------------------------------------------------------------------------------------"
+		  << endl;
+	      randomFile << "Random sentences" << endl;
+	      randomFile
+		  << "---------------------------------------------------------------------------------------------------------"
+		  << endl << endl << endl;
+	      for (unsigned i = 0; i < sourceSentences.size (); i++)
+		{
+		  gettimeofday (&stop, NULL);
+		  srand (stop.tv_usec);
+
+		  randomFile << (i + 1) << endl;
+		  randomFile << "Source :  " << sourceSentences[i] << endl << endl;
+
+		  int random = rand () % vweights[i].size ();
+
+		  // final sentence
+		  randomFile << "Target :  " << vtransfers[i][random] << endl;
+		  // score
+		  randomFile << "Weight :  " << vweights[i][random] << endl;
+		  // rules
+		  randomFile << "Rules :  ";
+		  for (unsigned k = 0; k < vrulesIds[i][random].size (); k++)
+		    randomFile << vrulesIds[i][random][k] << " ";
+
+		  randomFile << endl
+		      << "---------------------------------------------------------------------------------------------------------"
+		      << endl << endl << endl;
+		}
+	      randomFile.close ();
+	    }
 	}
 
       // Write sentence analysis
-      /*ofstream outputFile (outputFilePath.c_str ());
-       if (outputFile.is_open ())
-       {
-       for (unsigned i = 0; i < sourceSentences.size (); i++)
-       {
-       outputFile
-       << "---------------------------------------------------------------------------------------------------------"
-       << endl << endl;
-       outputFile << "Analysis of sentence : " << endl;
-       outputFile << sourceSentences[i] << endl << endl << endl;
+      if (argc >= 3)
+	{
+	  ofstream outputFile (outputFilePath.c_str ());
+	  if (outputFile.is_open ())
+	    {
+	      for (unsigned i = 0; i < sourceSentences.size (); i++)
+		{
+		  outputFile
+		      << "---------------------------------------------------------------------------------------------------------"
+		      << endl << endl;
+		  outputFile << "Analysis of sentence : " << endl;
+		  outputFile << sourceSentences[i] << endl << endl << endl;
 
-       outputFile << endl;
-       outputFile << "sentence id ||| coverage id ||| original sentence |||"
-       << " lextor ||| rules ||| chunker ||| final sentence ||| score" << endl
-       << endl;
+		  outputFile << endl;
+		  outputFile << "sentence id ||| coverage id ||| original sentence |||"
+		      << " lextor ||| rules ||| chunker ||| final sentence ||| score"
+		      << endl << endl;
 
-       for (unsigned j = 0; j < vweights[i].size (); j++)
-       {
-       // sentence id
-       outputFile << (i + 1) << " ||| ";
-       // coverage id
-       outputFile << (j + 1) << " ||| ";
-       // original sentence
-       outputFile << sourceSentences[i] << " ||| ";
-       // lextor
-       outputFile << tokenizedSentences[i] << " ||| ";
-       // rules
-       for (unsigned k = 0; k < vrulesIds[i][j].size (); k++)
-       outputFile << vrulesIds[i][j][k] << " ";
-       outputFile << "||| ";
-       // chuncker
-       outputFile << vouts[i][j] << " ||| ";
-       // final sentence
-       outputFile << vtransfers[i][j] << " ||| ";
-       // score
-       outputFile << vweights[i][j] << endl << endl;
-       }
-       }
-       outputFile.close ();
-       }*/
+		  for (unsigned j = 0; j < vweights[i].size (); j++)
+		    {
+		      // sentence id
+		      outputFile << (i + 1) << " ||| ";
+		      // coverage id
+		      outputFile << (j + 1) << " ||| ";
+		      // original sentence
+		      outputFile << sourceSentences[i] << " ||| ";
+		      // lextor
+		      outputFile << tokenizedSentences[i] << " ||| ";
+		      // rules
+		      for (unsigned k = 0; k < vrulesIds[i][j].size (); k++)
+			outputFile << vrulesIds[i][j][k] << " ";
+		      outputFile << "||| ";
+		      // chuncker
+		      outputFile << vouts[i][j] << " ||| ";
+		      // final sentence
+		      outputFile << vtransfers[i][j] << " ||| ";
+		      // score
+		      outputFile << vweights[i][j] << endl << endl;
+		    }
+		}
+	      outputFile.close ();
+	    }
+	}
     }
   else
     {
