@@ -1,3 +1,10 @@
+/*
+ * TranElemLiterals.h
+ *
+ *  Created on: May 5, 2018
+ *      Author: aboelhamd
+ */
+
 #ifndef SRC_TRANELEMLITERALS_H_
 #define SRC_TRANELEMLITERALS_H_
 
@@ -28,6 +35,7 @@ namespace elem
   const static char* AND = "and";
   const static char* EQUAL = "equal";
   const static char* RULE = "rule";
+  const static char* ID = "id";
   const static char* PATTERN = "pattern";
   const static char* PATTERN_ITEM = "pattern-item";
   const static char* SECTION_RULES = "section-rules";
