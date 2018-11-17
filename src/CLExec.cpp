@@ -1,3 +1,10 @@
+/*
+ * CLExec.cpp
+ *
+ *  Created on: Jun 21, 2018
+ *      Author: aboelhamd
+ */
+
 #include <iostream>
 #include <stdexcept>
 #include <stdio.h>
@@ -13,9 +20,13 @@
 #include <string.h>
 #include <algorithm>
 #include <cfloat>
+#include <unicode/unistr.h>
+#include <unicode/ustream.h>
+#include <unicode/locid.h>
 
 #include "CLExec.h"
 #include "TranElemLiterals.h"
+//#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
 
 using namespace std;
@@ -41,6 +52,78 @@ exec (string cmd)
   return data;
 }
 
+void
+CLExec::segmenter (string inFilePath, string outFilePath)
+{
+  // clear file before writing again
+  ofstream ofs;
+  ofs.open (outFilePath.c_str (), ofstream::out | ofstream::trunc);
+  exec (
+      string ("ruby2.3 kazSentenceTokenizer.rb ") + inFilePath + string (" ")
+	  + outFilePath);
+}
+
+void
+CLExec::biltrans (string inFilePath, string outFilePath)
+{
+  // clear file before writing again
+  ofstream ofs;
+  ofs.open (outFilePath.c_str (), ofstream::out | ofstream::trunc);
+  exec (
+      string ("apertium -d $HOME/apertium-kaz-tur kaz-tur-biltrans ") + inFilePath
+	  + string (" ") + outFilePath);
+}
+
+void
+CLExec::lextor (string inFilePath, string outFilePath)
+{
+  // clear file before writing again
+  ofstream ofs;
+  ofs.open (outFilePath.c_str (), ofstream::out | ofstream::trunc);
+  exec (
+      string ("lrx-proc -m $HOME/apertium-kaz-tur/kaz-tur.autolex.bin ") + inFilePath
+	  + string (" >") + outFilePath);
+}
+
+void
+CLExec::interchunk (string inFilePath, string outFilePath)
+{
+  exec (
+      string ("apertium-interchunk")
+	  + string (" $HOME/apertium-kaz-tur/apertium-kaz-tur.kaz-tur.t2x")
+	  + string (" $HOME/apertium-kaz-tur/kaz-tur.t2x.bin ") + inFilePath
+	  + string (" ") + outFilePath);
+}
+
+void
+CLExec::postchunk (string inFilePath, string outFilePath)
+{
+  exec (
+      string ("apertium-postchunk")
+	  + string (" $HOME/apertium-kaz-tur/apertium-kaz-tur.kaz-tur.t3x")
+	  + string (" $HOME/apertium-kaz-tur/kaz-tur.t3x.bin ") + inFilePath
+	  + string (" ") + outFilePath);
+}
+
+void
+CLExec::transfer (string inFilePath, string outFilePath)
+{
+  exec (
+      string ("apertium-transfer -n")
+	  + string (" $HOME/apertium-kaz-tur/apertium-kaz-tur.kaz-tur.t4x")
+	  + string (" $HOME/apertium-kaz-tur/kaz-tur.t4x.bin ") + inFilePath
+	  + string (" | lt-proc -g $HOME/apertium-kaz-tur/kaz-tur.autogen.bin")
+	  + string (" | lt-proc -p $HOME/apertium-kaz-tur/kaz-tur.autopgen.bin")
+	  + string (" >") + outFilePath);
+}
+
+void
+CLExec::assignWeights (string inFilePath, string outFilePath)
+{
+  exec (
+      (string ("python3 $HOME/NormaliseK/exampleken.py <") + string (inFilePath)
+	  + string (">") + string (outFilePath)).c_str ());
+}
 
 vector<string>
 CLExec::getFilesInDir (string dir)
@@ -64,21 +147,35 @@ CLExec::getFilesInDir (string dir)
   return files;
 }
 
+//void
+//CLExec::runYasmet ()
+//{
+//  vector<string> datasets = getFilesInDir (DATASETS);
+//
+//  for (unsigned i = 0; i < datasets.size (); i++)
+//    {
+//      string dataset = datasets[i];
+//
+//      exec (
+//	  (string ("./yasmet <") + DATASETS + string ("/") + dataset + string (">")
+//	      + MODELS + string ("/") + dataset + string (".model")).c_str ());
+//    }
+//}
 
 map<string, map<string, vector<float> > >
-CLExec::loadYasmetModels ()
+CLExec::loadYasmetModels (string modelsDest)
 {
   // mpa with key yasmet model name and the value is
   // another map with key word name and the value is
   // vector of weights in order
   map<string, map<string, vector<float> > > classWeights;
 
-  vector<string> models = CLExec::getFilesInDir (MODELS);
+  vector<string> models = CLExec::getFilesInDir (modelsDest);
 
   for (unsigned i = 0; i < models.size (); i++)
     {
       string model = models[i];
-      ifstream modelFile ((MODELS + string ("/") + model).c_str ());
+      ifstream modelFile ((modelsDest + string ("/") + model).c_str ());
 
       if (modelFile.is_open ())
 	{
@@ -144,109 +241,13 @@ CLExec::loadYasmetModels ()
   return classWeights;
 }
 
-void
-CLExec::handleDatasets ()
-{
-  string highLetters = "АӘБВГҒДЕЁЖЗИЙКҚЛМНҢОӨПРСТУҰҮФХҺЦЧШЩЪЫІЬЭЮЯ";
-  string lowLetters = "аәбвгғдеёжзийкқлмнңоөпрстуұүфхһцчшщъыіьэюя";
-
-  vector<string> datasets = getFilesInDir (DATASETS);
-
-  for (unsigned i = 0; i < datasets.size (); i++)
-    {
-      string dataset = datasets[i];
-      ifstream oldFile ((DATASETS + string ("/") + dataset).c_str ());
-      ofstream newFile ((DATASETS + string ("/") + dataset + string ("1")).c_str ());
-
-      if (oldFile.is_open () && newFile.is_open ())
-	{
-	  string line;
-
-	  // ignore first line
-	  getline (oldFile, line);
-	  newFile << line << endl;
-
-	  while (getline (oldFile, line))
-	    {
-	      for (unsigned i = 0; i < highLetters.size () - 1; i += 2)
-		{
-		  // letter is 2 chars not one
-		  string letter = highLetters.substr (i, 2);
-
-		  string::size_type pos = line.find (letter);
-		  if (pos != string::npos)
-		    {
-		      line[pos] = lowLetters[i];
-		      line[pos + 1] = lowLetters[i + 1];
-		      i++;
-		    }
-		}
-
-	      string num;
-	      for (unsigned i = 0; i < line.size (); i++)
-		{
-		  if (line[i] == '#')
-		    num = "0";
-		  else if (line[i] == ':')
-		    {
-		      line.insert (i, string ("_") + num);
-		      if (!num.compare ("0"))
-			num = "1";
-		      else
-			num = "2";
-		      i += 2;
-		    }
-		  else if (line[i] == ' ')
-		    {
-		      if (line[i + 1] != '#' && line[i - 1] != '#' && line[i - 1] != '0'
-			  && line[i - 1] != '1' && line[i - 1] != '2'
-			  && line[i - 1] != '3' && line[i - 1] != '4'
-			  && line[i - 1] != '5' && line[i + 1] != '$'
-			  && line[i - 1] != '$')
-			{
-			  line.replace (i, 1, "_");
-			}
-		    }
-		}
-
-	      newFile << line << endl;
-	    }
-	  // remove old file
-	  remove ((DATASETS + string ("/") + dataset).c_str ());
-	  // rename the new file
-	  rename ((DATASETS + string ("/") + dataset + string ("1")).c_str (),
-		  (DATASETS + string ("/") + dataset).c_str ());
-
-	  cout << "dataset : " << dataset << "   is finished" << endl;
-	}
-      else
-	{
-	  cout << "error in opening model file " << dataset << endl;
-	}
-    }
-}
-
 string
-CLExec::toLowerCase (string word)
+CLExec::toLowerCase (string word, string localeId)
 {
-  string highLetters = "АӘБВГҒДЕЁЖЗИЙКҚЛМНҢОӨПРСТУҰҮФХҺЦЧШЩЪЫІЬЭЮЯ";
-  string lowLetters = "аәбвгғдеёжзийкқлмнңоөпрстуұүфхһцчшщъыіьэюя";
-
-  for (unsigned i = 0; i < highLetters.size () - 1; i += 2)
-    {
-      // letter is 2 chars not one
-      string letter = highLetters.substr (i, 2);
-
-      string::size_type pos = word.find (letter);
-      if (pos != string::npos)
-	{
-	  word[pos] = lowLetters[i];
-	  word[pos + 1] = lowLetters[i + 1];
-	  i++;
-	}
-    }
-
-  return word;
+  icu::UnicodeString uString (word.c_str ());
+  string lowWord;
+  uString.toLower (localeId.c_str ()).toUTF8String (lowWord);
+  return lowWord;
 }
 
 // to sort translations from best to worth by their weight
@@ -262,9 +263,9 @@ CLExec::beamSearch (
     unsigned beam,
     vector<string> slTokens,
     vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > ambigInfo,
-    map<string, map<string, vector<float> > > classesWeights)
+    map<string, map<string, vector<float> > > classesWeights, string localeId)
 {
-  // initilaization
+  // Initialization
   (*beamTree).push_back (pair<vector<unsigned>, float> ());
 
   for (unsigned i = 0; i < ambigInfo.size (); i++)
@@ -281,10 +282,7 @@ CLExec::beamSearch (
 	{
 	  for (unsigned y = 0; y < ambigRules[x].size (); y++)
 	    {
-	      xml_node rule = ambigRules[x][y];
-	      string ruleId = rule.first_attribute ().value ();
-
-	      rulesNums += ruleId.substr (ruleId.find_last_of ("") + 1);
+	      rulesNums += ambigRules[x][y].attribute (ID).value ();
 	      rulesNums += "_";
 
 	    }
@@ -306,10 +304,7 @@ CLExec::beamSearch (
 	{
 	  for (unsigned y = 0; y < ambigRules[z].size (); y++)
 	    {
-	      string ruleCmnt = ambigRules[z][y].first_attribute ().value ();
-	      newTree[z].first.push_back (
-		  atoi (ruleCmnt.substr (ruleCmnt.find_last_of ("-") + 1).c_str ()));
-
+	      newTree[z].first.push_back (ambigRules[z][y].attribute (ID).as_int ());
 	    }
 	}
 
@@ -334,7 +329,7 @@ CLExec::beamSearch (
 	    if (slTokens[x][t] == ' ')
 	      slTokens[x].replace (t, 1, "_");
 
-	  string word = toLowerCase (slTokens[x]) + num;
+	  string word = toLowerCase (slTokens[x], localeId) + num;
 	  vector<float> wordWeights = classWeights[word];
 
 	  // put weights
