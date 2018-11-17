@@ -1,3 +1,10 @@
+/*
+ * RuleExecution.cpp
+ *
+ *  Created on: May 5, 2018
+ *      Author: aboelhamd
+ */
+
 #include <string>
 #include <map>
 #include <vector>
@@ -6,7 +13,8 @@
 #include <stdlib.h>
 #include <algorithm>
 
-#include "pugixml.hpp"
+//#include "../pugixml/pugixml.hpp"
+#include <pugixml.hpp>
 #include "TranElemLiterals.h"
 
 using namespace std;
@@ -143,11 +151,8 @@ ruleVectorToIds (vector<vector<vector<xml_node> > > vOutRules)
 	{
 	  for (unsigned k = 0; k < vOutRules[i][j].size (); k++)
 	    {
-	      string outRule = vOutRules[i][j][k].first_attribute ().value ();
-
 	      // we want the id only (after the last '-')
-	      output.push_back (
-		  atoi (outRule.substr (outRule.find_last_of ("-") + 1).c_str ()));
+	      output.push_back (vOutRules[i][j][k].attribute (ID).as_int ());
 	    }
 	}
 
