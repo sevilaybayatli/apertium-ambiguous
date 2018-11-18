@@ -1,10 +1,3 @@
-/*
- * RuleExecution.cpp
- *
- *  Created on: May 5, 2018
- *      Author: aboelhamd
- */
-
 #include <string>
 #include <map>
 #include <vector>
