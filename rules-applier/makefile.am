@@ -1,6 +1,6 @@
 
 h_sources = CLExec.h RuleExecution.h RuleParser.h TranElemLiterals.h 
-cc_sources = CLExec.cpp RuleExecution.cpp RuleParser.cpp RulesApplier.cpp BeamSearch.cpp
+cc_sources = CLExec.cpp RuleExecution.cpp RuleParser.cpp RulesApplier.cpp RulesApplier.cpp
 
 #library_include_HEADERS = $(h_sources)
 
