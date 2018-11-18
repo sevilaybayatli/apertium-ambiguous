@@ -1,4 +1,3 @@
-import os
 import sys
 import kenlm
 
@@ -13,8 +12,7 @@ LM = sys.argv[1]
 
 model = kenlm.LanguageModel(sys.argv[1])
 
-#print("Splitting finished")
-
-#Score each sentences in stdin
+#Score each sentence in stdin
 for line in sys.stdin:
-	print ('%.4f' % model.score(line))
+	line = line.strip('\n')
+	print ('%.4f\t%s' % (model.score(line), line))
