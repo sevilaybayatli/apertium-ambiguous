@@ -43,6 +43,7 @@ main (int argc, char **argv)
     }
   else
     {
+      cout << "beam-search [localeId] [sentenceFilePath] [lextorFilePath] [transferOutFilePath] [modelsDest]" << endl;
       cout << "Error in parameters !" << endl;
       return -1;
     }
