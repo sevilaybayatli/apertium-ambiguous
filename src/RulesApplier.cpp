@@ -37,6 +37,7 @@ main (int argc, char **argv)
     }
   else
     {
+      cout << "USAGE: rules-applier sentenceFile lextorFile transferOutputFile" << endl;
       cout << "Error in parameters !" << endl;
       return -1;
     }

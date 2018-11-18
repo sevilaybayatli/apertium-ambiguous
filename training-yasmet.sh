@@ -13,7 +13,7 @@ pairCode=$3;
 # 4) apertium pair parent directory path. If it's in your home directory then we expect $HOME. 
 pairPar=$4;
 
-# 5) model weight program path.
+# 5) model weight program path. (e.g. score-sentences.py)
 modelWeight=$5;
 
 # 6) ICU locale ID for the source language. For Kazakh => kk-KZ
@@ -24,6 +24,9 @@ outputFile=$7;
 
 # 8) Folder name that will contain the yasmet datasets.
 datasets=$8;
+
+# 9) Language model
+LM=$9
 
 # Break corpus into sentences using the ruby program sentenceTokenizer.rb built on the pragmatic segmenter
 ruby2.3 sentenceTokenizer.rb $langCode $inputFile sentences.txt;
@@ -47,7 +50,7 @@ apertium-postchunk $pairPar/apertium-$pairCode/apertium-$pairCode.$pairCode.t3x 
 apertium-transfer -n $pairPar/apertium-$pairCode/apertium-$pairCode.$pairCode.t4x $pairPar/apertium-$pairCode/$pairCode.t4x.bin postchunk.txt | lt-proc -g $pairPar/apertium-$pairCode/$pairCode.autogen.bin | lt-proc -p $pairPar/apertium-$pairCode/$pairCode.autopgen.bin > transfer.txt;
 
 # Run model weight program on the transfer file
-python3 $modelWeight < transfer.txt > weights.txt;
+python3 $modelWeight $LM < transfer.txt > weights.txt;
 
 # Run yasmet formatter to prepare yasmet datasets. Also this will generate the analysis output file , beside the best model weighting translations -in file 'modelWeight.txt'- and random translations -in file 'randomWeight.txt'-
 ./yasmet-formatter $localeId sentences.txt lextor.txt transfer.txt weights.txt $outputFile $datasets;
