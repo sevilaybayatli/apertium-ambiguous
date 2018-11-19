@@ -27,17 +27,18 @@ using namespace elem;
 int
 main (int argc, char **argv)
 {
-  string sentenceFilePath, lextorFilePath, interInFilePath;
+  string sentenceFilePath, lextorFilePath, interInFilePath, transferRules;
 
-  if (argc == 4)
+  if (argc == 5)
     {
-      sentenceFilePath = argv[1];
-      lextorFilePath = argv[2];
-      interInFilePath = argv[3];
+      transferRules = argv[1];
+      sentenceFilePath = argv[2];
+      lextorFilePath = argv[3];
+      interInFilePath = argv[4];
     }
   else
     {
-      cout << "USAGE: rules-applier sentenceFile lextorFile transferOutputFile" << endl;
+      cout << "USAGE: rules-applier transferRules.t1x sentenceFile lextorFile transferOutputFile" << endl;
       cout << "Error in parameters !" << endl;
       return -1;
     }
@@ -49,7 +50,7 @@ main (int argc, char **argv)
     {
       // load transfer file in an xml document object
       xml_document transferDoc;
-      xml_parse_result result = transferDoc.load_file ("transferFile.t1x");
+      xml_parse_result result = transferDoc.load_file (transferRules.c_str());
 
       if (string (result.description ()) != "No error")
 	{
