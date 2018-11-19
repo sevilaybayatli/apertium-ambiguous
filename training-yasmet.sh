@@ -43,10 +43,12 @@ lrx-proc -m $pairPar/apertium-$pairCode/$pairCode.autolex.bin biltrans.txt > lex
 # Apply the apertium tool interchunk on the rulesOut file
 apertium-interchunk $pairPar/apertium-$pairCode/apertium-$pairCode.$pairCode.t2x $pairPar/apertium-$pairCode/$pairCode.t2x.bin rulesOut.txt interchunk.txt;
 
-# Apply the apertium tool postchunk on the interchunck file
+# Apply the apertium tool postchunk on the interchunk file
 apertium-postchunk $pairPar/apertium-$pairCode/apertium-$pairCode.$pairCode.t3x $pairPar/apertium-$pairCode/$pairCode.t3x.bin interchunk.txt postchunk.txt;
 
-# Apply the apertium tool transfer on the postchunck file
+# Apply the apertium tool transfer on the postchunk file
+# INPUT: Outputof the postchunk module
+# OUTPUT: Morphologically generated sentences in the target language
 apertium-transfer -n $pairPar/apertium-$pairCode/apertium-$pairCode.$pairCode.t4x $pairPar/apertium-$pairCode/$pairCode.t4x.bin postchunk.txt | lt-proc -g $pairPar/apertium-$pairCode/$pairCode.autogen.bin | lt-proc -p $pairPar/apertium-$pairCode/$pairCode.autopgen.bin > transfer.txt;
 
 # Run model weight program on the transfer file
