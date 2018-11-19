@@ -63,6 +63,8 @@ main (int argc, char **argv)
 
       vector<string> sourceSentences, tokenizedSentences;
 
+      cerr << "Reading sentences... " ;
+
       string tokenizedSentence;
       while (getline (lextorFile, tokenizedSentence))
 	{
@@ -85,8 +87,14 @@ main (int argc, char **argv)
 	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > > vambigInfo;
       vector<vector<vector<unsigned> > > vweigInds;
 
+      cerr << "done." << endl;
+      cerr << "Calculating rule coverages for " << sourceSentences.size () << " sentences...";
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
+          if (i % 100 == 0) 
+            {
+               cerr << ".";
+            }
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
 	  tokenizedSentence = tokenizedSentences[i];
@@ -152,7 +160,7 @@ main (int argc, char **argv)
 	  vambigInfo.push_back (ambigInfo);
 	  vweigInds.push_back (weigInds);
 	}
-
+       cerr << "done" << endl;
       ofstream interInFile (interInFilePath.c_str ());
       if (interInFile.is_open ())
 	for (unsigned i = 0; i < sourceSentences.size (); i++)
