@@ -1,18 +1,25 @@
+import os
 import sys
+import re
 import kenlm
+import multiprocessing as mp
+
+# Read sentences from file into text
+text = sys.stdin.read()
+
+#print("Loding model started")
 
 # Load the language model
-#LM = os.path.join(os.path.dirname('/home/sevilay/apertium-kaz-tur-mt/scripts/training.klm'), '..', 'scripts', 'training.klm')
+LM = os.path.join(os.path.dirname('/home/sevilay/apertium-kaz-tur-mt/scripts/text.binary'), '..', 'scripts', 'text.binary')
+model = kenlm.LanguageModel(LM)
 
-if len(sys.argv) != 2:
-	print('Usage: score-sentences.py <language model>');
-	sys.exit(-1)
+#print("Loding model finished")
 
-LM = sys.argv[1]
+# Split the text into sentences
+regex = re.compile('\n')
+sentences = regex.split(text)
 
-model = kenlm.LanguageModel(sys.argv[1])
+#print("Splitting finished")
 
-#Score each sentence in stdin
-for line in sys.stdin:
-	line = line.strip('\n')
-	print ('%.4f\t%s' % (model.score(line), line))
+for i in range (len(sentences)-1):
+	print ('%.4f' % model.score(sentences[i]))
