@@ -5,7 +5,6 @@
 #include <vector>
 
 //#include "../pugixml/pugixml.hpp"
-#include "pugixml.hpp"
 
 using namespace std;
 using namespace pugi;
@@ -49,6 +48,18 @@ public:
 
   static string
   toLowerCase (string word, string localeId);
+
+  static string
+  toUpperCase (string word, string localeId);
+
+  static string
+  FirLetUpperCase (string word, string localeId);
+
+  static int
+  compare (string word1, string word2);
+
+  static int
+  compareCaseless (string word1, string word2, string localeId);
 
   static void
   beamSearch (
