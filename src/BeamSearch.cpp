@@ -15,6 +15,7 @@
 #include <sstream>
 
 //#include "../pugixml/pugixml.hpp"
+#include "pugixml.hpp"
 #include "RuleParser.h"
 #include "RuleExecution.h"
 #include "TranElemLiterals.h"
