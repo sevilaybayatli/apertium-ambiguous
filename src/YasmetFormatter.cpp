@@ -29,17 +29,19 @@ main (int argc, char **argv)
 {
   string sentenceFilePath = "sentences.txt", lextorFilePath = "lextor.txt",
       transferOutFilePath = "transfer.txt", weightOutFilePath = "weights.txt",
-      outputFilePath = "output.txt", localeId = "kk_KZ", datasetsPath = "datasets";
+      outputFilePath = "output.txt", localeId = "kk_KZ", tranferFilePath =
+	  "transferFile.tx1", datasetsPath = "datasets";
 
-  if (argc == 8)
+  if (argc == 9)
     {
       localeId = argv[1];
-      sentenceFilePath = argv[2];
-      lextorFilePath = argv[3];
-      transferOutFilePath = argv[4];
-      weightOutFilePath = argv[5];
-      outputFilePath = argv[6];
-      datasetsPath = argv[7];
+      tranferFilePath = argv[2];
+      sentenceFilePath = argv[3];
+      lextorFilePath = argv[4];
+      transferOutFilePath = argv[5];
+      weightOutFilePath = argv[6];
+      outputFilePath = argv[7];
+      datasetsPath = argv[8];
     }
   else
     {
@@ -51,10 +53,9 @@ main (int argc, char **argv)
   ifstream inSentenceFile (sentenceFilePath.c_str ());
   if (lextorFile.is_open () && inSentenceFile.is_open ())
     {
-
       // load transfer file in an xml document object
       xml_document transferDoc;
-      xml_parse_result result = transferDoc.load_file ("transferFile.t1x");
+      xml_parse_result result = transferDoc.load_file (tranferFilePath.c_str ());
 
       if (string (result.description ()) != "No error")
 	{
@@ -89,8 +90,13 @@ main (int argc, char **argv)
 	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > > vambigInfo;
       vector<vector<vector<unsigned> > > vweigInds;
 
+      map<string, vector<vector<string> > > attrs = RuleParser::getAttrs (transfer);
+      map<string, string> vars = RuleParser::getVars (transfer);
+      map<string, vector<string> > lists = RuleParser::getLists (transfer);
+
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
+	  //	  cout << i << endl;
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
 	  tokenizedSentence = tokenizedSentences[i];
@@ -117,8 +123,6 @@ main (int argc, char **argv)
 
 	  RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
 
-	  map<string, vector<vector<string> > > attrs = RuleParser::getAttrs (transfer);
-
 	  // rule and (target) token map to specific output
 	  // if rule has many patterns we will choose the first token only
 	  map<xml_node, map<int, vector<string> > > ruleOutputs;
@@ -126,8 +130,9 @@ main (int argc, char **argv)
 	  // map (target) token to all matched rules and the number of pattern items of each rule
 	  map<int, vector<pair<xml_node, unsigned> > > tokenRules;
 
-	  RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, tlTokens, tlTags,
-				   rulesApplied, attrs);
+	  RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags, tlTokens,
+				   tlTags, rulesApplied, attrs, lists, &vars, spaces,
+				   localeId);
 
 	  // final outs and their applied rules
 	  vector<string> outs;
@@ -219,7 +224,7 @@ main (int argc, char **argv)
       weightOutFile.close ();
 
       // Yasmet format preparing
-      mkdir (datasetsPath.c_str(), S_IRWXU | S_IRWXG | S_IROTH | S_IXOTH);
+      mkdir (datasetsPath.c_str (), S_IRWXU | S_IRWXG | S_IROTH | S_IXOTH);
 
       for (unsigned g = 0; g < sourceSentences.size (); g++)
 	{
