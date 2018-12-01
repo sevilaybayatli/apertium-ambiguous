@@ -4,9 +4,8 @@
 #include <iostream>
 #include <algorithm>
 #include <string.h>
-
-//#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
+//#include "../pugixml/pugixml.hpp"
 #include "TranElemLiterals.h"
 
 using namespace std;
@@ -293,4 +292,40 @@ RuleParser::getAttrs (xml_node transfer)
     }
 
   return attrs;
+}
+
+map<string, string>
+RuleParser::getVars (xml_node transfer)
+{
+  map<string, string> vars;
+
+  xml_node section_def_vars = transfer.child (SECTION_DEF_VARS);
+  for (xml_node def_var = section_def_vars.child (DEF_VAR); def_var;
+      def_var = def_var.next_sibling ())
+    {
+      vars[def_var.attribute (N).value ()] = def_var.attribute (V).value ();
+    }
+
+  return vars;
+}
+
+map<string, vector<string> >
+RuleParser::getLists (xml_node transfer)
+{
+  map<string, vector<string> > lists;
+
+  xml_node section_def_lists = transfer.child (SECTION_DEF_LISTS);
+  for (xml_node def_list = section_def_lists.child (DEF_LIST); def_list; def_list =
+      def_list.next_sibling ())
+    {
+      vector<string> list;
+      for (xml_node list_item = def_list.child (LIST_ITEM); list_item; list_item =
+	  list_item.next_sibling ())
+	{
+	  list.push_back (list_item.attribute (V).value ());
+	}
+      lists[def_list.attribute (N).value ()] = list;
+    }
+
+  return lists;
 }
