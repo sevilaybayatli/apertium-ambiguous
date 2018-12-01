@@ -1,8 +1,7 @@
 #ifndef SRC_RULEPARSER_H_
 #define SRC_RULEPARSER_H_
-
-//#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
+//#include "../pugixml/pugixml.hpp"
 
 using namespace std;
 using namespace pugi;
@@ -25,6 +24,12 @@ public:
 
   static map<string, vector<vector<string> > >
   getAttrs (xml_node transfer);
+
+  static map<string, string>
+  getVars (xml_node transfer);
+
+  static map<string, vector<string> >
+  getLists (xml_node transfer);
 };
 
 #endif /* SRC_RULEPARSER_H_ */
