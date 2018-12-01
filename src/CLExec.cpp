@@ -20,7 +20,6 @@
 #include "CLExec.h"
 #include "TranElemLiterals.h"
 //#include "../pugixml/pugixml.hpp"
-#include "pugixml.hpp"
 
 using namespace std;
 using namespace pugi;
@@ -241,6 +240,52 @@ CLExec::toLowerCase (string word, string localeId)
   string lowWord;
   uString.toLower (localeId.c_str ()).toUTF8String (lowWord);
   return lowWord;
+}
+
+string
+CLExec::toUpperCase (string word, string localeId)
+{
+  icu::UnicodeString uString (word.c_str ());
+  string upWord;
+  uString.toUpper (localeId.c_str ()).toUTF8String (upWord);
+  return upWord;
+}
+
+string
+CLExec::FirLetUpperCase (string word, string localeId)
+{
+  icu::UnicodeString uString (word.c_str ());
+  uString.toLower (localeId.c_str ());
+  uString.setCharAt (
+      0, icu::UnicodeString (uString.charAt (0)).toUpper (localeId.c_str ()).charAt (0));
+
+  string upWord;
+  uString.toUTF8String (upWord);
+  return upWord;
+}
+
+// The result of bitwise character comparison: 0 if this contains
+// the same characters as text, -1 if the characters in this are
+// bitwise less than the characters in text, +1 if the characters
+// in this are bitwise greater than the characters in text.
+int
+CLExec::compare (string word1, string word2)
+{
+  icu::UnicodeString uString1 (word1.c_str ());
+  icu::UnicodeString uString2 (word2.c_str ());
+
+  return uString1.compare (uString2);
+}
+
+int
+CLExec::compareCaseless (string word1, string word2, string localeId)
+{
+  icu::UnicodeString uString1 (word1.c_str ());
+  uString1.toLower (localeId.c_str ());
+  icu::UnicodeString uString2 (word2.c_str ());
+  uString2.toLower (localeId.c_str ());
+
+  return uString1.compare (uString2);
 }
 
 // to sort translations from best to worth by their weight
