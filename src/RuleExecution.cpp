@@ -5,10 +5,10 @@
 #include <string.h>
 #include <stdlib.h>
 #include <algorithm>
-
-//#include "../pugixml/pugixml.hpp"
 #include <pugixml.hpp>
+//#include "../pugixml/pugixml.hpp"
 #include "TranElemLiterals.h"
+#include "CLExec.h"
 
 using namespace std;
 using namespace pugi;
@@ -87,11 +87,9 @@ nestedRules (vector<string> tlTokens, vector<string> output,
       if (patNum <= curPatNum)
 	{
 	  vector<xml_node> newCurNestedRules = vector<xml_node> (curNestedRules);
-//	  newCurNestedRules.insert (newCurNestedRules.end (), output.begin (), output.end ());
 	  newCurNestedRules.push_back (rule);
 
 	  vector<string> newOutput = vector<string> (output);
-//	  newOutput.insert (newOutput.end (), output.begin (), output.end ());
 
 	  vector<string> ruleOut = ruleOuts[rule][curTokIndex];
 
@@ -159,8 +157,6 @@ vector<vector<vector<xml_node> > >
 putRules (vector<vector<vector<xml_node> > > outsRules,
 	  vector<vector<xml_node> > nestedOutsRules)
 {
-//  cout << endl << "nestedoutsRules size : " << nestedOutsRules.size () << endl;
-
   vector<vector<vector<xml_node> > > newRules;
 
   for (unsigned i = 0; i < outsRules.size (); i++)
@@ -259,7 +255,6 @@ RuleExecution::weightIndices (
     {
       pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > p1 =
 	  ambigInfo[i];
-//      pair<unsigned, unsigned> p2 = p1.first;
       vector<vector<xml_node> > ambigRules = p1.second.second;
       unsigned rulePos = p1.second.first;
 
@@ -292,8 +287,6 @@ RuleExecution::weightIndices (
 		weigInd.push_back (z);
 	    }
 	  weigInds->push_back (weigInd);
-//	  for (unsigned m = 0; m < weigInd.size (); m++)
-//	    cout << weigInd[m] << " , ";
 	}
     }
 
@@ -318,13 +311,13 @@ pushDistinct (map<int, vector<pair<xml_node, unsigned> > >* tokenRules, int tlTo
 void
 RuleExecution::ruleOuts (map<xml_node, map<int, vector<string> > >* ruleOuts,
 			 map<int, vector<pair<xml_node, unsigned> > >* tokenRules,
-			 vector<string> tlTokens, vector<vector<string> > tags,
+			 vector<string> slTokens, vector<vector<string> > slTags,
+			 vector<string> tlTokens, vector<vector<string> > tlTags,
 			 map<xml_node, vector<vector<int> > > rulesApplied,
-			 map<string, vector<vector<string> > > attrs)
+			 map<string, vector<vector<string> > > attrs,
+			 map<string, vector<string> > lists, map<string, string>* vars,
+			 vector<string> spaces, string localeId)
 {
-
-//  cout << "Sizes  " << slTokenRule.size () << "  " << tlTokenRule.size () << "  "
-//      << slTokenTag.size () << "  " << tlTokenTag.size () << endl;
 
   for (map<xml_node, vector<vector<int> > >::iterator it = rulesApplied.begin ();
       it != rulesApplied.end (); ++it)
@@ -332,149 +325,194 @@ RuleExecution::ruleOuts (map<xml_node, map<int, vector<string> > >* ruleOuts,
       xml_node rule = it->first;
       for (unsigned i = 0; i < rulesApplied[rule].size (); i++)
 	{
-	  vector<vector<string> > tlAnalysisTokens;
+	  vector<vector<string> > slAnalysisTokens, tlAnalysisTokens;
 
 	  // format tokens and their tags into analysisTokens
 
-	  vector<int> tlMatchedTokens = rulesApplied[rule][i];
+	  vector<int> matchedTokens = rulesApplied[rule][i];
 
-	  for (unsigned j = 0; j < tlMatchedTokens.size (); j++)
+	  for (unsigned j = 0; j < matchedTokens.size (); j++)
 	    {
-//	      cout << "HERE1  " << endl;
-	      int tlTokInd = tlMatchedTokens[j];
+	      int tokInd = matchedTokens[j];
+
+	      vector<string> slAnalysisToken = RuleExecution::formatTokenTags (
+		  slTokens[tokInd], slTags[tokInd]);
+
+	      slAnalysisTokens.push_back (slAnalysisToken);
 
 	      vector<string> tlAnalysisToken = RuleExecution::formatTokenTags (
-		  tlTokens[tlTokInd], tags[tlTokInd]);
+		  tlTokens[tokInd], tlTags[tokInd]);
 
 	      tlAnalysisTokens.push_back (tlAnalysisToken);
 
 	      // insert the rule (if not found) then sort the vector
-	      pushDistinct (tokenRules, tlTokInd, rule, tlMatchedTokens.size ());
-//	      cout << "HERE2  " << endl;
+	      pushDistinct (tokenRules, tokInd, rule, matchedTokens.size ());
 	    }
 
-//	  cout << "HERE3  " << endl;
+	  vector<string> output = RuleExecution::ruleExe (rule, &slAnalysisTokens,
+							  &tlAnalysisTokens, attrs, lists,
+							  vars, spaces, matchedTokens[0],
+							  localeId); // first pattern index
 
-	  vector<string> output = RuleExecution::ruleExe (rule, &tlAnalysisTokens, attrs);
-
-	  //	  cout << "rule :  " << rule.first_attribute ().value () << endl;
-//	  for (unsigned x = 0; x < output.size (); x++)
-//	    {
-//	      cout << output[x];
-//	    }
-//	  cout << endl;
-
-	  (*ruleOuts)[rule][tlMatchedTokens[0]] = output;
+	  (*ruleOuts)[rule][matchedTokens[0]] = output;
 	}
     }
 
 }
 
 vector<string>
-RuleExecution::ruleExe (xml_node rule, vector<vector<string> >* tlAnalysisTokens,
-			map<string, vector<vector<string> > > attrs)
+RuleExecution::ruleExe (xml_node rule, vector<vector<string> >* slAnalysisTokens,
+			vector<vector<string> >* tlAnalysisTokens,
+			map<string, vector<vector<string> > > attrs,
+			map<string, vector<string> > lists, map<string, string>* vars,
+			vector<string> spaces, unsigned firPat, string localeId)
 {
   vector<string> output;
 
-//  cout << "Before execution" << endl;
-//  for (unsigned i = 0; i < tlAnalysisTokens->size (); i++)
-//    {
-//      for (unsigned j = 0; j < (*tlAnalysisTokens)[i].size (); j++)
-//	{
-//	  cout << (*tlAnalysisTokens)[i][j] << "  ";
-//	}
-//      cout << endl;
-//    }
+  map<unsigned, unsigned> paramToPattern = map<unsigned, unsigned> ();
 
-  for (xml_node node = rule.child (ACTION).first_child (); node; node =
-      node.next_sibling ())
+  for (xml_node child = rule.child (ACTION).first_child (); child;
+      child = child.next_sibling ())
     {
+      vector<string> result;
 
-      string nodeName = node.name ();
-      if (nodeName == LET)
+      string childName = child.name ();
+      if (childName == LET)
 	{
-//	  cout << "HERE4  " << rule.first_attribute ().value () << endl;
-	  letAction (node, tlAnalysisTokens, attrs);
-//	  cout << "HERE5  " << endl;
+	  let (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces, firPat,
+	       localeId, paramToPattern);
 	}
-      else if (nodeName == CHOOSE)
+      else if (childName == CHOOSE)
 	{
-	  chooseAction (node, tlAnalysisTokens, attrs);
+	  result = choose (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			   spaces, firPat, localeId, paramToPattern);
 	}
-      else if (nodeName == CALL_MACRO)
+      else if (childName == CALL_MACRO)
 	{
-	  macroAction (node, tlAnalysisTokens, attrs);
+	  result = callMacro (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists,
+			      vars, spaces, firPat, localeId, paramToPattern);
 	}
-      else if (nodeName == OUT)
+      else if (childName == OUT)
 	{
-	  output = outAction (node, tlAnalysisTokens, attrs);
+	  result = out (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			firPat, localeId, paramToPattern);
 	}
 
+      else if (childName == MODIFY_CASE)
+	modifyCase (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+		    firPat, localeId, paramToPattern);
+
+      else if (childName == APPEND)
+	append (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces, firPat,
+		localeId, paramToPattern);
+
+      output.insert (output.end (), result.begin (), result.end ());
     }
-
-//  cout << "After execution" << endl;
-//  for (unsigned i = 0; i < tlAnalysisTokens->size (); i++)
-//    {
-//      for (unsigned j = 0; j < (*tlAnalysisTokens)[i].size (); j++)
-//	{
-//	  cout << (*tlAnalysisTokens)[i][j] << "  ";
-//	}
-//      cout << endl;
-//    }
 
   return output;
 }
 
 vector<string>
-RuleExecution::outAction (xml_node out, vector<vector<string> >* tlAnalysisTokens,
-			  map<string, vector<vector<string> > > attrs)
+RuleExecution::out (xml_node out, vector<vector<string> >* slAnalysisTokens,
+		    vector<vector<string> >* tlAnalysisTokens,
+		    map<string, vector<vector<string> > > attrs,
+		    map<string, string>* vars, vector<string> spaces, unsigned firPat,
+		    string localeId, map<unsigned, unsigned> paramToPattern)
 {
   vector<string> output;
+
+  for (xml_node child = out.first_child (); child; child = child.next_sibling ())
+    {
+      vector<string> result;
+
+      string childName = child.name ();
+      if (childName == B)
+	{
+	  result.push_back (b (child, spaces, firPat, localeId, paramToPattern));
+	}
+      else if (childName == CHUNK)
+	{
+	  result = chunk (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			  firPat, localeId, paramToPattern);
+	}
+
+      output.insert (output.end (), result.begin (), result.end ());
+    }
+
+  return output;
+}
+
+vector<string>
+RuleExecution::chunk (xml_node chunkNode, vector<vector<string> >* slAnalysisTokens,
+		      vector<vector<string> >* tlAnalysisTokens,
+		      map<string, vector<vector<string> > > attrs,
+		      map<string, string>* vars, vector<string> spaces, unsigned firPat,
+		      string localeId, map<unsigned, unsigned> paramToPattern)
+{
+  vector<string> output;
+
   output.push_back ("^");
 
-  // there is only one chunk
-  xml_node chunk = out.child (CHUNK);
-  output.push_back (chunk.attribute (NAME).value ());
+  string name = chunkNode.attribute (NAME).value ();
+  if (name.empty ())
+    {
+      string varName = chunkNode.attribute (NAME_FROM).value ();
+      name = (*vars)[varName];
+    }
 
-  // there is only one tags
-  xml_node tags = chunk.child (TAGS);
+  output.push_back (name);
+
+  // tags element must be first item
+  xml_node tags = chunkNode.child (TAGS);
   for (xml_node tag = tags.child (TAG); tag; tag = tag.next_sibling ())
     {
-      vector<string> litTag = litTagAction (tag.first_child ());
-      output.insert (output.end (), litTag.begin (), litTag.end ());
+      vector<string> result;
+
+      xml_node child = tag.first_child ();
+      string childName = child.name ();
+      if (childName == CLIP)
+	result = clip (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+		       firPat, localeId, paramToPattern);
+      else if (childName == LIT_TAG)
+	result = litTag (child);
+
+      output.insert (output.end (), result.begin (), result.end ());
     }
 
   output.push_back ("{");
 
-  if (tags.next_sibling (MLU))
+  for (xml_node child = tags.next_sibling (); child; child = child.next_sibling ())
     {
-      xml_node mlu = tags.next_sibling (MLU);
-
-      for (xml_node lu = mlu.child (LU); lu; lu = lu.next_sibling ())
+      string childName = child.name ();
+      if (childName == LU)
 	{
-	  vector<string> luResult = concat (lu, tlAnalysisTokens, attrs);
+	  // lu is the same as concat
+	  vector<string> result = concat (child, slAnalysisTokens, tlAnalysisTokens,
+					  attrs, vars, spaces, firPat, localeId,
+					  paramToPattern);
 	  output.push_back ("^");
-	  output.insert (output.end (), luResult.begin (), luResult.end ());
-	  output.push_back ("$");
-
-	  if (lu.next_sibling ())
-	    output.push_back ("+");
-	}
-    }
-
-  for (xml_node node = tags.next_sibling (); node; node = node.next_sibling ())
-    {
-      string nodeName = node.name ();
-      if (nodeName == LU)
-	{
-	  vector<string> luResult = concat (node, tlAnalysisTokens, attrs);
-	  output.push_back ("^");
-	  output.insert (output.end (), luResult.begin (), luResult.end ());
+	  output.insert (output.end (), result.begin (), result.end ());
 	  output.push_back ("$");
 	}
-      else if (nodeName == B)
+      else if (childName == MLU)
 	{
-	  output.push_back (" ");
+	  // has only lu children
+	  for (xml_node lu = child.first_child (); lu; lu = lu.next_sibling ())
+	    {
+	      vector<string> result = concat (lu, slAnalysisTokens, tlAnalysisTokens,
+					      attrs, vars, spaces, firPat, localeId,
+					      paramToPattern);
+	      output.push_back ("^");
+	      output.insert (output.end (), result.begin (), result.end ());
+	      output.push_back ("$");
+
+	      if (lu.next_sibling ())
+		output.push_back ("+");
+	    }
+	}
+      else if (childName == B)
+	{
+	  output.push_back (b (child, spaces, firPat, localeId, paramToPattern));
 	}
     }
 
@@ -483,33 +521,77 @@ RuleExecution::outAction (xml_node out, vector<vector<string> >* tlAnalysisToken
   return output;
 }
 
-void
-RuleExecution::macroAction (xml_node callMacro, vector<vector<string> >* tlAnalysisTokens,
-			    map<string, vector<vector<string> > > attrs)
+vector<string>
+RuleExecution::callMacro (xml_node callMacroNode,
+			  vector<vector<string> >* slAnalysisTokens,
+			  vector<vector<string> >* tlAnalysisTokens,
+			  map<string, vector<vector<string> > > attrs,
+			  map<string, vector<string> > lists, map<string, string>* vars,
+			  vector<string> spaces, unsigned firPat, string localeId,
+			  map<unsigned, unsigned> paramToPattern)
 {
+  vector<string> output;
 
-  string macroName = callMacro.attribute (N).value ();
+  string macroName = callMacroNode.attribute (N).value ();
 
-  map<int, int> paramToPattern;
-  int i = 1;
-  for (xml_node with_param = callMacro.child (WITH_PARAM); with_param; with_param =
+  map<unsigned, unsigned> newParamToPattern;
+  unsigned i = 1;
+  for (xml_node with_param = callMacroNode.child (WITH_PARAM); with_param; with_param =
       with_param.next_sibling ())
     {
-      paramToPattern[i] = with_param.attribute (POS).as_int ();
+      unsigned pos = with_param.attribute (POS).as_uint ();
+      if (paramToPattern.size ())
+	pos = paramToPattern[pos];
+
+      newParamToPattern[i++] = pos;
     }
 
-  xml_node transfer = callMacro.parent ().parent ().parent ().parent ();
+  xml_node transfer = callMacroNode.parent ();
+  while (transfer.parent ())
+    transfer = transfer.parent ();
 
   xml_node macros = transfer.child (SECTION_DEF_MACROS);
 
-  for (xml_node macro = macros.child (DEF_MACRO); macro; macro = macro.next_sibling ())
+  xml_node macro;
+  for (macro = macros.child (DEF_MACRO); macro; macro = macro.next_sibling ())
     {
       if (string (macro.attribute (N).value ()) == macroName)
-	{
-	  chooseAction (macro.child (CHOOSE), tlAnalysisTokens, attrs, paramToPattern);
-	  break;
-	}
+	break;
     }
+
+  for (xml_node child = macro.first_child (); child; child = child.next_sibling ())
+    {
+      vector<string> result;
+
+      string childName = child.name ();
+      if (childName == CHOOSE)
+	result = choose (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			 spaces, firPat, localeId, paramToPattern);
+
+      else if (childName == OUT)
+	result = out (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+		      firPat, localeId, paramToPattern);
+
+      else if (childName == CALL_MACRO)
+	result = callMacro (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			    spaces, firPat, localeId, paramToPattern);
+
+      else if (childName == LET)
+	let (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces, firPat,
+	     localeId, paramToPattern);
+
+      else if (childName == MODIFY_CASE)
+	modifyCase (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+		    firPat, localeId, paramToPattern);
+
+      else if (childName == APPEND)
+	append (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces, firPat,
+		localeId, paramToPattern);
+
+      output.insert (output.end (), result.begin (), result.end ());
+    }
+
+  return output;
 }
 
 vector<string>
@@ -521,7 +603,6 @@ RuleExecution::findAttrPart (vector<string> tokenTags, vector<vector<string> > a
     {
       for (unsigned j = 0; j < attrTags.size (); j++)
 	{
-//	  cout << tokenTags[i] << "  " << ("<" + attrTags[j][0] + ">") << endl;
 	  if (tokenTags[i] == ("<" + attrTags[j][0] + ">"))
 	    {
 	      matchedTags.push_back (tokenTags[i]);
@@ -544,13 +625,12 @@ RuleExecution::findAttrPart (vector<string> tokenTags, vector<vector<string> > a
   return matchedTags;
 }
 
-// equal has only 2 childs
-// they are always in this transfer file
-// clip and lit-tag only, but we will make it general
 bool
-RuleExecution::equal (xml_node equal, vector<vector<string> >* tlAnalysisTokens,
+RuleExecution::equal (xml_node equal, vector<vector<string> >* slAnalysisTokens,
+		      vector<vector<string> >* tlAnalysisTokens,
 		      map<string, vector<vector<string> > > attrs,
-		      map<int, int> paramToPattern)
+		      map<string, string>* vars, vector<string> spaces, unsigned firPat,
+		      string localeId, map<unsigned, unsigned> paramToPattern)
 {
 
   xml_node firstChild = equal.first_child ();
@@ -559,19 +639,41 @@ RuleExecution::equal (xml_node equal, vector<vector<string> >* tlAnalysisTokens,
   string firstName = firstChild.name ();
   if (firstName == CLIP)
     {
-      firstResult = clipAction (firstChild, tlAnalysisTokens, attrs, paramToPattern);
+      firstResult = clip (firstChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			  spaces, firPat, localeId, paramToPattern);
     }
   else if (firstName == CONCAT)
     {
-      firstResult = concat (firstChild, tlAnalysisTokens, attrs, paramToPattern);
+      firstResult = concat (firstChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			    spaces, firPat, localeId, paramToPattern);
     }
   else if (firstName == LIT_TAG)
     {
-      firstResult = litTagAction (firstChild);
+      firstResult = litTag (firstChild);
     }
   else if (firstName == LIT)
     {
-      firstResult.push_back (firstChild.attribute (V).value ());
+      firstResult.push_back (lit (firstChild));
+    }
+  else if (firstName == B)
+    {
+      firstResult.push_back (b (firstChild, spaces, firPat, localeId, paramToPattern));
+    }
+  else if (firstName == CASE_OF)
+    {
+      firstResult.push_back (
+	  caseOf (firstChild, slAnalysisTokens, tlAnalysisTokens, localeId,
+		  paramToPattern));
+    }
+  else if (firstName == GET_CASE_FROM)
+    {
+      firstResult.push_back (
+	  getCaseFrom (firstChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+		       spaces, firPat, localeId, paramToPattern));
+    }
+  else if (firstName == VAR)
+    {
+      firstResult.push_back (var (firstChild, vars));
     }
 
   xml_node secondChild = firstChild.next_sibling ();
@@ -580,87 +682,394 @@ RuleExecution::equal (xml_node equal, vector<vector<string> >* tlAnalysisTokens,
   string secondName = secondChild.name ();
   if (secondName == CLIP)
     {
-      secondResult = clipAction (secondChild, tlAnalysisTokens, attrs, paramToPattern);
+      secondResult = clip (secondChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			   spaces, firPat, localeId, paramToPattern);
     }
   else if (secondName == CONCAT)
     {
-      secondResult = concat (secondChild, tlAnalysisTokens, attrs, paramToPattern);
+      secondResult = concat (secondChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			     spaces, firPat, localeId, paramToPattern);
     }
   else if (secondName == LIT_TAG)
     {
-      secondResult = litTagAction (secondChild);
+      secondResult = litTag (secondChild);
     }
   else if (secondName == LIT)
     {
       secondResult.push_back (secondChild.attribute (V).value ());
     }
+  else if (secondName == B)
+    {
+      secondResult.push_back (b (secondChild, spaces, firPat, localeId, paramToPattern));
+    }
+  else if (secondName == CASE_OF)
+    {
+      secondResult.push_back (
+	  caseOf (secondChild, slAnalysisTokens, tlAnalysisTokens, localeId,
+		  paramToPattern));
+    }
+  else if (secondName == GET_CASE_FROM)
+    {
+      secondResult.push_back (
+	  getCaseFrom (secondChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+		       spaces, firPat, localeId, paramToPattern));
+    }
+  else if (secondName == VAR)
+    {
+      secondResult.push_back (var (secondChild, vars));
+    }
 
-  if (firstResult.size () != secondResult.size ())
-    return false;
-
+  string firstStr, secondStr;
   for (unsigned i = 0; i < firstResult.size (); i++)
     {
-      if (firstResult[i] != secondResult[i])
-	return false;
+      firstStr += firstResult[i];
+    }
+  for (unsigned i = 0; i < secondResult.size (); i++)
+    {
+      secondStr += secondResult[i];
     }
 
-  return true;
-}
-
-void
-RuleExecution::chooseAction (xml_node choose, vector<vector<string> >* tlAnalysisTokens,
-			     map<string, vector<vector<string> > > attrs,
-			     map<int, int> paramToPattern)
-{
-
-  xml_node when = choose.child (WHEN);
-
-  xml_node test = when.child (TEST);
-
-  xml_node node = test.first_child ();
-  string nodeName = node.name ();
-
-  bool result = false;
-
-  if (nodeName == EQUAL)
+  xml_attribute caseless = equal.attribute (CASE_LESS);
+  if (string (caseless.value ()) == "yes")
     {
-      result = equal (node, tlAnalysisTokens, attrs, paramToPattern);
+      return !(CLExec::compareCaseless (firstStr, secondStr, localeId));
     }
-  else if (nodeName == AND)
+  else
     {
-      for (xml_node equalNode = node.first_child (); equalNode;
-	  equalNode = equalNode.next_sibling ())
-	{
-
-	  result = equal (equalNode, tlAnalysisTokens, attrs, paramToPattern);
-	  if (!result)
-	    break;
-	}
-    }
-  else if (nodeName == OR)
-    {
-      for (xml_node equalNode = node.first_child (); equalNode;
-	  equalNode = equalNode.next_sibling ())
-	{
-
-	  result = equal (equalNode, tlAnalysisTokens, attrs, paramToPattern);
-	  if (result)
-	    break;
-	}
-    }
-
-  // we assume that let only comes after test
-  if (result)
-    {
-      for (xml_node let = when.child (LET); let; let = let.next_sibling (LET))
-	{
-	  letAction (let, tlAnalysisTokens, attrs, paramToPattern);
-	}
+      return !(CLExec::compare (firstStr, secondStr));
     }
 }
 
 vector<string>
-RuleExecution::litTagAction (xml_node litTag)
+RuleExecution::choose (xml_node chooseNode, vector<vector<string> >* slAnalysisTokens,
+		       vector<vector<string> >* tlAnalysisTokens,
+		       map<string, vector<vector<string> > > attrs,
+		       map<string, vector<string> > lists, map<string, string>* vars,
+		       vector<string> spaces, unsigned firPat, string localeId,
+		       map<unsigned, unsigned> paramToPattern)
+{
+  vector<string> output;
+
+  for (xml_node child = chooseNode.first_child (); child; child = child.next_sibling ())
+    {
+      bool condition = false;
+
+      string childName = child.name ();
+      if (childName == WHEN)
+	{
+	  xml_node testNode = child.child (TEST);
+
+	  condition = test (testNode, slAnalysisTokens, tlAnalysisTokens, attrs, lists,
+			    vars, spaces, firPat, localeId, paramToPattern);
+	}
+      else
+	{
+	  // otherwise
+	  condition = true;
+	}
+
+      if (condition)
+	{
+	  for (xml_node inst = child.first_child (); inst; inst = inst.next_sibling ())
+	    {
+	      vector<string> result;
+
+	      string instName = inst.name ();
+	      if (instName == CHOOSE)
+		result = choose (inst, slAnalysisTokens, tlAnalysisTokens, attrs, lists,
+				 vars, spaces, firPat, localeId, paramToPattern);
+
+	      else if (instName == OUT)
+		result = out (inst, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			      spaces, firPat, localeId, paramToPattern);
+
+	      else if (instName == CALL_MACRO)
+		result = callMacro (inst, slAnalysisTokens, tlAnalysisTokens, attrs,
+				    lists, vars, spaces, firPat, localeId,
+				    paramToPattern);
+
+	      else if (instName == LET)
+		let (inst, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+		     firPat, localeId, paramToPattern);
+
+	      else if (instName == MODIFY_CASE)
+		modifyCase (inst, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			    firPat, localeId, paramToPattern);
+
+	      else if (instName == APPEND)
+		append (inst, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			firPat, localeId, paramToPattern);
+
+	      output.insert (output.end (), result.begin (), result.end ());
+	    }
+	  break;
+	}
+    }
+
+  return output;
+}
+
+bool
+RuleExecution::test (xml_node test, vector<vector<string> >* slAnalysisTokens,
+		     vector<vector<string> >* tlAnalysisTokens,
+		     map<string, vector<vector<string> > > attrs,
+		     map<string, vector<string> > lists, map<string, string>* vars,
+		     vector<string> spaces, unsigned firPat, string localeId,
+		     map<unsigned, unsigned> paramToPattern)
+{
+  xml_node child = test.first_child ();
+  string childName = child.name ();
+
+  bool condition = false;
+
+  if (childName == EQUAL)
+    {
+      condition = equal (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			 firPat, localeId, paramToPattern);
+    }
+  else if (childName == AND)
+    {
+      condition = And (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		       spaces, firPat, localeId, paramToPattern);
+    }
+  else if (childName == OR)
+    {
+      condition = Or (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		      spaces, firPat, localeId, paramToPattern);
+    }
+  else if (childName == NOT)
+    {
+      condition = Not (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		       spaces, firPat, localeId, paramToPattern);
+    }
+  else if (childName == IN)
+    {
+      condition = in (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		      spaces, firPat, localeId, paramToPattern);
+    }
+
+  return condition;
+}
+
+bool
+RuleExecution::And (xml_node andNode, vector<vector<string> >* slAnalysisTokens,
+		    vector<vector<string> >* tlAnalysisTokens,
+		    map<string, vector<vector<string> > > attrs,
+		    map<string, vector<string> > lists, map<string, string>* vars,
+		    vector<string> spaces, unsigned firPat, string localeId,
+		    map<unsigned, unsigned> paramToPattern)
+{
+  bool condition = false;
+
+  for (xml_node child = andNode.first_child (); child; child = child.next_sibling ())
+    {
+      string childName = child.name ();
+      if (childName == EQUAL)
+	{
+	  condition = equal (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			     spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == AND)
+	{
+	  condition = And (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			   spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == OR)
+	{
+	  condition = Or (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			  spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == NOT)
+	{
+	  condition = Not (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			   spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == IN)
+	{
+	  condition = in (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			  spaces, firPat, localeId, paramToPattern);
+	}
+
+      if (!condition)
+	break;
+    }
+
+  return condition;
+}
+
+bool
+RuleExecution::Or (xml_node orNode, vector<vector<string> >* slAnalysisTokens,
+		   vector<vector<string> >* tlAnalysisTokens,
+		   map<string, vector<vector<string> > > attrs,
+		   map<string, vector<string> > lists, map<string, string>* vars,
+		   vector<string> spaces, unsigned firPat, string localeId,
+		   map<unsigned, unsigned> paramToPattern)
+{
+  bool condition = false;
+
+  for (xml_node child = orNode.first_child (); child; child = child.next_sibling ())
+    {
+      string childName = child.name ();
+      if (childName == EQUAL)
+	{
+	  condition = equal (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			     spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == AND)
+	{
+	  condition = And (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			   spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == OR)
+	{
+	  condition = Or (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			  spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == NOT)
+	{
+	  condition = Not (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			   spaces, firPat, localeId, paramToPattern);
+	}
+      else if (childName == IN)
+	{
+	  condition = in (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+			  spaces, firPat, localeId, paramToPattern);
+	}
+
+      if (condition)
+	break;
+    }
+
+  return condition;
+}
+
+bool
+RuleExecution::in (xml_node inNode, vector<vector<string> >* slAnalysisTokens,
+		   vector<vector<string> >* tlAnalysisTokens,
+		   map<string, vector<vector<string> > > attrs,
+		   map<string, vector<string> > lists, map<string, string>* vars,
+		   vector<string> spaces, unsigned firPat, string localeId,
+		   map<unsigned, unsigned> paramToPattern)
+{
+  xml_node firstChild = inNode.first_child ();
+  vector<string> firstResult;
+
+  string firstName = firstChild.name ();
+  if (firstName == CLIP)
+    {
+      firstResult = clip (firstChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			  spaces, firPat, localeId, paramToPattern);
+    }
+  else if (firstName == CONCAT)
+    {
+      firstResult = concat (firstChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			    spaces, firPat, localeId, paramToPattern);
+    }
+  else if (firstName == LIT_TAG)
+    {
+      firstResult = litTag (firstChild);
+    }
+  else if (firstName == LIT)
+    {
+      firstResult.push_back (lit (firstChild));
+    }
+  else if (firstName == B)
+    {
+      firstResult.push_back (b (firstChild, spaces, firPat, localeId, paramToPattern));
+    }
+  else if (firstName == CASE_OF)
+    {
+      firstResult.push_back (
+	  caseOf (firstChild, slAnalysisTokens, tlAnalysisTokens, localeId,
+		  paramToPattern));
+    }
+  else if (firstName == GET_CASE_FROM)
+    {
+      firstResult.push_back (
+	  getCaseFrom (firstChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+		       spaces, firPat, localeId, paramToPattern));
+    }
+  else if (firstName == VAR)
+    {
+      firstResult.push_back (var (firstChild, vars));
+    }
+
+  string firstStr;
+  for (unsigned i = 0; i < firstResult.size (); i++)
+    {
+      firstStr += firstResult[i];
+    }
+
+  xml_node listNode = firstChild.next_sibling ();
+
+  string listName = listNode.attribute (N).value ();
+  vector<string> list = lists[listName];
+
+  xml_attribute caseless = inNode.attribute (CASE_LESS);
+  if (string (caseless.value ()) == "yes")
+    {
+      for (unsigned i = 0; i < list.size (); i++)
+	{
+	  if (!CLExec::compareCaseless (firstStr, list[i], localeId))
+	    return true;
+	}
+    }
+  else
+    {
+      for (unsigned i = 0; i < list.size (); i++)
+	{
+	  if (!CLExec::compare (firstStr, list[i]))
+	    return true;
+	}
+    }
+
+  return false;
+}
+
+bool
+RuleExecution::Not (xml_node NotNode, vector<vector<string> >* slAnalysisTokens,
+		    vector<vector<string> >* tlAnalysisTokens,
+		    map<string, vector<vector<string> > > attrs,
+		    map<string, vector<string> > lists, map<string, string>* vars,
+		    vector<string> spaces, unsigned firPat, string localeId,
+		    map<unsigned, unsigned> paramToPattern)
+{
+  xml_node child = NotNode.first_child ();
+  string childName = child.name ();
+
+  bool condition = false;
+
+  if (childName == EQUAL)
+    {
+      condition = equal (child, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			 firPat, localeId, paramToPattern);
+    }
+  else if (childName == AND)
+    {
+      condition = And (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		       spaces, firPat, localeId, paramToPattern);
+    }
+  else if (childName == OR)
+    {
+      condition = Or (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		      spaces, firPat, localeId, paramToPattern);
+    }
+  else if (childName == NOT)
+    {
+      condition = Not (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		       spaces, firPat, localeId, paramToPattern);
+    }
+  else if (childName == IN)
+    {
+      condition = in (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
+		      spaces, firPat, localeId, paramToPattern);
+    }
+
+  return !condition;
+}
+
+vector<string>
+RuleExecution::litTag (xml_node litTag)
 {
   // splitting tags by '.'
   string tagsString = litTag.attribute (V).value ();
@@ -680,89 +1089,115 @@ RuleExecution::litTagAction (xml_node litTag)
   return tags;
 }
 
+string
+RuleExecution::lit (xml_node lit)
+{
+  string litValue = lit.attribute (V).value ();
+  return litValue;
+}
+
+string
+RuleExecution::var (xml_node var, map<string, string>* vars)
+{
+  string varName = var.attribute (N).value ();
+  string varValue = (*vars)[varName];
+  return varValue;
+}
+
 void
-RuleExecution::letAction (xml_node let, vector<vector<string> >* tlAnalysisTokens,
-			  map<string, vector<vector<string> > > attrs,
-			  map<int, int> paramToPattern)
+RuleExecution::let (xml_node let, vector<vector<string> >* slAnalysisTokens,
+		    vector<vector<string> >* tlAnalysisTokens,
+		    map<string, vector<vector<string> > > attrs,
+		    map<string, string>* vars, vector<string> spaces, unsigned firPat,
+		    string localeId, map<unsigned, unsigned> paramToPattern)
 {
 
-  // it is always a clip
   xml_node firstChild = let.first_child ();
-  vector<string> firstResult = clipAction (firstChild, tlAnalysisTokens, attrs,
-					   paramToPattern);
-
-//  cout << "here1  " << firstResult.size () << endl;
-
-  if (firstResult.empty ())
-    return;
-
-//  cout << "here2  " << endl;
-
   xml_node secondChild = firstChild.next_sibling ();
 
   string secondName = secondChild.name ();
-//  cout << "here2" << endl;
-  vector<string> secondResult;
-//  cout << "here3  " << secondName << endl;
 
+  vector<string> secondResult;
   if (secondName == CLIP)
     {
-      secondResult = clipAction (secondChild, tlAnalysisTokens, attrs, paramToPattern);
+      secondResult = clip (secondChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			   spaces, firPat, localeId, paramToPattern);
     }
   else if (secondName == CONCAT)
     {
-      secondResult = concat (secondChild, tlAnalysisTokens, attrs, paramToPattern);
+      secondResult = concat (secondChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+			     spaces, firPat, localeId, paramToPattern);
     }
   else if (secondName == LIT_TAG)
     {
-      secondResult = litTagAction (secondChild);
+      secondResult = litTag (secondChild);
     }
   else if (secondName == LIT)
     {
       secondResult.push_back (secondChild.attribute (V).value ());
     }
-
-//  cout << "here4" << endl;
-  int position = firstChild.attribute (POS).as_int () - 1;
-  if (paramToPattern.size ())
-    position = paramToPattern[firstChild.attribute (POS).as_int ()] - 1;
-//  cout << "here5" << endl;
-
-//  cout << "rule : " << let.parent ().parent ().first_attribute ().value () << " , size : "
-//      << firstResult.size () << " , part : " << firstChild.attribute (PART).value ()
-//      << " , pos :  " << firstChild.attribute (POS).value () << endl;
-//  for (unsigned i = 0; i < (*slAnalysisTokens).size (); i++)
-//    {
-//      for (unsigned j = 0; j < (*slAnalysisTokens)[i].size (); j++)
-//	{
-//
-//	  cout << (*slAnalysisTokens)[i][j] << "  ";
-//	}
-//      cout << endl;
-//    }
-//  cout << endl << endl;
-
-// exchange the first part with the second part
-// if the side is TL only
-//  cout << (firstChild.attribute (SIDE).value () == TL) << endl;
-  if (string (firstChild.attribute (SIDE).value ()) == TL)
+  else if (secondName == B)
     {
-//      cout << "HERE6  " << (*tlAnalysisTokens)[position].size () << "  "
-//	  << firstResult.size () << "  " << firstChild.attribute (PART).value () << endl;
-      for (unsigned i = 0; i < (*tlAnalysisTokens)[position].size (); i++)
+      secondResult.push_back (b (secondChild, spaces, firPat, localeId, paramToPattern));
+    }
+  else if (secondName == CASE_OF)
+    {
+      secondResult.push_back (
+	  caseOf (secondChild, slAnalysisTokens, tlAnalysisTokens, localeId,
+		  paramToPattern));
+    }
+  else if (secondName == GET_CASE_FROM)
+    {
+      secondResult.push_back (
+	  getCaseFrom (secondChild, slAnalysisTokens, tlAnalysisTokens, attrs, vars,
+		       spaces, firPat, localeId, paramToPattern));
+    }
+  else if (secondName == VAR)
+    {
+      secondResult.push_back (var (secondChild, vars));
+    }
+
+  string firstName = firstChild.name ();
+  if (firstName == VAR)
+    {
+      string resultStr;
+      for (unsigned i = 0; i < secondResult.size (); i++)
+	resultStr += secondResult[i];
+
+      string varName = firstChild.attribute (N).value ();
+      (*vars)[varName] = resultStr;
+    }
+  else if (firstName == CLIP)
+    {
+      vector<string> firstResult = clip (firstChild, slAnalysisTokens, tlAnalysisTokens,
+					 attrs, vars, spaces, firPat, localeId,
+					 paramToPattern);
+      if (firstResult.empty ())
+	return;
+
+      unsigned pos = firstChild.attribute (POS).as_uint ();
+      if (paramToPattern.size ())
+	pos = paramToPattern[pos];
+      pos--;
+
+      vector<vector<string> >* analysisTokens = slAnalysisTokens;
+      string side = firstChild.attribute (SIDE).value ();
+      if (side == TL)
+	analysisTokens = tlAnalysisTokens;
+
+      vector<string>* analysisToken = &((*analysisTokens)[pos]);
+      // exchange the first part with the second part
+      for (unsigned i = 0; i < analysisToken->size (); i++)
 	{
-	  if ((*tlAnalysisTokens)[position][i] == firstResult[0])
+	  if ((*analysisToken)[i] == firstResult[0])
 	    {
-	      (*tlAnalysisTokens)[position].erase (
-		  (*tlAnalysisTokens)[position].begin () + i,
-		  (*tlAnalysisTokens)[position].begin () + i + firstResult.size ());
-	      (*tlAnalysisTokens)[position].insert (
-		  (*tlAnalysisTokens)[position].begin () + i, secondResult.begin (),
-		  secondResult.end ());
+	      analysisToken->erase (analysisToken->begin () + i,
+				    analysisToken->begin () + i + firstResult.size ());
+	      analysisToken->insert (analysisToken->begin () + i, secondResult.begin (),
+				     secondResult.end ());
 	      break;
 	    }
 	}
-//      cout << "HERE7  " << endl;
     }
 }
 
@@ -785,25 +1220,36 @@ RuleExecution::formatTokenTags (string token, vector<string> tags)
 }
 
 vector<string>
-RuleExecution::clipAction (xml_node clip, vector<vector<string> >* tlAnalysisTokens,
-			   map<string, vector<vector<string> > > attrs,
-			   map<int, int> paramToPattern)
+RuleExecution::clip (xml_node clip, vector<vector<string> >* slAnalysisTokens,
+		     vector<vector<string> >* tlAnalysisTokens,
+		     map<string, vector<vector<string> > > attrs,
+		     map<string, string>* vars, vector<string> spaces, unsigned firPat,
+		     string localeId, map<unsigned, unsigned> paramToPattern)
 {
   vector<string> result;
 
-  int position = clip.attribute (POS).as_int () - 1;
+  unsigned pos = clip.attribute (POS).as_uint ();
   if (paramToPattern.size ())
-    position = paramToPattern[clip.attribute (POS).as_int ()] - 1;
+    pos = paramToPattern[pos];
+  pos--;
 
-  string langSide = clip.attribute (SIDE).value ();
   string part = clip.attribute (PART).value ();
 
-  vector<string> analysisToken = (*tlAnalysisTokens)[position];
+  xml_attribute linkTo = clip.attribute (LINK_TO);
+  if (string (linkTo.name ()) == LINK_TO)
+    {
+      result = attrs[part][pos];
+      return result;
+    }
 
-  if (langSide == SL)
-    return result;
+  string side = clip.attribute (SIDE).value ();
 
-  string token = analysisToken[0];
+//  cout << pos << "  " << slAnalysisTokens->size () << "  " << tlAnalysisTokens->size ()
+//      << endl;
+  vector<string> analysisToken = (*slAnalysisTokens)[pos];
+
+  if (side == TL)
+    analysisToken = (*tlAnalysisTokens)[pos];
 
   if (part == WHOLE)
     {
@@ -811,7 +1257,29 @@ RuleExecution::clipAction (xml_node clip, vector<vector<string> >* tlAnalysisTok
     }
   else if (part == LEM)
     {
-      result.push_back (token);
+      result.push_back (analysisToken[0]);
+    }
+  else if (part == LEMH || part == LEMQ)
+    {
+      string lem = analysisToken[0];
+      size_t spaceInd = lem.find (' ');
+      if (spaceInd == string::npos)
+	{
+	  if (part == LEMH)
+	    result.push_back (lem);
+	  else
+	    result.push_back ("");
+	}
+      else
+	{
+	  string lemh = lem.substr (0, spaceInd);
+	  string lemq = lem.substr (spaceInd);
+
+	  if (part == LEMH)
+	    result.push_back (lemh);
+	  else
+	    result.push_back (lemq);
+	}
     }
   // part == "attr"
   else
@@ -823,33 +1291,347 @@ RuleExecution::clipAction (xml_node clip, vector<vector<string> >* tlAnalysisTok
 }
 
 vector<string>
-RuleExecution::concat (xml_node concat, vector<vector<string> >* tlAnalysisTokens,
+RuleExecution::concat (xml_node concat, vector<vector<string> >* slAnalysisTokens,
+		       vector<vector<string> >* tlAnalysisTokens,
 		       map<string, vector<vector<string> > > attrs,
-		       map<int, int> paramToPattern)
+		       map<string, string>* vars, vector<string> spaces, unsigned firPat,
+		       string localeId, map<unsigned, unsigned> paramToPattern)
 {
 
-  vector<string> result;
+  vector<string> concatResult;
 
   for (xml_node node = concat.first_child (); node; node = node.next_sibling ())
     {
+      vector<string> result;
 
       string nodeName = node.name ();
       if (nodeName == CLIP)
 	{
-	  vector<string> clipResult = clipAction (node, tlAnalysisTokens, attrs,
-						  paramToPattern);
-	  result.insert (result.end (), clipResult.begin (), clipResult.end ());
+	  result = clip (node, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			 firPat, localeId, paramToPattern);
 	}
       else if (nodeName == LIT_TAG)
 	{
-	  vector<string> litTagResult = litTagAction (node);
-	  result.insert (result.end (), litTagResult.begin (), litTagResult.end ());
+	  result = litTag (node);
 	}
       else if (nodeName == LIT)
 	{
-	  result.push_back (node.attribute (V).value ());
+	  result.push_back (lit (node));
+	}
+      else if (nodeName == GET_CASE_FROM)
+	{
+	  result.push_back (
+	      getCaseFrom (node, slAnalysisTokens, tlAnalysisTokens, attrs, vars, spaces,
+			   firPat, localeId, paramToPattern));
+	}
+      else if (nodeName == CASE_OF)
+	{
+	  result.push_back (
+	      caseOf (node, slAnalysisTokens, tlAnalysisTokens, localeId,
+		      paramToPattern));
+	}
+      else if (nodeName == B)
+	{
+	  result.push_back (b (node, spaces, firPat, localeId, paramToPattern));
+	}
+      else if (nodeName == VAR)
+	{
+	  result.push_back (var (node, vars));
+	}
+
+      concatResult.insert (concatResult.end (), result.begin (), result.end ());
+    }
+
+  return concatResult;
+}
+
+void
+RuleExecution::append (xml_node append, vector<vector<string> >* slAnalysisTokens,
+		       vector<vector<string> >* tlAnalysisTokens,
+		       map<string, vector<vector<string> > > attrs,
+		       map<string, string>* vars, vector<string> spaces, unsigned firPat,
+		       string localeId, map<unsigned, unsigned> paramToPattern)
+{
+  string varName = append.attribute (NAME).value ();
+
+  vector<string> result;
+
+  for (xml_node child = append.first_child (); child; child = child.next_sibling ())
+    {
+      string childName = child.name ();
+      if (childName == CLIP)
+	{
+	  vector<string> clipResult = clip (child, slAnalysisTokens, tlAnalysisTokens,
+					    attrs, vars, spaces, firPat, localeId,
+					    paramToPattern);
+	  result.insert (result.end (), clipResult.begin (), clipResult.end ());
+	}
+      else if (childName == LIT_TAG)
+	{
+	  vector<string> litTagResult = litTag (child);
+	  result.insert (result.end (), litTagResult.begin (), litTagResult.end ());
+	}
+      else if (childName == LIT)
+	{
+	  string litResult = lit (child);
+	  result.push_back (litResult);
+	}
+      else if (childName == VAR)
+	{
+	  string varResult = var (child, vars);
+	  result.push_back (varResult);
+	}
+      else if (childName == CONCAT)
+	{
+	  vector<string> concatResult = concat (child, slAnalysisTokens, tlAnalysisTokens,
+						attrs, vars, spaces, firPat, localeId,
+						paramToPattern);
+	  result.insert (result.end (), concatResult.begin (), concatResult.end ());
+	}
+      else if (childName == B)
+	{
+	  string bResult = b (child, spaces, firPat, localeId, paramToPattern);
+	  result.push_back (bResult);
+	}
+      else if (childName == GET_CASE_FROM)
+	{
+	  string getCaseFromResult = getCaseFrom (child, slAnalysisTokens,
+						  tlAnalysisTokens, attrs, vars, spaces,
+						  firPat, localeId, paramToPattern);
+	  result.push_back (getCaseFromResult);
+	}
+      else if (childName == CASE_OF)
+	{
+	  string caseOfResult = caseOf (child, slAnalysisTokens, tlAnalysisTokens,
+					localeId, paramToPattern);
+	  result.push_back (caseOfResult);
+	}
+
+    }
+
+  string newVarValue = (*vars)[varName];
+  for (unsigned i = 0; i < result.size (); i++)
+    {
+      newVarValue += result[i];
+    }
+  (*vars)[varName] = newVarValue;
+}
+
+string
+RuleExecution::b (xml_node b, vector<string> spaces, unsigned firPat, string localeId,
+		  map<unsigned, unsigned> paramToPattern)
+{
+  string blank;
+  xml_attribute posAtt = b.attribute (POS);
+  if (string (posAtt.name ()) == POS)
+    {
+      unsigned pos = posAtt.as_uint ();
+      if (paramToPattern.size ())
+	pos = paramToPattern[pos];
+      pos--;
+
+      unsigned spacePos = firPat + (pos);
+      blank = spaces[spacePos];
+    }
+  else
+    {
+      blank = " ";
+    }
+  return blank;
+}
+
+string
+RuleExecution::caseOf (xml_node caseOf, vector<vector<string> >* slAnalysisTokens,
+		       vector<vector<string> >* tlAnalysisTokens, string localeId,
+		       map<unsigned, unsigned> paramToPattern)
+{
+  string Case;
+
+  unsigned pos = caseOf.attribute (POS).as_uint ();
+  if (paramToPattern.size ())
+    pos = paramToPattern[pos];
+  pos--;
+
+  string part = caseOf.attribute (PART).value ();
+
+  if (part == LEM)
+    {
+      string side = caseOf.attribute (SIDE).value ();
+
+      string token;
+      if (side == SL)
+	token = (*slAnalysisTokens)[pos][0];
+      else
+	token = (*tlAnalysisTokens)[pos][0];
+
+      if (token == CLExec::toLowerCase (token, localeId))
+	Case = aa;
+      else if (token == CLExec::toUpperCase (token, localeId))
+	Case = AA;
+      else
+	Case = Aa;
+    }
+
+  return Case;
+}
+
+string
+RuleExecution::getCaseFrom (xml_node getCaseFrom,
+			    vector<vector<string> >* slAnalysisTokens,
+			    vector<vector<string> >* tlAnalysisTokens,
+			    map<string, vector<vector<string> > > attrs,
+			    map<string, string>* vars, vector<string> spaces,
+			    unsigned firPat, string localeId,
+			    map<unsigned, unsigned> paramToPattern)
+{
+  string result;
+
+  unsigned pos = getCaseFrom.attribute (POS).as_uint ();
+  if (paramToPattern.size ())
+    pos = paramToPattern[pos];
+  pos--;
+
+  xml_node child = getCaseFrom.first_child ();
+  string childName = child.name ();
+
+  if (childName == LIT)
+    {
+      result = lit (child);
+    }
+  else if (childName == VAR)
+    {
+      result = var (child, vars);
+    }
+  else if (childName == CLIP)
+    {
+      vector<string> clipResult = clip (child, slAnalysisTokens, tlAnalysisTokens, attrs,
+					vars, spaces, firPat, localeId, paramToPattern);
+
+      for (unsigned i = 0; i < clipResult.size (); i++)
+	{
+	  result += clipResult[i];
 	}
     }
 
+  string slToken = (*slAnalysisTokens)[pos][0];
+
+  if (slToken == CLExec::toLowerCase (slToken, localeId))
+    result = CLExec::toLowerCase (result, localeId);
+  else if (slToken == CLExec::toUpperCase (slToken, localeId))
+    result = CLExec::toUpperCase (result, localeId);
+  else
+    result = CLExec::FirLetUpperCase (result, localeId);
+
   return result;
+}
+
+void
+RuleExecution::modifyCase (xml_node modifyCase, vector<vector<string> >* slAnalysisTokens,
+			   vector<vector<string> >* tlAnalysisTokens,
+			   map<string, vector<vector<string> > > attrs,
+			   map<string, string>* vars, vector<string> spaces,
+			   unsigned firPat, string localeId,
+			   map<unsigned, unsigned> paramToPattern)
+{
+
+  xml_node firstChild = modifyCase.first_child ();
+  xml_node secondChild = modifyCase.next_sibling ();
+
+  string childName = secondChild.name ();
+
+  string Case;
+  if (childName == LIT)
+    {
+      Case = lit (secondChild);
+    }
+  else if (childName == VAR)
+    {
+      Case = var (secondChild, vars);
+    }
+
+  childName = firstChild.name ();
+  if (childName == VAR)
+    {
+      string varName = firstChild.attribute (N).value ();
+
+      if (Case == aa)
+	(*vars)[varName] = CLExec::toLowerCase ((*vars)[varName], localeId);
+      else if (Case == AA)
+	(*vars)[varName] = CLExec::toUpperCase ((*vars)[varName], localeId);
+      else if (Case == Aa)
+	(*vars)[varName] = CLExec::FirLetUpperCase ((*vars)[varName], localeId);
+
+    }
+  else if (childName == CLIP)
+    {
+      unsigned pos = firstChild.attribute (POS).as_uint ();
+      if (paramToPattern.size ())
+	pos = paramToPattern[pos];
+      pos--;
+
+      string side = firstChild.attribute (SIDE).value ();
+
+      vector<vector<string> >* analysisTokens;
+      if (side == SL)
+	analysisTokens = slAnalysisTokens;
+      else
+	analysisTokens = tlAnalysisTokens;
+
+      string part = firstChild.attribute (PART).value ();
+
+      if (part == LEM)
+	{
+	  if (Case == aa)
+	    (*analysisTokens)[pos][0] = CLExec::toLowerCase ((*analysisTokens)[pos][0],
+							     localeId);
+	  else if (Case == AA)
+	    (*analysisTokens)[pos][0] = CLExec::toUpperCase ((*analysisTokens)[pos][0],
+							     localeId);
+	  else if (Case == Aa)
+	    (*analysisTokens)[pos][0] = CLExec::FirLetUpperCase (
+		(*analysisTokens)[pos][0], localeId);
+	}
+      else if (part == LEMH || part == LEMQ)
+	{
+	  string lem = (*analysisTokens)[pos][0];
+	  size_t spaceInd = lem.find (' ');
+	  if (spaceInd == string::npos)
+	    {
+	      if (Case == aa)
+		lem = CLExec::toLowerCase (lem, localeId);
+	      else if (Case == AA)
+		lem = CLExec::toUpperCase (lem, localeId);
+	      else if (Case == Aa)
+		lem = CLExec::FirLetUpperCase (lem, localeId);
+	    }
+	  else
+	    {
+	      string lemh = lem.substr (0, spaceInd);
+	      string lemq = lem.substr (spaceInd);
+
+	      if (part == LEMH)
+		{
+		  if (Case == aa)
+		    lemh = CLExec::toLowerCase (lemh, localeId);
+		  else if (Case == AA)
+		    lemh = CLExec::toUpperCase (lemh, localeId);
+		  else if (Case == Aa)
+		    lemh = CLExec::FirLetUpperCase (lemh, localeId);
+		}
+	      else
+		{
+		  if (Case == aa)
+		    lemq = CLExec::toLowerCase (lemq, localeId);
+		  else if (Case == AA)
+		    lemq = CLExec::toUpperCase (lemq, localeId);
+		  else if (Case == Aa)
+		    lemq = CLExec::FirLetUpperCase (lemq, localeId);
+		}
+
+	      lem = lemh + lemq;
+	    }
+	}
+
+    }
+
 }
