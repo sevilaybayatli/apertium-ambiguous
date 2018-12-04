@@ -29,13 +29,13 @@ main (int argc, char **argv)
 {
   string sentenceFilePath = "sentences.txt", lextorFilePath = "lextor.txt",
       transferOutFilePath = "transfer.txt", weightOutFilePath = "weights.txt",
-      outputFilePath = "output.txt", localeId = "kk_KZ", tranferFilePath =
+      outputFilePath = "output.txt", localeId = "kk_KZ", transferFilePath =
 	  "transferFile.tx1", datasetsPath = "datasets";
 
   if (argc == 9)
     {
       localeId = argv[1];
-      tranferFilePath = argv[2];
+      transferFilePath = argv[2];
       sentenceFilePath = argv[3];
       lextorFilePath = argv[4];
       transferOutFilePath = argv[5];
@@ -55,7 +55,7 @@ main (int argc, char **argv)
     {
       // load transfer file in an xml document object
       xml_document transferDoc;
-      xml_parse_result result = transferDoc.load_file (tranferFilePath.c_str ());
+      xml_parse_result result = transferDoc.load_file (transferFilePath.c_str ());
 
       if (string (result.description ()) != "No error")
 	{
@@ -96,7 +96,7 @@ main (int argc, char **argv)
 
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
-	  //	  cout << i << endl;
+	  cout << i << endl;
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
 	  tokenizedSentence = tokenizedSentences[i];
