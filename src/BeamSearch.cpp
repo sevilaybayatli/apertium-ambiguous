@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
@@ -13,9 +12,8 @@
 #include <time.h>
 #include <sys/time.h>
 #include <sstream>
-
-//#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
+//#include "../pugixml/pugixml.hpp"
 #include "RuleParser.h"
 #include "RuleExecution.h"
 #include "TranElemLiterals.h"
@@ -32,12 +30,12 @@ main (int argc, char **argv)
 {
   string sentenceFilePath = "sentences.txt", lextorFilePath = "lextor.txt",
       transferOutFilePath = "transferOut.txt", beamFilePath = "BeamSearch-", modelsDest =
-	  "models", localeId = "kk_KZ", tranferFilePath = "tranferFile.tx1";
+	  "models", localeId = "kk_KZ", transferFilePath = "tranferFile.tx1";
 
   if (argc >= 7)
     {
       localeId = argv[1];
-      tranferFilePath = argv[2];
+      transferFilePath = argv[2];
       sentenceFilePath = argv[3];
       lextorFilePath = argv[4];
       transferOutFilePath = argv[5];
@@ -45,19 +43,17 @@ main (int argc, char **argv)
     }
   else
     {
-      cout << "beam-search [localeId] [sentenceFilePath] [lextorFilePath] [transferOutFilePath] [modelsDest]" << endl;
       cout << "Error in parameters !" << endl;
       return -1;
     }
 
-//  cout << "Sentences Analysis started" << endl;
   ifstream lextorFile (lextorFilePath.c_str ());
   ifstream inSentenceFile (sentenceFilePath.c_str ());
   if (lextorFile.is_open () && inSentenceFile.is_open ())
     {
       // load transfer file in an xml document object
       xml_document transferDoc;
-      xml_parse_result result = transferDoc.load_file (tranferFilePath.c_str ());
+      xml_parse_result result = transferDoc.load_file (transferFilePath.c_str ());
 
       if (string (result.description ()) != "No error")
 	{
@@ -98,7 +94,7 @@ main (int argc, char **argv)
 
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
-	  //	  cout << i << endl;
+	  cout << i << endl;
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
 	  tokenizedSentence = tokenizedSentences[i];
