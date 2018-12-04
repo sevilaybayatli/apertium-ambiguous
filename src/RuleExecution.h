@@ -1,8 +1,8 @@
 #ifndef SRC_RULEEXECUTION_H_
 #define SRC_RULEEXECUTION_H_
 
-#include "pugixml.hpp"
 //#include "../pugixml/pugixml.hpp"
+#include "pugixml.hpp"
 
 using namespace std;
 using namespace pugi;
@@ -14,7 +14,7 @@ public:
   static void
   outputs (
       vector<string>* outs,
-      vector<vector<unsigned> >* rulesPrint,
+      vector<vector<unsigned> >* rulesIds,
       vector<vector<vector<xml_node> > >* outsRules,
       vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > *ambigInfo,
       vector<string> tlTokens, vector<vector<string> > tags,
