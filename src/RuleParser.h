@@ -1,7 +1,8 @@
 #ifndef SRC_RULEPARSER_H_
 #define SRC_RULEPARSER_H_
-#include "pugixml.hpp"
+
 //#include "../pugixml/pugixml.hpp"
+#include "pugixml.hpp"
 
 using namespace std;
 using namespace pugi;
