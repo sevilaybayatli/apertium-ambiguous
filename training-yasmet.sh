@@ -40,7 +40,7 @@ apertium -d $pairPar/apertium-$pairCode $pairCode-biltrans sentences.txt biltran
 lrx-proc -m $pairPar/apertium-$pairCode/$pairCode.autolex.bin biltrans.txt > lextor.txt;
 
 # Run rules-applier program
-./rules-applier sentences.txt lextor.txt rulesOut.txt;
+./rules-applier $localeId transferFile.t1x sentences.txt lextor.txt rulesOut.txt;
 
 # Apply the apertium tool interchunk on the rulesOut file
 apertium-interchunk $pairPar/apertium-$pairCode/apertium-$pairCode.$pairCode.t2x $pairPar/apertium-$pairCode/$pairCode.t2x.bin rulesOut.txt interchunk.txt;
