@@ -28,6 +28,8 @@ datasets=$8;
 # 9) Language model
 LM=$9
 
+
+
 # Break corpus into sentences using the ruby program sentenceTokenizer.rb built on the pragmatic segmenter
 ruby2.3 sentenceTokenizer.rb $langCode $inputFile sentences.txt;
 
@@ -55,4 +57,4 @@ apertium-transfer -n $pairPar/apertium-$pairCode/apertium-$pairCode.$pairCode.t4
 python3 $modelWeight $LM < transfer.txt > weights.txt;
 
 # Run yasmet formatter to prepare yasmet datasets. Also this will generate the analysis output file , beside the best model weighting translations -in file 'modelWeight.txt'- and random translations -in file 'randomWeight.txt'-
-./yasmet-formatter $localeId sentences.txt lextor.txt transfer.txt weights.txt $outputFile $datasets;
+./yasmet-formatter $localeId transferFile.t1x sentences.txt lextor.txt transfer.txt weights.txt $outputFile $datasets;
