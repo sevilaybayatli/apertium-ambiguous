@@ -100,7 +100,7 @@ main (int argc, char **argv)
 
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
-	  cout << i << endl;
+//	  cout << i << endl;
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
 	  tokenizedSentence = tokenizedSentences[i];
@@ -131,7 +131,7 @@ main (int argc, char **argv)
 	  // if rule has many patterns we will choose the first token only
 	  map<xml_node, map<int, vector<string> > > ruleOutputs;
 
-	  // map (target) token to all matched rules and the number of pattern items of each rule
+	  // map (target) token to all matched rules ids and the number of pattern items of each rule
 	  map<int, vector<pair<xml_node, unsigned> > > tokenRules;
 
 	  RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags, tlTokens,
@@ -152,6 +152,60 @@ main (int argc, char **argv)
 
 	  RuleExecution::outputs (&outs, &rulesIds, &outsRules, &ambigInfo, tlTokens,
 				  tlTags, ruleOutputs, tokenRules, spaces);
+
+//	  cout << "outs size = " << outs.size() << endl;
+//	  cout << endl << endl;
+//	  for (unsigned j = 0; j < outs.size (); j++)
+//	    cout << outs[j] << endl;
+//	  cout << endl;
+//
+//	  for (unsigned j = 0; j < rulesIds.size (); j++)
+//	    {
+//	      for (unsigned k = 0; k < rulesIds[j].size (); k++)
+//		{
+//		  cout << rulesIds[j][k] << " ";
+//		}
+//	      cout << endl;
+//	    }
+//	  cout << endl << endl;
+//
+//	  for (unsigned j = 0; j < outsRules.size (); j++)
+//	    {
+//	      for (unsigned k = 0; k < outsRules[j].size (); k++)
+//		{
+//		  for (unsigned h = 0; h < outsRules[j][k].size (); h++)
+//		    {
+//		      cout << outsRules[j][k][h].attribute (ID).value () << "-";
+//		    }
+//		  cout << " ";
+//		}
+//	      cout << endl;
+//	    }
+//	  cout << endl << endl;
+//
+//	  for (unsigned j = 0; j < slTokens.size (); j++)
+//	    {
+//	      cout << j << " : " << slTokens[j] << "  " << tlTokens[j] << endl;
+//	    }
+//	  cout << endl;
+//
+//	  for (map<xml_node, vector<vector<int> > >::iterator it = rulesApplied.begin ();
+//	      it != rulesApplied.end (); it++)
+//	    {
+//	      xml_node rule = it->first;
+//	      vector<vector<int> > tokenIds = it->second;
+//
+//	      cout << "rule id = " << rule.attribute (ID).value () << endl;
+//	      for (unsigned j = 0; j < tokenIds.size (); j++)
+//		{
+//		  for (unsigned k = 0; k < tokenIds[j].size (); k++)
+//		    {
+//		      cout << tokenIds[j][k] << " ";
+//		    }
+//		  cout << endl;
+//		}
+//	      cout << endl;
+//	    }
 
 	  // indexes of accumulated weights
 	  vector<vector<unsigned> > weigInds;
