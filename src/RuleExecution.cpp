@@ -7,9 +7,9 @@
 #include <algorithm>
 
 //#include "../pugixml/pugixml.hpp"
-#include <pugixml.hpp>
 #include "TranElemLiterals.h"
 #include "CLExec.h"
+#include <pugixml.hpp>
 
 using namespace std;
 using namespace pugi;
@@ -97,6 +97,10 @@ nestedRules (vector<string> tlTokens, vector<string> output,
 
       if (patNum <= curPatNum)
 	{
+//	  cout << "token id = " << curTokIndex << " , curPatNum = " << curPatNum
+//	      << " , rule = " << rule.attribute (ID).value () << " , patNum = " << patNum
+//	      << endl;
+
 	  vector<xml_node> newCurNestedRules = vector<xml_node> (curNestedRules);
 	  newCurNestedRules.push_back (rule);
 
@@ -109,9 +113,9 @@ nestedRules (vector<string> tlTokens, vector<string> output,
 
 	  // remove that rule from all tokens
 	  for (unsigned j = curTokIndex; j < curTokIndex + patNum; j++)
-	      tokenRules[j].erase (tokenRules[j].begin ());
+	    tokenRules[j].erase (tokenRules[j].begin ());
 
-	  if (curPatNum - patNum == 0)
+	  if (curPatNum == patNum)
 	    {
 	      (*outputs).push_back (newOutput);
 	      (*nestedOutsRules).push_back (newCurNestedRules);
@@ -125,6 +129,7 @@ nestedRules (vector<string> tlTokens, vector<string> output,
 	}
     }
 
+//  cout << endl;
 }
 
 vector<string>
@@ -190,6 +195,37 @@ putRules (vector<vector<vector<xml_node> > > outsRules,
   return newRules;
 }
 
+unsigned
+getMaxPat (int curMaxPat, unsigned curToken,
+	   map<int, vector<pair<xml_node, unsigned> > > tokenRules)
+{
+  if (curMaxPat == 0)
+    return 0;
+
+  int maxPat = 0;
+  vector<pair<xml_node, unsigned> > rules = tokenRules[curToken];
+
+  if (rules.size ())
+    maxPat = rules[0].second;
+  for (unsigned i = 0; i < rules.size (); i++)
+    {
+      for (unsigned j = curToken; j < curToken + 4; j++)
+	{
+	  for (unsigned k = 0; k < tokenRules[j].size (); k++)
+	    {
+	      if (rules[i].first == tokenRules[j][k].first)
+		{
+		  tokenRules[j].erase (tokenRules[j].begin () + k);
+		  break;
+		}
+	    }
+	}
+    }
+
+  return max (0, maxPat - curMaxPat)
+      + getMaxPat (max (curMaxPat - 1, maxPat - curMaxPat), curToken + 1, tokenRules);
+}
+
 void
 RuleExecution::outputs (
     vector<string>* outs,
@@ -232,6 +268,10 @@ RuleExecution::outputs (
 
 	  // longest rule
 	  unsigned maxPatterns = rulesApplied[0].second;
+
+	  maxPatterns += getMaxPat (maxPatterns, i, tokenRules);
+
+	  //cout << "curToken = " << i << "  maxPattern = " << maxPatterns << endl;
 
 	  vector<vector<string> > nestedOutputs;
 	  vector<vector<xml_node> > nestedOutsRules;
@@ -333,7 +373,7 @@ RuleExecution::ruleOuts (map<xml_node, map<int, vector<string> > >* ruleOuts,
 			 map<string, vector<string> > lists, map<string, string>* vars,
 			 vector<string> spaces, string localeId)
 {
-  cout << "Inside  " << "ruleOuts" << endl;
+  //cout << "Inside  " << "ruleOuts" << endl;
 
   for (map<xml_node, vector<vector<int> > >::iterator it = rulesApplied.begin ();
       it != rulesApplied.end (); ++it)
@@ -383,7 +423,7 @@ RuleExecution::ruleExe (xml_node rule, vector<vector<string> >* slAnalysisTokens
 			map<string, vector<string> > lists, map<string, string>* vars,
 			vector<string> spaces, unsigned firPat, string localeId)
 {
-  cout << "Inside  " << "rule : " << rule.attribute (ID).value () << endl;
+  //cout << "Inside  " << "rule : " << rule.attribute (ID).value () << endl;
 
   vector<string> output;
 
@@ -437,7 +477,7 @@ RuleExecution::out (xml_node out, vector<vector<string> >* slAnalysisTokens,
 		    map<string, string>* vars, vector<string> spaces, unsigned firPat,
 		    string localeId, map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "out" << endl;
+  //cout << "Inside  " << "out" << endl;
 
   vector<string> output;
 
@@ -456,12 +496,12 @@ RuleExecution::out (xml_node out, vector<vector<string> >* slAnalysisTokens,
 			  firPat, localeId, paramToPattern);
 	}
 
-      cout << "result : ";
-      for (unsigned i = 0; i < result.size (); i++)
-	{
-	  cout << result[i];
-	}
-      cout << endl;
+//      cout << "result : ";
+//      for (unsigned i = 0; i < result.size (); i++)
+//	{
+//	  cout << result[i];
+//	}
+//      cout << endl;
 
       output.insert (output.end (), result.begin (), result.end ());
     }
@@ -476,7 +516,7 @@ RuleExecution::chunk (xml_node chunkNode, vector<vector<string> >* slAnalysisTok
 		      map<string, string>* vars, vector<string> spaces, unsigned firPat,
 		      string localeId, map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "chunk" << endl;
+  //cout << "Inside  " << "chunk" << endl;
 
   vector<string> output;
 
@@ -559,8 +599,8 @@ RuleExecution::callMacro (xml_node callMacroNode,
 			  vector<string> spaces, unsigned firPat, string localeId,
 			  map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "callMacro" << "  " << callMacroNode.attribute (N).value ()
-      << endl;
+//  cout << "Inside  " << "callMacro" << "  " << callMacroNode.attribute (N).value ()
+//      << endl;
 
   vector<string> output;
 
@@ -595,7 +635,7 @@ RuleExecution::callMacro (xml_node callMacroNode,
       vector<string> result;
 
       string childName = child.name ();
-      cout << childName << endl;
+      //cout << childName << endl;
       if (childName == CHOOSE)
 	result = choose (child, slAnalysisTokens, tlAnalysisTokens, attrs, lists, vars,
 			 spaces, firPat, localeId, paramToPattern);
@@ -664,7 +704,7 @@ RuleExecution::equal (xml_node equal, vector<vector<string> >* slAnalysisTokens,
 		      map<string, string>* vars, vector<string> spaces, unsigned firPat,
 		      string localeId, map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "equal" << endl;
+  //cout << "Inside  " << "equal" << endl;
 
   xml_node firstChild = equal.first_child ();
   vector<string> firstResult;
@@ -781,7 +821,7 @@ RuleExecution::choose (xml_node chooseNode, vector<vector<string> >* slAnalysisT
 		       vector<string> spaces, unsigned firPat, string localeId,
 		       map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "choose" << endl;
+  //cout << "Inside  " << "choose" << endl;
 
   vector<string> output;
 
@@ -852,7 +892,7 @@ RuleExecution::test (xml_node test, vector<vector<string> >* slAnalysisTokens,
 		     vector<string> spaces, unsigned firPat, string localeId,
 		     map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "test" << endl;
+  //cout << "Inside  " << "test" << endl;
 
   xml_node child = test.first_child ();
   string childName = child.name ();
@@ -896,7 +936,7 @@ RuleExecution::And (xml_node andNode, vector<vector<string> >* slAnalysisTokens,
 		    vector<string> spaces, unsigned firPat, string localeId,
 		    map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "and" << endl;
+  //cout << "Inside  " << "and" << endl;
 
   bool condition = false;
 
@@ -944,7 +984,7 @@ RuleExecution::Or (xml_node orNode, vector<vector<string> >* slAnalysisTokens,
 		   vector<string> spaces, unsigned firPat, string localeId,
 		   map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "or" << endl;
+  //cout << "Inside  " << "or" << endl;
 
   bool condition = false;
 
@@ -992,7 +1032,7 @@ RuleExecution::in (xml_node inNode, vector<vector<string> >* slAnalysisTokens,
 		   vector<string> spaces, unsigned firPat, string localeId,
 		   map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "in" << endl;
+  //cout << "Inside  " << "in" << endl;
 
   xml_node firstChild = inNode.first_child ();
   vector<string> firstResult;
@@ -1077,7 +1117,7 @@ RuleExecution::Not (xml_node NotNode, vector<vector<string> >* slAnalysisTokens,
 		    vector<string> spaces, unsigned firPat, string localeId,
 		    map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "not" << endl;
+  //cout << "Inside  " << "not" << endl;
 
   xml_node child = NotNode.first_child ();
   string childName = child.name ();
@@ -1116,7 +1156,7 @@ RuleExecution::Not (xml_node NotNode, vector<vector<string> >* slAnalysisTokens,
 vector<string>
 RuleExecution::litTag (xml_node litTag)
 {
-  cout << "Inside  " << "litTag" << endl;
+  //cout << "Inside  " << "litTag" << endl;
 
   // splitting tags by '.'
   string tagsString = litTag.attribute (V).value ();
@@ -1139,7 +1179,7 @@ RuleExecution::litTag (xml_node litTag)
 string
 RuleExecution::lit (xml_node lit)
 {
-  cout << "Inside  " << "lit" << endl;
+  //cout << "Inside  " << "lit" << endl;
 
   string litValue = lit.attribute (V).value ();
   return litValue;
@@ -1148,7 +1188,7 @@ RuleExecution::lit (xml_node lit)
 string
 RuleExecution::var (xml_node var, map<string, string>* vars)
 {
-  cout << "Inside  " << "var" << endl;
+  //cout << "Inside  " << "var" << endl;
 
   string varName = var.attribute (N).value ();
   string varValue = (*vars)[varName];
@@ -1163,7 +1203,7 @@ RuleExecution::let (xml_node let, vector<vector<string> >* slAnalysisTokens,
 		    string localeId, map<unsigned, unsigned> paramToPattern)
 {
 
-  cout << "Inside  " << "let" << endl;
+  //cout << "Inside  " << "let" << endl;
 
   xml_node firstChild = let.first_child ();
   xml_node secondChild = firstChild.next_sibling ();
@@ -1279,7 +1319,7 @@ RuleExecution::clip (xml_node clip, vector<vector<string> >* slAnalysisTokens,
 		     map<string, string>* vars, vector<string> spaces, unsigned firPat,
 		     string localeId, map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "clip" << endl;
+  //cout << "Inside  " << "clip" << endl;
 
   vector<string> result;
 
@@ -1357,7 +1397,7 @@ RuleExecution::concat (xml_node concat, vector<vector<string> >* slAnalysisToken
 		       map<string, string>* vars, vector<string> spaces, unsigned firPat,
 		       string localeId, map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "concat" << endl;
+  //cout << "Inside  " << "concat" << endl;
 
   vector<string> concatResult;
 
@@ -1413,7 +1453,7 @@ RuleExecution::append (xml_node append, vector<vector<string> >* slAnalysisToken
 		       map<string, string>* vars, vector<string> spaces, unsigned firPat,
 		       string localeId, map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "append" << endl;
+  //cout << "Inside  " << "append" << endl;
 
   string varName = append.attribute (NAME).value ();
 
@@ -1484,7 +1524,7 @@ string
 RuleExecution::b (xml_node b, vector<string> spaces, unsigned firPat, string localeId,
 		  map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "b" << endl;
+  //cout << "Inside  " << "b" << endl;
 
   string blank;
   xml_attribute posAtt = b.attribute (POS);
@@ -1510,7 +1550,7 @@ RuleExecution::caseOf (xml_node caseOf, vector<vector<string> >* slAnalysisToken
 		       vector<vector<string> >* tlAnalysisTokens, string localeId,
 		       map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "caseOf" << endl;
+  //cout << "Inside  " << "caseOf" << endl;
 
   string Case;
 
@@ -1551,7 +1591,7 @@ RuleExecution::getCaseFrom (xml_node getCaseFrom,
 			    unsigned firPat, string localeId,
 			    map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "getCaseFrom" << endl;
+  //cout << "Inside  " << "getCaseFrom" << endl;
 
   string result;
 
@@ -1602,7 +1642,7 @@ RuleExecution::modifyCase (xml_node modifyCase, vector<vector<string> >* slAnaly
 			   unsigned firPat, string localeId,
 			   map<unsigned, unsigned> paramToPattern)
 {
-  cout << "Inside  " << "modifyCase" << endl;
+  //cout << "Inside  " << "modifyCase" << endl;
 
   xml_node firstChild = modifyCase.first_child ();
   xml_node secondChild = modifyCase.next_sibling ();
