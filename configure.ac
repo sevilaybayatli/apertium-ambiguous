@@ -25,6 +25,11 @@ PKG_CHECK_MODULES(ICU, [icu],[],[
 AC_SUBST(ICU_CFLAGS)
 AC_SUBST(ICU_LIBS)
 
+AC_CHECK_HEADER(pugixml.hpp,[],[
+  AC_MSG_ERROR([*** unable to locate pugixml.hpp include file, try apt-get install libpugixml-dev ***])])
+
+
+
 AC_ARG_ENABLE(debug,
               [  --enable-debug  Enable "-g -ggdb -Wall" compiler options],
               [CXXFLAGS="-g -ggdb -Wall";CFLAGS="-g -ggdb -Wall"])
