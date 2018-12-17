@@ -67,13 +67,13 @@ public:
       vector<pair<vector<unsigned>, float> > *beamTree,
       unsigned beam,
       vector<string> slTokens,
-      vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > ambigInfo,
+      vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo,
       map<string, map<string, vector<float> > > classesWeights, string localeId);
 
   static void
-  getTransInds (vector<pair<unsigned, float> > *Translations,
-		vector<pair<vector<unsigned>, float> > beamTree,
-		vector<vector<unsigned> > weigInds);
+  getTransInds (vector<pair<unsigned, float> > *transInds,
+		      vector<pair<vector<unsigned>, float> > beamTree,
+		      vector<vector<pair<unsigned,unsigned> > > rulesIds);
 };
 
 #endif /* SRC_CLEXEC_H_ */
