@@ -11,28 +11,32 @@ class RuleExecution
 {
 public:
 
-  static void
+  static string
+  noRuleOut (vector<string> analysis);
+
+  static bool
   outputs (
       vector<string>* outs,
-      vector<vector<unsigned> >* rulesIds,
-      vector<vector<vector<xml_node> > >* outsRules,
-      vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > *ambigInfo,
+      vector<vector<pair<unsigned, unsigned> > >* rulesIds,
+      vector<vector<vector<unsigned> > >* outsRules,
+      vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > *ambigInfo,
       vector<string> tlTokens, vector<vector<string> > tags,
-      map<xml_node, map<int, vector<string> > > ruleOuts,
-      map<int, vector<pair<xml_node, unsigned> > > tokenRules, vector<string> spaces);
+      map<unsigned, map<unsigned, string> > ruleOuts,
+      map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+      vector<string> spaces);
 
   static void
   weightIndices (
       vector<vector<unsigned> >* weigInds,
-      vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > ambigInfo,
-      vector<vector<vector<xml_node> > > outsRules);
+      vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo,
+      vector<vector<vector<unsigned> > > outsRules);
 
   static void
-  ruleOuts (map<xml_node, map<int, vector<string> > >* ruleOuts,
-	    map<int, vector<pair<xml_node, unsigned> > >* tokenRules,
+  ruleOuts (map<unsigned, map<unsigned, string> >* ruleOuts,
+	    map<unsigned, vector<pair<unsigned, unsigned> > >* tokenRules,
 	    vector<string> slTokens, vector<vector<string> > slTags,
 	    vector<string> tlTokens, vector<vector<string> > tlTags,
-	    map<xml_node, vector<vector<int> > > rulesApplied,
+	    map<xml_node, vector<vector<unsigned> > > rulesApplied,
 	    map<string, vector<vector<string> > > attrs,
 	    map<string, vector<string> > lists, map<string, string>* vars,
 	    vector<string> spaces, string localeId);
