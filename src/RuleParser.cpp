@@ -113,8 +113,9 @@ RuleParser::sentenceTokenizer (vector<string>* slTokens, vector<string>* tlToken
 }
 
 void
-RuleParser::matchCats (map<int, vector<string> >* catsApplied, vector<string> slTokens,
-		       vector<vector<string> > tags, xml_node transfer)
+RuleParser::matchCats (map<unsigned, vector<string> >* catsApplied,
+		       vector<string> slTokens, vector<vector<string> > tags,
+		       xml_node transfer)
 {
   xml_node section_def_cats = transfer.child (SECTION_DEF_CATS);
 
@@ -194,9 +195,9 @@ RuleParser::matchCats (map<int, vector<string> >* catsApplied, vector<string> sl
 }
 
 void
-RuleParser::matchRules (map<xml_node, vector<vector<int> > >* rulesApplied,
-			vector<string> slTokens, map<int, vector<string> > catsApplied,
-			xml_node transfer)
+RuleParser::matchRules (map<xml_node, vector<vector<unsigned> > >* rulesApplied,
+			vector<string> slTokens,
+			map<unsigned, vector<string> > catsApplied, xml_node transfer)
 {
 
   xml_node section_rules = transfer.child (SECTION_RULES);
@@ -218,7 +219,7 @@ RuleParser::matchRules (map<xml_node, vector<vector<int> > >* rulesApplied,
 	      && i <= slTokens.size () - pattern_items.size (); i++)
 	{
 
-	  vector<int> slMatchedTokens;
+	  vector<unsigned> slMatchedTokens;
 	  for (unsigned j = 0; j < pattern_items.size (); j++)
 	    {
 
