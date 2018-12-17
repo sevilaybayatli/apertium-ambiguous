@@ -301,7 +301,7 @@ CLExec::beamSearch (
     vector<pair<vector<unsigned>, float> > *beamTree,
     unsigned beam,
     vector<string> slTokens,
-    vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > ambigInfo,
+    vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo,
     map<string, map<string, vector<float> > > classesWeights, string localeId)
 {
   // Initialization
@@ -309,10 +309,10 @@ CLExec::beamSearch (
 
   for (unsigned i = 0; i < ambigInfo.size (); i++)
     {
-      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > p =
+      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > p =
 	  ambigInfo[i];
       pair<unsigned, unsigned> wordInd = p.first;
-      vector<vector<xml_node> > ambigRules = p.second.second;
+      vector<vector<unsigned> > ambigRules = p.second.second;
       unsigned ambigRulesSize = ambigRules.size ();
 
       // name of the file is the concatenation of rules ids
@@ -321,7 +321,7 @@ CLExec::beamSearch (
 	{
 	  for (unsigned y = 0; y < ambigRules[x].size (); y++)
 	    {
-	      rulesNums += ambigRules[x][y].attribute (ID).value ();
+	      rulesNums += ambigRules[x][y];
 	      rulesNums += "_";
 
 	    }
@@ -343,7 +343,7 @@ CLExec::beamSearch (
 	{
 	  for (unsigned y = 0; y < ambigRules[z].size (); y++)
 	    {
-	      newTree[z].first.push_back (ambigRules[z][y].attribute (ID).as_int ());
+	      newTree[z].first.push_back (ambigRules[z][y]);
 	    }
 	}
 
@@ -423,19 +423,19 @@ CLExec::beamSearch (
 void
 CLExec::getTransInds (vector<pair<unsigned, float> > *transInds,
 		      vector<pair<vector<unsigned>, float> > beamTree,
-		      vector<vector<unsigned> > rulesIds)
+		      vector<vector<pair<unsigned, unsigned> > > rulesIds)
 {
   for (unsigned i = 0; i < beamTree.size (); i++)
     {
       vector<unsigned> transInd = beamTree[i].first;
       for (unsigned j = 0; j < rulesIds.size (); j++)
 	{
-	  vector<unsigned> weigInd = rulesIds[j];
+	  vector<pair<unsigned, unsigned> > weigInd = rulesIds[j];
 
 	  unsigned count = 0;
 	  for (unsigned x = 0; x < weigInd.size () && count < transInd.size (); x++)
 	    {
-	      if (transInd[count] == weigInd[x])
+	      if (transInd[count] == weigInd[x].first)
 		count++;
 	    }
 
