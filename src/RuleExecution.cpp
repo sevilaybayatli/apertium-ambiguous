@@ -7,9 +7,9 @@
 #include <algorithm>
 
 //#include "../pugixml/pugixml.hpp"
+#include "pugixml.hpp"
 #include "TranElemLiterals.h"
 #include "CLExec.h"
-#include <pugixml.hpp>
 
 using namespace std;
 using namespace pugi;
@@ -19,36 +19,44 @@ using namespace elem;
 
 // to sort rules in tokenRules descendingly by their number of pattern items
 bool
-sortParameter (pair<xml_node, unsigned> a, pair<xml_node, unsigned> b)
+sortParameter (pair<unsigned, unsigned> a, pair<unsigned, unsigned> b)
 {
   return (a.second > b.second);
 }
 
-vector<string>
-defaultOut (vector<string> analysis)
+string
+RuleExecution::noRuleOut (vector<string> analysis)
 {
   vector<string> out;
-  out.push_back ("^default<default>{^");
+  // unknown word
+  if (analysis[0][0] == '*')
+    out.push_back ("^unknown<unknown>{^");
+  else
+    out.push_back ("^default<default>{^");
   out.insert (out.end (), analysis.begin (), analysis.end ());
   out.push_back ("$}$");
 
-  return out;
+  string str;
+  for (unsigned i = 0; i < out.size (); i++)
+    str += out[i];
+
+  return str;
 }
 
 void
-putOut (vector<vector<string> >* outputs, vector<string> output, unsigned tokenIndex,
+putOut (vector<string>* outputs, string output, unsigned tokenIndex,
 	vector<string> spaces)
 {
   for (unsigned i = 0; i < outputs->size (); i++)
     {
-      (*outputs)[i].insert ((*outputs)[i].end (), output.begin (), output.end ());
-      (*outputs)[i].push_back (spaces[tokenIndex]);
+      (*outputs)[i] += output;
+      (*outputs)[i] += (spaces[tokenIndex]);
     }
 }
 
-vector<vector<string> >
-putOuts (vector<vector<string> > outputs, vector<vector<string> > nestedOutputs,
-	 unsigned tokenIndex, vector<string> spaces)
+vector<string>
+putOuts (vector<string> outputs, vector<string> nestedOutputs, unsigned tokenIndex,
+	 vector<string> spaces)
 {
 //  cout << endl << "nestedOutputs : " << tokenIndex << endl;
 //  for (unsigned i = 0; i < nestedOutputs.size (); i++)
@@ -60,17 +68,16 @@ putOuts (vector<vector<string> > outputs, vector<vector<string> > nestedOutputs,
 //      cout << endl;
 //    }
 
-  vector<vector<string> > newOutputs;
+  vector<string> newOutputs;
 
   for (unsigned i = 0; i < outputs.size (); i++)
     {
       for (unsigned j = 0; j < nestedOutputs.size (); j++)
 	{
-	  vector<string> newOutput;
+	  string newOutput;
 
-	  newOutput.insert (newOutput.end (), outputs[i].begin (), outputs[i].end ());
-	  newOutput.insert (newOutput.end (), nestedOutputs[j].begin (),
-			    nestedOutputs[j].end ());
+	  newOutput += outputs[i];
+	  newOutput += nestedOutputs[j];
 //	  newOutput.push_back (spaces[tokenIndex]);
 
 	  newOutputs.push_back (newOutput);
@@ -81,39 +88,79 @@ putOuts (vector<vector<string> > outputs, vector<vector<string> > nestedOutputs,
 }
 
 void
-nestedRules (vector<string> tlTokens, vector<string> output,
-	     vector<xml_node> curNestedRules, vector<vector<string> >* outputs,
-	     vector<vector<xml_node> >* nestedOutsRules,
-	     map<xml_node, map<int, vector<string> > > ruleOuts,
-	     map<int, vector<pair<xml_node, unsigned> > > tokenRules,
+getMaxPat (int curMaxPat, unsigned curToken,
+	   map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules, unsigned* count)
+{
+  if (curMaxPat == 0)
+    return;
+
+  int maxPat = 0;
+  vector<pair<unsigned, unsigned> > rules = tokenRules[curToken];
+
+  if (rules.size ())
+    maxPat = rules[0].second;
+  for (unsigned i = 0; i < rules.size (); i++)
+    {
+      for (unsigned j = curToken; j < curToken + maxPat; j++)
+	{
+	  for (unsigned k = 0; k < tokenRules[j].size (); k++)
+	    {
+	      if (rules[i].first == tokenRules[j][k].first)
+		{
+		  tokenRules[j].erase (tokenRules[j].begin () + k);
+		  break;
+		}
+	    }
+	}
+    }
+
+  (*count)++;
+//  return max (0, maxPat - curMaxPat)
+//      + getMaxPat (max (curMaxPat - 1, maxPat - curMaxPat), curToken + 1, tokenRules);
+  getMaxPat (max (curMaxPat - 1, maxPat - curMaxPat), curToken + 1, tokenRules, count);
+}
+
+void
+nestedRules (vector<string> tlTokens, string output,
+	     vector<pair<unsigned, unsigned> > curNestedRules, vector<string>* outputs,
+	     vector<vector<pair<unsigned, unsigned> > >* nestedOutsRules,
+	     map<unsigned, map<unsigned, string> > ruleOuts,
+	     map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
 	     vector<string> spaces, unsigned curPatNum, unsigned curTokIndex)
 {
-  vector<pair<xml_node, unsigned> > rulesApplied = tokenRules[curTokIndex];
+  vector<pair<unsigned, unsigned> > rulesApplied = tokenRules[curTokIndex];
+
+//  cout << "enter nestedrules , curTok = " << curTokIndex << " , rules applied size = "
+//      << rulesApplied.size () << endl;
 
   for (unsigned i = 0; i < rulesApplied.size (); i++)
     {
-      xml_node rule = rulesApplied[i].first;
+      unsigned rule = rulesApplied[i].first;
       unsigned patNum = rulesApplied[i].second;
+
+//      cout << "curTok = " << curTokIndex << " , rule id = " << rule << " , patNum = "
+//	  << patNum << endl;
 
       if (patNum <= curPatNum)
 	{
-//	  cout << "token id = " << curTokIndex << " , curPatNum = " << curPatNum
-//	      << " , rule = " << rule.attribute (ID).value () << " , patNum = " << patNum
-//	      << endl;
+	  vector<pair<unsigned, unsigned> > newCurNestedRules = vector<
+	      pair<unsigned, unsigned> > (curNestedRules);
+	  newCurNestedRules.push_back (pair<unsigned, unsigned> (rule, curTokIndex));
 
-	  vector<xml_node> newCurNestedRules = vector<xml_node> (curNestedRules);
-	  newCurNestedRules.push_back (rule);
+	  string newOutput = output;
+//
+	  string ruleOut = ruleOuts[rule][curTokIndex];
+	  ruleOut += spaces[curTokIndex + patNum - 1];
+//
+	  newOutput += ruleOut;
 
-	  vector<string> newOutput = vector<string> (output);
+// remove that rule from all tokens
 
-	  vector<string> ruleOut = ruleOuts[rule][curTokIndex];
-	  ruleOut.push_back (spaces[curTokIndex]);
-
-	  newOutput.insert (newOutput.end (), ruleOut.begin (), ruleOut.end ());
-
-	  // remove that rule from all tokens
 	  for (unsigned j = curTokIndex; j < curTokIndex + patNum; j++)
-	    tokenRules[j].erase (tokenRules[j].begin ());
+	    {
+//	      cout << "tokenrules " << j << " size = " << tokenRules[j].size () << endl;
+	      tokenRules[j].erase (tokenRules[j].begin ());
+	    }
 
 	  if (curPatNum == patNum)
 	    {
@@ -122,13 +169,30 @@ nestedRules (vector<string> tlTokens, vector<string> output,
 	    }
 	  else
 	    {
-	      nestedRules (tlTokens, newOutput, newCurNestedRules, outputs,
-			   nestedOutsRules, ruleOuts, tokenRules, spaces,
-			   curPatNum - patNum, curTokIndex + patNum);
+	      nestedRules (tlTokens, output, newCurNestedRules, outputs, nestedOutsRules,
+			   ruleOuts, tokenRules, spaces, curPatNum - patNum,
+			   curTokIndex + patNum);
 	    }
 	}
     }
 
+  for (unsigned i = curTokIndex + 1; i < curTokIndex + curPatNum; i++)
+    {
+      vector<pair<unsigned, unsigned> > rulesApplied = tokenRules[i];
+      if (rulesApplied.size ())
+	{
+	  // longest rule
+	  unsigned maxPatterns = 0;
+
+	  getMaxPat (rulesApplied[0].second, i, tokenRules, &maxPatterns);
+
+	  nestedRules (tlTokens, string (), vector<pair<unsigned, unsigned> > (), outputs,
+		       nestedOutsRules, ruleOuts, tokenRules, spaces, maxPatterns, i);
+
+	  break;
+	}
+    }
+//  cout << "out tokeId = " << curTokIndex << endl;
 //  cout << endl;
 }
 
@@ -144,8 +208,10 @@ vectorToString (vector<vector<string> > vOutputs)
 	{
 	  output += vOutputs[i][j];
 	}
-
       sOutputs.push_back (output);
+
+      //free memory
+//      vOutputs[i].clear ();
     }
 
   return sOutputs;
@@ -166,7 +232,11 @@ ruleVectorToIds (vector<vector<vector<xml_node> > > vOutRules)
 	      // we want the id only (after the last '-')
 	      output.push_back (vOutRules[i][j][k].attribute (ID).as_int ());
 	    }
+	  // free memory
+//	  vOutRules[i][j].clear ();
 	}
+      // free memory
+//      vOutRules[i].clear ();
 
       sOutRules.push_back (output);
     }
@@ -174,91 +244,98 @@ ruleVectorToIds (vector<vector<vector<xml_node> > > vOutRules)
   return sOutRules;
 }
 
-vector<vector<vector<xml_node> > >
-putRules (vector<vector<vector<xml_node> > > outsRules,
-	  vector<vector<xml_node> > nestedOutsRules)
+vector<vector<vector<unsigned> > >
+putRules (vector<vector<vector<unsigned> > > outsRules,
+	  vector<vector<unsigned> > nestedOutsRules)
 {
-  vector<vector<vector<xml_node> > > newRules;
+  vector<vector<vector<unsigned> > > newRules;
 
   for (unsigned i = 0; i < outsRules.size (); i++)
     {
       for (unsigned j = 0; j < nestedOutsRules.size (); j++)
 	{
-	  vector<vector<xml_node> > newRule = vector<vector<xml_node> > (outsRules[i]);
+	  vector<vector<unsigned> > newRule = vector<vector<unsigned> > (outsRules[i]);
 
 	  newRule.push_back (nestedOutsRules[j]);
 
 	  newRules.push_back (newRule);
+
+	  // free memory
+//	  nestedOutsRules[j].clear();
 	}
+
+      // free memory
+//      outsRules[i].clear ();
+    }
+//  cout << "inside putrules : " << outsRules.size () << "  " << nestedOutsRules.size ()
+//      << "  " << newRules.size () << endl;
+  return newRules;
+}
+
+vector<vector<pair<unsigned, unsigned> > >
+putNestedRules (vector<vector<pair<unsigned, unsigned> > > outsRules,
+		vector<vector<pair<unsigned, unsigned> > > nestedOutsRules)
+{
+//  cout << "outsrule size = " << outsRules.size () << endl;
+//  cout << "nestedoutsrule size = " << nestedOutsRules.size () << endl;
+  vector<vector<pair<unsigned, unsigned> > > newRules;
+
+  for (unsigned i = 0; i < outsRules.size (); i++)
+    {
+      for (unsigned j = 0; j < nestedOutsRules.size (); j++)
+	{
+	  vector<pair<unsigned, unsigned> > newRule = vector<pair<unsigned, unsigned> > (
+	      outsRules[i]);
+
+	  newRule.insert (newRule.end (), nestedOutsRules[j].begin (),
+			  nestedOutsRules[j].end ());
+
+	  newRules.push_back (newRule);
+
+	  // free memory
+//	  nestedOutsRules[j].clear ();
+	}
+
+      // free memory
+//      outsRules[i].clear ();
     }
 
   return newRules;
 }
 
-unsigned
-getMaxPat (int curMaxPat, unsigned curToken,
-	   map<int, vector<pair<xml_node, unsigned> > > tokenRules)
-{
-  if (curMaxPat == 0)
-    return 0;
-
-  int maxPat = 0;
-  vector<pair<xml_node, unsigned> > rules = tokenRules[curToken];
-
-  if (rules.size ())
-    maxPat = rules[0].second;
-  for (unsigned i = 0; i < rules.size (); i++)
-    {
-      for (unsigned j = curToken; j < curToken + 4; j++)
-	{
-	  for (unsigned k = 0; k < tokenRules[j].size (); k++)
-	    {
-	      if (rules[i].first == tokenRules[j][k].first)
-		{
-		  tokenRules[j].erase (tokenRules[j].begin () + k);
-		  break;
-		}
-	    }
-	}
-    }
-
-  return max (0, maxPat - curMaxPat)
-      + getMaxPat (max (curMaxPat - 1, maxPat - curMaxPat), curToken + 1, tokenRules);
-}
-
-void
+bool
 RuleExecution::outputs (
     vector<string>* outs,
-    vector<vector<unsigned> >* rulesIds,
-    vector<vector<vector<xml_node> > >* outsRules,
-    vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > *ambigInfo,
+    vector<vector<pair<unsigned, unsigned> > >* rulesIds,
+    vector<vector<vector<unsigned> > >* outsRules,
+    vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > *ambigInfo,
     vector<string> tlTokens, vector<vector<string> > tags,
-    map<xml_node, map<int, vector<string> > > ruleOuts,
-    map<int, vector<pair<xml_node, unsigned> > > tokenRules, vector<string> spaces)
+    map<unsigned, map<unsigned, string> > ruleOuts,
+    map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules, vector<string> spaces)
 {
   // position of ambiguous rule among other ones
   int ambigPos = -1;
 
-  vector<vector<string> > outputs;
-  outputs.push_back (vector<string> ());
-
-  outsRules->push_back (vector<vector<xml_node> > ());
+  outs->push_back (string ());
+  rulesIds->push_back (vector<pair<unsigned, unsigned> > ());
+  outsRules->push_back (vector<vector<unsigned> > ());
 
   for (unsigned i = 0; i < tlTokens.size ();)
     {
-//      if (outputs.size () > 1024)
+      if (outs->size () > 16384)
+	return false;
 //	{
 //	  (*outs) = vectorToString (outputs);
 //	  (*rulesIds) = ruleVectorToIds (*outsRules);
 //	  return;
 //	}
-      vector<pair<xml_node, unsigned> > rulesApplied = tokenRules[i];
+      vector<pair<unsigned, unsigned> > rulesApplied = tokenRules[i];
 
       if (rulesApplied.empty ())
 	{
-	  vector<string> defOut = defaultOut (formatTokenTags (tlTokens[i], tags[i]));
+	  string defOut = noRuleOut (formatTokenTags (tlTokens[i], tags[i]));
 
-	  putOut (&outputs, defOut, i, spaces);
+	  putOut (outs, defOut, i, spaces);
 
 	  i++;
 	}
@@ -267,50 +344,63 @@ RuleExecution::outputs (
 	  ambigPos++;
 
 	  // longest rule
-	  unsigned maxPatterns = rulesApplied[0].second;
+	  unsigned maxPatterns = 0;
 
-	  maxPatterns += getMaxPat (maxPatterns, i, tokenRules);
+	  getMaxPat (rulesApplied[0].second, i, tokenRules, &maxPatterns);
 
 	  //cout << "curToken = " << i << "  maxPattern = " << maxPatterns << endl;
 
-	  vector<vector<string> > nestedOutputs;
-	  vector<vector<xml_node> > nestedOutsRules;
+	  vector<string> nestedOutputs;
+	  vector<vector<pair<unsigned, unsigned> > > nestedOutsRules;
 
-	  nestedRules (tlTokens, vector<string> (), vector<xml_node> (), &nestedOutputs,
-		       &nestedOutsRules, ruleOuts, tokenRules, spaces, maxPatterns, i);
+	  nestedRules (tlTokens, string (), vector<pair<unsigned, unsigned> > (),
+		       &nestedOutputs, &nestedOutsRules, ruleOuts, tokenRules, spaces,
+		       maxPatterns, i);
+
+	  vector<vector<unsigned> > nestedRules;
+	  for (unsigned j = 0; j < nestedOutsRules.size (); j++)
+	    {
+	      vector<unsigned> nestedRule;
+	      for (unsigned k = 0; k < nestedOutsRules[j].size (); k++)
+		nestedRule.push_back (nestedOutsRules[j][k].first);
+	      nestedRules.push_back (nestedRule);
+	    }
+
 	  // if there is ambiguity save the info
 	  if (nestedOutsRules.size () > 1)
 	    {
 	      ambigInfo->push_back (
 		  pair<pair<unsigned, unsigned>,
-		      pair<unsigned, vector<vector<xml_node> > > > (
+		      pair<unsigned, vector<vector<unsigned> > > > (
 		      pair<unsigned, unsigned> (i, maxPatterns),
-		      pair<unsigned, vector<vector<xml_node> > > (ambigPos,
-								  nestedOutsRules)));
+		      pair<unsigned, vector<vector<unsigned> > > (ambigPos,
+								  nestedRules)));
 	    }
 
-	  outputs = putOuts (outputs, nestedOutputs, i + maxPatterns - 1, spaces);
-	  (*outsRules) = putRules (*outsRules, nestedOutsRules);
+	  (*outs) = putOuts ((*outs), nestedOutputs, i + maxPatterns - 1, spaces);
+	  (*rulesIds) = putNestedRules ((*rulesIds), nestedOutsRules);
+	  (*outsRules) = putRules (*outsRules, nestedRules);
 
 	  i += maxPatterns;
 	}
     }
 
-  (*outs) = vectorToString (outputs);
-  (*rulesIds) = ruleVectorToIds (*outsRules);
+  return true;
+//  (*outs) = vectorToString (outputs);
+//  (*rulesIds) = ruleVectorToIds (*outsRules);
 }
 
 void
 RuleExecution::weightIndices (
     vector<vector<unsigned> >* weigInds,
-    vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > ambigInfo,
-    vector<vector<vector<xml_node> > > outsRules)
+    vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo,
+    vector<vector<vector<unsigned> > > outsRules)
 {
   for (unsigned i = 0; i < ambigInfo.size (); i++)
     {
-      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > p1 =
+      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > p1 =
 	  ambigInfo[i];
-      vector<vector<xml_node> > ambigRules = p1.second.second;
+      vector<vector<unsigned> > ambigRules = p1.second.second;
       unsigned rulePos = p1.second.first;
 
       for (unsigned x = 0; x < ambigRules.size (); x++)
@@ -318,7 +408,7 @@ RuleExecution::weightIndices (
 	  vector<unsigned> weigInd;
 	  for (unsigned z = 0; z < outsRules.size (); z++)
 	    {
-	      vector<xml_node> ambigRule = outsRules[z][rulePos];
+	      vector<unsigned> ambigRule = outsRules[z][rulePos];
 
 	      bool same = true;
 
@@ -348,34 +438,35 @@ RuleExecution::weightIndices (
 }
 
 void
-pushDistinct (map<int, vector<pair<xml_node, unsigned> > >* tokenRules, int tlTokInd,
-	      xml_node rule, unsigned patNum)
+pushDistinct (map<unsigned, vector<pair<unsigned, unsigned> > >* tokenRules,
+	      unsigned tlTokInd, xml_node rule, unsigned patNum)
 {
-  vector<pair<xml_node, unsigned> > pairs = (*tokenRules)[tlTokInd];
+  vector<pair<unsigned, unsigned> > pairs = (*tokenRules)[tlTokInd];
   for (unsigned i = 0; i < pairs.size (); i++)
     {
-      if (pairs[i].first == rule)
+      if (pairs[i].first == rule.attribute (ID).as_uint ())
 	return;
     }
 
-  (*tokenRules)[tlTokInd].push_back (pair<xml_node, unsigned> (rule, patNum));
+  (*tokenRules)[tlTokInd].push_back (
+      pair<unsigned, unsigned> (rule.attribute (ID).as_uint (), patNum));
 
   sort ((*tokenRules)[tlTokInd].begin (), (*tokenRules)[tlTokInd].end (), sortParameter);
 }
 
 void
-RuleExecution::ruleOuts (map<xml_node, map<int, vector<string> > >* ruleOuts,
-			 map<int, vector<pair<xml_node, unsigned> > >* tokenRules,
+RuleExecution::ruleOuts (map<unsigned, map<unsigned, string> >* ruleOuts,
+			 map<unsigned, vector<pair<unsigned, unsigned> > >* tokenRules,
 			 vector<string> slTokens, vector<vector<string> > slTags,
 			 vector<string> tlTokens, vector<vector<string> > tlTags,
-			 map<xml_node, vector<vector<int> > > rulesApplied,
+			 map<xml_node, vector<vector<unsigned> > > rulesApplied,
 			 map<string, vector<vector<string> > > attrs,
 			 map<string, vector<string> > lists, map<string, string>* vars,
 			 vector<string> spaces, string localeId)
 {
   //cout << "Inside  " << "ruleOuts" << endl;
 
-  for (map<xml_node, vector<vector<int> > >::iterator it = rulesApplied.begin ();
+  for (map<xml_node, vector<vector<unsigned> > >::iterator it = rulesApplied.begin ();
       it != rulesApplied.end (); ++it)
     {
       xml_node rule = it->first;
@@ -385,11 +476,11 @@ RuleExecution::ruleOuts (map<xml_node, map<int, vector<string> > >* ruleOuts,
 
 	  // format tokens and their tags into analysisTokens
 
-	  vector<int> matchedTokens = rulesApplied[rule][i];
+	  vector<unsigned> matchedTokens = rulesApplied[rule][i];
 
 	  for (unsigned j = 0; j < matchedTokens.size (); j++)
 	    {
-	      int tokInd = matchedTokens[j];
+	      unsigned tokInd = matchedTokens[j];
 
 	      vector<string> slAnalysisToken = RuleExecution::formatTokenTags (
 		  slTokens[tokInd], slTags[tokInd]);
@@ -410,7 +501,11 @@ RuleExecution::ruleOuts (map<xml_node, map<int, vector<string> > >* ruleOuts,
 							  vars, spaces, matchedTokens[0],
 							  localeId); // first pattern index
 
-	  (*ruleOuts)[rule][matchedTokens[0]] = output;
+	  string str;
+	  for (unsigned j = 0; j < output.size (); j++)
+	    str += output[j];
+
+	  (*ruleOuts)[rule.attribute (ID).as_uint ()][matchedTokens[0]] = str;
 	}
     }
 
@@ -565,19 +660,19 @@ RuleExecution::chunk (xml_node chunkNode, vector<vector<string> >* slAnalysisTok
 	}
       else if (childName == MLU)
 	{
+	  output.push_back ("^");
 	  // has only lu children
 	  for (xml_node lu = child.first_child (); lu; lu = lu.next_sibling ())
 	    {
 	      vector<string> result = concat (lu, slAnalysisTokens, tlAnalysisTokens,
 					      attrs, vars, spaces, firPat, localeId,
 					      paramToPattern);
-	      output.push_back ("^");
 	      output.insert (output.end (), result.begin (), result.end ());
-	      output.push_back ("$");
 
 	      if (lu.next_sibling ())
 		output.push_back ("+");
 	    }
+	  output.push_back ("$");
 	}
       else if (childName == B)
 	{
