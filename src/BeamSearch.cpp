@@ -80,18 +80,15 @@ main (int argc, char **argv)
       lextorFile.close ();
       inSentenceFile.close ();
 
-      vector<vector<string> > vslTokens;
-      vector<vector<string> > vouts;
-      vector<vector<vector<unsigned> > > vrulesIds;
-      vector<vector<vector<vector<xml_node> > > > voutsRules;
-      vector<
-	  vector<
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > > vambigInfo;
-      vector<vector<vector<unsigned> > > vweigInds;
-
       map<string, vector<vector<string> > > attrs = RuleParser::getAttrs (transfer);
       map<string, string> vars = RuleParser::getVars (transfer);
       map<string, vector<string> > lists = RuleParser::getLists (transfer);
+
+      vector<vector<string> > vslTokens;
+      vector<vector<vector<pair<unsigned, unsigned> > > > vrulesIds;
+      vector<
+	  vector<
+	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > > vambigInfo;
 
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
@@ -113,21 +110,21 @@ main (int argc, char **argv)
 					 tokenizedSentence);
 
 	  // map of tokens ids and their matched categories
-	  map<int, vector<string> > catsApplied;
+	  map<unsigned, vector<string> > catsApplied;
 
 	  RuleParser::matchCats (&catsApplied, slTokens, slTags, transfer);
 
 	  // map of matched rules and tokens id
-	  map<xml_node, vector<vector<int> > > rulesApplied;
+	  map<xml_node, vector<vector<unsigned> > > rulesApplied;
 
 	  RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
 
 	  // rule and (target) token map to specific output
 	  // if rule has many patterns we will choose the first token only
-	  map<xml_node, map<int, vector<string> > > ruleOutputs;
+	  map<unsigned, map<unsigned, string> > ruleOutputs;
 
 	  // map (target) token to all matched rules ids and the number of pattern items of each rule
-	  map<int, vector<pair<xml_node, unsigned> > > tokenRules;
+	  map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules;
 
 	  RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags, tlTokens,
 				   tlTags, rulesApplied, attrs, lists, &vars, spaces,
@@ -135,72 +132,18 @@ main (int argc, char **argv)
 
 	  // final outs and their applied rules
 	  vector<string> outs;
-	  vector<vector<unsigned> > rulesIds;
-	  vector<vector<vector<xml_node> > > outsRules;
+	  vector<vector<pair<unsigned, unsigned> > > rulesIds;
+	  vector<vector<vector<unsigned> > > outsRules;
 
 	  // ambiguity info contains the id of the first token and
 	  // the number of the token as a pair and then another pair
 	  // contains position of ambiguous rules among other rules and
 	  // vector of the rules applied to that tokens
 	  vector<
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<xml_node> > > > > ambigInfo;
+	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo;
 
 	  RuleExecution::outputs (&outs, &rulesIds, &outsRules, &ambigInfo, tlTokens,
 				  tlTags, ruleOutputs, tokenRules, spaces);
-
-	  //	  cout << "outs size = " << outs.size() << endl;
-	  //	  cout << endl << endl;
-	  //	  for (unsigned j = 0; j < outs.size (); j++)
-	  //	    cout << outs[j] << endl;
-	  //	  cout << endl;
-	  //
-	  //	  for (unsigned j = 0; j < rulesIds.size (); j++)
-	  //	    {
-	  //	      for (unsigned k = 0; k < rulesIds[j].size (); k++)
-	  //		{
-	  //		  cout << rulesIds[j][k] << " ";
-	  //		}
-	  //	      cout << endl;
-	  //	    }
-	  //	  cout << endl << endl;
-	  //
-	  //	  for (unsigned j = 0; j < outsRules.size (); j++)
-	  //	    {
-	  //	      for (unsigned k = 0; k < outsRules[j].size (); k++)
-	  //		{
-	  //		  for (unsigned h = 0; h < outsRules[j][k].size (); h++)
-	  //		    {
-	  //		      cout << outsRules[j][k][h].attribute (ID).value () << "-";
-	  //		    }
-	  //		  cout << " ";
-	  //		}
-	  //	      cout << endl;
-	  //	    }
-	  //	  cout << endl << endl;
-	  //
-	  //	  for (unsigned j = 0; j < slTokens.size (); j++)
-	  //	    {
-	  //	      cout << j << " : " << slTokens[j] << "  " << tlTokens[j] << endl;
-	  //	    }
-	  //	  cout << endl;
-	  //
-	  //	  for (map<xml_node, vector<vector<int> > >::iterator it = rulesApplied.begin ();
-	  //	      it != rulesApplied.end (); it++)
-	  //	    {
-	  //	      xml_node rule = it->first;
-	  //	      vector<vector<int> > tokenIds = it->second;
-	  //
-	  //	      cout << "rule id = " << rule.attribute (ID).value () << endl;
-	  //	      for (unsigned j = 0; j < tokenIds.size (); j++)
-	  //		{
-	  //		  for (unsigned k = 0; k < tokenIds[j].size (); k++)
-	  //		    {
-	  //		      cout << tokenIds[j][k] << " ";
-	  //		    }
-	  //		  cout << endl;
-	  //		}
-	  //	      cout << endl;
-	  //	    }
 
 	  // indexes of accumulated weights
 	  vector<vector<unsigned> > weigInds;
@@ -208,11 +151,8 @@ main (int argc, char **argv)
 	  RuleExecution::weightIndices (&weigInds, ambigInfo, outsRules);
 
 	  vslTokens.push_back (slTokens);
-	  vouts.push_back (outs);
 	  vrulesIds.push_back (rulesIds);
-	  voutsRules.push_back (outsRules);
 	  vambigInfo.push_back (ambigInfo);
-	  vweigInds.push_back (weigInds);
 	}
 
       // Read transfer sentences from tansfer file
@@ -223,9 +163,8 @@ main (int argc, char **argv)
 	for (unsigned i = 0; i < sourceSentences.size (); i++)
 	  {
 	    string line;
-	    vector<string> outs = vouts[i];
 	    vector<string> transfers;
-	    for (unsigned j = 0; j < outs.size (); j++)
+	    for (unsigned j = 0; j < vrulesIds[i].size (); j++)
 	      {
 		getline (transferOutFile, line);
 		transfers.push_back (line);
