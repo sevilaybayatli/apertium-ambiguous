@@ -29,21 +29,29 @@ using namespace elem;
 int
 main (int argc, char **argv)
 {
-  string sentenceFilePath = "sentences.txt", lextorFilePath = "lextor.txt",
-      transferOutFilePath = "transferOut.txt", beamFilePath = "BeamSearch-", modelsDest =
-	  "models", localeId = "kk_KZ", transferFilePath = "tranferFile.tx1";
+  string sentenceFilePath, lextorFilePath, interInFilePath, localeId, transferFilePath,
+      modelsDest, k;
 
-  if (argc >= 7)
+  if (argc == 8)
     {
       localeId = argv[1];
       transferFilePath = argv[2];
       sentenceFilePath = argv[3];
       lextorFilePath = argv[4];
-      transferOutFilePath = argv[5];
+      interInFilePath = argv[5];
       modelsDest = argv[6];
+      k = argv[7];
     }
   else
     {
+      localeId = "es_ES";
+      transferFilePath = "transferFile.t1x";
+      sentenceFilePath = "spa-test.txt";
+      lextorFilePath = "spa-test.lextor";
+      interInFilePath = "beaminter.out";
+      modelsDest = "modelstry";
+      k = "8";
+
       cout << "Error in parameters !" << endl;
       return -1;
     }
@@ -84,15 +92,18 @@ main (int argc, char **argv)
       map<string, string> vars = RuleParser::getVars (transfer);
       map<string, vector<string> > lists = RuleParser::getLists (transfer);
 
-      vector<vector<string> > vslTokens;
-      vector<vector<vector<pair<unsigned, unsigned> > > > vrulesIds;
-      vector<
-	  vector<
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > > vambigInfo;
+      map<string, map<string, vector<float> > > classesWeights =
+	  CLExec::loadYasmetModels (modelsDest);
 
+      vector<vector<string> > vouts;
+
+      int beam;
+      stringstream buffer (k);
+      buffer >> beam;
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
-	  //	  cout << i << endl;
+	  cout << i << endl;
+
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
 	  tokenizedSentence = tokenizedSentences[i];
@@ -114,8 +125,8 @@ main (int argc, char **argv)
 
 	  RuleParser::matchCats (&catsApplied, slTokens, slTags, transfer);
 
-	  // map of matched rules and tokens id
-	  map<xml_node, vector<vector<unsigned> > > rulesApplied;
+	  // map of matched rules and a pair of first token id and patterns number
+	  map<xml_node, vector<pair<unsigned, unsigned> > > rulesApplied;
 
 	  RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
 
@@ -130,103 +141,42 @@ main (int argc, char **argv)
 				   tlTags, rulesApplied, attrs, lists, &vars, spaces,
 				   localeId);
 
-	  // final outs and their applied rules
+	  // final outputs
 	  vector<string> outs;
-	  vector<vector<pair<unsigned, unsigned> > > rulesIds;
-	  vector<vector<vector<unsigned> > > outsRules;
+	  // number of generated combinations
+	  unsigned compNum;
+	  // nodes for every token and rule
+	  map<unsigned, vector<RuleExecution::Node*> > nodesPool;
+	  // ambiguous informations
+	  vector<RuleExecution::AmbigInfo*> ambigInfo;
+	  // beam tree
+	  vector<pair<vector<RuleExecution::Node*>, float> > beamTree;
 
-	  // ambiguity info contains the id of the first token and
-	  // the number of the token as a pair and then another pair
-	  // contains position of ambiguous rules among other rules and
-	  // vector of the rules applied to that tokens
-	  vector<
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo;
+	  nodesPool = RuleExecution::getNodesPool (tokenRules);
 
-	  RuleExecution::outputs (&outs, &rulesIds, &outsRules, &ambigInfo, tlTokens,
-				  tlTags, ruleOutputs, tokenRules, spaces);
+	  RuleExecution::getAmbigInfo (tokenRules, nodesPool, &ambigInfo, &compNum);
 
-	  // indexes of accumulated weights
-	  vector<vector<unsigned> > weigInds;
+	  CLExec::beamSearch (&beamTree, beam, slTokens, ambigInfo, classesWeights,
+			      localeId);
 
-	  RuleExecution::weightIndices (&weigInds, ambigInfo, outsRules);
+	  RuleExecution::getOuts (&outs, beamTree, nodesPool, ruleOutputs, spaces);
 
-	  vslTokens.push_back (slTokens);
-	  vrulesIds.push_back (rulesIds);
-	  vambigInfo.push_back (ambigInfo);
+	  vouts.push_back (outs);
 	}
 
-      // Read transfer sentences from tansfer file
-      vector<string> vtransfers[sourceSentences.size ()];
-
-      ifstream transferOutFile (transferOutFilePath.c_str ());
-      if (transferOutFile.is_open ())
-	for (unsigned i = 0; i < sourceSentences.size (); i++)
+      // write the outs
+      ofstream interInFile (interInFilePath.c_str ());
+      if (interInFile.is_open ())
+	for (unsigned i = 0; i < vouts.size (); i++)
 	  {
-	    string line;
-	    vector<string> transfers;
-	    for (unsigned j = 0; j < vrulesIds[i].size (); j++)
-	      {
-		getline (transferOutFile, line);
-		transfers.push_back (line);
-	      }
-
-	    vtransfers[i] = transfers;
+	    for (unsigned j = 0; j < vouts[i].size (); j++)
+	      interInFile << vouts[i][j] << endl;
+	    cout << endl;
 	  }
       else
-	cout << "error in opening weightOutFile" << endl;
-      transferOutFile.close ();
+	cout << "ERROR in opening files!" << endl;
+      interInFile.close ();
 
-      // beamSearch
-      map<string, map<string, vector<float> > > classesWeights =
-	  CLExec::loadYasmetModels (modelsDest);
-
-      for (int ind = 6; ind < argc; ind++)
-	{
-	  int beam;
-	  istringstream buffer (argv[ind]);
-	  buffer >> beam;
-
-	  vector<vector<pair<unsigned, float> > > bestTransInds;
-
-	  for (unsigned i = 0; i < sourceSentences.size (); i++)
-	    {
-	      vector<pair<vector<unsigned>, float> > beamTree;
-	      CLExec::beamSearch (&beamTree, beam, vslTokens[i], vambigInfo[i],
-				  classesWeights, localeId);
-
-	      vector<pair<unsigned, float> > transInds;
-	      CLExec::getTransInds (&transInds, beamTree, vrulesIds[i]);
-
-	      // Take the best translation index and weight only
-	      bestTransInds.push_back (transInds);
-	    }
-
-	  // write best translations to file
-	  ofstream beamFile (
-	      (beamFilePath + string (argv[ind]) + string (".txt")).c_str ());
-	  if (beamFile.is_open ())
-	    {
-	      beamFile << "Beam search algorithm results with beam = " << beam << endl;
-	      beamFile << "-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-"
-		  << endl << endl << endl;
-	      for (unsigned i = 0; i < sourceSentences.size (); i++)
-		{
-		  beamFile << (i + 1) << endl;
-		  beamFile << "Source : " << sourceSentences[i] << endl << endl;
-
-		  for (unsigned j = 0; j < bestTransInds[i].size (); j++)
-		    {
-		      beamFile << "Target : " << vtransfers[i][bestTransInds[i][j].first]
-			  << endl;
-		      beamFile << "Weight : " << bestTransInds[i][j].second << endl
-			  << endl;
-		    }
-		  beamFile << "--------------------------------------------------" << endl
-		      << endl;
-		}
-	      beamFile.close ();
-	    }
-	}
     }
   else
     {
