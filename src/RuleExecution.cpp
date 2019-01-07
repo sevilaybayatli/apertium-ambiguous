@@ -17,30 +17,37 @@ using namespace elem;
 
 #include "RuleExecution.h"
 
-// to sort rules in tokenRules descendingly by their number of pattern items
-bool
-sortParameter (pair<unsigned, unsigned> a, pair<unsigned, unsigned> b)
+void
+putCombination (vector<vector<RuleExecution::Node*> >* combinations,
+		vector<RuleExecution::Node*> combination)
 {
-  return (a.second > b.second);
+  for (unsigned i = 0; i < combinations->size (); i++)
+    (*combinations)[i].insert ((*combinations)[i].end (), combination.begin (),
+			       combination.end ());
 }
 
-string
-RuleExecution::noRuleOut (vector<string> analysis)
+vector<vector<RuleExecution::Node*> >
+putCombinations (vector<vector<RuleExecution::Node*> > combinations,
+		 vector<vector<RuleExecution::Node*> > nestedcombinations)
 {
-  vector<string> out;
-  // unknown word
-  if (analysis[0][0] == '*')
-    out.push_back ("^unknown<unknown>{^");
-  else
-    out.push_back ("^default<default>{^");
-  out.insert (out.end (), analysis.begin (), analysis.end ());
-  out.push_back ("$}$");
+  vector<vector<RuleExecution::Node*> > newcombinations;
 
-  string str;
-  for (unsigned i = 0; i < out.size (); i++)
-    str += out[i];
+  for (unsigned i = 0; i < combinations.size (); i++)
+    {
+      for (unsigned j = 0; j < nestedcombinations.size (); j++)
+	{
+	  vector<RuleExecution::Node*> newcombination = vector<RuleExecution::Node*> (
+	      combinations[i]);
+	  // +1 to skip dummy node
+	  newcombination.insert (newcombination.end (),
+				 nestedcombinations[j].begin () + 1,
+				 nestedcombinations[j].end ());
 
-  return str;
+	  newcombinations.push_back (newcombination);
+	}
+    }
+
+  return newcombinations;
 }
 
 void
@@ -55,8 +62,7 @@ putOut (vector<string>* outputs, string output, unsigned tokenIndex,
 }
 
 vector<string>
-putOuts (vector<string> outputs, vector<string> nestedOutputs, unsigned tokenIndex,
-	 vector<string> spaces)
+putOuts (vector<string> outputs, vector<string> nestedOutputs)
 {
 //  cout << endl << "nestedOutputs : " << tokenIndex << endl;
 //  for (unsigned i = 0; i < nestedOutputs.size (); i++)
@@ -87,6 +93,235 @@ putOuts (vector<string> outputs, vector<string> nestedOutputs, unsigned tokenInd
   return newOutputs;
 }
 
+//vector<string>
+//RuleExecution::getOuts (vector<vector<Node*> > ambigRules,
+//			map<unsigned, map<unsigned, string> > ruleOutputs,
+//			vector<string> spaces)
+//{
+//  vector<string> outs;
+//
+//  for (unsigned i = 0; i < ambigRules.size (); i++)
+//    {
+//      string out;
+//      // skip first dummy node
+//      for (unsigned j = 1; j < ambigRules[i].size (); j++)
+//	{
+//	  Node node = *ambigRules[i][j];
+//	  out += ruleOutputs[node.ruleId][node.tokenId] + spaces[node.tokenId];
+//	}
+//      outs.push_back (out);
+//    }
+//
+//  return outs;
+//}
+
+void
+RuleExecution::getOuts (vector<string>* finalOuts,
+			vector<pair<vector<RuleExecution::Node*>, float> > beamTree,
+			map<unsigned, vector<RuleExecution::Node*> > nodesPool,
+			map<unsigned, map<unsigned, string> > ruleOutputs,
+			vector<string> spaces)
+{
+  for (unsigned i = 0; i < beamTree.size (); i++)
+    {
+      map<unsigned, Node*> bestNodes;
+      for (unsigned j = 0; j < beamTree[i].first.size (); j++)
+	{
+	  bestNodes[beamTree[i].first[j]->tokenId] = beamTree[i].first[j];
+	}
+
+      string out;
+      for (unsigned j = 0; j < nodesPool.size ();)
+	{
+	  Node* node;
+	  if (bestNodes.count (j))
+	    node = bestNodes[j];
+	  else
+	    node = nodesPool[j][0];
+
+	  out += ruleOutputs[node->ruleId][node->tokenId]
+	      + spaces[node->tokenId + node->patNum - 1];
+
+	  j += node->patNum;
+	}
+      finalOuts->push_back (out);
+    }
+}
+
+void
+RuleExecution::getOuts (vector<string>* finalOuts, vector<vector<Node*> >* finalCombNodes,
+			vector<RuleExecution::AmbigInfo*> ambigInfo,
+			map<unsigned, vector<RuleExecution::Node*> > nodesPool,
+			map<unsigned, map<unsigned, string> > ruleOutputs,
+			vector<string> spaces)
+{
+//  cout << ambigInfo.size () << endl;
+//  cout << ambigInfo[0]->combinations.size () << endl;
+  for (unsigned i = 0;
+      (i < ambigInfo.size () && ambigInfo[i]->combinations.size () > 1) || (i < 1); i++)
+    {
+      vector<vector<Node*> > combNodes;
+      combNodes.push_back (vector<Node*> ());
+      vector<string> outs;
+      outs.push_back ("");
+
+      for (unsigned j = 0, curAmbig = 0; j < nodesPool.size ();)
+	{
+	  vector<RuleExecution::Node*> nodes = nodesPool[j];
+
+//	  cout << "i = " << i << " , curAmbig = " << curAmbig << " , j = " << j << endl;
+	  if (nodes.size () > 1)
+	    {
+	      vector<vector<Node*> > combinations = ambigInfo[curAmbig]->combinations;
+
+//	      cout << "comNum = " << combinations.size () << endl;
+
+	      if (i == curAmbig)
+		{
+		  combNodes = putCombinations (combNodes, combinations);
+
+		  vector<string> ambigOuts;
+
+		  for (unsigned k = 0; k < combinations.size (); k++)
+		    {
+		      string ambigOut;
+		      // skip the dummy node
+		      for (unsigned l = 1; l < combinations[k].size (); l++)
+			{
+			  ambigOut +=
+			      ruleOutputs[combinations[k][l]->ruleId][combinations[k][l]->tokenId]
+				  + spaces[combinations[k][l]->tokenId
+				      + combinations[k][l]->patNum - 1];
+			}
+		      ambigOuts.push_back (ambigOut);
+		    }
+
+		  outs = putOuts (outs, ambigOuts);
+		}
+	      else
+		{
+		  putCombination (
+		      &combNodes,
+		      vector<Node*> (combinations[0].begin () + 1,
+				     combinations[0].end ()));
+		  // take the first combination only , while solving the last space issue
+		  string ambigOut;
+		  // skip the dummy node
+		  unsigned l = 1;
+		  for (; l < combinations[0].size () - 1; l++)
+		    {
+		      ambigOut +=
+			  ruleOutputs[combinations[0][l]->ruleId][combinations[0][l]->tokenId]
+			      + spaces[combinations[0][l]->tokenId
+				  + combinations[0][l]->patNum - 1];
+		    }
+		  ambigOut +=
+		      ruleOutputs[combinations[0][l]->ruleId][combinations[0][l]->tokenId];
+		  putOut (&outs, ambigOut,
+			  combinations[0][l]->tokenId + combinations[0][l]->patNum - 1,
+			  spaces);
+		}
+
+	      j += ambigInfo[curAmbig]->maxPat;
+	      curAmbig++;
+	    }
+	  // make it else if nodes.size()==1
+	  else
+	    {
+	      putCombination (&combNodes, nodes);
+	      // put the method above this method
+//	      cout << "here  " << nodes.size () << endl;
+//	      cout << nodes[0]->tokenId << "  " << nodes[0]->patNum << "  "
+//		  << spaces.size () << endl;
+	      putOut (&outs, ruleOutputs[nodes[0]->ruleId][nodes[0]->tokenId],
+		      nodes[0]->tokenId + nodes[0]->patNum - 1, spaces);
+	      j++;
+	    }
+	}
+      finalOuts->insert (finalOuts->end (), outs.begin (), outs.end ());
+      finalCombNodes->insert (finalCombNodes->end (), combNodes.begin (),
+			      combNodes.end ());
+    }
+}
+
+void
+RuleExecution::getCombinations (Node* root, vector<Node*> path,
+				vector<vector<Node*> >* ambigRules)
+{
+//  if (ambigRules->size () >= 100000)
+//    return;
+
+  path.push_back (root);
+
+  for (unsigned i = 0; i < root->neighbors.size (); i++)
+    getCombinations (root->neighbors[i], path, ambigRules);
+
+  if (root->neighbors.empty ())
+    {
+      // if the rule0 in a combi   nation , don't count it
+      for (unsigned i = 0; i < path.size (); i++)
+	if (path[i]->ruleId == 0)
+	  return;
+
+      ambigRules->push_back (path);
+    }
+}
+
+void
+RuleExecution::normaliseWeights (vector<vector<float> >* vweights,
+				 vector<vector<RuleExecution::AmbigInfo*> > vambigInfo)
+{
+//  cout << vambigInfo.size () << "  " << vweights->size () << endl;
+  for (unsigned i = 0; i < vambigInfo.size (); i++)
+    {
+      vector<float> weights = (*vweights)[i];
+      unsigned weigInd = 0;
+
+      for (unsigned j = 0; j < vambigInfo[i].size (); j++)
+	{
+	  // get sum of weights of an ambigInfo
+	  float sum = 0;
+	  for (unsigned k = 0; k < vambigInfo[i][j]->combinations.size (); k++)
+	    {
+	      sum += weights[weigInd + k];
+	    }
+	  // Then normalize it
+	  for (unsigned k = 0; k < vambigInfo[i][j]->combinations.size (); k++)
+	    {
+	      // if sum=0 , to avoid nans we will make them all equal in weights
+	      if (sum)
+		weights[weigInd + k] /= sum;
+	      else
+		weights[weigInd + k] = 1 / vambigInfo[i][j]->combinations.size ();
+	    }
+
+	  // update weighInd
+	  weigInd += vambigInfo[i][j]->combinations.size ();
+	}
+      (*vweights)[i] = weights;
+    }
+}
+
+//void
+//RuleExecution::getCombinations (Node root, vector<pair<unsigned, unsigned> > path,
+//				vector<vector<pair<unsigned, unsigned> > >* ambigRules)
+//{
+//  if (ambigRules->size () >= 1000000)
+//    return;
+//
+//  path.push_back (pair<unsigned, unsigned> (root.tokenId, root.ruleId));
+//
+//  for (unsigned i = 0; i < root.neighbors.size (); i++)
+//    getCombinations (*root.neighbors[i], path, ambigRules);
+//
+//  if (root.neighbors.empty ())
+//    {
+//      // remove the first dummy node
+//      path.erase (path.begin ());
+//      ambigRules->push_back (path);
+//    }
+//}
+
 void
 getMaxPat (int curMaxPat, unsigned curToken,
 	   map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules, unsigned* count)
@@ -99,25 +334,144 @@ getMaxPat (int curMaxPat, unsigned curToken,
 
   if (rules.size ())
     maxPat = rules[0].second;
-  for (unsigned i = 0; i < rules.size (); i++)
-    {
-      for (unsigned j = curToken; j < curToken + maxPat; j++)
-	{
-	  for (unsigned k = 0; k < tokenRules[j].size (); k++)
-	    {
-	      if (rules[i].first == tokenRules[j][k].first)
-		{
-		  tokenRules[j].erase (tokenRules[j].begin () + k);
-		  break;
-		}
-	    }
-	}
-    }
+//  for (unsigned i = 0; i < rules.size (); i++)
+//    {
+//      for (unsigned j = curToken; j < curToken + maxPat; j++)
+//	{
+//	  for (unsigned k = 0; k < tokenRules[j].size (); k++)
+//	    {
+//	      if (rules[i].first == tokenRules[j][k].first)
+//		{
+//		  tokenRules[j].erase (tokenRules[j].begin () + k);
+//		  break;
+//		}
+//	    }
+//	}
+//    }
 
   (*count)++;
 //  return max (0, maxPat - curMaxPat)
 //      + getMaxPat (max (curMaxPat - 1, maxPat - curMaxPat), curToken + 1, tokenRules);
   getMaxPat (max (curMaxPat - 1, maxPat - curMaxPat), curToken + 1, tokenRules, count);
+}
+
+void
+RuleExecution::getAmbigInfo (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+			     map<unsigned, vector<RuleExecution::Node*> > nodesPool,
+			     vector<RuleExecution::AmbigInfo*>* ambigInfo,
+			     unsigned* combNum)
+{
+  *combNum = 0;
+  for (unsigned tokId = 0; tokId < tokenRules.size ();)
+    {
+      unsigned maxPat = 0;
+      vector<pair<unsigned, unsigned> > rules = tokenRules[tokId];
+      getMaxPat (rules[0].second, tokId, tokenRules, &maxPat);
+
+      // if there is ambiguity
+      if (nodesPool[tokId].size () > 1)
+	{
+	  AmbigInfo* ambig = new AmbigInfo (tokId, maxPat);
+	  ambigInfo->push_back (ambig);
+
+	  Node dummy = ambiguousGraph (tokenRules, nodesPool, tokId, maxPat);
+	  getCombinations (&dummy, vector<Node*> (), &ambig->combinations);
+	  *combNum += ambig->combinations.size ();
+	}
+      tokId += maxPat;
+    }
+}
+
+map<unsigned, vector<RuleExecution::Node*> >
+RuleExecution::getNodesPool (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules)
+{
+  map<unsigned, vector<Node*> > nodesPool;
+  for (map<unsigned, vector<pair<unsigned, unsigned> > >::iterator it =
+      tokenRules.begin (); it != tokenRules.end (); it++)
+    {
+      unsigned tokenId = it->first;
+      vector<pair<unsigned, unsigned> > rules = it->second;
+      for (unsigned i = 0; i < rules.size (); i++)
+	{
+	  unsigned ruleId = rules[i].first;
+	  unsigned patNum = rules[i].second;
+	  Node* node = new Node (tokenId, ruleId, patNum);
+	  nodesPool[tokenId].push_back (node);
+	}
+    }
+  return nodesPool;
+}
+
+RuleExecution::Node
+RuleExecution::ambiguousGraph (
+    map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+    map<unsigned, vector<Node*> > nodesPool, unsigned firTok, unsigned maxPat)
+{
+  for (unsigned i = firTok; i < firTok + maxPat; i++)
+    {
+      vector<Node*> nodes = nodesPool[i];
+      for (unsigned i = 0; i < nodes.size (); i++)
+	{
+	  Node* node = nodes[i];
+	  // last nodes will point to nothing
+	  if (node->tokenId + node->patNum < firTok + maxPat)
+	    node->neighbors = nodesPool[node->tokenId + node->patNum];
+	}
+    }
+
+  // root(dummy) node points to the first token node/s
+  Node root = Node (-1, -1, -1);
+  root.neighbors = nodesPool[firTok];
+  return root;
+}
+
+RuleExecution::Node
+RuleExecution::ambiguousGraph (
+    map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+    map<unsigned, vector<Node*> > nodesPool)
+{
+  for (unsigned i = 0; i < nodesPool.size (); i++)
+    {
+      vector<Node*> nodes = nodesPool[i];
+      for (unsigned i = 0; i < nodes.size (); i++)
+	{
+	  Node* node = nodes[i];
+	  // last nodes will point to not existent nodes
+	  if (nodesPool.count (node->tokenId + node->patNum))
+	    node->neighbors = nodesPool[node->tokenId + node->patNum];
+	}
+    }
+
+  // root(dummy) node points to the first token node/s
+  Node root = Node (-1, -1, -1);
+  root.neighbors = nodesPool[0];
+  return root;
+}
+
+// to sort rules in tokenRules descendingly by their number of pattern items
+bool
+sortParameter (pair<unsigned, unsigned> a, pair<unsigned, unsigned> b)
+{
+  return (a.second > b.second);
+}
+
+string
+RuleExecution::noRuleOut (vector<string> analysis)
+{
+  vector<string> out;
+  // unknown word
+  if (analysis[0][0] == '*')
+    out.push_back ("^unknown<unknown>{^");
+  else
+    out.push_back ("^default<default>{^");
+  out.insert (out.end (), analysis.begin (), analysis.end ());
+  out.push_back ("$}$");
+
+  string str;
+  for (unsigned i = 0; i < out.size (); i++)
+    str += out[i];
+
+  return str;
 }
 
 void
@@ -131,7 +485,7 @@ nestedRules (vector<string> tlTokens, string output,
   vector<pair<unsigned, unsigned> > rulesApplied = tokenRules[curTokIndex];
 
 //  cout << "enter nestedrules , curTok = " << curTokIndex << " , rules applied size = "
-//      << rulesApplied.size () << endl;
+//      << rulesApplied.size () << " , curPatNum = " << curPatNum << endl;
 
   for (unsigned i = 0; i < rulesApplied.size (); i++)
     {
@@ -139,7 +493,7 @@ nestedRules (vector<string> tlTokens, string output,
       unsigned patNum = rulesApplied[i].second;
 
 //      cout << "curTok = " << curTokIndex << " , rule id = " << rule << " , patNum = "
-//	  << patNum << endl;
+//	  << patNum << " , applied = " << (patNum <= curPatNum) << endl;
 
       if (patNum <= curPatNum)
 	{
@@ -150,17 +504,19 @@ nestedRules (vector<string> tlTokens, string output,
 	  string newOutput = output;
 //
 	  string ruleOut = ruleOuts[rule][curTokIndex];
+//	  cout << curTokIndex << " " << patNum << endl;
 	  ruleOut += spaces[curTokIndex + patNum - 1];
 //
 	  newOutput += ruleOut;
 
 // remove that rule from all tokens
 
-	  for (unsigned j = curTokIndex; j < curTokIndex + patNum; j++)
-	    {
-//	      cout << "tokenrules " << j << " size = " << tokenRules[j].size () << endl;
-	      tokenRules[j].erase (tokenRules[j].begin ());
-	    }
+	  tokenRules[curTokIndex].erase (tokenRules[curTokIndex].begin ());
+//	  for (unsigned j = curTokIndex; j < curTokIndex + patNum; j++)
+//	    {
+////	      cout << "tokenrules " << j << " size = " << tokenRules[j].size () << endl;
+//	      tokenRules[j].erase (tokenRules[j].begin ());
+//	    }
 
 	  if (curPatNum == patNum)
 	    {
@@ -176,22 +532,22 @@ nestedRules (vector<string> tlTokens, string output,
 	}
     }
 
-  for (unsigned i = curTokIndex + 1; i < curTokIndex + curPatNum; i++)
-    {
-      vector<pair<unsigned, unsigned> > rulesApplied = tokenRules[i];
-      if (rulesApplied.size ())
-	{
-	  // longest rule
-	  unsigned maxPatterns = 0;
-
-	  getMaxPat (rulesApplied[0].second, i, tokenRules, &maxPatterns);
-
-	  nestedRules (tlTokens, string (), vector<pair<unsigned, unsigned> > (), outputs,
-		       nestedOutsRules, ruleOuts, tokenRules, spaces, maxPatterns, i);
-
-	  break;
-	}
-    }
+//  for (unsigned i = curTokIndex + 1; i < curTokIndex + curPatNum; i++)
+//    {
+//      vector<pair<unsigned, unsigned> > rulesApplied = tokenRules[i];
+//      if (rulesApplied.size ())
+//	{
+//	  // longest rule
+//	  unsigned maxPatterns = 0;
+//
+//	  getMaxPat (rulesApplied[0].second, i, tokenRules, &maxPatterns);
+//
+//	  nestedRules (tlTokens, string (), vector<pair<unsigned, unsigned> > (), outputs,
+//		       nestedOutsRules, ruleOuts, tokenRules, spaces, maxPatterns, i);
+//
+//	  break;
+//	}
+//    }
 //  cout << "out tokeId = " << curTokIndex << endl;
 //  cout << endl;
 }
@@ -303,6 +659,60 @@ putNestedRules (vector<vector<pair<unsigned, unsigned> > > outsRules,
   return newRules;
 }
 
+//void
+//RuleExecution::getAmbigInfo (
+//    vector<vector<vector<unsigned> > >* ambigRulIdsCombs,
+//    map<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > >* ambigInfo,
+//    vector<pair<unsigned, unsigned> > maxPatts,
+//    vector<vector<RuleExecution::Node*> > tokRulIdsCombs)
+//{
+//  for (unsigned i = 0; i < tokRulIdsCombs.size (); i++)
+//    {
+//      vector<vector<unsigned> > ambigRulIdsComb;
+//
+//      vector<RuleExecution::Node*> tokRulIdsComb = tokRulIdsCombs[i];
+//
+//      for (unsigned j = 0; j < maxPatts.size (); j++)
+//	{
+//	  vector<unsigned> ambigRulIds;
+//
+//	  bool ambiguous = false;
+//	  // start from k = 1 because the first node is dummy
+//	  for (unsigned k = 1; k < tokRulIdsComb.size (); k++)
+//	    {
+//	      // check the node before this current node to
+//	      // see if this current token has ambigous rules
+//	      if (tokRulIdsComb[k]->tokenId == maxPatts[j].first)
+//		ambiguous = tokRulIdsComb[k - 1]->neighbors.size () > 1;
+//
+//	      // we want the token ids = current maxpat
+//	      if (tokRulIdsComb[k]->tokenId >= maxPatts[j].first
+//		  && tokRulIdsComb[k]->tokenId < maxPatts[j].first + maxPatts[j].second)
+//		ambigRulIds.push_back (tokRulIdsComb[k]->ruleId);
+//
+//	      else if (tokRulIdsComb[k]->tokenId
+//		  == maxPatts[j].first + maxPatts[j].second)
+//		break;
+//	    }
+//
+//	  if (ambiguous)
+//	    {
+//	      (*ambigInfo)[pair<unsigned, unsigned> (maxPatts[j].first,
+//						     maxPatts[j].second)].first =
+//		  ambigRulIdsComb.size ();
+//	      (*ambigInfo)[pair<unsigned, unsigned> (maxPatts[j].first,
+//						     maxPatts[j].second)].second.push_back (
+//		  ambigRulIds);
+////	      cout << "here size = " << ambigRulIds.size () << endl;
+//	    }
+//
+//	  ambigRulIdsComb.push_back (ambigRulIds);
+//	}
+//
+//      ambigRulIdsCombs->push_back (ambigRulIdsComb);
+//    }
+//}
+
 bool
 RuleExecution::outputs (
     vector<string>* outs,
@@ -331,58 +741,56 @@ RuleExecution::outputs (
 //	}
       vector<pair<unsigned, unsigned> > rulesApplied = tokenRules[i];
 
-      if (rulesApplied.empty ())
+//      if (rulesApplied.empty ())
+//	{
+//	  string defOut = noRuleOut (formatTokenTags (tlTokens[i], tags[i]));
+//
+//	  putOut (outs, defOut, i, spaces);
+//
+//	  i++;
+//	}
+//      else
+//	{
+      ambigPos++;
+
+      // longest rule
+      unsigned maxPatterns = 0;
+
+      getMaxPat (rulesApplied[0].second, i, tokenRules, &maxPatterns);
+
+      //cout << "curToken = " << i << "  maxPattern = " << maxPatterns << endl;
+
+      vector<string> nestedOutputs;
+      vector<vector<pair<unsigned, unsigned> > > nestedOutsRules;
+
+      nestedRules (tlTokens, string (), vector<pair<unsigned, unsigned> > (),
+		   &nestedOutputs, &nestedOutsRules, ruleOuts, tokenRules, spaces,
+		   maxPatterns, i);
+
+      vector<vector<unsigned> > nestedRules;
+      for (unsigned j = 0; j < nestedOutsRules.size (); j++)
 	{
-	  string defOut = noRuleOut (formatTokenTags (tlTokens[i], tags[i]));
-
-	  putOut (outs, defOut, i, spaces);
-
-	  i++;
+	  vector<unsigned> nestedRule;
+	  for (unsigned k = 0; k < nestedOutsRules[j].size (); k++)
+	    nestedRule.push_back (nestedOutsRules[j][k].first);
+	  nestedRules.push_back (nestedRule);
 	}
-      else
+
+      // if there is ambiguity save the info
+      if (nestedOutsRules.size () > 1)
 	{
-	  ambigPos++;
-
-	  // longest rule
-	  unsigned maxPatterns = 0;
-
-	  getMaxPat (rulesApplied[0].second, i, tokenRules, &maxPatterns);
-
-	  //cout << "curToken = " << i << "  maxPattern = " << maxPatterns << endl;
-
-	  vector<string> nestedOutputs;
-	  vector<vector<pair<unsigned, unsigned> > > nestedOutsRules;
-
-	  nestedRules (tlTokens, string (), vector<pair<unsigned, unsigned> > (),
-		       &nestedOutputs, &nestedOutsRules, ruleOuts, tokenRules, spaces,
-		       maxPatterns, i);
-
-	  vector<vector<unsigned> > nestedRules;
-	  for (unsigned j = 0; j < nestedOutsRules.size (); j++)
-	    {
-	      vector<unsigned> nestedRule;
-	      for (unsigned k = 0; k < nestedOutsRules[j].size (); k++)
-		nestedRule.push_back (nestedOutsRules[j][k].first);
-	      nestedRules.push_back (nestedRule);
-	    }
-
-	  // if there is ambiguity save the info
-	  if (nestedOutsRules.size () > 1)
-	    {
-	      ambigInfo->push_back (
-		  pair<pair<unsigned, unsigned>,
-		      pair<unsigned, vector<vector<unsigned> > > > (
-		      pair<unsigned, unsigned> (i, maxPatterns),
-		      pair<unsigned, vector<vector<unsigned> > > (ambigPos,
-								  nestedRules)));
-	    }
-
-	  (*outs) = putOuts ((*outs), nestedOutputs, i + maxPatterns - 1, spaces);
-	  (*rulesIds) = putNestedRules ((*rulesIds), nestedOutsRules);
-	  (*outsRules) = putRules (*outsRules, nestedRules);
-
-	  i += maxPatterns;
+	  ambigInfo->push_back (
+	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > (
+		  pair<unsigned, unsigned> (i, maxPatterns),
+		  pair<unsigned, vector<vector<unsigned> > > (ambigPos, nestedRules)));
 	}
+
+      (*outs) = putOuts ((*outs), nestedOutputs/*, i + maxPatterns - 1, spaces*/);
+      (*rulesIds) = putNestedRules ((*rulesIds), nestedOutsRules);
+      (*outsRules) = putRules (*outsRules, nestedRules);
+
+      i += maxPatterns;
+//	}
     }
 
   return true;
@@ -459,15 +867,15 @@ RuleExecution::ruleOuts (map<unsigned, map<unsigned, string> >* ruleOuts,
 			 map<unsigned, vector<pair<unsigned, unsigned> > >* tokenRules,
 			 vector<string> slTokens, vector<vector<string> > slTags,
 			 vector<string> tlTokens, vector<vector<string> > tlTags,
-			 map<xml_node, vector<vector<unsigned> > > rulesApplied,
+			 map<xml_node, vector<pair<unsigned, unsigned> > > rulesApplied,
 			 map<string, vector<vector<string> > > attrs,
 			 map<string, vector<string> > lists, map<string, string>* vars,
 			 vector<string> spaces, string localeId)
 {
   //cout << "Inside  " << "ruleOuts" << endl;
 
-  for (map<xml_node, vector<vector<unsigned> > >::iterator it = rulesApplied.begin ();
-      it != rulesApplied.end (); ++it)
+  for (map<xml_node, vector<pair<unsigned, unsigned> > >::iterator it =
+      rulesApplied.begin (); it != rulesApplied.end (); ++it)
     {
       xml_node rule = it->first;
       for (unsigned i = 0; i < rulesApplied[rule].size (); i++)
@@ -476,12 +884,11 @@ RuleExecution::ruleOuts (map<unsigned, map<unsigned, string> >* ruleOuts,
 
 	  // format tokens and their tags into analysisTokens
 
-	  vector<unsigned> matchedTokens = rulesApplied[rule][i];
+	  unsigned firstMatTok = rulesApplied[rule][i].first;
+	  unsigned patNum = rulesApplied[rule][i].second;
 
-	  for (unsigned j = 0; j < matchedTokens.size (); j++)
+	  for (unsigned tokInd = firstMatTok; tokInd < firstMatTok + patNum; tokInd++)
 	    {
-	      unsigned tokInd = matchedTokens[j];
-
 	      vector<string> slAnalysisToken = RuleExecution::formatTokenTags (
 		  slTokens[tokInd], slTags[tokInd]);
 
@@ -492,20 +899,26 @@ RuleExecution::ruleOuts (map<unsigned, map<unsigned, string> >* ruleOuts,
 
 	      tlAnalysisTokens.push_back (tlAnalysisToken);
 
-	      // insert the rule (if not found) then sort the vector
-	      pushDistinct (tokenRules, tokInd, rule, matchedTokens.size ());
-	    }
+//	      cout << rule.attribute (ID).as_uint () << " " << tokInd << " "
+//		  << tlTokens[tokInd] << "   " << noRuleOut (tlAnalysisToken) << endl;
 
-	  vector<string> output = RuleExecution::ruleExe (rule, &slAnalysisTokens,
-							  &tlAnalysisTokens, attrs, lists,
-							  vars, spaces, matchedTokens[0],
-							  localeId); // first pattern index
+	    }
+	  // insert the rule (if not found) then sort the vector
+	  pushDistinct (tokenRules, firstMatTok, rule, patNum);
+
+	  vector<string> output;
+	  if (rule.attribute (ID).as_uint () == 0)
+	    output.push_back (noRuleOut (tlAnalysisTokens[0]));
+	  else
+	    output = RuleExecution::ruleExe (rule, &slAnalysisTokens, &tlAnalysisTokens,
+					     attrs, lists, vars, spaces, firstMatTok,
+					     localeId); // first pattern index
 
 	  string str;
 	  for (unsigned j = 0; j < output.size (); j++)
 	    str += output[j];
 
-	  (*ruleOuts)[rule.attribute (ID).as_uint ()][matchedTokens[0]] = str;
+	  (*ruleOuts)[rule.attribute (ID).as_uint ()][firstMatTok] = str;
 	}
     }
 
