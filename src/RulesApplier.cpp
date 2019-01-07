@@ -39,18 +39,20 @@ main (int argc, char **argv)
     }
   else
     {
-//      localeId = "es_ES";
-//      transferFilePath = "transferFile.t1x";
-//      sentenceFilePath = "spa-test.txt";
-//      lextorFilePath = "spa-test.lextor";
+      localeId = "es_ES";
+      transferFilePath = "transferFile.t1x";
+      sentenceFilePath = "spa-test.txt";
+      lextorFilePath = "spa-test.lextor";
+      interInFilePath = "inter2.txt";
+
+//      localeId = "kk_KZ";
+//      transferFilePath = "transferFile1.t1x";
+//      sentenceFilePath = "sample-sentneces.txt";
+//      lextorFilePath = "lextor.txt";
 //      interInFilePath = "inter.txt";
-      localeId = "kk_KZ";
-      transferFilePath = "transferFile1.t1x";
-      sentenceFilePath = "sample-sentneces.txt";
-      lextorFilePath = "lextor.txt";
-      interInFilePath = "inter.txt";
+
       cout << "Error in parameters !" << endl;
-      return -1;
+//      return -1;
     }
 
   ifstream lextorFile (lextorFilePath.c_str ());
@@ -91,150 +93,146 @@ main (int argc, char **argv)
 
       vector<vector<string> > vouts;
 
-      ofstream interInFile (interInFilePath.c_str ());
-      ofstream longSentFile ("longsentences.txt", ios::app);
+      for (unsigned i = 0; i < sourceSentences.size (); i++)
+	{
+	  cout << i << endl;
 
-      if (interInFile.is_open () && longSentFile.is_open ())
-	for (unsigned i = 0; i < sourceSentences.size (); i++)
-	  {
-	    // cout << i << endl;
+	  string sourceSentence, tokenizedSentence;
+	  sourceSentence = sourceSentences[i];
+	  tokenizedSentence = tokenizedSentences[i];
 
-	    string sourceSentence, tokenizedSentence;
-	    sourceSentence = sourceSentences[i];
-	    tokenizedSentence = tokenizedSentences[i];
+	  // spaces after each token
+	  vector<string> spaces;
 
-	    // spaces after each token
-	    vector<string> spaces;
+	  // tokens in the sentence order
+	  vector<string> slTokens, tlTokens;
 
-	    // tokens in the sentence order
-	    vector<string> slTokens, tlTokens;
+	  // tags of tokens in order
+	  vector<vector<string> > slTags, tlTags;
 
-	    // tags of tokens in order
-	    vector<vector<string> > slTags, tlTags;
+	  RuleParser::sentenceTokenizer (&slTokens, &tlTokens, &slTags, &tlTags, &spaces,
+					 tokenizedSentence);
 
-	    RuleParser::sentenceTokenizer (&slTokens, &tlTokens, &slTags, &tlTags,
-					   &spaces, tokenizedSentence);
+	  // map of tokens ids and their matched categories
+	  map<unsigned, vector<string> > catsApplied;
 
-	    // map of tokens ids and their matched categories
-	    map<unsigned, vector<string> > catsApplied;
+	  RuleParser::matchCats (&catsApplied, slTokens, slTags, transfer);
 
-	    RuleParser::matchCats (&catsApplied, slTokens, slTags, transfer);
+	  // map of matched rules and a pair of first token id and patterns number
+	  map<xml_node, vector<pair<unsigned, unsigned> > > rulesApplied;
 
-	    // map of matched rules and tokens id
-	    map<xml_node, vector<vector<unsigned> > > rulesApplied;
+	  RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
 
-	    RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
+	  // rule and (target) token map to specific output
+	  // if rule has many patterns we will choose the first token only
+	  map<unsigned, map<unsigned, string> > ruleOutputs;
 
-	    // rule and (target) token map to specific output
-	    // if rule has many patterns we will choose the first token only
-	    map<unsigned, map<unsigned, string> > ruleOutputs;
+	  // map (target) token to all matched rules ids and the number of pattern items of each rule
+	  map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules;
 
-	    // map (target) token to all matched rules ids and the number of pattern items of each rule
-	    map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules;
+	  RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags, tlTokens,
+				   tlTags, rulesApplied, attrs, lists, &vars, spaces,
+				   localeId);
 
-	    RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags,
-				     tlTokens, tlTags, rulesApplied, attrs, lists, &vars,
-				     spaces, localeId);
-
-	    // final outs
-	    vector<string> outs;
-	    // applied rules with the first token id applied to
-	    vector<vector<pair<unsigned, unsigned> > > rulesIds;
-	    // group ambiguous rules applied to the same tokens
-	    vector<vector<vector<unsigned> > > outsRules;
-
-	    // ambiguity info contains the id of the first token and
-	    // the number of the token as a pair and then another pair
-	    // contains position of ambiguous rules among other rules and
-	    // vector of the rules applied to that tokens
-	    vector<
-		pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo;
-
-	    if (RuleExecution::outputs (&outs, &rulesIds, &outsRules, &ambigInfo,
-					tlTokens, tlTags, ruleOutputs, tokenRules,
-					spaces))
-	      {
-		for (unsigned j = 0; j < outs.size (); j++)
-		  {
-		    interInFile << outs[j] << endl;
-		  }
-	      }
-	    else
-	      {
-		longSentFile << sourceSentence << endl;
-	      }
-
-//	  for (map<unsigned, map<unsigned, string> >::iterator it = ruleOutputs.begin ();
-//	      it != ruleOutputs.end (); it++)
-//	    {
-//	      cout << "rule id = " << it->first << endl;
-//	      for (map<unsigned, string>::iterator it1 = it->second.begin ();
-//		  it1 != it->second.end (); it1++)
-//		{
-//		  cout << "first token id = " << it1->first << endl;
-//		  cout << "out : " << it1->second << endl;
-//		}
-//	    }
-//
-//	  cout << "outs size = " << outs.size () << endl;
-//	  cout << endl << endl;
-//	  for (unsigned j = 0; j < outs.size (); j++)
-//	    cout << outs[j] << endl;
-//	  cout << endl;
-//
-//	  for (unsigned j = 0; j < rulesIds.size (); j++)
-//	    {
-//	      for (unsigned k = 0; k < rulesIds[j].size (); k++)
-//		{
-//		  cout << rulesIds[j][k].first << " ";
-//		}
-//	      cout << endl;
-//	    }
-//	  cout << endl << endl;
-//
-//	  for (unsigned j = 0; j < outsRules.size (); j++)
-//	    {
-//	      for (unsigned k = 0; k < outsRules[j].size (); k++)
-//		{
-//		  for (unsigned h = 0; h < outsRules[j][k].size (); h++)
-//		    {
-//		      cout << outsRules[j][k][h] << "-";
-//		    }
-//		  cout << " ";
-//		}
-//	      cout << endl;
-//	    }
-//	  cout << endl << endl;
-//
 //	  for (unsigned j = 0; j < slTokens.size (); j++)
 //	    {
-//	      cout << j << " : " << slTokens[j] << "  " << tlTokens[j] << endl;
+//	      cout << "id = " << j << " , token = " << slTokens[j] << endl;
+//	    }
+
+	  // final outs
+	  vector<string> outs;
+	  // number of possible combinations
+	  unsigned compNum;
+	  // nodes for every token and rule
+	  map<unsigned, vector<RuleExecution::Node*> > nodesPool;
+	  // ambiguous informations
+	  vector<RuleExecution::AmbigInfo*> ambigInfo;
+	  // rules combinations
+	  vector<vector<RuleExecution::Node*> > combNodes;
+
+	  nodesPool = RuleExecution::getNodesPool (tokenRules);
+
+	  RuleExecution::getAmbigInfo (tokenRules, nodesPool, &ambigInfo, &compNum);
+
+	  RuleExecution::getOuts (&outs, &combNodes, ambigInfo, nodesPool, ruleOutputs,
+				  spaces);
+
+//	  for (unsigned j = 0; j < nodesPool.size (); j++)
+//	    {
+//	      vector<RuleExecution::Node*> nodes = nodesPool[j];
+//	      cout << "tokId = " << j << endl;
+//	      for (unsigned k = 0; k < nodes.size (); k++)
+//		{
+//		  cout << "ruleId = " << nodes[k]->ruleId << " , tokNum = "
+//		      << nodes[k]->patNum << endl;
+//		}
+//	      cout << endl;
+//	    }
+//
+//	  for (unsigned j = 0; j < combNodes.size (); j++)
+//	    {
+//	      for (unsigned k = 0; k < combNodes[j].size (); k++)
+//		{
+//		  cout /*<< "tokId = " << combNodes[j][k]->tokenId << " , rulId = "*/
+//		  << combNodes[j][k]->ruleId /*<< " , patNum = "
+//		   << combNodes[j][k]->patNum */<< "; ";
+//		}
+//	      cout << endl;
+//	    }
+//
+//	  cout << endl;
+//	  for (unsigned j = 0; j < slTokens.size (); j++)
+//	    {
+//	      cout << j << " : " << slTokens[j] << "," << tlTokens[j] << endl;
 //	    }
 //	  cout << endl;
 //
-//	  for (map<xml_node, vector<vector<unsigned> > >::iterator it =
-//	      rulesApplied.begin (); it != rulesApplied.end (); it++)
+////	  map<unsigned, map<unsigned, string> > ruleOutputs;
+//	  for (map<unsigned, map<unsigned, string> >::iterator ii = ruleOutputs.begin ();
+//	      ii != ruleOutputs.end (); ii++)
 //	    {
-//	      xml_node rule = it->first;
-//	      vector<vector<unsigned> > tokenIds = it->second;
-//
-//	      cout << "rule id = " << rule.attribute (ID).value () << endl;
-//	      for (unsigned j = 0; j < tokenIds.size (); j++)
+//	      cout << "ruleId = " << ii->first << endl;
+//	      for (map<unsigned, string>::iterator it = ii->second.begin ();
+//		  it != ii->second.end (); it++)
 //		{
-//		  for (unsigned k = 0; k < tokenIds[j].size (); k++)
+//		  cout << "tokId = " << it->first << " , out = " << it->second << endl;
+//		}
+//	      cout << endl;
+//	    }
+//
+//	  for (unsigned j = 0; j < ambigInfo.size (); j++)
+//	    {
+//	      cout << "firTok= " << ambigInfo[j]->firTokId << " , maxPat= "
+//		  << ambigInfo[j]->maxPat << endl;
+//	      for (unsigned k = 0; k < ambigInfo[j]->combinations.size (); k++)
+//		{
+//		  for (unsigned l = 1; l < ambigInfo[j]->combinations[k].size (); l++)
 //		    {
-//		      cout << tokenIds[j][k] << " ";
+//		      cout << ambigInfo[j]->combinations[k][l]->ruleId << ":"
+//			  << ambigInfo[j]->combinations[k][l]->patNum << " , ";
 //		    }
 //		  cout << endl;
 //		}
 //	      cout << endl;
 //	    }
+//
+//	  cout << "size = " << outs.size () << endl;
 
+	  vouts.push_back (outs);
+	}
+
+      // write the outs
+      ofstream interInFile (interInFilePath.c_str ());
+      if (interInFile.is_open ())
+	for (unsigned i = 0; i < vouts.size (); i++)
+	  {
+	    for (unsigned j = 0; j < vouts[i].size (); j++)
+	      interInFile << vouts[i][j] << endl;
+	    interInFile << endl;
 	  }
       else
 	cout << "ERROR in opening files!" << endl;
       interInFile.close ();
-      longSentFile.close ();
     }
   else
     {
