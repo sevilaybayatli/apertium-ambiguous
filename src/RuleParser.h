@@ -3,7 +3,6 @@
 
 //#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
-
 using namespace std;
 using namespace pugi;
 
@@ -20,7 +19,7 @@ public:
 	     vector<vector<string> > tags, xml_node transfer);
 
   static void
-  matchRules (map<xml_node, vector<vector<unsigned> > >* rulesApplied,
+  matchRules (map<xml_node, vector<pair<unsigned, unsigned> > >* rulesApplied,
 	      vector<string> slTokens, map<unsigned, vector<string> > catsApplied,
 	      xml_node transfer);
 
