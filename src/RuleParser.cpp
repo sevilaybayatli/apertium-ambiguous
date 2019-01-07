@@ -195,12 +195,14 @@ RuleParser::matchCats (map<unsigned, vector<string> >* catsApplied,
 }
 
 void
-RuleParser::matchRules (map<xml_node, vector<vector<unsigned> > >* rulesApplied,
+RuleParser::matchRules (map<xml_node, vector<pair<unsigned, unsigned> > >* rulesApplied,
 			vector<string> slTokens,
 			map<unsigned, vector<string> > catsApplied, xml_node transfer)
 {
 
   xml_node section_rules = transfer.child (SECTION_RULES);
+
+  vector<unsigned> tokensApplied;
 
   for (xml_node rule = section_rules.child (RULE); rule; rule = rule.next_sibling ())
     {
@@ -241,12 +243,42 @@ RuleParser::matchRules (map<xml_node, vector<vector<unsigned> > >* rulesApplied,
 	  // then this rule is matched
 	  if (slMatchedTokens.size () == pattern_items.size ())
 	    {
-	      (*rulesApplied)[rule].push_back (slMatchedTokens);
+	      if (slMatchedTokens.size () == 1)
+		tokensApplied.insert (tokensApplied.end (), slMatchedTokens.begin (),
+				      slMatchedTokens.end ());
+	      (*rulesApplied)[rule].push_back (
+		  pair<unsigned, unsigned> (slMatchedTokens[0], slMatchedTokens.size ()));
 	    }
 
 	}
 
     }
+
+  // set a default rule for tokens without rules applied
+  vector<pair<unsigned, unsigned> > tokensNotApp;
+  for (unsigned i = 0; i < slTokens.size (); i++)
+    {
+      bool found = false;
+      for (unsigned j = 0; j < tokensApplied.size (); j++)
+	{
+	  if (i == tokensApplied[j])
+	    {
+	      found = true;
+	      break;
+	    }
+	}
+      if (!found)
+	{
+//	  vector<unsigned> tokenNotApp;
+//	  tokenNotApp.push_back (i);
+//	  tokensNotApp.push_back (tokenNotApp);
+	  tokensNotApp.push_back (pair<unsigned, unsigned> (i, 1));
+	}
+    }
+
+  xml_node defaultRule;
+
+  (*rulesApplied)[defaultRule] = tokensNotApp;
 }
 
 // to sort attribute tags descendingly
