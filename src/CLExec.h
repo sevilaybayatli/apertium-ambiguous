@@ -6,6 +6,7 @@
 
 //#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
+#include "RuleExecution.h"
 
 using namespace std;
 using namespace pugi;
@@ -63,17 +64,14 @@ public:
   compareCaseless (string word1, string word2, string localeId);
 
   static void
-  beamSearch (
-      vector<pair<vector<unsigned>, float> > *beamTree,
-      unsigned beam,
-      vector<string> slTokens,
-      vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo,
-      map<string, map<string, vector<float> > > classesWeights, string localeId);
+  beamSearch (vector<pair<vector<RuleExecution::Node*>, float> > *beamTree, unsigned beam,
+	      vector<string> slTokens, vector<RuleExecution::AmbigInfo*> ambigInfo,
+	      map<string, map<string, vector<float> > > classesWeights, string localeId);
 
   static void
   getTransInds (vector<pair<unsigned, float> > *transInds,
-		      vector<pair<vector<unsigned>, float> > beamTree,
-		      vector<vector<pair<unsigned,unsigned> > > rulesIds);
+		vector<pair<vector<unsigned>, float> > beamTree,
+		vector<vector<pair<unsigned, unsigned> > > rulesIds);
 };
 
 #endif /* SRC_CLEXEC_H_ */
