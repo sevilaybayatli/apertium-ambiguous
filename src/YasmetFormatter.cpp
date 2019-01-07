@@ -45,6 +45,14 @@ main (int argc, char **argv)
     }
   else
     {
+      localeId = "es_ES";
+      transferFilePath = "transferFile.t1x";
+      sentenceFilePath = "spa-test.txt";
+      lextorFilePath = "spa-test.lextor";
+      transferOutFilePath = "transfer.out";
+      weightOutFilePath = "weights.txt";
+      outputFilePath = "output.out";
+      datasetsPath = "datasetstry";
       cout << "Error in parameters !" << endl;
       return -1;
     }
@@ -87,16 +95,13 @@ main (int argc, char **argv)
 
       vector<vector<string> > vslTokens;
       vector<vector<string> > vouts;
-      vector<vector<vector<pair<unsigned, unsigned> > > > vrulesIds;
-      vector<vector<vector<vector<unsigned> > > > voutsRules;
-      vector<
-	  vector<
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > > vambigInfo;
-      vector<vector<vector<unsigned> > > vweigInds;
+      vector<vector<RuleExecution::AmbigInfo*> > vambigInfo;
+      vector<vector<vector<RuleExecution::Node*> > > vcompNodes;
 
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
-	  //	  cout << i << endl;
+//	  cout << i << endl;
+
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
 	  tokenizedSentence = tokenizedSentences[i];
@@ -118,8 +123,8 @@ main (int argc, char **argv)
 
 	  RuleParser::matchCats (&catsApplied, slTokens, slTags, transfer);
 
-	  // map of matched rules and tokens id
-	  map<xml_node, vector<vector<unsigned> > > rulesApplied;
+	  // map of matched rules and a pair of first token id and patterns number
+	  map<xml_node, vector<pair<unsigned, unsigned> > > rulesApplied;
 
 	  RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
 
@@ -136,126 +141,103 @@ main (int argc, char **argv)
 
 	  // final outs
 	  vector<string> outs;
-	  // applied rules with the first token id applied to
-	  vector<vector<pair<unsigned, unsigned> > > rulesIds;
-	  // group ambiguous rules applied to the same tokens
-	  vector<vector<vector<unsigned> > > outsRules;
+	  // number of generated combinations
+	  unsigned compNum;
+	  // nodes for every token and rule
+	  map<unsigned, vector<RuleExecution::Node*> > nodesPool;
+	  // ambiguous informations
+	  vector<RuleExecution::AmbigInfo*> ambigInfo;
+	  // rules combinations
+	  vector<vector<RuleExecution::Node*> > combNodes;
 
-	  // ambiguity info contains the id of the first token and
-	  // the number of the token as a pair and then another pair
-	  // contains position of ambiguous rules among other rules and
-	  // vector of the rules applied to that tokens
-	  vector<
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo;
+	  nodesPool = RuleExecution::getNodesPool (tokenRules);
 
-	  RuleExecution::outputs (&outs, &rulesIds, &outsRules, &ambigInfo, tlTokens,
-				  tlTags, ruleOutputs, tokenRules, spaces);
+	  RuleExecution::getAmbigInfo (tokenRules, nodesPool, &ambigInfo, &compNum);
 
-	  // indexes of accumulated weights
-	  vector<vector<unsigned> > weigInds;
-
-	  RuleExecution::weightIndices (&weigInds, ambigInfo, outsRules);
+	  RuleExecution::getOuts (&outs, &combNodes, ambigInfo, nodesPool, ruleOutputs,
+				  spaces);
 
 	  vslTokens.push_back (slTokens);
 	  vouts.push_back (outs);
-	  vrulesIds.push_back (rulesIds);
-	  voutsRules.push_back (outsRules);
 	  vambigInfo.push_back (ambigInfo);
-	  vweigInds.push_back (weigInds);
+	  vcompNodes.push_back (combNodes);
 	}
-      // Read transfer sentences from tansfer file
-      vector<string> vtransfers[sourceSentences.size ()];
+
+      // Read transfer sentences from transfer file
+      vector<vector<string> > vtransfers;
 
       ifstream transferOutFile (transferOutFilePath.c_str ());
       if (transferOutFile.is_open ())
 	for (unsigned i = 0; i < sourceSentences.size (); i++)
 	  {
 	    string line;
-	    vector<string> outs = vouts[i];
 	    vector<string> transfers;
-	    for (unsigned j = 0; j < outs.size (); j++)
+	    for (unsigned j = 0; j < vouts[i].size (); j++)
 	      {
 		getline (transferOutFile, line);
 		transfers.push_back (line);
 	      }
 
-	    vtransfers[i] = transfers;
+	    vtransfers.push_back (transfers);
 	  }
       else
 	cout << "error in opening weightOutFile" << endl;
       transferOutFile.close ();
 
       // Read weights from weights file
-      vector<float> vweights[sourceSentences.size ()];
+      vector<vector<float> > vweights;
 
       ifstream weightOutFile (weightOutFilePath.c_str ());
       if (weightOutFile.is_open ())
 	for (unsigned i = 0; i < sourceSentences.size (); i++)
 	  {
 	    string line;
-	    vector<string> outs = vouts[i];
 	    vector<float> weights;
-	    float sum = 0;
-	    for (unsigned j = 0; j < outs.size (); j++)
+	    for (unsigned j = 0; j < vouts[i].size (); j++)
 	      {
 		getline (weightOutFile, line);
 		float weight = strtof (line.c_str (), NULL);
 		weights.push_back (weight);
-		sum += weight;
 	      }
-
-	    // to avoid nans
-	    if (sum == 0)
-	      for (unsigned j = 0; j < outs.size (); j++)
-		{
-		  weights[j] = 1 / outs.size ();
-		}
-
-	    else
-	      for (unsigned j = 0; j < outs.size (); j++)
-		{
-
-		  weights[j] /= sum;
-		}
-
-	    vweights[i] = weights;
+	    vweights.push_back (weights);
 	  }
       else
 	cout << "error in opening weightOutFile" << endl;
       weightOutFile.close ();
 
+      // normalise the weights
+      RuleExecution::normaliseWeights (&vweights, vambigInfo);
+
       // Yasmet format preparing
+      // make a directory if not found
       mkdir (datasetsPath.c_str (), S_IRWXU | S_IRWXG | S_IROTH | S_IXOTH);
 
       for (unsigned g = 0; g < sourceSentences.size (); g++)
 	{
-	  vector<
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo =
-	      vambigInfo[g];
-
-	  vector<vector<unsigned> > weigInds = vweigInds[g];
+	  vector<RuleExecution::AmbigInfo*> ambigInfo = vambigInfo[g];
 
 	  vector<float> weights = vweights[g];
 
 	  vector<string> slTokens = vslTokens[g];
 
-	  vector<vector<unsigned> >::iterator weigIndIt = weigInds.begin ();
+	  unsigned weigInd = 0;
 	  for (unsigned i = 0; i < ambigInfo.size (); i++)
 	    {
-
-	      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > p1 =
-		  ambigInfo[i];
-	      pair<unsigned, unsigned> p2 = p1.first;
-	      vector<vector<unsigned> > ambigRules = p1.second.second;
+	      RuleExecution::AmbigInfo* ambig = ambigInfo[i];
 
 	      // name of the file is the concatenation of rules ids
 	      string rulesNums;
-	      for (unsigned x = 0; x < ambigRules.size (); x++)
+	      for (unsigned x = 0; x < ambig->combinations.size (); x++)
 		{
-		  for (unsigned y = 0; y < ambigRules[x].size (); y++)
+		  // avoid dummy node
+		  for (unsigned y = 1; y < ambig->combinations[x].size (); y++)
 		    {
-		      rulesNums += ambigRules[x][y];
-		      rulesNums += "_";
+		      stringstream ss;
+		      ss << ambig->combinations[x][y]->ruleId;
+		      rulesNums += ss.str ();
+
+		      if (y + 1 < ambig->combinations[x].size ())
+			rulesNums += "_";
 		    }
 		  rulesNums += "+";
 		}
@@ -273,33 +255,30 @@ main (int argc, char **argv)
 				ofstream::out | ofstream::app);
 
 	      if (firstTime)
-		dataset << ambigRules.size () << endl;
+		dataset << ambig->combinations.size () << endl;
 
-	      for (unsigned x = 0; x < ambigRules.size (); x++)
+	      for (unsigned x = 0; x < ambig->combinations.size (); x++)
 		{
 
 		  dataset << x << " $ ";
 
-		  vector<unsigned> weigInd = *weigIndIt++;
-		  float count = 0;
+		  float weight = weights[x + weigInd];
 
-		  for (unsigned z = 0; z < weigInd.size (); z++)
-		    {
-		      count += weights[weigInd[z]];
-		    }
-
-		  dataset << count << " #";
+		  dataset << weight << " #";
 
 		  string features;
-		  for (unsigned v = 0; v < ambigRules.size (); v++)
+		  for (unsigned v = 0; v < ambig->combinations.size (); v++)
 		    {
-		      char label[21];
-		      sprintf (label, "%d", v);
+		      stringstream ss;
+		      ss << v;
+		      string label = ss.str ();
 
-		      for (unsigned z = p2.first; z < p2.first + p2.second; z++)
+		      for (unsigned z = ambig->firTokId;
+			  z < ambig->firTokId + ambig->maxPat; z++)
 			{
-			  char num[21];
-			  sprintf (num, "%d", z - p2.first);
+			  stringstream ss;
+			  ss << z - ambig->firTokId;
+			  string num = ss.str ();
 			  string word = CLExec::toLowerCase (slTokens[z], localeId);
 			  for (unsigned c = 0; c < word.length (); c++)
 			    if (word[c] == ' ')
@@ -311,13 +290,14 @@ main (int argc, char **argv)
 		    }
 		  dataset << features << endl;
 		}
+	      weigInd += ambig->combinations.size ();
 	      dataset.close ();
 	    }
 	}
 
       // Write output to output file
       ofstream outputFile (outputFilePath.c_str ());
-     if (outputFile.is_open ())
+      if (outputFile.is_open ())
 	{
 	  for (unsigned i = 0; i < sourceSentences.size (); i++)
 	    {
@@ -343,8 +323,8 @@ main (int argc, char **argv)
 		  // lextor
 		  outputFile << tokenizedSentences[i] << " ||| ";
 		  // rules
-		  for (unsigned k = 0; k < vrulesIds[i][j].size (); k++)
-		    outputFile << vrulesIds[i][j][k].first << " ";
+		  for (unsigned k = 0; k < vcompNodes[i][j].size (); k++)
+		    outputFile << vcompNodes[i][j][k]->ruleId << " ";
 		  outputFile << "||| ";
 		  // chuncker
 		  outputFile << vouts[i][j] << " ||| ";
@@ -387,8 +367,8 @@ main (int argc, char **argv)
 	      modelWeightFile << "Weight :  " << vweights[i][maxInd] << endl;
 	      // rules
 	      modelWeightFile << "Rules :  ";
-	      for (unsigned k = 0; k < vrulesIds[i][maxInd].size (); k++)
-		modelWeightFile << vrulesIds[i][maxInd][k].first << " ";
+	      for (unsigned k = 0; k < vcompNodes[i][maxInd].size (); k++)
+		outputFile << vcompNodes[i][maxInd][k]->ruleId << " ";
 
 	      modelWeightFile << endl
 		  << "---------------------------------------------------------------------------------------------------------"
@@ -424,8 +404,8 @@ main (int argc, char **argv)
 	      randomFile << "Weight :  " << vweights[i][random] << endl;
 	      // rules
 	      randomFile << "Rules :  ";
-	      for (unsigned k = 0; k < vrulesIds[i][random].size (); k++)
-		randomFile << vrulesIds[i][random][k].first << " ";
+	      for (unsigned k = 0; k < vcompNodes[i][random].size (); k++)
+		outputFile << vcompNodes[i][random][k]->ruleId << " ";
 
 	      randomFile << endl
 		  << "---------------------------------------------------------------------------------------------------------"
