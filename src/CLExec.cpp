@@ -16,12 +16,12 @@
 #include <unicode/unistr.h>
 #include <unicode/ustream.h>
 #include <unicode/locid.h>
+#include <sstream>
 
 #include "CLExec.h"
 #include "TranElemLiterals.h"
 //#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
-
 using namespace std;
 using namespace pugi;
 using namespace elem;
@@ -291,39 +291,44 @@ CLExec::compareCaseless (string word1, string word2, string localeId)
 
 // to sort translations from best to worth by their weight
 bool
-sortParameter (pair<vector<unsigned>, float> a, pair<vector<unsigned>, float> b)
+sortParameter (pair<vector<RuleExecution::Node*>, float> a,
+	       pair<vector<RuleExecution::Node*>, float> b)
 {
   return (a.second > b.second);
 }
 
 void
-CLExec::beamSearch (
-    vector<pair<vector<unsigned>, float> > *beamTree,
-    unsigned beam,
-    vector<string> slTokens,
-    vector<pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > > ambigInfo,
-    map<string, map<string, vector<float> > > classesWeights, string localeId)
+CLExec::beamSearch (vector<pair<vector<RuleExecution::Node*>, float> > *beamTree,
+		    unsigned beam, vector<string> slTokens,
+		    vector<RuleExecution::AmbigInfo*> ambigInfo,
+		    map<string, map<string, vector<float> > > classesWeights,
+		    string localeId)
 {
   // Initialization
-  (*beamTree).push_back (pair<vector<unsigned>, float> ());
+  (*beamTree).push_back (pair<vector<RuleExecution::Node*>, float> ());
 
   for (unsigned i = 0; i < ambigInfo.size (); i++)
     {
-      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > p =
-	  ambigInfo[i];
-      pair<unsigned, unsigned> wordInd = p.first;
-      vector<vector<unsigned> > ambigRules = p.second.second;
-      unsigned ambigRulesSize = ambigRules.size ();
+      RuleExecution::AmbigInfo* ambig = ambigInfo[i];
+//      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > p =
+//	  ambigInfo[i];
+//      pair<unsigned, unsigned> wordInd = p.first;
+//      vector<vector<unsigned> > ambigRules = p.second.second;
+      unsigned ambigRulesSize = ambig->combinations.size ();
 
       // name of the file is the concatenation of rules ids
       string rulesNums;
-      for (unsigned x = 0; x < ambigRules.size (); x++)
+      for (unsigned x = 0; x < ambigRulesSize; x++)
 	{
-	  for (unsigned y = 0; y < ambigRules[x].size (); y++)
+	  // avoid dummy node
+	  for (unsigned y = 1; y < ambig->combinations[x].size (); y++)
 	    {
-	      rulesNums += ambigRules[x][y];
-	      rulesNums += "_";
+	      stringstream ss;
+	      ss << ambig->combinations[x][y]->ruleId;
+	      rulesNums += ss.str ();
 
+	      if (y + 1 < ambig->combinations[x].size ())
+		rulesNums += "_";
 	    }
 	  rulesNums += "+";
 	}
@@ -331,37 +336,30 @@ CLExec::beamSearch (
       map<string, vector<float> > classWeights = classesWeights[(rulesNums + ".model")];
 
       // build new tree for the new words
-      vector<pair<vector<unsigned>, float> > newTree;
+      vector<pair<vector<RuleExecution::Node*>, float> > newTree;
 
       // initialize the new tree
       for (unsigned x = 0; x < ambigRulesSize; x++)
 	{
-	  newTree.push_back (pair<vector<unsigned>, float> (vector<unsigned> (), 0));
+	  newTree.push_back (
+	      pair<vector<RuleExecution::Node*>, float> (vector<RuleExecution::Node*> (),
+							 0));
 	}
       // put rules
       for (unsigned z = 0; z < ambigRulesSize; z++)
 	{
-	  for (unsigned y = 0; y < ambigRules[z].size (); y++)
+	  for (unsigned y = 0; y < ambig->combinations[z].size (); y++)
 	    {
-	      newTree[z].first.push_back (ambigRules[z][y]);
+	      newTree[z].first.push_back (ambig->combinations[z][y]);
 	    }
 	}
 
-      for (unsigned x = wordInd.first; x < wordInd.first + wordInd.second; x++)
+      for (unsigned x = ambig->firTokId; x < ambig->firTokId + ambig->maxPat; x++)
 	{
 	  // word key is the word and it's order in the rule
-	  string num;
-	  switch (x - wordInd.first)
-	    {
-	    case 0:
-	      num = "_0";
-	      break;
-	    case 1:
-	      num = "_1";
-	      break;
-	    default:
-	      num = "_2";
-	    }
+	  stringstream ss;
+	  ss << x - ambig->firTokId;
+	  string num = "_" + ss.str ();
 
 	  // handle the case of two lemmas separated by a space
 	  for (unsigned t = 0; t < slTokens[x].size (); t++)
@@ -392,7 +390,8 @@ CLExec::beamSearch (
 	{
 	  for (unsigned x = 0; x < initSize; x++)
 	    {
-	      beamTree->push_back (pair<vector<unsigned>, float> ((*beamTree)[x]));
+	      beamTree->push_back (
+		  pair<vector<RuleExecution::Node*>, float> ((*beamTree)[x]));
 	    }
 	}
 
