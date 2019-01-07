@@ -3,16 +3,90 @@
 
 //#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
-
 using namespace std;
 using namespace pugi;
 
 class RuleExecution
 {
 public:
+  class Node
+  {
+  public:
+    unsigned tokenId;
+    unsigned ruleId;
+    unsigned patNum;
+    vector<Node*> neighbors;
+    Node (unsigned tokenId, unsigned ruleId, unsigned patNum)
+    {
+      this->tokenId = tokenId;
+      this->ruleId = ruleId;
+      this->patNum = patNum;
+      this->neighbors = vector<Node*> ();
+    }
+  };
+
+  class AmbigInfo
+  {
+  public:
+    unsigned firTokId;
+    unsigned maxPat;
+    vector<vector<Node*> > combinations;
+    AmbigInfo (unsigned firTokId, unsigned maxPat)
+    {
+      this->firTokId = firTokId;
+      this->maxPat = maxPat;
+    }
+  };
+
+  static void
+  normaliseWeights (vector<vector<float> >* vweights,
+		    vector<vector<RuleExecution::AmbigInfo*> > vambigInfo);
+
+  static void
+  getOuts (vector<string>* finalOuts,
+	   vector<pair<vector<RuleExecution::Node*>, float> > beamTree,
+	   map<unsigned, vector<RuleExecution::Node*> > nodesPool,
+	   map<unsigned, map<unsigned, string> > ruleOutputs, vector<string> spaces);
+
+  static void
+  getOuts (vector<string>* finalOuts, vector<vector<Node*> >* combNodes,
+	   vector<RuleExecution::AmbigInfo*> ambigInfo,
+	   map<unsigned, vector<RuleExecution::Node*> > nodesPool,
+	   map<unsigned, map<unsigned, string> > ruleOutputs, vector<string> spaces);
+
+  static map<unsigned, vector<RuleExecution::Node*> >
+  getNodesPool (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules);
 
   static string
   noRuleOut (vector<string> analysis);
+
+//  static void
+//  getCombinations (Node root, vector<pair<unsigned, unsigned> > path,
+//		   vector<vector<pair<unsigned, unsigned> > >* ambigRules);
+
+  static void
+  getCombinations (Node* root, vector<Node*> path, vector<vector<Node*> >* ambigRules);
+
+  static Node
+  ambiguousGraph (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+		  map<unsigned, vector<Node*> > nodesPool, unsigned firTok,
+		  unsigned maxPat);
+
+  static Node
+  ambiguousGraph (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+		  map<unsigned, vector<Node*> > nodesPool);
+
+  static void
+  getAmbigInfo (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+		map<unsigned, vector<RuleExecution::Node*> > nodesPool,
+		vector<RuleExecution::AmbigInfo*>* ambigInfo, unsigned* combNum);
+
+//  static void
+//  getAmbigInfo (
+//      vector<vector<vector<unsigned> > >* ambigRulIdsCombs,
+//      map<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > >* ambigInfo,
+//      vector<pair<unsigned, unsigned> > maxPatts,
+//      vector<vector<RuleExecution::Node*> > tokRulIdsCombs);
 
   static bool
   outputs (
@@ -36,7 +110,7 @@ public:
 	    map<unsigned, vector<pair<unsigned, unsigned> > >* tokenRules,
 	    vector<string> slTokens, vector<vector<string> > slTags,
 	    vector<string> tlTokens, vector<vector<string> > tlTags,
-	    map<xml_node, vector<vector<unsigned> > > rulesApplied,
+	    map<xml_node, vector<pair<unsigned, unsigned> > > rulesApplied,
 	    map<string, vector<vector<string> > > attrs,
 	    map<string, vector<string> > lists, map<string, string>* vars,
 	    vector<string> spaces, string localeId);
