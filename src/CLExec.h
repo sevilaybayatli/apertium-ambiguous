@@ -64,8 +64,8 @@ public:
   compareCaseless (string word1, string word2, string localeId);
 
   static void
-  beamSearch (vector<pair<vector<RuleExecution::Node*>, float> > *beamTree, unsigned beam,
-	      vector<string> slTokens, vector<RuleExecution::AmbigInfo*> ambigInfo,
+  beamSearch (vector<pair<vector<RuleExecution::Node>, float> > *beamTree, unsigned beam,
+	      vector<string> slTokens, vector<RuleExecution::AmbigInfo> ambigInfo,
 	      map<string, map<string, vector<float> > > classesWeights, string localeId);
 
   static void
