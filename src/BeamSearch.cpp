@@ -44,15 +44,38 @@ main (int argc, char **argv)
     }
   else
     {
-      localeId = "es_ES";
-      transferFilePath = "transferFile.t1x";
-      sentenceFilePath = "spa-test.txt";
-      lextorFilePath = "spa-test.lextor";
-      interInFilePath = "beaminter.out";
-      modelsDest = "modelstry";
+//      localeId = "es_ES";
+//      transferFilePath = "transferFile.t1x";
+//      sentenceFilePath = "spa-test.txt";
+//      lextorFilePath = "spa-test.lextor";
+//      interInFilePath = "beaminter.txt";
+//      modelsDest = "modelstry";
+//      k = "8";
+
+      localeId = "kk_KZ";
+      transferFilePath = "apertium-kaz-tur.kaz-tur.t1x";
+      sentenceFilePath = "sample-sentences.txt";
+      lextorFilePath = "sample-lextor.txt";
+      interInFilePath = "beaminter.txt";
+      modelsDest = "models";
       k = "8";
 
       cout << "Error in parameters !" << endl;
+      cout
+	  << "Parameters are : localeId transferFilePath sentenceFilePath lextorFilePath interInFilePath modelsDest beamSize"
+	  << endl;
+      cout << "localeId : ICU locale ID for the source language. For Kazakh => kk-KZ"
+	  << endl;
+      cout << "transferFilePath : Apertium transfer file of the language pair used."
+	  << endl;
+      cout << "sentenceFilePath : Source language sentences file." << endl;
+      cout << "lextorFilePath : Apertium lextor file for the source language sentences."
+	  << endl;
+      cout
+	  << "interInFilePath : Output file of this program which is the input for apertium interchunk."
+	  << endl;
+      cout << "modelsDest : Yasmet models destination." << endl;
+      cout << "beamSize : The size of beam in beam search algorithm." << endl;
       return -1;
     }
 
@@ -146,20 +169,28 @@ main (int argc, char **argv)
 	  // number of generated combinations
 	  unsigned compNum;
 	  // nodes for every token and rule
-	  map<unsigned, vector<RuleExecution::Node*> > nodesPool;
+	  map<unsigned, vector<RuleExecution::Node> > nodesPool;
 	  // ambiguous informations
-	  vector<RuleExecution::AmbigInfo*> ambigInfo;
+	  vector<RuleExecution::AmbigInfo> ambigInfo;
 	  // beam tree
-	  vector<pair<vector<RuleExecution::Node*>, float> > beamTree;
+	  vector<pair<vector<RuleExecution::Node>, float> > beamTree;
+	  // rules combinations
+	  vector<vector<RuleExecution::Node> > combNodes;
 
 	  nodesPool = RuleExecution::getNodesPool (tokenRules);
 
 	  RuleExecution::getAmbigInfo (tokenRules, nodesPool, &ambigInfo, &compNum);
 
-	  CLExec::beamSearch (&beamTree, beam, slTokens, ambigInfo, classesWeights,
+	  vector<RuleExecution::AmbigInfo> newAmbigInfo;
+	  for (unsigned j = 0; j < ambigInfo.size (); j++)
+	    if (ambigInfo[j].combinations.size () > 1)
+	      newAmbigInfo.push_back (ambigInfo[j]);
+
+	  CLExec::beamSearch (&beamTree, beam, slTokens, newAmbigInfo, classesWeights,
 			      localeId);
 
-	  RuleExecution::getOuts (&outs, beamTree, nodesPool, ruleOutputs, spaces);
+	  RuleExecution::getOuts (&outs, &combNodes, beamTree, nodesPool, ruleOutputs,
+				  spaces);
 
 	  vouts.push_back (outs);
 	}
@@ -171,7 +202,6 @@ main (int argc, char **argv)
 	  {
 	    for (unsigned j = 0; j < vouts[i].size (); j++)
 	      interInFile << vouts[i][j] << endl;
-	    cout << endl;
 	  }
       else
 	cout << "ERROR in opening files!" << endl;
