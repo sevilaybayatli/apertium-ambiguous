@@ -27,7 +27,7 @@ using namespace elem;
 int
 main (int argc, char **argv)
 {
-  string sentenceFilePath, lextorFilePath, interInFilePath, localeId, transferFilePath;
+  string localeId, transferFilePath, sentenceFilePath, lextorFilePath, interInFilePath;
 
   if (argc == 6)
     {
@@ -39,20 +39,33 @@ main (int argc, char **argv)
     }
   else
     {
-      localeId = "es_ES";
-      transferFilePath = "transferFile.t1x";
-      sentenceFilePath = "spa-test.txt";
-      lextorFilePath = "spa-test.lextor";
-      interInFilePath = "inter2.txt";
+//      localeId = "es_ES";
+//      transferFilePath = "transferFile.t1x";
+//      sentenceFilePath = "spa-test.txt";
+//      lextorFilePath = "spa-test.lextor";
+//      interInFilePath = "inter2.txt";
 
-//      localeId = "kk_KZ";
-//      transferFilePath = "transferFile1.t1x";
-//      sentenceFilePath = "sample-sentneces.txt";
-//      lextorFilePath = "lextor.txt";
-//      interInFilePath = "inter.txt";
+      localeId = "kk_KZ";
+      transferFilePath = "apertium-kaz-tur.kaz-tur.t1x";
+      sentenceFilePath = "sample-sentences.txt";
+      lextorFilePath = "sample-lextor.txt";
+      interInFilePath = "sample-inter.txt";
 
       cout << "Error in parameters !" << endl;
-//      return -1;
+      cout
+	  << "Parameters are : localeId transferFilePath sentenceFilePath lextorFilePath interInFilePath"
+	  << endl;
+      cout << "localeId : ICU locale ID for the source language. For Kazakh => kk-KZ"
+	  << endl;
+      cout << "transferFilePath : Apertium transfer file of the language pair used."
+	  << endl;
+      cout << "sentenceFilePath : Source language sentences file." << endl;
+      cout << "lextorFilePath : Apertium lextor file for the source language sentences."
+	  << endl;
+      cout
+	  << "interInFilePath : Output file name of this program which is the input for apertium interchunk."
+	  << endl;
+      return -1;
     }
 
   ifstream lextorFile (lextorFilePath.c_str ());
@@ -95,7 +108,6 @@ main (int argc, char **argv)
 
       for (unsigned i = 0; i < sourceSentences.size (); i++)
 	{
-	  cout << i << endl;
 
 	  string sourceSentence, tokenizedSentence;
 	  sourceSentence = sourceSentences[i];
@@ -133,22 +145,16 @@ main (int argc, char **argv)
 	  RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags, tlTokens,
 				   tlTags, rulesApplied, attrs, lists, &vars, spaces,
 				   localeId);
-
-//	  for (unsigned j = 0; j < slTokens.size (); j++)
-//	    {
-//	      cout << "id = " << j << " , token = " << slTokens[j] << endl;
-//	    }
-
 	  // final outs
 	  vector<string> outs;
 	  // number of possible combinations
 	  unsigned compNum;
 	  // nodes for every token and rule
-	  map<unsigned, vector<RuleExecution::Node*> > nodesPool;
+	  map<unsigned, vector<RuleExecution::Node> > nodesPool;
 	  // ambiguous informations
-	  vector<RuleExecution::AmbigInfo*> ambigInfo;
+	  vector<RuleExecution::AmbigInfo> ambigInfo;
 	  // rules combinations
-	  vector<vector<RuleExecution::Node*> > combNodes;
+	  vector<vector<RuleExecution::Node> > combNodes;
 
 	  nodesPool = RuleExecution::getNodesPool (tokenRules);
 
@@ -156,67 +162,6 @@ main (int argc, char **argv)
 
 	  RuleExecution::getOuts (&outs, &combNodes, ambigInfo, nodesPool, ruleOutputs,
 				  spaces);
-
-//	  for (unsigned j = 0; j < nodesPool.size (); j++)
-//	    {
-//	      vector<RuleExecution::Node*> nodes = nodesPool[j];
-//	      cout << "tokId = " << j << endl;
-//	      for (unsigned k = 0; k < nodes.size (); k++)
-//		{
-//		  cout << "ruleId = " << nodes[k]->ruleId << " , tokNum = "
-//		      << nodes[k]->patNum << endl;
-//		}
-//	      cout << endl;
-//	    }
-//
-//	  for (unsigned j = 0; j < combNodes.size (); j++)
-//	    {
-//	      for (unsigned k = 0; k < combNodes[j].size (); k++)
-//		{
-//		  cout /*<< "tokId = " << combNodes[j][k]->tokenId << " , rulId = "*/
-//		  << combNodes[j][k]->ruleId /*<< " , patNum = "
-//		   << combNodes[j][k]->patNum */<< "; ";
-//		}
-//	      cout << endl;
-//	    }
-//
-//	  cout << endl;
-//	  for (unsigned j = 0; j < slTokens.size (); j++)
-//	    {
-//	      cout << j << " : " << slTokens[j] << "," << tlTokens[j] << endl;
-//	    }
-//	  cout << endl;
-//
-////	  map<unsigned, map<unsigned, string> > ruleOutputs;
-//	  for (map<unsigned, map<unsigned, string> >::iterator ii = ruleOutputs.begin ();
-//	      ii != ruleOutputs.end (); ii++)
-//	    {
-//	      cout << "ruleId = " << ii->first << endl;
-//	      for (map<unsigned, string>::iterator it = ii->second.begin ();
-//		  it != ii->second.end (); it++)
-//		{
-//		  cout << "tokId = " << it->first << " , out = " << it->second << endl;
-//		}
-//	      cout << endl;
-//	    }
-//
-//	  for (unsigned j = 0; j < ambigInfo.size (); j++)
-//	    {
-//	      cout << "firTok= " << ambigInfo[j]->firTokId << " , maxPat= "
-//		  << ambigInfo[j]->maxPat << endl;
-//	      for (unsigned k = 0; k < ambigInfo[j]->combinations.size (); k++)
-//		{
-//		  for (unsigned l = 1; l < ambigInfo[j]->combinations[k].size (); l++)
-//		    {
-//		      cout << ambigInfo[j]->combinations[k][l]->ruleId << ":"
-//			  << ambigInfo[j]->combinations[k][l]->patNum << " , ";
-//		    }
-//		  cout << endl;
-//		}
-//	      cout << endl;
-//	    }
-//
-//	  cout << "size = " << outs.size () << endl;
 
 	  vouts.push_back (outs);
 	}
@@ -228,11 +173,12 @@ main (int argc, char **argv)
 	  {
 	    for (unsigned j = 0; j < vouts[i].size (); j++)
 	      interInFile << vouts[i][j] << endl;
-	    interInFile << endl;
 	  }
       else
 	cout << "ERROR in opening files!" << endl;
       interInFile.close ();
+
+      cout << "RulesApplier finished!";
     }
   else
     {
