@@ -45,11 +45,17 @@ main (int argc, char **argv)
 //      lextorFilePath = "spa-test.lextor";
 //      interInFilePath = "inter2.txt";
 
-      localeId = "kk_KZ";
-      transferFilePath = "apertium-kaz-tur.kaz-tur.t1x";
-      sentenceFilePath = "sample-sentences.txt";
-      lextorFilePath = "sample-lextor.txt";
-      interInFilePath = "sample-inter.txt";
+//      localeId = "kk_KZ";
+//      transferFilePath = "apertium-kaz-tur.kaz-tur.t1x";
+//      sentenceFilePath = "sample-sentences.txt";
+//      lextorFilePath = "sample-lextor.txt";
+//      interInFilePath = "sample-inter.txt";
+
+      localeId = "en_001";
+      transferFilePath = "./UntitledFolder/transferFile.t1x";
+      sentenceFilePath = "./UntitledFolder/xaa-sentences.txt";
+      lextorFilePath = "./UntitledFolder/xaa-lextor.txt";
+      interInFilePath = "./UntitledFolder/xaa-inter.txt";
 
       cout << "Error in parameters !" << endl;
       cout
@@ -65,7 +71,7 @@ main (int argc, char **argv)
       cout
 	  << "interInFilePath : Output file name of this program which is the input for apertium interchunk."
 	  << endl;
-      return -1;
+//      return -1;
     }
 
   ifstream lextorFile (lextorFilePath.c_str ());
@@ -104,75 +110,69 @@ main (int argc, char **argv)
       map<string, string> vars = RuleParser::getVars (transfer);
       map<string, vector<string> > lists = RuleParser::getLists (transfer);
 
-      vector<vector<string> > vouts;
-
-      for (unsigned i = 0; i < sourceSentences.size (); i++)
-	{
-
-	  string sourceSentence, tokenizedSentence;
-	  sourceSentence = sourceSentences[i];
-	  tokenizedSentence = tokenizedSentences[i];
-
-	  // spaces after each token
-	  vector<string> spaces;
-
-	  // tokens in the sentence order
-	  vector<string> slTokens, tlTokens;
-
-	  // tags of tokens in order
-	  vector<vector<string> > slTags, tlTags;
-
-	  RuleParser::sentenceTokenizer (&slTokens, &tlTokens, &slTags, &tlTags, &spaces,
-					 tokenizedSentence);
-
-	  // map of tokens ids and their matched categories
-	  map<unsigned, vector<string> > catsApplied;
-
-	  RuleParser::matchCats (&catsApplied, slTokens, slTags, transfer);
-
-	  // map of matched rules and a pair of first token id and patterns number
-	  map<xml_node, vector<pair<unsigned, unsigned> > > rulesApplied;
-
-	  RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
-
-	  // rule and (target) token map to specific output
-	  // if rule has many patterns we will choose the first token only
-	  map<unsigned, map<unsigned, string> > ruleOutputs;
-
-	  // map (target) token to all matched rules ids and the number of pattern items of each rule
-	  map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules;
-
-	  RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags, tlTokens,
-				   tlTags, rulesApplied, attrs, lists, &vars, spaces,
-				   localeId);
-	  // final outs
-	  vector<string> outs;
-	  // number of possible combinations
-	  unsigned compNum;
-	  // nodes for every token and rule
-	  map<unsigned, vector<RuleExecution::Node> > nodesPool;
-	  // ambiguous informations
-	  vector<RuleExecution::AmbigInfo> ambigInfo;
-	  // rules combinations
-	  vector<vector<RuleExecution::Node> > combNodes;
-
-	  nodesPool = RuleExecution::getNodesPool (tokenRules);
-
-	  RuleExecution::getAmbigInfo (tokenRules, nodesPool, &ambigInfo, &compNum);
-
-	  RuleExecution::getOuts (&outs, &combNodes, ambigInfo, nodesPool, ruleOutputs,
-				  spaces);
-
-	  vouts.push_back (outs);
-	}
-
-      // write the outs
       ofstream interInFile (interInFilePath.c_str ());
       if (interInFile.is_open ())
-	for (unsigned i = 0; i < vouts.size (); i++)
+	for (unsigned i = 0; i < sourceSentences.size (); i++)
 	  {
-	    for (unsigned j = 0; j < vouts[i].size (); j++)
-	      interInFile << vouts[i][j] << endl;
+	  //  cout << i << endl;
+
+	    string sourceSentence, tokenizedSentence;
+	    sourceSentence = sourceSentences[i];
+	    tokenizedSentence = tokenizedSentences[i];
+
+	    // spaces after each token
+	    vector<string> spaces;
+
+	    // tokens in the sentence order
+	    vector<string> slTokens, tlTokens;
+
+	    // tags of tokens in order
+	    vector<vector<string> > slTags, tlTags;
+
+	    RuleParser::sentenceTokenizer (&slTokens, &tlTokens, &slTags, &tlTags,
+					   &spaces, tokenizedSentence);
+
+	    // map of tokens ids and their matched categories
+	    map<unsigned, vector<string> > catsApplied;
+
+	    RuleParser::matchCats (&catsApplied, slTokens, slTags, transfer);
+
+	    // map of matched rules and a pair of first token id and patterns number
+	    map<xml_node, vector<pair<unsigned, unsigned> > > rulesApplied;
+
+	    RuleParser::matchRules (&rulesApplied, slTokens, catsApplied, transfer);
+
+	    // rule and (target) token map to specific output
+	    // if rule has many patterns we will choose the first token only
+	    map<unsigned, map<unsigned, string> > ruleOutputs;
+
+	    // map (target) token to all matched rules ids and the number of pattern items of each rule
+	    map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules;
+
+	    RuleExecution::ruleOuts (&ruleOutputs, &tokenRules, slTokens, slTags,
+				     tlTokens, tlTags, rulesApplied, attrs, lists, &vars,
+				     spaces, localeId);
+	    // final outs
+	    vector<string> outs;
+	    // number of possible combinations
+	    unsigned compNum;
+	    // nodes for every token and rule
+	    map<unsigned, vector<RuleExecution::Node> > nodesPool;
+	    // ambiguous informations
+	    vector<RuleExecution::AmbigInfo> ambigInfo;
+	    // rules combinations
+	    vector<vector<RuleExecution::Node> > combNodes;
+
+	    nodesPool = RuleExecution::getNodesPool (tokenRules);
+
+	    RuleExecution::getAmbigInfo (tokenRules, nodesPool, &ambigInfo, &compNum);
+
+	    RuleExecution::getOuts (&outs, &combNodes, ambigInfo, nodesPool, ruleOutputs,
+				    spaces);
+
+	    // write the outs
+	    for (unsigned j = 0; j < outs.size (); j++)
+	      interInFile << outs[j] << endl;
 	  }
       else
 	cout << "ERROR in opening files!" << endl;
