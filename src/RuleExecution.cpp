@@ -6,8 +6,7 @@
 #include <stdlib.h>
 #include <algorithm>
 
-//#include "../pugixml/pugixml.hpp"
-#include "pugixml.hpp"
+#include "../pugixml/pugixml.hpp"
 #include "TranElemLiterals.h"
 #include "CLExec.h"
 
@@ -2104,8 +2103,8 @@ RuleExecution::clip (xml_node clip, vector<vector<string> >* slAnalysisTokens,
 //	}
 //      lem = newLem;
       size_t spaceInd = lem.find ('#');
-      if (spaceInd == string::npos)
-	spaceInd = lem.find (' ');
+//       if (spaceInd == string::npos)
+// 	spaceInd = lem.find (' ');
 
       if (spaceInd == string::npos)
 	{
@@ -2470,8 +2469,8 @@ RuleExecution::modifyCase (xml_node modifyCase, vector<vector<string> >* slAnaly
 //	  lem = newLem;
 
 	  size_t spaceInd = lem.find ('#');
-	  if (spaceInd == string::npos)
-	    spaceInd = lem.find (' ');
+// 	  if (spaceInd == string::npos)
+// 	    spaceInd = lem.find (' ');
 	  if (spaceInd == string::npos)
 	    {
 	      if (Case == aa)
