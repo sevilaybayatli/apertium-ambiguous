@@ -27,15 +27,14 @@ using namespace elem;
 int
 main (int argc, char **argv)
 {
-  string localeId, transferFilePath, sentenceFilePath, lextorFilePath, interInFilePath;
+  string localeId, transferFilePath, lextorFilePath, interInFilePath;
 
-  if (argc == 6)
+  if (argc == 5)
     {
       localeId = argv[1];
       transferFilePath = argv[2];
-      sentenceFilePath = argv[3];
-      lextorFilePath = argv[4];
-      interInFilePath = argv[5];
+      lextorFilePath = argv[3];
+      interInFilePath = argv[4];
     }
   else
     {
@@ -53,7 +52,6 @@ main (int argc, char **argv)
 
       localeId = "es_ES";
       transferFilePath = "./issues/apertium-eng-spa.spa-eng.t1x";
-      sentenceFilePath = "./issues/sents.txt";
       lextorFilePath = "./issues/lextor.txt";
       interInFilePath = "./issues/interIn.txt";
 
@@ -65,18 +63,16 @@ main (int argc, char **argv)
 	  << endl;
       cout << "transferFilePath : Apertium transfer file of the language pair used."
 	  << endl;
-      cout << "sentenceFilePath : Source language sentences file." << endl;
       cout << "lextorFilePath : Apertium lextor file for the source language sentences."
 	  << endl;
       cout
 	  << "interInFilePath : Output file name of this program which is the input for apertium interchunk."
 	  << endl;
-//      return -1;
+      return -1;
     }
 
   ifstream lextorFile (lextorFilePath.c_str ());
-  ifstream inSentenceFile (sentenceFilePath.c_str ());
-  if (lextorFile.is_open () && inSentenceFile.is_open ())
+  if (lextorFile.is_open ())
     {
       // load transfer file in an xml document object
       xml_document transferDoc;
@@ -91,20 +87,14 @@ main (int argc, char **argv)
       // xml node of the parent node (transfer) in the transfer file
       xml_node transfer = transferDoc.child ("transfer");
 
-      vector<string> sourceSentences, tokenizedSentences;
+      vector<string> tokenizedSentences;
 
       string tokenizedSentence;
       while (getline (lextorFile, tokenizedSentence))
 	{
-	  string sourceSentence;
-	  if (!getline (inSentenceFile, sourceSentence))
-	    sourceSentence = "No more sentences";
-
-	  sourceSentences.push_back (sourceSentence);
 	  tokenizedSentences.push_back (tokenizedSentence);
 	}
       lextorFile.close ();
-      inSentenceFile.close ();
 
       map<string, vector<vector<string> > > attrs = RuleParser::getAttrs (transfer);
       map<string, string> vars = RuleParser::getVars (transfer);
@@ -112,12 +102,11 @@ main (int argc, char **argv)
 
       ofstream interInFile (interInFilePath.c_str ());
       if (interInFile.is_open ())
-	for (unsigned i = 0; i < sourceSentences.size (); i++)
+	for (unsigned i = 0; i < tokenizedSentences.size (); i++)
 	  {
-	    cout << i << endl;
+//	    cout << i << endl;
 
-	    string sourceSentence, tokenizedSentence;
-	    sourceSentence = sourceSentences[i];
+	    string tokenizedSentence;
 	    tokenizedSentence = tokenizedSentences[i];
 
 	    // spaces after each token
@@ -165,47 +154,9 @@ main (int argc, char **argv)
 
 	    nodesPool = RuleExecution::getNodesPool (tokenRules);
 
-	    for (map<unsigned, map<unsigned, string> >::iterator it =
-		ruleOutputs.begin (); it != ruleOutputs.end (); it++)
-	      {
-		cout << "ruleId=" << it->first << endl;
-		map<unsigned, string> outs = it->second;
-
-		for (map<unsigned, string>::iterator it2 = outs.begin ();
-		    it2 != outs.end (); it2++)
-		  {
-		    cout << "tokId=" << it2->first << " , out = " << it2->second << endl;
-		  }
-		cout << endl;
-	      }
-	    cout << endl;
-
-	    for (unsigned j = 0; j < tlTokens.size (); j++)
-	      {
-		vector<RuleExecution::Node> nodes = nodesPool[j];
-		cout << "tokId = " << j << " : " << tlTokens[j] << endl;
-		for (unsigned k = 0; k < nodes.size (); k++)
-		  {
-		    cout << "ruleId = " << nodes[k].ruleId << "; patNum = "
-			<< nodes[k].patNum << endl;
-		  }
-		cout << endl;
-	      }
-
 	    RuleExecution::getAmbigInfo (tokenRules, nodesPool, &ambigInfo, &compNum);
 	    RuleExecution::getOuts (&outs, &combNodes, ambigInfo, nodesPool, ruleOutputs,
 				    spaces);
-
-	    for (unsigned j = 0; j < combNodes.size (); j++)
-	      {
-		vector<RuleExecution::Node> nodes = combNodes[j];
-		for (unsigned k = 0; k < nodes.size (); k++)
-		  {
-		    cout << "tok=" << nodes[k].tokenId << "; rul=" << nodes[k].ruleId
-			<< "; pat=" << nodes[k].patNum << " - ";
-		  }
-		cout << endl;
-	      }
 
 	    // write the outs
 	    for (unsigned j = 0; j < outs.size (); j++)
