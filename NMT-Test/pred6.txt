@@ -1,0 +1,6300 @@
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+MaximaLanguage
+Kesmeler (in)
+BilgiName
+Makina reddi:
+CIE PanjabiName
+BilgiName
+characters
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+SQL Proxy:
+SQL Proxy:
+BilgiName
+BilgiName
+MaximaLanguage
+Kesmeler (in)
+MaximaLanguage
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+XML ÇeşitliName
+BilgiName
+Kirk adımını basamaklaması
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+MaximaLanguage
+BilgiName
+Hata:% 1
+% 1 açılamadı
+Hata:% 1
+% 1 komut bulunamadı:% 2
+Ekle...
+Bitirmek yüksekliğini gösterme Çıkılıyor.
+Bulunamadı
+Satır Başlangıç
+Satır Bitiş
+Tüm ifadenin oturumları için kullanıldı
+Bir listeden ya da seçimin şeklini
+Başka bir ya da doğrultu
+Başka bir ya da listeleName
+Hedefi hedefe kaldır
+Tatil
+Karakter kümesi:
+Tam Eşleştirme
+Referans
+Satır Sonu
+Sekme
+Kelime sınırı
+BilgiName
+Lanman değil
+Hedef disk erişimini protocol
+Kendiliğinden olmayan disk erişimini ayarla.
+KDialog, resmi betikleri için çizgi ile kullanıldı
+Tabloda Eşleştirme
+SMTPProtocol:: için dinleyeceği
+SMTPProtocol:: için dinleyeceği
+Tersbölü
+Öğretici ICA
+Microsoft Görsel
+Negatif Günlüğü
+Küçük seviye DenetimiComment
+Büyük bitiş duyarlı kullan
+Name
+Bir kabuk dönem sayısını değiştir
+& NomonikShow
+Tümünü & vurgula
+Sadece Şifrele...
+Yoksay
+& Seçim:
+On göstermek için PanelName
+Takıldıklarında ve Ekranı listesini tazele
+İmla Denetimi
+Seçilmiş & kaynağı için metin
+% 4 @% 1 dosyasına yazılamadı.% 2 (% 3%)
+% 1 açılamadı
+BilgiName
+Hata:% 1
+Anahtar Sözcük
+Veri Türü
+Ondalık göstergesi 1
+Bir Tamsayı sanatsal sayı
+GörünümComment
+Basamaklar
+Satır
+Açıklama
+BilgiName
+Uyarı
+Doygunluk
+Normal kip
+% 1: Hubble Uzay (% 2) ekinin yeniden kuruldu.
+% 1: Hubble Uzay olan% 2 kalan:% adı bulunamıyor
+% 1: Hubble Uzay olan% 2 yazıtipinde profil bulamadı.
+kullanmak istediğiniz bilgi ile ayrılmış süreyi ya da yüklenmesinde gibi.
+Kate Uygulamasını çift tıklayın:
+Masaüstünde eklenti sayfası ile ilgili hata oluştu.
+% 1 için aralığı. @ info
+Yine de kaydet
+% 1 dosyası açamıyor. Bu dosyayı kaydetmek için yeterli dosya adı olup olmadığını kontrol edin.
+% 1 dosya içeriği бинарлық, için açılamıyor...
+Eklenecek dosya BiçimleriName
+% 1 dosyası 8 PostScript' e içerir ve aynı olmayan bir grup bulundu. Bunu yok ya da hatalı KMail' i yeniden başlatın.
+Dosya sırasında dosya 8 belirtilmedi
+Eklenecek dosyanın içeren Çık
+Bu simge seçilen dosya olarak tazelemek istediğinize emin misiniz? Tüm programların arşiv silinecektir.
+DSS/ Dosyası әрекеті
+Bu dosya ve bu dosya ve dosyayı kaydetmek istediğinize emin misiniz? Dosya adı ve dosyaları bu dosyanın içerisinde bir dosya adı önerir.
+Öğe Not Onayı
+Mevcut user bu seçenek için bize olan simgeyi bulunamadı. Bu alanı bu seçeneği unutursanız, NOT: Bu düğmeye ayıklama tüm ayarlarınız silinecektir.
+Yedekleme dosyası başarısız.
+Yine de Bölgeler
+Belge kaydedilemedi, u% 1 dizinine izinlerinizi ya da isim). Herhangi bir dosyaya kaydetmek için yeterli boşluk boş bırakabilirsiniz.
+Bu belgeyi kaydetmek istiyor musunuz? misiniz?
+Okunmayan kapat
+Dosya kaydet
+Ayrıştırma Hatası
+Dosya Diskte Değiştirilmiş
+Değişikliği yoksay
+'% 1' dosyası açılamadı: Bir dosyayı өзгертіп
+'% 1' dosyası açılamadı: Bir dosyayı yükleyin.
+'% 1' adlı bir uygulama gerektiriyor.
+"% 1" isimli bir dosya zaten var. Üzerine yazmak istiyor musunuz?
+& Tümünün Üzerine imlerini mı?
+Belgede & Sözcük Kaydırma Kullan
+& HTML Olarak Kopyala
+Seçili- bulunan metni sistem panosuna kopyalamak için bu komutu kullanın.
+HTML & HTML Dışarıya Aktar...
+Bu komut, özel bir HTML özelliğini otomatik olarak belirle ve sisteminizin oluşturmanıza olanak verir.
+HTML Olarak Aktar
+(c) 2000- 2005 Kate Geliştiricileri
+Geliştirici & Vurgulama Sihirbazı
+Dosya zaten kaydedilemedi% 1
+Başarılı
+Sözcüğün Sağına Geç
+Sözcüğün Boyut Geç
+& Üzerine Yaz
+& Devingen Sözcük Kaydırma
+& Satırı sarmala
+(c) 2000- 2005 Kate Geliştiricileri
+& DosyaNAME OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+GİZLİ İndir...
+Biçim
+& Kübizm...
+& Netscape
+& kabuk kullan:
+& Metin
+Dosya adı:
+Aktar
+İptal
+İçsel hata. Lüften 29 pim@ kde. gönderin
+SSL
+Hata kullanılabilir belge. қатесі.
+% 1 dosyası yazmak için hata oluştu.
+% 1 (% 2 Uyumlu) 3 Uyumlu)
+Bu eklenti, KDE başlangıcında için parola sürücüsü seçebilirsiniz. Kendinize değiştirmek için sürücüsü düzenlemeniz ve SSL cihazınızın ölçüde düğmesine basın ve siz KolourPaint' i yeniden başlatın.
+BilgiName
+KDE Yardım Kontrol Modülü
+(c) 2000 - 2001 George Staikos
+George Staikos
+Carsten Pfeiffer
+SSL Şifrelemesi
+SSL algılama kullanıcısı seçin. Bunun için bir seçenek seçin. Bunun için kullanılmamalıdır.
+DPIO Sihirbazı
+Sadece kolleksiyondaki sahibi.
+Sadece kolleksiyondaki sahibi.
+Tümü
+& SSL Kaynağı Göster@ label
+Bu kutuyu işaretlemek, tüm sekmelerin listesini gösterir.
+SSL bmk Depolanan
+Eğer bu seçenek için ışıklandırma süresini ayarlar.
+Şifrelenmemiş değerleri görüntüleme çalışıldığında uyar.
+Bu seçenek işaretlenirse, bir hata basılsın ten bu seçeneği verir.
+Eklentiler: & SSL SSL pencereler için & URI:
+Eğer tıklı ve KDE3' ten ve шифрланбағаны sağlar.
+TRIM Analog 10:
+& Kullanılabilirlik
+Tekrarlama@ kullan
+Yapılandırmanın dosyası kullan
+Efekt yolu:
+Bu seçenek işaretlenirse, bir yazıtipleri için özellikle ayarlayabilirsiniz. Örneğin, özellikle birbirine izlenirken gösterilecektir.
+Bu seçenek etkinleştirildiğinde, gönderdiğiniz bir simge oluşturmak için için tıkla ve kullanılır.
+PrintScrn işaretçisinin indeksleyici uygulamanızın siz) gönderildiğini giriniz.
+Hari küpü (ve seçmek için bu düğmeye basın.
+Bu liste, KDE kişisel makinede ziyaret gösterir. Eğer bu bir KDE ziyaret taşınmak için bu düğmeye tıklayın.
+Genel İsim
+E- posta Adresi:
+Alınıyor...
+& Aktar...
+Sil
+& Kitabı Kaldır
+& Doğrula
+& Parola Değiştir...
+Sertifika geçerliliği bilgilerName
+İmzalama işlemi programcığıName
+Lanman ana günü:
+Kesmeler (in)
+Sertifika istemcisi@ için bu komut.
+Bu işlem ile açıklamayı yapabilirsiniz.
+Disk tamponları:
+Web listesindeki çalıştırmak için kullanılan OpenPGP anahtarı.
+SSL makinesi:
+Öntanımlı ses kullan
+Yarıçap:
+Lütfen bu zaman aşımı pasifleştir
+SSL merceğinin 'udi' ye karşılık gelen aygıtını kaldıramadı.
+Öntanımlı İşlem
+Gönder
+Sor
+Yönlendirme
+Öntanımlı grup:
+SonyEricsson/ diğer seçenekler:
+Sunucu
+Sertifika adı:
+Davranış
+Bilgisayar:
+BilgiName
+Eylem
+Listeye Postala
+Sor
+Yönlendirme
+& Yeni
+Bu liste, KDE açılışında% ve gids' sini ve kullanıcınız "Listeyi göster" ve oluşturuyor.
+Kurumjob title
+Bu işlem seçilen takvimi tanımlamak için bu düğmeye tıklayın.
+Sil
+Bu düğme seçilen tarih için bir şablonName
+& Doğrula
+Bu düğme seçili zamanaşımı sil.
+Önbellek
+Sabit
+& Kendi
+Sertifika tarafından belirtilen zaman қылады.
+Sertifika Özel aşımına қылады.
+Web' etkinleştirildi ve zaman
+Al
+Reddet
+Belirlenen bu zaman tüm saat@ için bir seçin.
+Bu eklenti, tüm zaman aşımı için bir tarih ve kullanılacağını seçin.
+Lokalize' in sunucusunun adresini anlayabilmesi için seçin.
+Bu liste, KDE kişisel çökme kuruyor, içerir. (Bu sıralamalar seviyelerini ayarlayabilirsiniz.
+TanjantArc
+Geri Yükle
+Gider içer
+E- posta iletisini için kullanılacak e- posta kullan
+Komut Kullan
+& Yarı gönderildikten ve bilinmeyen sunucu sunucuda kullanabilir.
+& Zaman aşımı denetimi alınamadı.
+FSView, e- posta hesabının kimlik anahtarları yazın.
+Bu alanda, size olan olan ondalık biçimleri aracını gösterir.
+& Ekle
+Bu ayarlar ve etkili uygulamaların simgeyi tamamen alır.
+OpenSSL
+BilgiName
+Doğrulama
+Yonga/ Cüzdan Aç...
+SSL Atticagreece_ Arayüzleri
+Diğer: Seçenekleri
+Eğer en az bir Durummessage sini істемейді.
+SSL makinesi:
+Sertifikayı Şifrele
+İmza hatası.
+Sertifika başarıyla başarıyla temizlendi.
+Sertifika dönük izleme başlatılamıyor.
+Sertifikayı Dök
+Sertifikayı Dök
+Sertifika hareket başlatılamıyor. Başka bir hata kaydetmek istediğinizden emin misiniz?
+Yanlış Parola
+SıralamaReceiver of the emial
+Bu isimde bir grup adı zaten var. Üzerine yazmak istiyor musunuz?
+Değiştir
+Sertifika Şifrele
+'% 1' için parola parola
+SMTPProtocol:: 1:% 2
+Dışarı Aktarılıyor
+Sertifika Onayla...
+Sertifikalar паролі
+Bu seçeneği bir iç anahtarlar:
+Bu aygıt zaten var.
+Sertifika dosyası çalıştırılamadı.
+Bu kaynaklardan KMail içerisinde konumlandır@ izin status
+Sonucu
+Kullanılan Yönetim
+Lütfen kullanmak için bu düğmeye tıklayın. Lütfen kdepim ya da yazdırmanız önerilir.
+Bu eylemi bant benzer kayıtlı bağlanan bir listesini koymak istediğinize emin misiniz? Bu işlem sayım devam etmek istiyor musunuz?
+BilgiName
+OS/ ve hata dosyası:
+Bilgilerinizi bulunamadı ya da yüklenemedi.
+Bilgilerinizi bulunamadı ya da yüklenemedi.
+Yonga/ ayrıştırma sayısı
+Yapılandırmanın dosyanın yolu:
+KPilot SSL
+Doxygen SSL
+S/ MIME
+PGP
+PortekizName
+KDE SSL SunucuComment
+Yonga/ veritabanı:
+Netscape dilinizde göstermek için kullanıldı
+Sözde dosyalarını sıkıştıramıyor.
+Kişisel seçtiğin ve Mime kurulamadı.
+S/ MIME ka Listeleri eklentiye in Bulgaria
+Kullanıcılar... bağlantısıstraigh and Yellow)
+Tarih ve Saat ve argümanlar
+Tarih:% Eden editor' s Time
+Küçük@ Küçük@ of column...
+BilgiName
+Sertifika Aktarımı Sihirbazı
+Sertifika adı:
+Anahtar
+Anahtar uzantısıComment
+Ülke yürütme
+Durum@ title: column
+BilgiName
+Veri adı:
+Veriyi sürücüsü:
+Sunucu paylaşımı için bir makine adı
+İkinci E- posta Adresi
+Geçerli karakterler:
+Değiştir
+BilgiName
+Takma Adlar
+NumLock
+SMTPProtocol:: smtp_ NAME OF TRANSLATORS
+Görkem Çetin, Ozan Eren BİLGENEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+Yönlendirme
+Öntanımlı oturumları için öntanımlı özellikler
+Technorati EtiketleriQuery
+Kesmeler (in)
+Kesmeler (in)
+(Teslim BiçimlendiriciName
+Hafta
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Ara
+Ocak
+BilgiName
+BilgiName
+WEEKDAY( SID:
+BilgiName
+Temmuz
+BilgiName
+BilgiName
+BilgiName
+ShonaName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+NisMay short
+Hafta
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Ara
+Ocak
+Kilitle/ long
+BilgiName
+Kilitle/ long
+BilgiName
+Kilitle/ long
+BilgiName
+BilgiName
+BilgiName
+ShonaName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Paz
+Pzt
+Sa
+Çrş
+Prş
+Cu
+Cts
+KStars:: 4; 8) 1 1Name
+KStars:: 4; 08; 12), 1 değerine eşittir
+KStars:: 4; 8) 1 3608 değerine eşittir
+KStars:: 4; Nisan 1),
+KStars:: 4; "13 5 - Bulgaria
+KStars:: 4; 8) - Sweep
+KStars:: 4; 7) - Beşliler değerini gönderir
+KStars:: 10; i"), - Bilim- kurgu
+KStars:: 4; 05") 1 3608 değerine eşittir
+KStars:: 10; i"), 10 1Name
+DECSEX 10; tutar; "3.
+KStars:: 4; Nisan 12),
+KStars:: 4; 8) 1 1Name
+KStars:: 4; 08; 12), 1 değerine eşittir
+KStars:: 4; 8) 1 3608 değerine eşittir
+KStars:: 4; Nisan 1),
+KStars:: 4; "13 5 - Bulgaria
+KStars:: 4; 8) - Sweep
+KStars:: 4; 7) - Beşliler değerini gönderir
+KStars:: 10; i"), - Bilim- kurgu
+KStars:: 4; 05") 1 3608 değerine eşittir
+KStars:: 10; i"), 10 1Name
+DECSEX 10; tutar; "3.
+KStars:: 4; Nisan 12),
+KStars:: 4; 8) 1 1Name
+KStars:: 4; 08; 12), 1 değerine eşittir
+KStars:: 4; 8) 1 3608 değerine eşittir
+KStars:: 4; Nisan 1),
+KStars:: 4; "13 5 - Bulgaria
+KStars:: 4; 8) - Sweep
+KStars:: 4; 7) - Beşliler değerini gönderir
+KStars:: 10; i"), - Bilim- kurgu
+KStars:: 4; 05") 1 3608 değerine eşittir
+KStars:: 10; i"), 10 1Name
+DECSEX 10; tutar; "3.
+KStars:: 4; Nisan 12),
+KStars:: 4; 8) 1 1Name
+KStars:: 4; 08; 12), 1 değerine eşittir
+KStars:: 4; 8) 1 3608 değerine eşittir
+KStars:: 4; Nisan 1),
+KStars:: 4; "13 5 - Bulgaria
+KStars:: 4; 8) - Sweep
+KStars:: 4; 7) - Beşliler değerini gönderir
+KStars:: 10; i"), - Bilim- kurgu
+KStars:: 4; 05") 1 3608 değerine eşittir
+KStars:: 10; i"), 10 1Name
+DECSEX 10; tutar; "3.
+KStars:: 4; Nisan 12),
+IMCOS 1234. 2+5i"), 1 1Name
+IO( 1234. Ulusal 1),
+IMCOS 1234. Ulusal 1), - Atmosfer
+IMCOS 1234. du 4 değerini gönderir
+IMCOS 1234. Ulusal 5 - Yes
+Solo 1234. 2+5i"), - 3700K)
+IO( 1234. 56), - 3700K)
+IMCOS 1234. 2+5i"), 1 1Name
+IO( 1234. Ulusal 1),
+IMCOS 1234. Ulusal 1), - Atmosfer
+IMCOS 1234. du 4 değerini gönderir
+IMCOS 1234. Ulusal 5 - Yes
+Solo 1234. 2+5i"), - 3700K)
+IO( 1234. 56), - 3700K)
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+Pts
+Sal
+Wiktionary - GirinBoolean eşzamanlama.
+Prş
+Cum
+BilgiName
+BilgiName
+Pzt
+Sa
+Çrş
+Prş
+Cu
+Cts
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+BilgiName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+BilgiName
+(Teslim BiçimlendiriciName
+NisMay short
+NisMay short
+NisMay short
+NisMay short
+BilgiName
+NisMay short
+NisMay short
+NisMay short
+NisMay short
+NisMay short
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+WEEKDAY( SID:
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+WEEKDAY( SID:
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kilitle/ long
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kilitle/ long
+BilgiName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+(Teslim BiçimlendiriciName
+NisMay short
+NisMay short
+(Teslim BiçimlendiriciName
+BilgiName
+Pzt
+Sa
+Çrş
+Prş
+Cu
+Cts
+Pazar
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+canlandırmalı I
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+canlandırmalı I
+Öğretici Almanya' item DIMAP HPBW
+Hari Ekleme@ item
+Hari Ekleme@ item
+Hari Ekleme@ item
+Makefile, aygıtları betikleri için bir kioslaveName
+Hari Ekleme@ item
+Hari Ekleme@ item
+İşaretleme GenişleyenSize item DIMAP HPBW
+Hari Ekleme@ item
+Hari Ekleme@ item
+Geçersiz Takvim Türü
+Sadece bugün
+IO( X) 1 1Name
+IO( X) 2 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( ("hello"), 8) - Beşliler
+IO( X) 2 1Name
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( X) - Modeling Org
+IMCOS 12), - "1010" değerini gönderir
+IO( X) 1 1Name
+IO( X) 2 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( ("hello"), 8) - Beşliler
+IO( X) - Bilim- Org
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( X) - Modeling Org
+IMCOS 12), - "1010" değerini gönderir
+IO( 213. Lab. GirinBoolean 1 değerini gönderir
+IO( X) 2 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( ("hello"), 8) - Beşliler
+IO( X) 2 1Name
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( X) - Modeling Org
+IMCOS 12), - "1010" değerini gönderir
+IO( X) 1 1Name
+IO( X) 2 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( ("hello"), 8) - Beşliler
+IO( X) - Bilim- Org
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( X) - Modeling Org
+IMCOS 12), - "1010" değerini gönderir
+IO( Tarama@ 1 - 3700K)
+IO( ("IV") 1 1Name
+CTAN - GirinBoolean 3 denetleyicisiStencils
+IO( ("merhaba 4 - 4500K)
+IO( ("merhaba 5 - Yes
+Wiktionary - GirinBoolean eşzamanlama.
+IO( ("55") GirinBoolean - Borulu
+CTAN - GirinBoolean doğru element
+IO( ("IV") 1 1Name
+CTAN - GirinBoolean 3 denetleyicisiStencils
+IO( ("merhaba 4 - 4500K)
+IO( ("merhaba 5 - Yes
+Wiktionary - GirinBoolean eşzamanlama.
+IO( ("55") GirinBoolean - Borulu
+IO( X) 1 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( ("hello"), 8) - Beşliler
+IO( X) - Bilim- Org
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( X) - Modeling Org
+IMCOS 12), - "1010" değerini gönderir
+IO( X) 1 1Name
+IO( X) 2 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( X) - Bilim- Org
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( X) - Modeling Org
+IMCOS 12), - "1010" değerini gönderir
+IO( X) 1 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( ("hello"), 8) - Beşliler
+IO( X) - Bilim- Org
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( ("merhaba 5 - Yes
+IMCOS 12), - "1010" değerini gönderir
+IO( X) 1 1Name
+IO( X) 2 1Name
+IO( X) 3 95583 değerine eşittir
+IO( X) 4 - Atmosfer
+KStars:: ("8: 5 - Beşliler
+IO( X) - Bilim- Org
+IO( X) - Bilim- Org
+KStars:: ("8: 4 - Atmosfer
+IO( X) - Modeling Org
+IO( X) - 3700K)
+IO( X) - Modeling Org
+IMCOS 12), - "1010" değerini gönderir
+CTAN - GirinBoolean doğru element
+IO( ("IV") 1 1Name
+CTAN - GirinBoolean 3 denetleyicisiStencils
+IO( ("merhaba 4 - 4500K)
+IO( ("55") GirinBoolean - Borulu
+CTAN - GirinBoolean doğru element
+IO( ("IV") 1 1Name
+CTAN - GirinBoolean 3 denetleyicisiStencils
+IO( ("merhaba 5 - Yes
+IO( ("55") GirinBoolean - Borulu
+BilgiName
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+Protokolleri Seç
+Bu uygulamanın Konqueror' un bu ağ ayarlarını düzenle Buradan öntanımlı metin için öntanımlı dosyaların tekrar basın ve öntanımlı programını değiştirmek için basınız.
+Kaynak:
+?
+Aşağıdakilerin & Konuya göre:
+Buradan hangi işaret girin
+BilgiName
+Yeni DVD- yayınlandıComment
+Yazar:
+İkinci E- posta Adresi
+İsim:
+Sürüm:
+BilgiName
+cm
+BilgiName
+BSD
+Tarama @ title: window Results of the person
+Dil:
+Yuvarlatılmış Nedir Seviyesi' ni büyüt.
+İndirme betiği:
+BilgiName
+Hiç bir şekilde bilgisi tanımlamalısınız.
+BilgiName
+Kategori:
+En Üstteki
+Puan
+Sayfa kenarlığı:
+Kurulu
+Sıralanacak altını göre:
+Ara@ item Undefined import field type
+Başarılı bir süre
+Sunucu:
+Sunucu Bilgisi yükleniyor...
+TeX' ı almak için kullanıldı
+Gönder
+Küçük Resim Seçicisi
+Açıklama:
+Bu Girdileri için Nesne Ayarla
+Değer:
+BilgiName
+Açıklama
+Önizleme
+BilgiName
+Ayarla
+Güncelle
+Kaldırılıyor
+El görüntülenme:
+Sözde Aracılığı için politikalar belirleyinComment
+Parola:
+& Onay:
+Parola karıştırma:
+Aygıta сәйкес
+Görev
+Görev Yöneticisi
+Planlanan Çıktı maskesi
+RaporlarName
+Görev ZamanlayıcıComment
+Görev Ayarları
+Ayarlar
+Değer
+Sayfalar
+AktiviteStencils Kenarlığı:
+1@ action: button let current in header of line edit
+6
+2
+9
+4
+16
+Dış AlanEnter Query at start at
+Başlangıç
+Koleksiyonu action
+Sayfa Empedansı
+Sayfa kenarlığı:
+Çıkan Sayfalar
+Tablo katsayısı. Radyan Eşleştirme
+Uzaktaki textfilte kullanan evrelerinde yanıtını ismi.
+Buradan klavye yazılımını aygıtınızın göstereceğini bağlanan bir kullanıcı adı ve sağ alt birini gösterir. Bu tür sağ erişmek için sağ sağ tuş tanımlar.
+Eylem
+Kısayol
+Duvar kağıdı
+Genel
+Genel fatura:
+Fare parçacığıName
+Fare tekeri tutma
+Lütfen kullanıcı adı ve parola girin.
+Kullanıcı:
+Anonim
+& Alan adı:
+Parolayı Kaydet
+Seçenekler
+Çalışma yazma & Durduras sil@ info/ plain
+& POSIX kabuk öntanımlı adı
+& Büyük kenarına adreslerini yoksay
+PostScript Hızlandırıcı
+Öntanımlı MaviName
+
+Bilinmeyen Yönüvisibility
+Bilinmeyen Satır
+libical hatası
+Hari dosya sistemini seçer.
+& Dil:
+Bilinmeyen kayıt metin isteniyor
+Bir bilinmeyen dizin metin bloğunu önceden belirli bir metin dosyasından sahip bir dosyaya kaydetmek için bu kioslaveName
+MathML ekranın hata oluştu; bakınız.
+Bilinen bir numara bulundu. Bilinmeyen olarak саналған Bunu listenizi olabilir. Bu teyp kaydederseniz, bir olabilir. Eğer herhangi bir teyp kaybı yardımıyla önceki/ şekilde işaretlemeleri ya da dairesel bir komutta isteği olarak seçin.
+< & kabuk Ekle
+Nokta listesi
+Eğer "izlenebilir Düzenleyiciyi bir hata raporu gösterilmemesini istiyorsanız bu seçeneği etkinleştirin. Uygun bir problem veya fareyi gösterilmesi için bu düğmeye tıklayın. Bu seçeneği işaretlemek kaldırmak için üzerinde tıklayın ve bu düğmeye basın.
+KapatFind güzel
+Eğer bir hata basmak hata raporu siz siz bu mevcut yüklenmesinde nasıl veya daha fazla metin şeklinde yaratabilir. Parola kaybına gerekir. Diğer listeden bu metin kullanan tüm kişiler için Değiştir... Bu seçeneği kaldırın ve sağdaki bir sekme ile kaldırmak istiyorsanız, bu seçeneği pasif hale getirin.
+Bununla Değiştir:
+Dil Ayarları
+BilgiName
+Yer imi başlatılacak bir metin arayüzü atamak için bu seçeneği tıklayın.
+Değiştir
+Seçili metin tüm gönderdiğiniz şifrelemenin için bir metin olarak başlamıyor.
+& Tümü değiştir
+Sözcük bölüm için buraya tıklayın. Bu özelliğin ait bir tuşa ya da kapatıldığında kendi köşeye kullanacaktır.
+Yoksay
+Bir smartcard tüm gönderdiğiniz bu pencere, klavyedeki Göster mesela durumda bir resminiz ya da aylık olarak değiştirilir.
+Reddet
+Otomatik Düzeltme
+& Dosya
+& Paylaş
+& Düzen@ title: menu Create menu
+& Taşı
+& Görünüm
+Git
+& Yer İmleri
+& Araçlar
+& Ayarlar
+& Yardım
+Ana Araç Çubuğu
+Ana
+BilgiName
+Freeciv için hiçbir komut aracı
+Protokolleri Tarayıcısını Güncelle
+Sözde komutunu KişiselleştirName
+Duraklat
+Destek girdilerinde güzel anlayabilmesi için tıklayın. Bu dosyayı seçebilirsiniz.
+Çıktı Dosyası...
+Protokolleri Bağlama Kipi
+HTML İşlemleri Yöntemi
+Ayarlar
+Testler
+Sadece kwalletd tiplerini kaldır
+Sadece HTML сынақтарын
+Hata ayıklama alanı:
+Kesmeler (in)
+Dfree komutu çalıştırılıyor...
+Monokroma çizilsin ekle
+Yükleme gösterilirken
+Hedefi dizini
+Çıktı dizininin textbox
+Belge seçeneklerini silmeme title: group
+Genel
+URL:
+İsim:
+Son bağlantı:
+Belge karakter kümesi:
+HTTP & Başlıklar
+Davranış
+JavaScript Hatası
+Bu haber gerçekleştirebilmek için İnternet' ten olur. Eğer bu web İnternet' i org web sayfalarının tarayıcınızda te daha fazla bilgi istemek için www. http: // bugs. kde. org adresini bağlı web sayfalarının CSS)
+& Kapat
+& Temizle
+HTML Araç Çubuğu
+BilgiName
+& Sonraki
+& Önceki
+Seçenekler
+Parolayı Şifre Kaydedilsin mi?
+& Kaydet@ item: inmenu colors
+Bu nedir? & Sakla
+& Bu kabuk kullan:
+& tamamlanmış
+...
+Grup Çubuğu 1
+İşaret Penceresi
+Özel Grup Çubuğu
+Radyo düğmesi
+1. әрекет
+Ses & Çıkışı
+Öğretici Deseni Seç
+İleti başlıklarını gösteroption: göster
+Geçmişi жазу
+Kısaltıldı
+& Komutun Çalıştır
+Çalıştırılacak komutu seçin
+BilgiName
+Haftalık çıkış görünmeli? (initrd) seçebilirsiniz. Değiştirmek istediğiniz ögeye seçebilirsiniz. Bunun için aşağıdan seçin. Belirli bir katılımcı seçebilirsiniz. Bunun için aşağıdan t�klayın ya da aylık girmelisiniz. @ label
+Pusula Profilleme
+stdin adını göre:
+stdin adını göre:
+Bir Simge Uzantı
+Görüş alanı pasifleştiriliyor...
+Arayüz Kodundan Düzenle
+Sözde adları için örnek imlecinizi resmi seçiniz Name
+Bilgisayar bulundu, sor@ info: whatsthis
+KDE önyükleme kızılötesi aynı yeni bir kullanıcıda oluşturmak için açılır.
+Hangi uçbirim uygulamasını kullan
+Terminal hiç aygıtları kullanmak için bu şekil kullanın.
+Sabit Yazıtipi Genişliği
+Sabit yakalama yöneticisinin her yazıtipi için bu yazı tipini kurmanızı sağlar.
+Sistem Yazı Tipleri
+Menü Yazıtipi
+Netbooklar yüksekliğini etkisizleştirmesi
+İleti
+Öğretici Teması cetvelinin rengi
+İşletim Son Kullanım
+Görev Çubuğu Yazıtipi
+Fare koruyucusunun nasıl davranılacağını değiştirmek için güneşe aksi bakın.
+Yan Türlerini Yazıtipi
+Ekran Yakalama Görüntüsü Kısayol
+Tüm modlar yeniden boyutla:
+Makine için tarama Kısayol Kaldır
+Önce dizinleri göster
+Dosyalar Lokalize önce notu adı
+En Son kullanılan bağlantı
+Yapılandırmanın Nedir knsrc dosya yapısında
+Dosya dosyasının dosya dosyasını göster
+Gizli dosyaları göster
+Fare ile eşleşmesi için dosya düğmelerini gider
+Kesmeler çubuğunu göster
+Okunan/ (calendar ile
+aRts, Çıkıldığındaki betikleri yapılandırmak için gerekli olan kullanılacağını güncellemelerini sağlar.
+Metin etiketlerini göster
+Panodan Yönünde sözcükler
+Uygulamada sistemde, desteklenmeyen karakter eklenemedi.
+Otomatik dizin zamanı
+KDE topluluk bileşeni içeren Dizin
+İstenen desteği kullan
+KDE için iç dosya( 4 karakteri değiştirmeye izin verin
+Değiştirilme listesindeki dosya yolu
+Fare paylaşımı için sağ biçimleri
+Araç çubuğu sütun çubuğunda göster
+Araç çubuğu görünümlerini ayraçlarını göster
+Parola okunamadı
+Pencere pencerenin boyu
+Kesmeler (in)
+MDURATION to gösterme/ - > endTime Alma olarak tamamlanacaktır.
+BilgiName
+- aygıt:
+=
+BilgiName
+5
+3@ action: inmenu
+7@ action: inmenu
+8
+BilgiName
+Çalışıyor
+Dosya
+Betik Aç
+Kimlik Aç...
+BilgiName
+Eklentileri Kapat
+Betik Oluşturucu...
+Шығу@ action
+Geliştirici
+Çalışıyor
+Betik Çalıştır...
+Ön çalıştır...
+Otomatik telefon uzaklığı:
+Karşıtlık
+Sonraki Satıra bağlanırken:
+Kapat
+Dfree komutu çalıştırılıyor...
+DirectDraw spreyi
+Koşulları ile etkin
+Sözde uygulamasını hoşgeldiniz.
+Kesmeler komutları göster
+Hizmetleri görünümlü karşıtlık için pasifleştirildi)
+Geri kalan öge sayısı:
+Dosyalar Seç...
+İptal
+Duraklat
+Zaman dilimine göstermek için sürükleyin.
+Kesmeler (in)
+Hata
+Yapılandırma Hatası
+Satırlarda Hata
+Haberleşme hatası
+Sözdizimi Hatası
+Tip Hatası
+Hata
+Bunlar için öntanımlı sistem ayarları:% 1)
+Eğer adres defteri adını seçebilirsiniz. Bu kutucuk görmek için uygulamasını hata ayıklayıcı önce bir betik denemek zorundadır.
+Hata: xmllint başarısız bulunamadı:
+Hata: xmllint başarısız bulunamadı:
+BilgiName
+KDE KDE masaüstü Sistemi (Geçerli hata:% size
+(c) 2001 Waldo Bastian
+Waldo Bastian
+Yazar
+Eski Makine adı
+Yeni Makine Adı
+KDE Kontact@ label: textbox
+KDE programının erişmek için Kmail ayrılmış projeler seçiniz
+Benim etkinleştirildiğinde in Hoşgeldiniz
+'% 1' veri oluşturulması sırasında bir hata oluştu. Lütfen SQL ve desteklenmiyor.
+BilgiName
+'% 1' veri ayrıştırılamadı. Bir veritabanından bir veritabanı değil.% ve çokluortam dolu denetleyiniz.
+Sistem Zili Lütfen yeniden oluşturur.
+(c) 1999- 2002 KDE Geliştiricileri
+David Faure
+Metin Kutusu izleme жібермеу
+Artan @ info
+Dosyaların & Kalan Zaman aşımı:
+Dosyalar Taranıyor...
+Genel veritabanı Oluştur
+Menü oluşturma prüzsüz bir şekilde kaydet
+Grup çalışması için tıklayın
+Bir yatırımın küpü (CDE) (CDE) ve pencere oluşturucuComment
+Artık Disketlerin yorumlayıcı Ortamı, ismi.
+KDE yapılandırma yeniden isimlendirilirken bekleyin...
+KDE Yapılandırma Yöneticisi
+KDE başladığında yeniden isimlendirmeden daha KDE Uyarılarını KDE messagebox
+& Yeniden Yükle
+SıralamaReceiver of the emial
+Yapılandırma işlemi başarılı bir şekilde yüklendi.
+Uygulamada tanımlaması ayrıştırılması toplamı
+SMTPProtocol:: yu kullanma
+Lanman zaman aşımı uğradı.
+Satırlarda açılması hatası
+CIE YetkilendirmesiComment
+Kaydedilmiş agent ListesiName
+(C) 2001- 2009 128
+Netbooklar kullandığınız için Depolama seçin
+Arayüzünüz için KDE çizimler çevirmeni
+Bilgisayarınıza KDE masaüstünüzü efektlerini yüklerwhatsThis ProgramıName
+Ekranda Nedir conf sayısı
+Makefile, ui_BAR_Qt Dosyalar Ör: Yılmaz GörüntüleyiciName
+Arayüzünüz için KDE çizimler Sunucuları
+Kullanılabilir KDE PIM Kısayol
+Kaynak Teması Dosyaları göster
+Üzgünüm, Krell tanımlama ile süzgeç izin verir.
+Kullanıcı adı haritası:
+Arşiv dosyaları kaydedilirken hata oluştu:
+Qt birleşiklik NoktasıStencils
+Qt Designer adları
+Qt Designer adları
+Qt Designer adları
+Uygulamanın servis bilgilerimi dışında desktop desteği)
+Otomatik Başlatma
+Sözde bilgilerini yapılandırabileceğiniz ismi.
+Uygulamada için örnek yardım tanımıName
+Ayar Dosyaları
+İmzayı şu az birini seç:
+Duygu Simgeleri
+Yapılandırmanın okunacağı. knsrc Dosyalar
+HTML Etiketi...
+Simgeler
+Ayar сипаттама
+Жиын Dosyalar
+Kesmeler (in)
+Arayüzünüz için kullanılacak dosya Dosyası
+Mime Süreçleri
+HollandaName
+gelen istemci kesildi
+% 1 Hakkında
+YFinance
+Servis YöneticisiComment
+Uygulama BaşlatıcısıName
+Şablonlar
+BilgiName
+KShellCmdPlugin:: programının değiştirmek için desktop dosyası.
+KDialog, seçme değiştirmek için yeterli efekt.
+Canlı
+Kolleksiyon Mime Mime
+KDialog, seçme değiştirmeye ve SaatName
+Kolleksiyona Otomatik dizini
+Geçici dosya tiplerini göstermeden kullanıcı adını büyüt
+UNIX programlayabileceği sabitlerin ismi.
+Bilinmeyen Sıralama% 1
+% 1 - pasifleştirildi@ sonu bilinmeyen hız
+Hedef dosya adı kurulu bozuk
+Dosya zaten var.
+Tam oturumlarımı için eşanlamlılar:
+Geçici dosya açılamadı.
+Kapatmayı alanınız yönet
+Dosya yüklenirken bir hata oluştu.
+için sunucu sınamada hatalar oluştu. Lütfen bir hata oluştu.
+"% 1" paketi bulunamadı.
+Tabloda etkileşimli anahtarlar bulunamadı.
+Bırakılan dosya bir dosya adı етпеді, için bunu seçin
+Aynısı Mail' e için gerekli aktarma numaralarını kullanın.
+Bu stil için organizer' e aktarılamadı.
+Efekt hatası
+'% 2' eklentisi '% 1' eklentisi bulunamadı
+Girilen uygulama geçerli değil
+'% 1' servis denetleyici artık seçildi veya etkisizleştir. Bu seçeneği ile ilgili Crypto
+% 1 uygulaması% 2 için özel bir MD5 bulunamadı.
+'% 1' eklentisi başarılı bir KDE uluslararası dosyayı içeriyor.
+Yapılandırmanın içim düzeltme
+"% 1" isimli yapılandırma dosyası okunuyor...
+Süreci uygulamasının gibi the separator that number that number
+% 1 isimli bir oturum oluştu:% 2
+Hata yok
+Alan için günlük çeviri formlarına renk)
+E- Posta istemcisi@ item: intext Rusya
+Bağlantı gövdesinde KişiselleştirName
+Bağlantı Lirc KişiselleştirName
+BITAND, BITOR, unit 2-
+BITAND, BITOR, unit 2-
+BITAND, BITOR, OrtamıName
+Ağa senkronizasyon Taranıyor...
+Şu anda katılımcılar için sürekli belleği InProgress
+Başkalarının şimdiki KişiselleştirName
+Ağa senkronizasyon 1 palet tool
+Paweł sycoca IŞIKLANDIRMA encryption standard
+Sütunlar@ önce gezinmeyi gösterilmesi için etkileşimli karakterin eşittir
+"% 1" ya da okunamıyor. görünüm RemotelyDisconnected
+% 1 makine aygıtı yüklenemediName
+Hata Açıklaması@ 1
+SMTPProtocol:: BeOS komutlarını edilecek
+EZ: BiçimlendiriciName
+SMTPProtocol:: ayarını önbellekleme götürür.
+seçimlik korunacak,
+EZ: iptal edildi.
+Uygulamada bu test için çalıştırılan değerQXml
+Benim Hat' marka getlocalsid bu uygulamalar için bir fonksiyon kullanın.
+SSL tanımlayıcı
+Geri anda bilgi ile tetikle,
+Yapılandırmanın bu dizin için kioslaveComment
+Hedefi alt kişisel durumlar için bir tutucuName
+Uygulamada olmayan örnek değerleri
+Bilinmeyen hata
+Büyütülecek adı için adres Defteri bulunamıyor
+SMTPProtocol:: yüksekliğini başarısız geçersiz.
+Dağılımın doğrusal dönem değer
+Alan için baş komutları yok
+Modüller Limiti Desteği
+Geçmişi yüklenemedi
+Bu toplantının zaten kullanılabilir değil
+bilinmeyen bir ismi ya da dizin yokQIODevice
+Destek kodunun yuvaları için kullanılırName
+Tabloda yükleme/ kaynağı yok
+Sistem hatası
+Geçersiz yerelleştirme yolu geçersiz.
+Soket Sinyal Desteği
+İletişim eşzamanlayıcı
+İzin ver
+Bağlantı sırasında zaman aşımı tarihi
+Adres defteri zaten var
+Geçersiz Satırlar
+Bu dosya ya da dizin adresini yok
+Dizin yok
+Salt okunur dosya sistemi için bir dosya adı
+Bilinmeyen eşitlik hatası
+Bu makine adı için demultiplexer yok.
+Güvenilir Arayüzleri
+Bir coğrafya Desteği yok
+сұралған düzenleyici seçeneği Bu girdileri desteklenmiyor.
+Geri sayfalar Desteği
+bilinmeyen algılama the HELO softened with e- posta programıdır.
+sistem girilmemiş 1
+Pusula yasaklı
+Uzak kimlik istemleri için zaman aşımı bağlı):
+Koşulları servisi yuvaları
+Koşulları servisi yuvaları
+X- Sunucusu Sunucularını Yapılandır...
+Yapılandırmanın Nedir дисплейін komutu:
+Belirtilen XWindow ın bir uygulama çalıştır
+SMTPProtocol:: 1 (% 3) Lütfen PowerDevil tarafından çalışır
+metre çalıştırılamadı
+Qt için fare ve serbest verilerini sürükleyin
+Dal орындау için klasik işaretleyin seçeneğini boş okuması için işaretleyin.
+çıktıyı yükleme için tıklayın
+Uygulamanın uygulama Parçaçığı
+Varsayılan tema için öntanımlı rengi ve belirli bir arkaplan rengini oluşturur.
+Öntanımlı Arkaplan Rengini seç@ item: inlistbox
+Öntanımlı UygulamalarComment Rengini İzleyiciComment
+uygulama Kimliği sorguları
+Bir uygulama bize isim girmelisiniz
+uygulama 8- bit tam tam renk секілді
+Bu düğme XIM solda menünün gibi) örn. ona seçebilirsiniz. Bu işlemi, daha fazla aygıtları için etkinleştirildiName
+Lotus & Oluştur
+Nihayet (seçimlik)
+Uygulamanın programlayabileceği Uzaktan kodu
+BitTorrent ekranlarını isteğinde bulunulduğunda bulamadı.
+Bir uygulama (ağaç) (styles. durumunu Edildi
+Öntanımlı Performansı kullanarak belirli bir uçbirim uygulamasını belirli bir bileşen vardır.
+Büyütülecek adı başlığı olarak Kullan
+Outlook' un uygulamanın uygulamanın olarak Kullan
+Alternatif yapılandırma dosyası kullan
+Platforma textfilte betikleri için düzenlenmiş verilerini düzenini kullanın.
+& WM_ CLASS türü pencereler için pencere geçersiz
+Uygulama Sorgu Ayarla
+KDE uygulama
+% 1 TBunits
+KDE
+'% 1' işaretli için OpenOffice. org @ info: whatsthis
+'% 1' yok. @ info: whatsthis
+seçimlik Bilgileri% 1 Grubu:% 4% 4% 4% 4% the nature of a list of religious of users of NNN. WEEKDAY
+% 1 için adres, motor 2
+Bu uygulama işaretlemek defa alındı.
+hata bugs. http: // bugs. kde. org adresine gönderin.
+DSS/ dosyaların kipinden yapılandırıldı@ mark
+'% 1' aygıtı açamıyor
+Bu komut komut satırı açmak için LILO' -- listeleyebilirsiniz.
+BilgiName
+[% 1 (Pasif)
+Dönüştürülüyor:% 1
+Ana olduğunda bölündüğü.
+Tercih edilen bilgi mesajlarını göster
+% 1 için özel komut:% Göster
+Tüm gelişmiş listesini göster
+Haber Bilgisi Göster
+Ayrıntılı aygıtları göster
+Test penceresini göster
+Seçenek
+Sayfa% 1
+Parametreler:
+Parametreler:
+Bağlantı şu anda dosyaları ve dosyaları kullanabilir.
+KDE masaüstü, dosyası
+E- posta Adresine 1
+E- posta Adresine Hata Ayıklaması...
+Web sayfalarının number% 1
+Web tarayıcı, anahtarlar:
+Terminal Zamanı:% 1
+Terminal İçi Ayıklaması...
+Bu uygulamanın KDat' nin önizlemesi. Daha fazla özelleştirme olanak verir.
+Uygulama Posta AçFile 1. @ item event, to- dos
+Makefile, Küpü@ item
+GNU algılama komutunda bir hata oluştuName
+Öğretici Almanya' item
+GNU listeli (AU) Yani, 2, sütun% ya da oluşturuyor.
+BSD (SSL, sensor item sensor count
+Makefile, smallest item sensor konqueror "Konsole"
+KDialog, değiştirmeyi Harfleri ve AileName
+DüzEcho resmi
+Makefile, Küpü@ item
+GNU algılama 'ın iletişim ayarlar.
+Öğretici Almanya' item
+GNU listeli (AU) Yani, karakteri cartridges)
+Kategoriler
+Sınırsızsize this will enter information alphanumeric characters
+Büyütülecek Hat'
+% 1 bir hata oluştu. Sunucu% ya da uygulamanın yüklenemedi.
+SMTPProtocol:: uygulaması D- Bus çağrısı olan bir D- 2 başarısız oldu:% 2
+KDE için yardım жегілмеді:%
+Görüntünün gökyüzü komunu.
+ALSB variant
+ALSB variant
+ALSB variant
+Cisco - PNP RehberQuery
+Cisco - PNP RehberQuery
+Bundan alanının açılış ve mayın verilerini gösterilecektir.
+Bundan alanının açılış ve mayın verilerini gösterilecektir.
+Bundan alanının açılış ve mayın verilerini gösterilecektir.
+Bundan alanının açılış ve mayın verilerini gösterilecektir.
+ALSB variant
+ALSB variant
+ALSB variant
+Netbooklar yüksekliğini etkisizleştirmesi
+Netbooklar yüksekliğini etkisizleştirmesi
+Netbooklar yüksekliğini etkisizleştirmesi
+Netbooklar yüksekliğini etkisizleştirmesi
+Netbooklar yüksekliğini etkisizleştirmesi
+Netbooklar yüksekliğini etkisizleştirmesi
+Netbooklar yüksekliğini etkisizleştirmesi
+Netbooklar yüksekliğini etkisizleştirmesi
+TAMA A2=6; 1 Descriptive hızı:% 2 desteklemeyebilir, name
+% 1 (% 2% 2% (şarj tüketiliyor) Hata kodu% 2, name
+% 1 (% 2) in bytes
+% 1 [% 2]
+% 1 dosyası yok
+% 1 dosyası açılamadı
+% 1 dosyası başarılı bir ses kaydedilmeyecek.
+% 1 adresine çoklu veritabanı sürümü
+Sadece kwalletd DPI
+& MIME modülü maskesi, sertifikaları kullanmak için yardımcı yetkiye veya uzaklığını ve kppp' yardımcı ortam veya usr/ local/ bin/ veya usr/ şeklinde unutmayın.) Name
+& Pasifleştirilmiş GİRİŞ
+KDiskFree' item Name
+KDiskFree' item Name
+ANSI (Demokratik Shujastar name
+& Name
+& Konumu high etkinleştirildi
+KDiskFree' item Name
+Hari Ekleme@ item
+Name
+KDiskFree' item Name
+KDiskFree' item Name
+& Birden fazla rapor yapılandırmak item
+Ekinoks:
+Yed Priorstar name
+KDiskFree' item Name
+Yed Priorstar name
+Name
+Timothée set
+Timothée set
+% 1 arcminangular in arcseconds
+% 1 arcminangular in arcseconds
+% 1 arcminangular size in arcseconds
+% 1 arcminangular size in arcseconds
+% 1 arcminangular size in arcseconds
+% 1 arcminangular size in arcseconds
+% 1 arcminangular size in arcseconds
+% 1 arcminangular size in arcseconds
+% 1 arcminangular in Washington
+% 1 arcminangular size in arcseconds
+% 1 arcminangular in arcseconds
+% 1 arcminangular in arcseconds
+% 1 arcminangular in arcseconds
+% 1 arcminangular in arcseconds
+% 1 arcminangular in arcseconds
+% 1 arcminangular in arcseconds
+% 1 arcminangular in arcseconds
+% 1 uygulaması% item: intext% 1 is a time,% star 1 is a constellation
+% 1 pcthe yapılandırıldı@ 1 is a time,% star is 1 is a constellation
+% 1 uygulaması% 2 is a time,% with 1 is a time,% 1 format
+% 1 Kabul a time,% 1 is a time,% star is 1 is month
+% 1 pcthe item: intext
+% 1 kişisine ait% 2folder name (folder storage name)
+pm
+am
+Sadece bugün
+Cumartesi@ of realistic and date
+& % 1% (şarj tüketiliyor)
+Bluetooth
+5
+Yed Priorstar name
+% 1 (% 2) @ info
+@ item
+SMTPProtocol:: 1 (uid:% condition
+% 1 crontab info/ plain
+SMTPProtocol:: 1 (uid:% condition
+% 1 crontab info/ plain
+SMTPProtocol:: 1@ info/ rich
+% 1 crontab info/ plain
+SMTPProtocol:: 1@ info/ rich
+Cumartesi@ 1@ info/ rich kind 1 is the sound card name,% 2 is the text
+% 1 2@ info/ plain prefix 1 is the resolutin
+% 1:% 2@ info/ plain
+SMTPProtocol:: 1@ info/ rich
+Cumartesi@ 1@ info/ rich kind 1 is the resolutin
+% 1 2@ info/ plain prefix 1 is the debugger frame name,% 2 is the application text
+% 2 (% 1) @ info: whatsthis
+% 2 filename/ info/ plain
+SMTPProtocol:: 1 StorageAccess olamaz@ info/ rich
+% 1 crontab info/ plain
+% 1m% an t considered in the time estimate when a attached
+% 1 (% 2) @ info: whatsthis
+% 1 (% 2) @ info/ plain
+SMTPProtocol:: 1 StorageAccess olamaz@ info/ rich
+% 1 crontab info/ plain
+Minhar Eden Pv; 22
+% 1 (Virgülle atlanıyor
+SMTPProtocol:: 1 header @ info/ rich
+**% 1 ** @ info/ rich
+& GİRİŞ @ info/ rich
+& Kopyala... @ info/ plain
+& % 1 Tipi: @ info: whatsthis
+% 1 & lt;% @ info: whatsthis
+% 1 crontab info/ plain
+SMTPProtocol:: 1@ info/ rich
+SMTPProtocol:: 1 çalışmıyor. @ info
+% 1 / aranıyor Kılavuzu@ info/ rich
+Minhar Priorstar name
+Minhar Priorstar name
+Minhar Priorstar name
+Backspace
+Kıvrım
+Minhar Priorstar name
+Minhar Priorstar name
+Minhar Priorstar name
+Sil
+Minhar Priorstar name
+NmapfeGenericName
+Minhar Priorstar name
+Kaçış
+Küçük@ action: inmenu Sort
+Minhar Priorstar name
+Minhar Priorstar name
+Girdi
+More
+Minhar Priorstar name
+Minhar Priorstar name
+14
+BilgiName
+BilgiName
+Minhar Priorstar name
+Minhar Priorstar name
+Minhar Priorstar name
+Minhar Priorstar name
+Minhar Priorstar name
+Minhar Priorstar name
+Sağa
+KötüStencils
+Minhar Priorstar name
+Boş aygıtları name
+Minhar Priorstar name
+BilgiName
+Minhar Priorstar name
+Koleksiyonu action
+Minhar Priorstar name
+F11
+BilgiName
+Yeniden Gönder
+Bu üste seç:
+İsim
+Evetfont name
+% 1 için atlanıyor
+Lütfen bir kodlayıcı girin.
+Ana girdi yardımcısı, yapılandırmak istiyor musunuz?
+Doldur
+SıralamaReceiver of the emial
+Yeni Oluştur@ 3Indicates Seçarguments name ie by verification
+% 1 için Baskı için açName
+Skoru Ekle
+Geri Yaz
+Kesmeler (in)
+Ne:% 1
+Zaman Saati dilimi:% ve gözden kontrol edin.
+Sunucu:% 1
+Ne:% 1
+Sürüm:% 1
+DPIO Bilgileri
+% 1 seçildi
+Yeni Yazılan DiskName
+Veri yükleme/ hata oluştu.
+Protokol başarısız. Lütfen çıkıldı.
+Masaüstü Paylaşım TarayıcıName
+Ağ başarısız.
+Bu gruptan sahibi.
+Sütunlar
+Düzenleme SeçQUnicodeControlCharacterMenu
+Çizimleri Değiştir
+Erişim ayarlarıName
+BilgiName
+Döndür
+Yerel Üyelik
+& Sadece raporla
+E- posta Gönder
+Jabber ile ZIP
+Ne:% 1
+Sürüm:% 1
+İptal edildi. Önyükleme
+Çizimleri Sil
+İptal yüklerken kaynak işleminde hata oluştu.
+Zamanaşımı başarısız edin
+DjVu indiriliyor...
+İşlem başarısız.
+Kuş Başarıyla çalıştırılamadı
+Werner (he)
+Doxygen Desteği
+Yorum oluşturulamadı
+Aygıta Oturumda
+Yorum kenarlığı:
+Lotus Sınırını Ekle
+Eylem senkronizasyon request Jalali
+Kullanıcı Ajanı
+İndirme yok
+İndirme hızı:
+Ne:% 1
+Önizleme yok
+Önizlemeyi yükleniyor
+Geri İzleme
+Yeni DVD- indir
+Sürüm% 1
+Yeni Haber TemasıComment
+Listeden kullanmak için bir kioslaveName
+Name
+BilgiName
+Bir katmanı taşı
+KGpg uygulamasını anında ardı edilecek çünkü şuanda düzgün değil. Eğer bu aygıtları düzgün olmasına kontrol edin.
+% progname den ayrılmak from ayrılmak from do kullanıcı yöntemi girin:
+KGpg uygulamasını çalıştırmak için bir dosya dosyasına benzemiyor. Eğer bu program düzgün GPG kullanan GPG hakkında bilgi içermiyor.
+İmza Yapılandırması@ title
+Etkinleştirilecek küçülüşünü homepage
+PowerDevil uygulamasını anında bir dosya adı. Bu nedenle Okular mümkün değildir. Kurulumunuzu yaptığınızdan emin olun.
+Yükle... @ action: button Template
+Dfree bilgilerini alınıyor...
+Kesmeler (in)
+İndirme İşlemleri Tamamlandı@ title: window
+Kimlik denetimi başarısız.
+Farklı ve dizinleri işlemi iptal et
+Küçük resim ve diğer yüz içeriğini et
+% 1 dosyası bulunamadı.
+Dosya uzantısıComment
+Tüm Masaüstlerinde
+Tüm Masaüstlerinde
+% 1 zaten raporla@ to the description of this estimate of this constellation
+Ev Ev belirlenemiyor.
+Açıklama@ yükleniyor... textbox textbox textbox changing item in this item
+% 1
+& Yeniden Yükle
+Ayarla
+Güncelle
+Ayrıntılar
+Satırlarda Düzeyi:% 1%
+Dosyanın üzerine yazılsın mı?
+İndirme açılıyor...
+@ action: button
+Göndermenin tamamlandığı yapılıyor...
+Ön kaydedilemedi.
+Netbooklar için Posta izle
+Dosyanın üzerine yazılsın mı?
+Sunucu
+Port
+Gölgeler
+% 1 (geçerli) 1 is the dimensions name,% that is a url,
+% 1:
+% 1 (% 2)
+% 1
+Gölgeler
+% 1/ s
+% 1 kadarıfix atlanıyor
+& Devam Ettir
+& GİRİŞ Suffix of a filsystem
+Dosya değiştirthe button of a filsystem
+Hedef
+İletilerin olan zaman görüntüsünü doldur
+Dosyayı sil
+& Yeni Sekmede Aç
+İlerleme penceresi
+Koleksiyonu action
+İptal@ item: inlistbox
+& Tamam
+İptal
+& Evet
+Evet
+& Hiçbiri
+Hiçbiri
+& Yasakla
+Nihayet бас
+Bu düğme, için bu tarihten sonra tüm haberleri içerir.
+& Kaydet@ item: inmenu colors
+Veriyi kaydet
+BilgiName
+Veri ProgramcığıComment
+Farklı Kaydet...
+Farklı Alanına şeklini kaydet
+& Uygula
+Değişiklikleri uygula
+Bu düğmeye basıldığında yapılandırılan yeni bir ayarları seçebilirsiniz. Eğer yeni bir pencere penceresi seçebilirsiniz.
+& Yönetici sütunlar:
+Takvim Açma Gizle
+Yönetici istenilen değişikliklerin erişim ile ilgili temel olmanız için root root olmanız gerekir.
+Girdiyi Sil
+Girdi alanını kaldır.
+Kesmeler Göster
+Çalışılan pencereyi ya da uzantıdan bir pencere seçin
+Pencereyi Kapat
+Geçerli pencereyi kapatır.
+Belgeyi Kaydet
+Seçili belgeyi kapat.
+& Öncekine Sıfırla
+Tüm kişileri için öntanımlı tema:
+& NomonikShow to open
+Bir pencereye sorma
+& Алға
+Bir Tek olayı Sınırla
+& Yazdır...
+Çalışılan belgeyi yeni bir belgeyi etmek için üzerine aç
+& Devam Ettir
+Kipi
+& Sil
+Çizimleri ард)
+& Aç... @ item: inmenu colors
+Dosyayı Aç
+Çık
+Şekilleri Çık
+& Sıfırla
+Ayarları Uyuşmuyor
+& Ekle
+Yapılandır...
+& Ara:
+Ekle
+Sayfayı SilGo to Previous Page of a Stacked Widget
+Geçerlilik Süresinin Sonu
+Özellikler
+& Üzerine Yaz
+Sadece olmayan işlem seçilen girdileri tazelemek için buraya tıklayınız. Bu listedeki bir yardım seçmek için buraya tıklayınız. Bu işlem kutusunu tıklayarak göstermek için buraya tıklayın.
+& Yeniden
+Sütun Özellikleri
+BilgiName
+Durdur@ action
+Aç
+Yapıştır@ title: group
+Koleksiyonu action
+Қиып action
+Görünümü action
+Dosya galerileri listesi olarak ulaşıldı.
+Bir tarz kodlanacak belgeler tanımlanmadığı için bir sunucuName
+Al Seçici
+Bu parolanın türdeş web aşımına kullanıcın kppp içinde paylaş ve en yüksek büyük bir girişe bu düzeyi istemiyorsanız, kullanıcı sistemi ve # ortadaki olarak büyük bir # ve # ortadaki işlemci ve #
+Boş parola
+Şekilleri doğru telefon:
+Girdiğiniz parola yanlış. Bu bilgisayarda tekrar yazar.
+Eğer parola parola düzgün değil. Bu parolayı unutursanız, Parola ve en büyük harf sistemi girecektir. Bu büyük büyük ve küçük harf harf ve sağ büyük bir açıklama, ve en büyük büyük harf ve renk gönderilir.
+Öğretici alanı to open
+C# action
+Arayüz:
+Resim Dosyasını Seç
+Sözde adları için bir politika seçin
+Tuş bağıntılarını Seçiniz
+Eklendiğinde & Yapılandır...
+Kısayol Şeması
+Geçerli сұлба:
+Yeni...
+Diğer İzinler
+Öntanımlı olarak kaydet
+Renk Dışarıya Aktar...
+Yeni Temanın adı
+Yeni DVD- yayınlandıComment
+Yeni Tema@ title: column Meaning of text in editor
+Bu isimde bir sütun zaten var.
+Yukarıdan Sağa, Yukardan Aşağıya
+Soldan ile Soldan Seçin:
+Yukarıdan Aşağıya, Sol
+Yukarıdan Aşağıya, Sağdan Sola
+Alttan
+Alttan
+Yukarıdan Aşağıya, Soldan Sağa
+Yukarıdan Aşağıya, Yukarıdan Yukardan drawn line
+Toplam:% item: inmenu Recurrence list
+Gezegen tuşlar
+720x720dpi, tek Satır
+Çift Satır
+Kalın & Dönüştür
+Açıyı Getir
+Açıyı Getir
+Açıyı Getir
+Açıyı Getir
+Açıyı Getir
+Çok MenüActions@ action: button let unit
+.
+Ayrıntılar
+İste@ item event, to- do or freebusy reply to request
+Bu iletiyi sorma
+Uyarı
+BilgiName
+Bilgiler
+Daha önce bu dizine gösterme
+% 1 Hakkında
+Ayarlar@ item: intable Text name in map terminology
+& Formülü Dene
+Ramat '- BegawanCity in Bulgaria
+BilgiName
+Ayrıntılar
+BilgiName
+--- ayırıcı ---
+Araç Tiplerini Kapat
+Bu uygulamanın панелдерін varsayılan olarak döndürmek için geçerlidir. bazı öntanımlı olarak silmek istiyor musunuz?
+Sıralanmış yüksekliğini birleştir
+BilgiName
+Araç SeçQUnicodeControlCharacterMenu
+Kullanılabilir Fan
+Süzceç
+& Oturum Tanımla...
+Simgeyi Değiştir...
+Metin Değiştir... @ item: intext Directory name in gettext terminology
+Etkinleştirildiğinde, konik ендірілетін
+< bilinmeyen >
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Çokluortam Oynatıcısı
+& Öncekine kesilince Başlat
+'% 1' dosyası açılamıyor.
+'% 1' adlı eşleşme cüzdandan pasifleştirmek istediğinizden emin misiniz?
+Destek title
+Kaynak:
+Hedef girdi yok@ title
+Destek title
+Dizin silme title
+Dizin@ title
+Sil
+Destek title
+Sonuçlar@ title
+Destek title
+Bağla
+Aygıt
+Raporu izlemeden title
+AyırMount the storage device
+Dosya adı zaten kullanılıyor.
+Tüm Dizinleri
+Veri biçimi:
+Geri fazla şifreleme anahtarı yazılabilir değil.
+SSL
+Pano geçmişi için bir dosya adı adı:
+% 1 (% 2)
+Pano içeriğini yükleme işlemini açabilirsiniz. Seçili aygıt ile ilgili daha fazla ayrıntı için bekle:
+Boş Seviye
+Bozulmuş URL% 1
+Pano içeriğini yapıştır
+% 1:% in a filsystem
+Bilinmeyen
+Bilinmeyen hata
+Yeniden adlandır
+Özel Kullanıcı yöntemi:
+Kapatılabilir
+& Öncekine satırbaşı)
+Yaz
+Üzerine yaz
+& Tümünü Yaz
+& Tümünü Yaz
+Reddet
+Özel olarak kaynakları al
+'% 1' için bu eylem için '% 1' ögesinin değiştirilecektir.
+Reddet
+% 1 olan bir oturum var.
+'% 1' adında daha yeni bir dosya zaten var.
+'% 1' adında daha yeni bir oturum zaten var.
+% 1 (% 2)
+Başlangıç:% 1
+Değiştirildi:% 1
+SMTPProtocol:: 1
+Rapor Bağlantısını Kes
+% 1 dosyasının sahibi değiştirilemiyor. Bu hata modülü ve okunamıyor.
+Dosya & Atla
+Sistem Betiği güncelle
+Sistem yapılandırması AracıName
+URL Satırının Düzenle:% 1
+Aşağıdaki modül Kod- lar ziplenmiş bir şekilde kaydetmek için seçebilirsiniz.
+Güvenlik & Kaynağı
+KilitliThe z- as% is a host name
+XML 1: ekran Okuyucu
+Bir uygulama, durdurmak için gerekli çıktı geçtiniz. Özelleştirmek için gerekli olan temel ilkaçılış kullanır, öneririz.
+SSL & sunucu tamamını göster
+Bağlan
+Sertifika Zinciri kapatılamadı.
+SSL Hata: Oluştu
+Üzgünüm, bir dosyaya kaydetmek ister misiniz?
+Arama kaydını KişiselleştirName
+Sunucu akış olaylar (% 1).
+Sunucu Doğrulama
+& Ayrıntılar
+& Devam Ettir
+Bu eklenti, bütün yapılandırma için simgeyi pasifleştirmek istiyor musunuz?
+& Kübizm...
+Sadece & Bu nedir?
+Alıcının tüm tercihleri imzalamak için gerekli olan olarak şifrelenmesi gerektiğini edin. Bunun yine sonra Devam etmek istiyor musunuz?
+SSL yapılandırması, pppd' nin bloklardaki durumunu etmez)
+Dosyaları Sil
+Çöp Posta ulaşıldığında:
+& Sil@ action: intoolbar Move to Trash
+Bilgiler
+& Atla
+Otomatik başla.
+Dizin zaten kullanılıyor.
+Bu dizin adı olarak kullanılıyor.
+Eylemler
+Birlikte Aç
+BilgiName
+Birlikte Aç
+% 1 (% alweb\. bir hata raporu oluştur@ item: inmenu Recurrence name
+Resmi ekle:
+Air aygıt için resim
+% 1 (% 3)
+% 1 (% 2)
+% 1 (% 2)
+% 1 okunamıyor.
+% 1 konumundaki hata oluştu.
+% 1 dosyasına ulaşılamadı.
+İçsel hata raporu: çalışılırken bir hata oluştu.% in 'Recur kde. org
+Bozulmuş URL% 1
+% 1 girdi ve% 2 bulunamadı.
+% 1 için sadece filtre notları:
+% 1 adresine çalıştırmak için bir dosya dosyası.
+% 1 için dosya türü.
+% 1 dosya ya da dizini bulunamadı.
+% 1 dosyası zaten var.
+% 1 zaten zaten var.
+Makine adı belirlenmedi.
+Bilinmeyen Bilinmeyen makine
+% 1 dizinine sahibi yok.
+SMTPProtocol:: 1 çift yazılamadı.
+% 1 dizinine girilemiyor.
+% 1 sayfası için dizin servisi kopyalanamıyor.
+% 1 adresine bağlantı reddedildi
+% 1 için gönderilen istek oluşturulamadı
+% 1 adresine bağlantı kesildi.
+% 1 zaten bağlantı başarısız.
+% 1 zaten bağlantı kesildi.
+% 1 sayfasını kuralında bir hata oluştu.
+Aygıt Sürücü format Satır:% 1
+Aygıt yanıtından aygıtı kullanımı:% 1
+% 1 dosyası okunamadı.
+% 1 dosya açılırken hata oluştu.
+% 1 isimli hata oluştu.
+% 1 uygulaması% 2
+% 1 kabul ulaşılamadı.
+% 1 sürücüsüne hata.
+% 1 mmIn photography
+% 1 dizini sunucuda oluşturulamıyor.
+% 1 dizini indeksleniyor.
+% 1 dosyası açamıyor.
+% 1 dosyası yeniden kaydedilemedi.
+% 1 için alttan bir өзгертілмеді.
+% 1 için atlanıyor
+% 1 dosya ya da zamanları değil.
+% 1 girdi için yeterli bellek
+Hata: sunucu belgesi:% 1
+Bilinmeyen kimlik 1
+Geçersiz host içeriği,% 1 (isimsiz)
+Kullanıcı İndeksleme bitirildi:% 1
+Sunucu alt hata oluştu% 1
+Sunucu bitiş zamanı oldu.% 1
+Bilinmeyen adres:% 1
+Bilinmeyen adres:% 1
+% 1 zaten ulaşılamıyor Lütfen seçiminizi kontrol edin.
+% 1 zaten bir dosya seçmelisiniz.
+% 1 zaten tam dosya adı. Lütfen kurulumunuzu kontrol edin.
+% 1 adlı dosya adı değiştirilemiyor.
+% 1 adlı bağlantı oluşturulamıyor.
+% 1 dosyası arşive yapılamadı.
+Hedef ve dizinlerin dosyası seçilmedi.% 1
+% 1 üzerinden stat ancak bu nedenle kullanılabilir değildir.
+PolicyKit tuşuna tıklarsanız
+% 1 tablosunun 2 (Windows http: // bugs. kde. org/ img/ bug. gönderin.
+% 1 protokulü için yeterli aranıyor
+% 1 protokulü için yeterli motor sahip değil.
+% 1 kullanıcısının sınıf dosyalarının başarısızlıkla sonuçlandı.
+% 1 konumuna yazmak için aygıt
+% 1 dosyası listelenirken bir hata oluştu.
+Dizinler 1 Kısayolu% 2 konumunda olmayabilir.
+% 1 Konumundan bilinmeyen Dosyalar
+% 1 makinesinden Mime türü için dosya tipi Oluşturucu
+% 1 ile adı Yeniden İsimlendir
+% 1 içib atlanıyor (genellikle eklentileri gereklidir.
+% 1 ile uzak dosyaları girişi
+% 1 dizininden iletiler için silinemedi.
+% 1 kullanıcısının dizini sunucu alınamadı.
+% 1 bir dosya ve var, ayrıştırılamadı.
+% 1 bazı dosya okunamadı, php ayrıştırılamadı.
+% 1 adresine okumak/ Gösteriliyor
+% 1 kullanıcısının atlanıyor
+% 1 kullanıcısının iskelet sunucuda desteklenmiyor.
+% 1 uygulaması% 2 oluşturulamadı: @ info
+(bilinmeyen)
+Teknik Teknik
+Göndermenin Detayları
+Adres:% 1
+Ne:% 1
+Tarih ve Saat 1
+Ek betik:% 1
+Sunucu kullanımı
+Programınızdaki olası raporu/ @ info
+smartcard Bu düğmeye tıklayarak bir iş denetim yardımcı sonlandı. Lütfen sistem yöneticiniz ile görüşün.
+Önemli bir yazıyı denetim lütfen lütfen sistem siteyi ayarla.
+Bu stil için bir kaynak sürücüsü bulunmuyor.
+Bu "eylemler" bağlayabilmek için bağlanmak için parolaya olmanız gerekir.
+Aşağıdaki dosya ya da uygulamanın kesmek veya uygulamanın daha kötüsü
+Bu dosya veya kullanıcının desteklemiyor veya kullanıcının desteklemiyor ya da düzenlenebilir oluşturulamamış
+Eklenti içerisinde desteği (% 1) ayrıştırılamadı.
+Benzeştirim açıldığında erişmek için bir kioslaveName
+Bu sayfada, programdaki bir hata yüzünden Bu бағдарламадағы diğer hata bildirdi. Lütfen bu hata raporu yapın.
+Şifrenin bilgisayarın bellek ve bitiş boşluğunu denetle.
+Başka bir şekilde KDE haber girin veya bu uygulama қате dolayısıyla hata KDE uygulamalarının mümkünse hata bildirmeniz için KDE uygulamalarının mümkünse hata yazın ve hatayı hata takip etmek için "Sistem düğmesine basın. KDE hata takip etmek istediğiniz hata tıklayarak tıklayın ve hatayı hata takip etmek yeterlidir.
+Ağ FNTDEF den deleted.
+Ağ bilgisayarın ağ için sıkıştırma hızı dolayısıyla bir sorun eşleyecektir. Eğer bir sorun davranabilir. Eğer emin olun:
+Bu sunucu içerisinde ağ erişimi verdiniz, fakat misafir dönük izleme başlatabilirsiniz.
+Şimdi veya yaptığınız boşlukları de tekrar deneyin.
+Geçersiz bir hata oluştu. Lütfen hatalı bir hata oluştu.
+Kaynak zaten kontrol ederek lütfen bekleyiniz.
+Verilen kaynak yok ise olabilir.
+Dizin geçerli bir şekilde maskesi:
+URL doğruluğunu kontrol edin ve tekrar deneyin.
+Ağ sürücüsü eklenemedi.
+Kaynak okumak için açılamadı
+Üzgünüm, şifrelemenin 1 dosyası kontrol ya da dizin türü için izni yok.
+Dosya adı için gerekli olan bir dosya adı girmelisiniz
+Kaynak dosyası yazmak için açılamadı
+% 1 dosyasının izinleri silinemiyor.
+% 1 önizlemesi için days/
+İşlem yazılamadı.
+% 1 tarihine üzerinde İnternet başlamadan hemen kadar uygulama başlamadan sağlar. Bu özelliği etkinleştirmek, önerilir.
+Bu hücreye boşaltılmadığı veriyoluna bağlı aygıtları görüntülemenize olanak tanır. қалған. sizin performansını нұсқасымен қалған. olanak sağlar.
+İç Hata
+% 1 numaralı bağlantı için gerekli uygulama sınırını doğru bir şekilde sonlandırıldı
+Geçerli ZIP si
+Eğer (KDE- "Fonksiyon mode" tuşuna etmez)
+% 1 protokulü desteklenmiyor
+Comment
+Gerekli konumu için kısa değerQXml
+Bu sunucu ve bu olay için gerekli olan gelişmiş eylemler
+Bu politikanın object KDE kumanda kumanda kabuğu ya da olmayan, pmail\\ olanak tanır. Ayrıca genellikle arama ile çevrilmiş uzantısı gösterebilir. http: // konqueror. kde. org
+Adres Satırının bağlantı defteriComment
+Bu filtre Filtre Filtre
+Verilen dosyaların, Options" mode" tuşuna etmez)
+KDE bir KDE açılışında% ve açılacak bir ağaç ile Келтірілген Eğer bu özelliği görüntüler. Bu özelliği etkinleştirirseniz tıklayarak erişmek için bu özelliği kullanın. Bu özelliği yalnızca birden fazla ayrıntı için aşağıdan kullanın.
+SMTPProtocol:: 1
+% 1 hesabı için bir KDE programı bu başlatılamadı.
+Bu hata KDE Uygulamaları çöp posta örneğe içerir. Diğer özel KDE basit komutlar yapmanıza yardımcı olur.
+Bu sol kelimelerin bir hatadır.
+Dosya Şablonlarını gerekli
+% 1 dosya izinleri için gerekli olan bir dosya kullanıyor.
+Sunucu iletişime bir hata oluştu.
+İlgili xslt Yardımı
+Sunucu aşağıdaki filtreleri için% 1 dosyası gerekli bir şekilde ayarlandı.
+Dosya yöneticisi ya da profil yok.
+İstenen dosyaların, kullanılabilir olarak imzalamak üzeresiniz:% 1 < dosya >
+İstenilen dosya ile ilgili dosya var. Bu dosya zaten var.
+Geçerli dosya açmak için lütfen yeniden tıklayın.
+Çalışılan dosya kullan@ action
+Yeni dosya için bir ad seçin.
+İstenilen dizin dizini için gerekli olan şablonlar zaten var.
+Geçerli dizini kişisel resmin bir sayfaya yeniden deneyiniz.
+Çalışılan dizinin yeniden tekrar deneyiniz.
+Yeni dizin için bir isim seçin. @ info: whatsthis
+Bilinmeyen
+% {APPNAMELC} 2008 ile,% 1 kodu root kullanıcı /'
+Belirtilen bir isim adı zaten seçiniz. Lütfen bu işlemin düzeltin.
+Bilgilerinizi verilmiş
+Tanımlanan 1 OpticalDrive düzgün değil.
+% 1 adresi geçersiz bir kullanıcı adı veya giriş yapılamaz.
+Hesabınızın süresi dolmuş. Daha fazla bağlantı için parolayı var.
+Doğrulama doğrulama başarısız! Lütfen ayarlarınızı kontrol edin ve tekrar deneyin.
+Düzenleyici için Çıktı izin ver
+Bilgilerinizi kullanılan% 1 dosyasına yazılamadı.
+Dizin işlemi başarısız
+Bilgilerinizi ile,% 1 dizini içe aktarılıyor
+Haber OkuyucuComment
+% 1 protokulü bir dosya adı değil
+İpucu: dizin içeriğini getirilemiyor, ancak bu bir KDE uygulama yapabilmek için bu şey KDE uygulaması
+İlgili Tabanlı adı
+UNIX Samanyolu kullanarak dosya ya da dizine ulaşamıyor için bu dosyayı kullanın. Bu seçenek dizinin altında bir dosya ya da dizin dizini paylaşmalarına altında olur.
+Lokalize' ın calendar için hiç boşlukları değiştirin
+Nihayet kullanıcı iptal edildi.
+Detaylı hata oluştu
+[Şimdiki yapma.
+(Hesap işletilemedi.
+UNIX Samanyolu kullanarak dosya ya da dizine ulaşamıyor için bu siteye kullanın. Dosya ya da dizin alışveriş bir şekilde başlatabilir. Bu bilgisayarda daha fazla dizin için bir dosya veya dizin istenir.
+Ağ Bağlantı Oluşturma Hatası
+Hacim SID:
+Bu dizinde, sürecinin сұралған bağlantı paylaşım bağlantı kurmaya
+Ağ bağlantısı geçersiz. Lütfen ya da ağ uygulamasının ağ üzerinden değil.
+Sunucu tehlikeye kesti.
+Bu alana% 1 numaralı kullanıcı doğrulaması yapılıyor
+İnternete tuşlarına alabilmek için Ctrl+Meta tuşlarına basın.
+İnternete bağlı aygıt üzerinde (% 1) anahtarı (% 2)
+Tebrikler! veya sunucu Paylaşımı Düzeni Donanım dışında olmayan ve dışında olmayan bir şekilde kartınız istiyorsanız bu seçeneği etkinleştirmeyin.
+Sunucu zamanı portları 1
+% 1 adresine düzgün bir sistem alındı: bir şekilde kapandı.
+Sunucu kullanıcı orjinalinden ismi. Lütfen Xorg hata:
+Kaynak Kaynak geçersizdir.
+% 1 isimli bir filtre alanı belirlenemedi.
+Verilen dosyaların, Options" KexiDB için ışıklandırma mode" (% 1.% 2 /% 3:% 4%
+KDE bir KDE açılışında% ve açılacak bir ağaç ile değiştirdikten izin vermez. Eğer bu özelliği bazı UNIX/ bu özelliği temsil etmek için bu özelliği etkinleştirin. Bunu kullanın. Bu özelliği etkinleştirmek, kullanmak için aşağıdan kullanın.
+Etkileşimsiz görünümlü Aygıt edilecek
+Aygıt Onaylanamıyor
+SMTPProtocol:: 1 Options" bir aygıtları oluştu.% 1
+Bu sihirbaz aygıtı düzgün bir aygıt bağlantısı örneğin HTTP_ PROXY veya belirleyebilirsiniz bunun içinde doğru kaynak bulamadı, şekilde doğru şekilde ayarlayabilirsiniz.
+Aygıt FILTER_ IŞIKLANDIRMA yok Muhtemelen yanlış bir yapılandırma için yetkili bir yapılandırma denetim sebep seçin.
+Bu yapılandırma ayrılamadı. Bu aygıt ile çevirim kontrol edin: NOT: Bu aygıt yüklememiş Aygıtları ile tekrar deneyin.
+Destek değiştirmek için aygıt yapılamaz.
+Aygıt ayrıldı.
+Aygıt CCD_ IŞIKLANDIRMA edilecek 1
+Bu aygıt boş bir meşgul varsa kullanıcı sadece veya kullanıcının değil, bu unsuru sadece bir kullanıcı yöntemi ile tanımlanmış bütün sunucular kullanırken bir kullanıcı yöntemi ile davranacaksa seçebilirsiniz.
+Aygıt FILTER_ doygunluk düzeyini yok ve sadece güvenlik yapmanıza olanak etmez)
+SMTPProtocol:: textfilte indeksleyici uygulama Ayarlarına" yeniden edin ve tekrar deneyin.
+SMTPProtocol:: Hatası
+SID% 1 bir iletişim yöneticisiName
+Bu stil için gerekli olan simgeyi yok
+Bart isimlendirmesi:
+Notlar% 1 dosyası günlüklerini ve düzgün bir hata oluştu.
+Bu "eylemler" yok için dvips yok
+Ağ aygıtının yaratamadı.
+Bart Tamponi
+Bu dizinde, қате, için bağlanmak için lütfen ağ bilgileriComment
+Bart Tamponi
+Ağ Tekerlekli Bölümü İzleyiciComment
+Bu galerinin қате, bir ağ bağlantısı belirtmenizi sağlar.
+Bağlantı bulunamadı
+Girişte@ 1
+İstenilen profil işlemi için hiç bir giriş kaydı içermiyor
+Kaynak durum günlüğü
+Kaynak durumu kontrol edilirken hata oluştu
+% 1 dizini penceresinden ulaşılamıyor атауы, adı, düzgün bir hata oluştu.
+Girilen kaynak yok ya da mevcut oluşturulamamış
+Hacim SID:
+Pablo komutunu dinlenen gerekiyor
+Dizin doğrulanamıyor.
+İstenilen dizin oluşturma işlemi başarısız oldu.
+Üzgünüm, dizin için açılamadı
+Dizin isimlerinin devam ediyor...
+% 1 dizini için oluşturulamadı
+Üzgünüm, bitiş dizini yok
+Zamanlanan zamanı dizini boş değil.
+Dizin zaten ve boş ve güvenilir değişikliği tekrar deneyiniz.
+Dosya Onaylanamıyor
+% 1 dosya okunamadı, dosyanın düzeyini kaydetmek için bu seçeneği mümkün gereklidir.
+Bağlantıda veya sunucu ismi girilmediyse lütfen değiştiriniz.
+Dosyayı dosya tiplerini göstermeden bunu değiştirebilirsiniz.
+Kaynak yeniden defterinden gönder:
+% 1 kaynağı için bir isim girebilirsiniz
+Tigert ulaşılamadı
+% 1 uygulaması% erişim taranırken:
+Kaynak izinlerine başarısız oldu.
+% 1 alanına kuralında değiştirilemedi.
+Kaynak Taranıyor...
+% 1 kaynağı için işlem başarısız oldu.
+Uygulama Sekizli hesapla
+SMTPProtocol:: 1 /% 2 parçasıdır.
+Yetersiz bellek
+SMTPProtocol:: 1 StorageAccess arayüzüne önce gerekli olan numara yapmak için gereklidir.
+Bilinmeyen vekil sunucu
+% 1 örneği altındaki bir bilgi penceresinden açarak yaptığı hata oluştu. Hata Kullanıcı adı ile bir hata edilmiş hata vermek için bu düğmeye tıklayın.
+Bu ağ cihazları için gerekli olan cihaz biçimi olabilir, ve sunucunun size düzgün bir arayüz olabilir. Eğer bir sunucu olabilir. Eğer bir sunucu daha fazla bilgi için açılır.
+Vekil sunucu ayarlarını edin ve tekrar deneyin.
+CPU başarısız:% 1 satırının geçersiz қолданбайды
+Kimlik denetimi bu alan için bağlanmak için öncelikle bağlanmak demektir. Eğer Omega sunucu yapılandırmasında ilişkilendirmişsiniz, fakat olarak, KDE bu uygulama yapılandırmasında мүмкін. olabilir.
+Kimlik denetimi penceresi, KDE http: // bugs. kde. org web sitesinde http: // pim. kde. org ile *):
+Sor
+Sunucu İç hata
+% 1 ayrıştırma sahibi değil
+Sunucu KNode' çünkü sunucu ayarlarınızı kontrol edin. Bu hata mesajına bakınız.
+Destek ile ilgili sunucu almak için görüşün.
+Eğer dosyaların, raporlanmak için bunu kullanın.
+Yazım zamanı alınıyor...
+Bu değer ilgili lütfen uzaktan bağlanan bir yanıt belirtmelisiniz.
+SMTPProtocol:: 1 StorageAccess stat değiştirilemiyor:% 2 destekli bilinmeyen bir hata oluştu
+Bilinmeyen FilmleriQuery
+SMTPProtocol:: 1 StorageAccess stat değiştirilemiyor:% 2 parçasıdır.
+Kaynak dosyasının dosya.
+İstenilen yapılandırmasında yapılandırmasında diskler 1 Dosya dosyanızı bir dosyanın daha fazla bilgi için açılamıyor.
+Geçici dosya adı
+İstenen olaylar için yeterli dosya dosyasını geçici bir dosya olarak belirleyebilir 1 dosyası dosyası bulunamadı)
+Dosya yeniden bitirilemedi:% 1
+Yapılandırılan parolalar yapılandırmasında sorgulanamadı:% 1 dosyası bir dosya adı veriliyor ancak bu işlem aygıtları değildir.
+Geçici dosya adı
+Yapılandırılan bulamıyor:% 1 kartınız için geçici bir dosya dosyası belirleyebilir ve bekleyin.
+Bağlantı gönderilemedi
+Mutt OkuyucularComment
+Amiga kullanılan% 1 Makinesine kurulamadı
+İçeriği Yok
+Disk SMB tanımlaması
+Aranan sonraki% 1 içerisinde% ve boşluk olmayabilir.
+Yeterli disk kurmak için işlemi yapmak için 1), -- geçici dosyaları yapın. #' dosyaları ve geçici dosyaları kullanır, bunun gibi. Bunun ya da 'mail' gibi.
+Hedef ve ilk dosya
+Hedef süreçleri ve tam dosya türü.
+Oluşturulacak Hedef kayıtları Seçin
+Bilinmeyen hata
+Öntanımlılar
+% 1 dizinine okumak/ silmek için izniniz yok.
+% 1 dosyası bir davet reddedildi
+% 1 çalıştırılamadı
+Bu dosya açmak için bir uygulama izniniz yok.
+Birlikte Aç:
+Bu dosya kaydetmek için yetkiniz yok.
+% 1 ögesinin жегілуде
+Bu servisi etkinleştirildiğinde çalıştırılamadı Daha fazla bilgi yok. Genellikle olarak, component
+Biten yönlendirme
+Verilen komut bulunamadı. Lütfen bir dosya ya da dizin bulunamadı.
+'% 1' uygulaması bulunamadı
+% 1 sunucusu dosya seçebilirsiniz.
+Masaüstü genişliği% 1 adresine türünü kuruldu
+% 1 bir dış dosya tipi için bir metin yok.
+% 1 bir dış dosya tipi için bir metin yok.
+Bağla
+Klip
+AyırMount the storage device
+(satırlar:% sayısı:% 1
+(% 1%) (% 1):% 2
+(Bitiş:% 1)
+İsim:
+Tip:
+% 1 (% 2) Aç
+Kaynak:% 1
+Değiştirilme zamanı:
+Sahip:
+Рұқсаттары:
+% 1 önizlemesi ile çalıştırmak için bir parola atayın.
+Yeniden YükleComment
+& Sil@ action: intoolbar Move to Trash
+Dizin doğrulanamıyor.
+Sistem Betiği güncelle
+'% 1' isimli bir hata var.
+'% 1' girdi için tıklayın ve çalıştırılabilir başlatılamadı.
+SMTPProtocol:: ile erişilemedi:% 1
+Yapılandırmanın okunacağı. Muhtemelen yanlış oluştu.% 1
+Mime Türü
+Yorum
+BilgiName
+& Değiştir...
+KDE' nin Mime yazmaya yerine eklentilerin arama isimlerini seçin.
+% 1 seçildi ve gözlem aç@ title: column
+Kesmeler (in)
+Boyut@ title: column
+Tarih@ title: column
+MetinNumeric title: column
+Sahip
+Gruplandır
+Tip
+Sertifikayı Dök
+KDE SSL Bilgileri
+BilgiName
+BilgiName
+Güncel şimdiki kısayollarını ve düzenleName
+Geçerli bağlantı - gelen 2004 (Bağlantısı) Stencils
+KDE bu uygulama başlatılamadı.
+Bu liste, modülü açıklamasını ve pilinizin tanımlayın. Bu belge için Okular için önerilir.
+Bu belgenin eğer Phonon monitörünüz ve hizalama anahtar belirleme.
+The DurumExport is not verified
+The DurumExport is disconnected
+% 1 (% 2)
+İmzalama bitti.
+İmza мазмұны:
+Bilinmeyen anahtar sonuQXml
+Anahtar tipi: [0, (% 1 görüntülendi)
+BilgiName
+Sander (sl)
+Anahtar tipi: The (% 1)
+BilgiName
+360×360dpi, professional photo
+Eklenmiş Riyali
+Sertifika Doğrulması
+KMail şifrelenmiş sertifikanın dosya sistemini Gönder...
+KMail şifrelenmiş sertifikanın dosya sistemini Gönder...
+Uygun bir parola cümlesi tanımlanmış.
+Uygun bir parola cümlesi tanımlanmış.
+Uygun bir parola cümlesi tanımlanmış.
+Uygun bir parola cümlesi tanımlanmış.
+Uygun bir parola cümlesi tanımlanmış.
+Bir gizli iptal edilmiş.
+Uygun bir parola cümlesi tanımlanmış.
+KMail şifrelenmiş sertifikanın dosya sistemini Gönder...
+SSL TLS bulunamadı.
+Özel anahtar EkleIdentifier% 1
+Bu makine için bir adres yapmadınız.
+Sertifika hazır bilgi yok.
+Uygun bir parola cümlesi tanımlanmış.
+Tropikal zamanı
+KDE Eklenti DüzenleComment
+KDE Dosyaların - Okuyucu satırı
+Büyütülecek gizli anahtarlar:
+KDE
+Lütfen anahtar sürücüsü, Lütfen bekleyin...
+Anahtar LDAP' nin dosya sistemini kaydetmek istiyor musunuz?
+KontactComment
+BilgiName
+Koşulları BiçimlendiriciName
+3B MayınlarGenericName
+Bir harika, yüksekliğini edinName
+Netbooklar yüksekliğini YYYY
+SSL TLS yok.
+Sertifika adı:
+Bu makine için ayarları olsun
+Gönder
+Sertifika kullanımı
+KDE SSL Hata penceresi
+% 1 sunucusu düzgün bir kullanıcı adı ile birlikte bu düğmeyi seçin:
+Vekil sunucu yapılandırma dosyası okunamadı:% 1
+Vekil sunucu yapılandırma format Hata nedeni:% 1
+Vekil sunucu yapılandırma dosyası okunamadı:% 1
+Vekil sunucu yapılandırma dosyası indirilemediName
+Destek yükleme/ yapılandırma bulunamadı
+Lanman servisi
+Tetris Sekizli uygulamaları
+% 1 (Virgülle қатынауға bulunamadı.
+Sunucuya kimlik hatası.
+Bağlantı bulunamadı.
+SMTPProtocol:: i zaman aşımına uğradı.
+Sunucu (root) zaman aşımına uğradı.
+Sunucu Düzenle: "% 1"
+BilgiName
+(c) 2001- 2009 Koller
+Stephan Kulow
+Yazar
+Başlığa
+Özel Adres
+BilgiName
+Posta Programı
+Konum:
+Aç
+Önizleme
+Simge Seç...
+Simge Düşür
+Sistem Çağrıları
+Özel iletişim:
+& Gözat...
+Ara:
+Simgeler isim için daha fazla bilgi için ";"
+Eylemler
+BilgiName
+Uygulamalar
+Kategori listesi
+Aygıtlar
+BilgiName
+Koşulları Dekorasyon
+Dosya Okunamadı
+Geliştirici
+Mime Süreçleri
+BilgiName
+MauritanyaName
+*. xml_BAR_KDE *. prc_BAR_PalmOS *. xml_BAR_TMX *. Dosyaları *. xml_BAR_TMX *. prc) *. prc) *. prc) Delete *. prc) Delete *.
+< Dürbünuse >
+Lanman grubu
+BilgiName
+Maske
+İsimlendirilmiş Kullanıcı
+İsimlendirilmiş Yaz
+Sütun Ekle...
+Girdiyi Düzenle...
+Girdiyi Sil
+BilgiName
+Acl' lerin Düzenle
+& Grup Türü
+Yeni dosyalar için bu işaretle
+İsimlendirilmiş Kullanıcı
+İsimlendirilmiş Yaz
+Kullanıcı:
+Grubu:
+Kesmeler (in)
+Kesmeler (in)
+x
+Hacim Wallin
+Karakter kümesi:
+Farklı Kaydet
+* _BAR_Tüm Dosyalar
+Tüm Girdi Dosyalar
+Dosyaları penceresini Aç
+Aygıt Adı
+Bilinen Tipler
+Birlikte Aç
+% 1 belgesi seçin. Eğer bu listeden ait bir uygulama sistem çalıştırmak istediğiniz ya da ögeleri adresini basın.
+Seçili dosya için o dizinin tipini girin.
+% 1 için uygulama Seç
+% 1 dizindeki bir dosyayı seçin, lütfen lütfen bu dosyayı tıklayın. Eğer bu kişinin ait bir davet veya 'İleri' düğmesine basın.
+Uygulama Seç
+Uygulama Lütfen bir uygulama ihtiyacınız varsa bu düğmeyi tıklayarak birini girin, veya gizleyebilirsiniz. Eğer bir isim düğmesine basın.
+'indihosts. Groupware daha fazla aygıtları gösterecek. yapılandırmak için bir dosya arıyorsanız, ihtiyacınız seçebilirsiniz. Bu tür süren bir ses adı girmenizi sağlar. Bu tür süren bir ses adı girmenizi sağlar. Bu tür uygulamalarda Konqueror için temel bir dosya kodlamasını seçebilirsiniz. Bu dosyanın için bir dosya kodlamasını seçebilirsiniz. Bu dosyanın için bir dosya kodlamasını seçebilirsiniz.
+& Terminalde Çalıştır
+& kabuk sonra AçDescription
+Bu dosya için uygulama сәйкестігі
+& Soldur
+% 1 Özellikleri
+& Genel
+Yeni bir Dosya Tipi Ekle
+Dosya Tipi Düzenle%
+BilgiName
+Hesapla
+Dur
+Güncelle
+Kesmeler (in)
+Oluşturulma zamanı:
+& Bu tarihte bitir: @ info: whatsthis
+Bağlama betiği:
+Aygıt FILTER_ bulunamadığı of words obsolete should be etc.)
+% 1 uygulaması% 2 (% 2) Uyumlu)
+SMTPProtocol:: 1 (% 2)
+AfarName
+Ne:% 1
+Yeni dosya boş.
+Üzgünüm, aygıtları yakalamak 1
+Nick Howells
+Bir hesap
+Okuma ile eşzamanlanıyor.
+İçeriği kuruluyor...
+Basit Dosya қарау ve çık
+İçeriği için uyarıyı defteri ve sürükle.
+Noktalar için serbest bir notu fazlası
+Рұқсаттар info
+Erişim İzinleri
+Bu Рұқсаттарын root asıl programları imzalayabilirsiniz.
+& Kübizm...
+İlk şimdiki boyu:% 1
+& Kübizm...
+Grup ("K"; (* (orta gösterir.
+& Kübizm...
+% 1 içinde grup işlemini yazılamadı.% için bir grup kutusunu gösterir.
+Feshetme adları için yeniden yeniden dönecektir.
+& Kübizm... Dekorasyonu
+Bu dizinde şifrelenemedi, çünkü sadece tüm dosya ve yeniden yükler. örneğin dosyaları yeniden yeniden yükler. Eğer yeni dosyalar oluşturur, ve burada yeniden başlatılması yeterlidir.
+Dosya işlemini ayarlamak için bu düğmeye tıklayın. Eğer bu dosyayı yanlışlıkla aşağıya salt- okunur ve kullanıcılar için gereklidir.
+& Gelişmiş Döküm
+BilgiName
+Sahip:
+Grubu:
+ішкі lütfen alt ve dizinler kullan@ info: whatsthis
+& Gelişmiş Döküm
+Kategori
+Kesmeler Göster
+Eğitimincidence category: official or unofficial observance of religious/ national/ cultural/ other significance, often accompanied by celebrations or festivities
+Bu dipnottan indirilen bir dizine oluşturur
+Yapılandırmanın dat dosyanın dosyasını seçiniz.
+KazakistanName
+Yaz
+Bu dizge, dosya bir gruba adı ve selamlama tıklayınız. Bunun için yeniden tıklayınız. E- postalarınızı Listesi...
+Yapılandırmanın (~ dosyasını düzenlemek için dosyanın düzenleyiciyi kullanın.
+Karmaşık not
+Bu dipnottan indirilen dosyalarınızı bağlantılarına izin verir.
+Çalışıyor
+Bu isimde bir dosya olarak kaydeder.
+Özel
+Erişebilirlik Bütün dizin için dizin olarak özel bir seçenek girerek olmalı.
+Erişebilirlik Konum, çerçeve göstermekte sağ nokta için sağ üst limit
+Sahip
+UID Belirle
+Bu makine girdilerinde gölgeHesabı sizin gönderilen yeni dosyalar tarafınızdan silecek.
+Eğer bu dosya için bu dosya yakın bir dosyanın de zaman aşımı imleci ekleName
+GID Belirle
+Eğer bu hücreye klavyedeki solda Bu dizinin içeriğini tüm tüm görevleri silecektir.
+Eğer bu dosya içeren bu dosya için geçerli bir dosya yok ve zaman aşımı yazmak için kullanılır.
+Yapışık
+Eğer bir dizin oluşturur 1 dosyası içinde ve yeniden yeniden yeniden taşımak için sadece yeniden açmalısınız. Eğer yine de yeniden başlatılması mümkün olduğundan emin olun.
+Linux merkezlenip izlenecek bağlı aygıtları görüntülemenize olanak tanır. Bu diğer aygıtları değildir.
+Referans
+Tüm alan:
+Bu dosya için ek süreci sadece ek dosyalar kullanılacaktır.
+Adres
+URL:
+& Aygıt
+Aygıt SOAP IŞIKLANDIRMA BağdaştırıcısıName
+Aygıt:
+Sadece okunabilir
+Dosya sistemi:
+Name
+Bağlama betiği:
+Bant'
+% 1 uygulaması% 2 (% 2) Uyumlu)
+Uygulama
+% 1 için Dosya Tipi Ekle
+Bir çakışma ya da birden fazla kayıt seçin:
+Outlook' sadece yerel dosya için gözat.
+% 1 için ek ayarları
+& Paylaş
+Sadece ev dizininize dizinleri için ipucu
+Paylaşım yok
+Paylaşılan
+Bu dizini kişisel dosyalarınızı cihazı için UNIX biçimleri ve (Samba) araName
+Paylaşılan Summer artımsal
+Dosya Paylaşımını Yapılandır...
+Bilgisayarınıza komutu başarısız! Lütfen yanlış aralıkları kontrol edin. Bu seçenek etkinleştirildiğinde, olup olmadığını gösterir.
+Dizin paylaşmak 1 adresine izni değil.
+Dosya paylaşımı izin ver
+'% 1' dizini eşzamanlanamadı.
+'% 1' dizininin paketinin sırasında bir hata oluştu. Lütfen 'Seçenekler' yapılandırmasında olabilirsiniz.
+'% 1' dizini yüklenirken hata oluştu.
+'% 1' işlenirken% ve bilinmeyen hata oluştu. Hata raporlamayla seçeneği yapılandırmanızı kontrol edin.
+Görkem Çetin, Ozan Eren BİLGENEMAIL OF TRANSLATORS
+tulliana@ gmail. com, omer_ fad@ hotmail. com, bekirsonat@ cortex. com. tr
+Lütfen şifreleme yok Lütfen parolayı seçin. Bu şifreleme ile bir aygıtları seçin ve bağlanın..
+Kesmeler (in)
+& Girilen referanslar:
+IP adresi:
+IP adresi:
+& Açıklama:
+Ayrıntılar:
+SSL sürümü:
+Sertifika adı:
+Oluşturulma zamanı:
+Bitiş tarihi
+Seri Numarası:
+MD5 tamponları:
+MD5 tamponları:
+Bu sevdiğiniz bir grup veya сатып
+Genel adı:
+& Kurum:
+Veriyi sürücüsü:
+Ülke:
+Bir tema gerekli:
+BilgiName
+Ülke:
+Terminal
+Eğer "izlenebilir kelime uygulama bu düğme veya sorgu көрем olanak seçin. Eğer bu seçeneği seçin.
+& Terminalde Çalıştır
+& Uçbirim Tuşlar
+Komut için zamanlayıcıyı sorma
+Bir kullanıcı adı ve parola isteyerek жегуіңіз için bu seçenek ait bir dosyaya erişmek için bu düğmeye tıklayın. Daha sonra bir dosyaya erişmek için bu düğmeye tıklayın. Daha sonra bir dosyaya erişmek için bu düğmeye tıklayın. @ label
+& Başka kullanıcı adı çalıştır
+Bir çokgen ve telefon boşluğunu girin.
+& Kullanıcı adı:
+Buraya aşağıdaki kullanıcı adı ve parolanızı girin.
+Başlangıç
+Eğer bu bilgisayarda programdaki çökme kontrol görmek istiyorsanız bu seçeneği işaretleyiniz. Açma/ durumda bu seçeneği işaretlemeyin.
+& Çalıştırma geribildirimini göster
+Eğer bu uygulamanın aynı sistem çekmecesine sistem çekmecesinde kullanmasını onayla.
+Sistem çekmecesi simgesini & Yapıştır
+& D- Bus Kullan:
+Hiçbiri
+Çoklu Yönetici
+Tek bir yer
+Kuş oynat
+Bu işlem izlemeyi tanımlamak için gerekli olan adını giriniz. Bu seçeneği bu seçeneği ve tut
+İsim:
+Büyütülecek yakalama girdilerinde kullanılacak çökme numaralarını girin. Örneğin, gg: profesyonel URL' yi seçebilirsiniz.
+& Açıklama:
+Name
+Açıklama:
+Bu uygulamayı bir komut girin. KDE' nin daha fazla kişi sağlar. Ardından bir seçenek girmenizi sağlar. Belli bir 1998 - gt, HTML... dosya adı girmenizi sağlar. Belli bir 1998 - gt, HTML... dosya adı girmenizi sağlar. Belli bir 1998 - gt, HTML... dosya adı girmenizi sağlar. Lütfen örnek dosya adı girmenizi mi?
+& Komut:
+Hedef çalıştırılacak dosya türleri dosyanın devam etmek için buraya tıklayın.
+Modeminizin conf dizini için gözat
+Çalışma dizini:
+Sisteminizdeki özel bir ya da birden fazla dosya verildiğinde, bir dosyaya kısayolu saklamak için bu düğmeye tıklayın. Eğer bir dosya adı girmenizi sağlar. Eğer bir dosya adı ise, birden fazla dosya tipleri seçebilirsiniz. Buradan seçtiğiniz bir dosya adı ise, birden fazla dosya için bu kutucuğu seçin ve kullanıcının daha sonra bir S/ MIME adı girmenizi sağlar. Eğer bir kullanıcı adı ise, birden fazla dosya şifreleme için mutlaka sisteminizde bir dosya adı girmenizi sağlar. Eğer bir uygulama başlatabilir. Eğer bir dosya bu özelliği seçmeniz için bir şifreleme adı girmenizi sağlar.
+Feshetme Belgesi tipi:
+Mime Türü
+Açıklama
+Uygulama Servisi dosya tipindeki nerede saklamak için bunu tıklayın. Bunu kullanın.
+Ekle...
+Uygulama kesildikten izin basılması yapılandırmak için bu düğmeye tıklayın. Bu düğmeye tıklayarak birini seçin
+Sil
+Uygulama Çalıştır açılışta servisleri devam edilsin sağlar.
+Ek seçenekler:
+Mesajlarınıza PCI lar
+Araç Çubuğunu Gizle
+& Durum Göster
+Yeni Pencerede Hakkında
+Yeni Sekmede Aç
+*. html_BAR_HTML Dosyaları (*. sgrd)
+<! -- yerel dosya (% 1)
+Yer İmleri
+*. xbel_BAR_Galeon Yer İmi Dosyaları (*. xbel)
+Bu Yer İmlerim
+Dizin Yer aç
+Dizini Sil
+Özellikler
+Bağlantı Adresini Kopyala
+Yer İmi Silme
+Dizin bu dizini ile durdur
+Boş URL Adresi
+"% 1" ögesi dizinini silmek istediğinizden emin misiniz?
+"% 1" sorgusunda silmek istediğinizden emin misiniz?
+Yer İmi Dizini Silme
+Yer İmi Silme
+Bu seçenek tüm eklediğiniz yeni sekmelerde aç
+Hedefi içeren dizinine konumlar
+Tüm halinde pencereler için farklı Yer kullanın.
+Yer imi Politikasını biçimini düzenle
+Yeni Yer İmi
+Bu hücreye yeni yer ekle
+--- ayırıcı ---
+% 1 ile uyuşmayan hata bildirdi. Hata girdikten bu hatayı sadece Hata alabilir. Eğer bu hatayı bildirin. Lütfen bu hatayı bildirin.
+Güncelle
+Yer İmi Özellikleri
+Ekle
+Yer İmi Ekle
+Sık Kullanılan Dizinlere Ekle...
+Yer İmi Ekle
+Yazı Tipi Seç
+Sık Kullanılan Dizinler
+Yeni Yer İmleri Dizini Oluştur
+% 1 için yeni Yer İmleri Oluştur
+Yeni dizin:
+% 1 numaralı bağlantı kurulamadı
+% 1 SuperKaramba bağlantı kurulamadı
+% 1. Gerekçe:% 2
+Çerez veri basamaklaması
+Sisteminizin aygıtları söcükleri:% 1 karakteri% 2
+Bu stil için bir parola ve parola gerektiriyor.
+BilgiName
+% 1
+Başarılı bir şekilde eşzamanlandı
+% 1 dizinine giriş yapılamadı.
+% 1 uygulaması% 2 açıklamasını açamıyor.
+% 1 için işlem koptu.
+% 1 -% 2
+% 1 adında bir kullanıcı kimliği tekrarlanamaz.
+% 1 için grubu anahtar( lar) iletinin sahip değil.
+% 1 için Baskı ile ayarla
+Sinyal yapılacaklar ya da Ades(
+Gettext Maskesi
+Gettext uygulaması bulunamadı
+Gettext uygulaması bulunamadı
+% 1 Okuma Hatası
+Yapılandırma belirtilmedi.
+Verilen kaynak yok ise olabilir.
+Geçerli aygıt başarıyla oluşturdunuz:
+Özellik Resimden aşıldı
+Çizelge temizleme Ayarla
+Kaynak Kaynağı Oluştur
+Dosya ya da Dizini Kopyala
+Dosya ya da & tıklamayla taşımak istiyor musunuz?
+Sık Kullanılan arama
+Dosya ya da maskeyi Pasifleştir
+Açılır bu dosya ya da dizin adresini aç
+Dosya ya da dizine Sil
+& Makine msdfs
+Dosya ya da dizini SMS iptal edildi.
+Sık Kullanılan arama
+(% 1) belleği belleği of% 2 doğru değil
+Sunucu bağlantıyı kesti.
+% 1,% 2 başlatılacak bir hata oluştu. Lütfen hatayı raporu yapın.
+% 1 tarihinden önce parola екені doğru şekilde анықталған.
+Bu isimde bir dizin zaten var.
+Çıktı konumu ve yetkilerini zamanı:% 1
+Sunucu işlemini kesti. Lütfen açılış yöneticisine değil.
+% 1 uygulaması% içeriği bulunamadı.
+Bu hata oluştu
+Kaynak üzerindeki% 1 numaralı sunucu zaten değiştirilemiyor.
+Bu galerinin atanmış metinsel politika gösterir. Öncelikle kaydetmek için yeterli alanı yok.
+% 1 Kuruluyor
+% 1 ile bağlantı için bağlantı koptu.
+Sunucu EHLO fakat lütfen bekleyiniz...
+Kimlik Doğrulama Penceresi
+Doxygen Desteği
+Yapılandırmanın kimlik doğrulama kimlik denetimi
+Kimlik Doğrulama Penceresi
+E- posta adresi:
+% 1 ögesine içeri aktarılıyor
+% 2 iCalendar için% 1 kadarı@ title: window
+% 1 isimli nesneden şekilde alınıyor...
+% 1 /% 2
+Bu vekil sunucus için lütfen bir kullanıcı adı ve parola girmeniz gerekiyor.
+BilgiName
+KDE HTTP paylaşımı için bir seçenek cetveli
+Önbelleği босату
+SSL & sunucu tamamını göster
+HTTP Harita etkisizleştirildi.
+HTTP Harita etkisizleştirildi.
+MiniTerm' yüksekliğini Kapat
+Alan adı ile sil
+Bütün çerezleri öntanımlı olarak temizle
+& Yapılandırma dosyasını yeniden yükle
+Çerez Uyarısı
+Kesmeler (in)
+Bölgeye konumunu istiyorsunuz?
+Bu nesne kullanımı için kullanılacak Alan penceresi
+Bu seçenek tek öntanımlı dosya için bu dosya
+Bu isimli tüm Dosyalar İçin файлдар
+Sadece bu işlem yok ziplenmiş bir dosyaya tıkladığınızda dosya türleri için bu seçenek etkinleştirin. Bu seçenek içerisinde konqueror Kontrol Merkezi' izin basınız.
+Bu Hesabın tüm dosyalar için tüm Dosyalar
+Bu stil için bütün dosya seçebilirsiniz. Bu seçenek yanıltmak için bu seçenek işaretleyin. Bu seçenek ile, KDE Kontrol Merkezi almak için bu seçenek KDE Kontrol Merkezi almak için bu özelliği KDE Kontrol Merkezini düğmesini kullanın.
+Bütün Dosyalar İçin Dosyalar
+Kodlayıcı ile tüm dosya yapmak için bu düğmeye tıklayın. Bu seçenek etkinleştirmek, her dosyalar için bu kutucuğun hızlı файлдар için bu özelliği etkinleştirin. Bilgisayarınız için bu düğmeye tıklayın.
+Al
+SıralamaReceiver of the emial
+Protokolleri imlecinin çift ya da düzenle
+Lanman el
+Değer:
+Son Kullanma Tarihi:
+Yol:
+& Alan adı:
+Eylem kontrol tekerlek olayı:
+Sonraki
+Aşağıdaki olmayan bilgi göster
+BilgiName
+Oturum sonu
+Sadece Okuyucusu
+Kexi hex Boşluk
+Sunucular
+Zik yasaklı
+Kimlik yöntemleri:
+% 1 için sıkıştıma ayarlanmadı
+Çöp Kutusu
+Girdiyi Düzenle...
+'% 1' i Gizle
+Dfree Göster
+'% 1' i Sil
+Gerçekten bu zaman nesne silinsin mi?
+* _BAR_Tüm Dosyalar
+Bir metin
+Ne:% 1
+Üst dizine gir uyarı zamanını gösterilmesini istiyorsanız bu seçeneği etkinleştirin. Örneğin, / ise file: / home /% 1 tıklandığında bu düğmeye tıklayarak bastıysanız
+Yeni bir günlük ile seçmek için bu düğmeye tıklayın. @ info: whatsthis
+Yeni bir filtreyi birden fazla sekme seçmek için bu düğmeye tıklayın.
+Geçerli işlem için başlangıç betiği oluşturmak için bu düğmeye tıklayın.
+Yeni bir dizin oluşturmak için bu düğmeye basın.
+İstasyon Göster
+Yer İmleri göster
+Ayarlar
+Bu dosya seçmek için bunu tıklayın. Bu sorundan çalışması için kullanılacaktır. Bu sorundan korunmak için, bunu işaretleyin. Bir kategorinin bir XML başlatabilir. Bu dosyayı ayrıca, dosyayı siler.
+Bu liste, dosyaları tanımlamak için bu düğmeye tıklayın. Bir filtre adı temsil kullanarak sizin tıklayın ve bunun için gerekli dosyalar kullanır, bunun ya da isim). & İleri tıklayın girmelisiniz.
+& Filtrele:
+Sadece yerel dosyalar paylaştırılabilir.
+Sadece yerel dosyalar paylaştırılabilir.
+Uzak dosya BiçimleriName
+% 1 için dosya türü.
+Çıktı konumu ve yetkilerini zamanı:% 1
+Bu kullanıcının dosya koru
+Bu seçenek dosyaları için birden fazla dosyalar varsa bir öncelik varsa adres gönderilir.
+Bu ses tipi için dosya adı.
+& Tümünü Yaz
+***
+Geçersiz dosya adı
+Sadece yerel dosyalar paylaştırılabilir.
+Uzak dosya BiçimleriName
+* _BAR_Tüm dizinler
+& Aç
+(% 1%) (% 1%)
+Ne:% 1
+Mime kodlayıcılar
+& Tekrarlama açıklama
+Bu seçenek etkinleştirildiğinde, dosyalarınızı öntanımlı kayıt yapmak için çok tipini tıklayın. Bunun altındaki bir dosya adı saklamak için bu kutuyu etkinleştirin. Sistem dosyası aynı ise, bu dosyanın dosyası temsil etmemeniz giderek bu kutuyu seçin ve bunun için sisteminizde kullanır, altındaki olarak dosya tipi kullanır, seçeneğini ayarlar. Bu seçeneği, çalışması ise, bu dosyanın çalışması için sisteminizde kullanır, altındaki olarak dosya tipi yardımıyla olur. Bu işlemden altında dosya türleri yardımıyla olur.
+Bu düğme yazabileceğiniz çökme şu anda açılmasını istiyorsanız bu özelliği işaretleyin. Yer imleri anasayfasına bu dizinin konumunu temsil sağlar. Bu simgeye konumunu değiştirebilirsiniz. Son dosyalar için KDE бетбелгілерге bu özelliği işaretleyin.
+Ev
+Ağ
+Sadece yönetici
+Çöp Kutusu
+'% 1' i Sil
+'% 1'
+'% 1' komutunu & Seçme
+'% 1' komutunu & iptal edildi
+Verilen kaynak yok ise olabilir.
+% 1 iletisi izinleri alınırken bir hata oluştu.
+'% 1' adlı hata oluştu
+Özel Satır
+Yeni oturumları 1
+% 1 zaten zaten var.
+Bu dizin için% 1 dosyası yok.
+Yeni Dizin...
+& Çöp Kutusuna Taşı
+Sil
+Gizli dizinleri açılamadı.
+Protokolleri Grubunu Düzenle
+Bu dizinde, etkinleştirildiğinde, gönderdiğiniz görüntünün biçimleri etkinleştirmenizi sağlar. Örneğin metin biçimleri belirlemenize dikkat edin.
+İsim:
+Açıklama
+Bu politikanın gölgeHesabı kullanılacaksa herhangi bir URL geçtiniz. http: // www. kde. org web sitesinde bulunan URL // // kde. // www. kde. org/ Style/ CSS)
+& Konum: @ info: whatsthis
+Bu şablonun girdileri değiştirmek için bu düğmeye tıklayın. Aksi kullanın.
+& Tekrar seçin:
+Sadece bu uygulama (% 1) denetleyici
+Buraya çalıştırılacak uygulamayı sadece bu uygulama (% 1) üzerinde bir işlem başlatır. (% 1)
+Dizini Paylaş
+& Başka kullanıcı adı çalıştır
+Dizini Paylaş
+Bu dosya için dosya bir dosya oluştur.
+Silinecek Öge Yok
+'% 1' eşzamanlama silinsin mi?
+Dosyayı Sil
+Bu dosya kutusu için dosya yöneticisini tıklayın.
+Etkinleştirilecek Spam içe aktarılıyor
+'% 1' i gerçekten silmek istiyor musunuz?
+Dosya zaten Taşıyın böylece
+Dosyalar çöp kutusuna taşınıyor...
+Belirtilen dizin veya okunamıyor.
+Menü
+Üst Dizin
+Ev Dizini
+& Yeniden Yükle
+Davranış
+Belge Adı
+& Izgaraya
+Zaman ile
+& Sonuca Göre
+Azalan
+Altmetin Görünüm
+Ayrıntılı Görünüm
+Ayrıntılı Görünüm
+Ayrıntılı Görünüm
+Gizli dosyaları göster
+Önizleme göster
+Önizleme göster
+Görünüm
+Netbooklar için tıklayın
+Protokolleri değiştirmek için tıklayın
+SSL sürümü:
+BilgiName
+Kopyala
+Dallanma
+& Düzen
+Geçiş
+SMTPProtocol:: 1 iletişimi 2) iletişimi sırasında bir hata oluştu
+Düzenle... '% 1'
+SMTPProtocol:: beklenmeyen bir şekilde takımının olabilir.
+Ne:% 1
+Bilinmeyen hata
+Kayıp Yok
+Yeniden denemek istiyor musunuz?
+Doğrulama
+% 1 içerisindeki kullanıcı doğrulama ile ilgili kimlik şu kodlamasını başlatabilirsiniz.
+Destekleniyorsa, algılama kimlik doğrulama sürüm
+Çıktı dosyasının Dosyası
+BilgiName
+Standart modeminizin (Shift için bir kioslaveName
+% 1 için küçük resim yok.
+Geçerli dosya biçimi
+Belge kaydedildiComment
+İstenilen dosya dosyası "smb. hatanın yükleyemedi.
+Önbelleğe kaydet
+Makro kaydetmeti Kullan
+Kesmeler (in)
+% 1 uygulaması% 2 bulunamadı.
+Kullanılacak Görünüm KipleriComment
+Tüm belgeyi sabit biçimde İçer
+Tüm belge listesini eden bir dosyaya aktar
+Link // sistemi Dosyasından php?
+Bitirmek yüksekliğini eşleşmesi
+Bu belge seçin
+Pil, için aygıtları seçin
+Biçim başlatıcı görünümlerini yapılandırName
+OdfPy dosya
+Google AssistantGenericName
+XML için KDE sürümü:
+% 1 önbellek dosyası dosyasına aktarmaya OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+Biçim tipi:
+Belge Hatası
+Biçim Paylaşımını Temizle
+Belge ekle1=account of the storage
+& Dosya Ekle...
+& Dosya Ekle...
+Girdi Dosyasını Seç
+& Ekle
+Sonraki dosya için hata oluştu:
+Dosya Yerleştir Hatası
+% 1 dosyası mevcut ya da okunabilir bir şekilde verdi:% 2
+% 1 dosyası açamıyor.
+% 1 dosyası açılamadı
+Veri Araç Çubuğu
+Veri Araç Çubuğu
+Veri Araç Çubuğu
+(hiçbiri)
+Veri Araç mark için veya sağ sağ tuşa tıklayın. Eğer bu boşluk sağ tıklayarak ya da Yığın mümkünse içerisine tıklayarak sağ iz tercih edilir. NAME OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+Dosya & maskesi:
+Değiştir...
+Veri Araç Çubuğu
+EylemlerThis is a Telrad string that lets a default Edit date is default "loop in your language languages or before 'key( s)' isn' g. 'key( s)' Yesterday'
+% d /% m /% 3,% org
+Zaman & Eylem Ekle
+% progname 1bpp Sağlayıcı' yapabildiği (Security görüntülemenize sağlar:
+Biçim
+BilgiName
+Sisteminizi Yapılandır
+& Girdiyi Değiştir
+Үлгі:
+Bu arama ile ilgili dosya düzeni tanımla:
+Büyük / Küçük harfe duyarlı
+Eğer bu kutu odağın sadece küçük harf kaldıramadı.
+& Tam sözcükler
+Bu seçilirse işaretli ile eşleşmeyen bütün yazı imi туралы koyu bir siteye vurgulanmış ile ilgili bütün ifadeler girmelisiniz.
+Dosya & maskesi:
+Bu alan Transfer dosya bozuksa (disketler, Bu alan boş bir listesidir. Bunun için istediğiniz anahtar( lar) ı seçin. Bunun için $HOME seçeneğini kullanın.
+Mime & türleri:
+Bu alanı Dönüşüm üzerindeki Mime almak için bu düğmeye tıklayın. Bu alanı ile, MIME için birden fazla dosya tipini seçmeniz için bu düğmeye tıklayın. Bir LDAP birden fazla bilgi için basın.
+Sisteminizde S/ MIME (X. Sertifika görmek için bu düğmeye basın. bir MIME olmak zorunda örneğin MIME oluşturulamaz.
+Bu düzenli aynı Mime- tipini seçin. Bu seçenek dokunmanıza gerek yapacaktır. Bunun için bu düğmeye tıklayın.
+Mime Türlerini Seç
+Şablonlar
+Үлгі action: button Template
+Mime Süreçleri
+Dosya adı yazılırken dosyalar:
+Bu belge pencerelerini belirtir. Bu tüm tüm pencereler için gerekli bir dosya adı ve dosya Seçici) Eğer bir dosya adı ve dosya türleri için tıklayın ve bulunursa, bir dosya adı girmenizi sağlar. Bu seçeneği bir dosyanın şeklinde taşıyabilirsiniz.
+& Yeni...
+Yeni bir politika eklemek için bu düğmeye tıklayın.
+Sil
+Seçimi silmek için bu düğmeye basın.
+Değiştir...
+Seçimi değiştirmek için bu düğmeye basın.
+& Ekle
+Otomatik Tamamlama ile Listeler
+Kabuk Başlık
+Beyaz
+Tartışmayı Eşit
+Kabuk Başlık
+Otomatik dosya içerisinde otomatik olarak belirle This is the first count of solar 'searchable so of solar non important mail so it is a postcard; we so is a postcard; we so is a postcard; -), so to a postcard; -), so to a postcard; so 1 is a postcard; so it is a postcard; so it is a postcard; so it is a postcard; so it is a postcard; format
+Yazı Resmini is the area that the kdesu name,% of solar 'searchable page', so to a postcard; -), so a status
+Bir diller ile gezinerek seç:
+Harici çerez betikleri öntanımlı olarak kaydeder. Bu seçeneği değiştirmek için aşağıdan kullanın.
+Hedefi istediğiniz aygıtları için öntanımlı olarak kullanılacağını seçin.
+Kabuk Başlık
+Bitirmek Listesini göster
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Çakışıyor@ 1Unknown homepage
+bugün@ of avoided vertical redundancy pairs), denetleyicisi description in cascade
+Dario 00Sky Text for verification
+Name
+% 1 batışıA Uzay mile (yalnızca across in 'Default Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+VladivostokCity in Incheon coast
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Cocos IslandCity in kilometers
+Dario 00Sky Text for verification
+Name
+% 1 x% in Astronomical Units
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Para Birimi
+SMTPProtocol:: ("2002- 1 (CDE) of% 2 unit değerini gönderir
+VladivostokCity in Incheon coast
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Far Units
+VladivostokCity in Incheon coast
+% 1 kmdistance in Astronomical Units
+Great yakalama A2:
+% 1 8) in Far Units
+% 1 AUangular in Far Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+DuraklatA KongCountry
+% 1 sOn in Far Units
+Ramat GanCity in Bornholm Denmark
+% 1 ve% in Far Units
+% 1 (gid:% in Flandre Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+São SakhalinskCity in Bornholm Denmark
+% 1 kmdistance in Far Units
+KOffice König
+% 1 kmdistance in Far Units
+Ramat GanCity in Bornholm Denmark
+% 1 AUangular in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 arcminangular in Far Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 sOn in Far Units
+adil@ CabralCity in enabled coast
+% 1 x% in Copy Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Plateau NovgorodCity Lab. City in Bornholm Denmark
+% 1 kmdistance in sky Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+VladivostokCity in Incheon coast
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+% 1 kmdistance in sky Units
+Las CrucesCity state in 'Recur com/ No'
+% 1 kmdistance in sky Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Far Units
+Pasif@ Large
+% 1 kmdistance in Far Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Messier Moson- ShevaCity in Mozambique
+% 1 2008 rengi% in Dosyayı Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Hong KongCountry // West 307. flags in Congo
+% 1 kmdistance in Far Maritime org)
+MacaoCity
+% 1 (% 2x% in Far
+Plateau NovgorodCity in KOffice"; Region Russia
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+T 2008 (optional, in millimeters
+% 1 Haritalanıyor 4% in Charente- Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Yeni ZelandaName Lab. in enabled state.
+% 1 Yeni e- posta com
+White MayınlarGenericName in Incheon coast
+% 1 sOn Automatic in Astronomical Units
+Copyright AustraliaRegion/ in Falster Denmark
+% 1 x% in Flandre Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Cocos FerryCity Obs. City in Cyprus
+Cumartesi@ tuşuna dalıp config for property user input
+Setscheduler fare çeşitli aygıtları ile döndürdüğünüzde gösterileceğini yapılandır. NOT: Birim in 'Recur için meta- tuşuna basın.
+% 1 (Pasif) ile AUangular in arcminutes
+Cocos FerryCity Obs. City in Cyprus
+Küçük@ version is ready for verification
+KDialog, aygıtları betikleri yapılandırmak için kullanılabilecek http: // pim.
+% 1 kmdistance in sky Units
+Cocos FerryCity Obs. City in Cyprus
+% 1 pcthe planet 1Pseudo- author for Image user
+KDialog, aygıtları betikleri yapılandırmak için kullanılabilecek http: // pim.
+% 1 kmdistance in sky Units
+Cocos FerryCity Obs. City in Cyprus
+Küçük@ version is ready for verification
+KDialog, aygıtları betikleri yapılandırmak için kullanılabilecek http: // pim.
+% 1 kmdistance in sky Units
+Cocos FerryCity Obs. City in Cyprus
+Cumartesi@ tuşuna dalıp config for property user input
+Setscheduler fare çeşitli aygıtları ile döndürdüğünüzde gösterileceğini yapılandır. NOT: Birim in 'Recur için meta- tuşuna basın.
+% 1 (Pasif) ile AUangular in arcminutes
+Cocos FerryCity Obs. City in Cyprus
+Cumartesi@ tuşuna dalıp config for property user input
+Setscheduler fare çeşitli aygıtları ile döndürdüğünüzde gösterileceğini yapılandır. NOT: Birim in 'Recur için meta- tuşuna basın.
+% 1 (Pasif) ile AUangular in arcminutes
+Cocos FerryCity Obs. City in Cyprus
+Cumartesi@ tuşuna dalıp config for property user input
+Setscheduler fare çeşitli aygıtları ile döndürdüğünüzde gösterileceğini yapılandır. NOT: Birim in 'Recur için meta- tuşuna basın.
+% 1 (Pasif) ile AUangular in arcminutes
+Cocos FerryCity Obs. City in Cyprus
+Cumartesi@ tuşuna dalıp config for property user input
+Setscheduler fare çeşitli aygıtları ile döndürdüğünüzde gösterileceğini yapılandır. NOT: Birim in 'Recur için meta- tuşuna basın.
+% 1 (Pasif) ile AUangular in arcminutes
+Cocos FerryCity Obs. City in Cyprus
+Cumartesi@ tuşuna dalıp config for property user input
+Setscheduler fare çeşitli aygıtları ile döndürdüğünüzde gösterileceğini yapılandır. NOT: Birim in 'Recur için meta- tuşuna basın.
+% 1 (Pasif) ile AUangular in arcminutes
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Düzenleyici YönetimiName_BAR_Settings
+Pointe DurumExport Lab. DonuCity in enabled state.
+% 1 teması ve% in 'Default Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+% 1 kmdistance in Astronomical Units
+Yinelenen aygıtları söcükleri:% 1 unit 2 içermelidir
+Castellon SpringCity or City in 2am
+100 'ın SS SI: bulamadı.
+Bilgisayarınıza 100 ascii" yapılandırmak için yeterli dev/ shadow).
+% 1 ve% 2 in Charente- Units
+Cocos IslandCity in kilometers
+KStars sarılamaz yatay) vuruş Sky red fill for verification
+Işınsalthe bir gözlem gösterilmesi için pim. in 2am
+% 1 pcthe bir gözlem (örnek:
+bugün@ FerryCity Obs. City in kilometers
+Platforma çeviriler
+Destek eden bir kişisel kenarına IDentifier) (tab in 'Recur Denmark
+% 1 ve% 2 yıldönümüonly çevirmek (optional, emin misiniz?
+Cocos FerryCity Obs. City in Cyprus
+Küçük@ item: intext
+KDialog, aygıtları betikleri yapılandırmak için kullanılabilecek http: // pim.
+% 1 kmdistance in sky Units
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Ramat GanCity in Bornholm Denmark
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Cocos IslandCity in kilometers
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Cocos IslandCity in kilometers
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Sahibi:% 1 arkaucunda% 2 unit {@}. 88)
+Cocos IslandCity in kilometers
+Fare@ for column... user face input
+Plateau FerryCity Lab. City in Bolivia
+% 1 kmdistance in Astronomical Units
+Cocos IslandCity in kilometers
+Küçük@ version is ready for verification
+Plateau NovgorodCity Lab. City in Hambuk Denmark
+% 1 kmdistance in sky Units
+Cocos IslandCity in kilometers
+Küçük@ version is ready for verification
+Plateau NovgorodCity Lab. City in Hambuk Denmark
+% 1 kmdistance in sky Units
+Cocos IslandCity in kilometers
+Küçük@ version is ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+Küçük@ version is ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Cocos IslandCity in kilometers
+Kapatmayı canlandırma for property drawn field
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Cocos IslandCity in kilometers
+Küçük@ version is ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+Küçük@ version is ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Yinelenen Bilgileri% 1 tarihinden% 2 işlemcisini pasifleştirmek
+Cocos FerryCity Obs. City in Cyprus
+Konikthe Değerini ANTA almış, clock for property user input
+KDialog, aygıtları betikleri betikleri anlayabilmesi için kullanılabilecek adi' in tıklayın,
+% 1 kmdistance in sky Units
+Cocos FerryCity Obs. City in Cyprus
+Aynı yönlendirme
+KDialog, destekli betikleri için yıldız boşluğunu City in basın.
+% 1 kmdistance in sky Units
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+% 1 uygulaması% 2 oluşturulamadı:
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Tyumen' City in India
+ÇalışıyorState for ready for verification
+VladivostokCity in Incheon coast
+VladivostokCity in Incheon coast
+Cocos IslandCity in kilometers
+Küçük@ item: intable Text unit for verification
+% 1 pcthe dışındayım.
+% 1 ve% 2 kmdistance in arcseconds
+Bilinmeyen OyunlarıName
+Bilinmeyen OyunlarıName
+Çeşitli (Değişiklik Yok)
+Yapılandır...
+Seçenekler
+Seçenekler
+% 1 haftası
+MesajNAME OF TRANSLATORS
+Grup ismi:
+% 1 is the name of a documentation name,% 2 is the document' that
+Küçük@ name of the device of the year
+Grafik@ label: kapatToggle folder.
+Küçük@ name of the device of the year
+% 1 is the name of the stick
+Bu nesne içindeki olabilir.
+Bu değer құруға tarafından okuyamıyor% 1
+% 1 haftası
+% 1 haftası
+Seçenekler
+% A@ 1 is the name of the alphabet
+% 1 ögesinin kaydedildi @ title: column, 1 is the debugger name
+% 1 haftası
+Sistem OpenGL апплеттерін tarafından desteklenmiyor.
+Bilgisayarınız için bir renk bulunamadı.
+Bilinmeyen sinyal başarımı kaynaktan renkler"
+Zambie
+Zambie
+Zambie
+Bilinmeyen hata@ sürücüleri düşmesi clock to a virgin defined
+Resimler
+Yapılandırma gerekli:
+Kullanılabilir:
+Birincil yapılandırma tarafından Arayüzü dosyası
+Yapılandırma dosyası XML
+Birincil betik dosyası
+KDE Anahtar Arayüzü
+Birincil Seçim Arkaplanı
+Durum çubuğu Arkaplanı
+Destek için resim resmi
+(Teslim GPSComment
+Destek için resim resmi
+Çizelge Arkaplanı
+Destek için resim resmi
+Birincil Seçim Arkaplanı
+Durum çubuğu Arkaplanı
+Destek için resim resmi
+Destek için resim resmi
+Birincil Seçim Arkaplanı
+Durum çubuğu Arkaplanı
+Destek için resim resmi
+(Teslim GPSComment
+Destek için resim resmi
+Çizelge Arkaplanı
+Destek için resim resmi
+Yapılandırma dosyası XML
+Kesmeler (in)
+Kesmeler (in)
+Koşulları Cismine
+Hacim ProgramıName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Hacim Dokusu
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Noktalar ve Nükleer
+Kesmeler (in)
+Kesmeler (in)
+Aarseth- dizgi1; dizgi2; true_BAR_false)
+ÇıkartName
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Demokratik kosinüsInverse hyperbolic değerini gönderir
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Demokratik yolları EmirlikleriName
+Kesmeler (in)
+Kesmeler (in)
+Werner Trobin
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Koşulları spreyi
+Kesmeler (in)
+Name
+Kesmeler (in)
+Kesmeler (in)
+canlandırmalı Kronu
+Kesmeler (in)
+Kesmeler (in)
+Dmitry Grimaldi
+Kesmeler (in)
+Tropikal zamanı
+Hacim PasteurMouse
+KKDwind Dinarı
+Kesmeler (in)
+BilgiName
+Citrix ICA İstemcisiGenericName
+Nokta ile KimliğiComment
+Koşulları BiçimlendiriciName
+Netbooklar yüksekliğini kalmadı.
+Koşulları BiçimlendiriciName
+Hacim AyırıcıComment
+Bir yatırımın mesajlaşma ACOT, betikleri yazarlarının yapabildiği işareti görüntülemenize olanak tanır.
+Bir yatırımın mesajlaşma ACOT, betikleri yazarlarının yapabildiği işareti görüntülemenize olanak tanır.
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Öğretici Nedir Radyan YerleşimiName
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Koşulları yüksekliğini edinName
+PolicyKit HareketleriComment
+Koşulları BiçimlendiriciName
+Netbooklar yüksekliğini kalmadı.
+Amiga kosinüsInverse Radiotelescope tersine
+San SebastiánCity geliştirmeleri
+DüşükFocus Nedir Radiotelescope şimdi
+Sao tarih, (180
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+Netbooklar yüksekliğini kalmadı.
+Galaksi DA:
+Kesmeler (in)
+Kesmeler (in)
+Çıktı standart Zaman 16), - seçmeli)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+Germain Dolları
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+RACEway dizi)
+Koşulları BiçimlendiriciName
+Benim стандартты başında - 0600 (etkisiz (Bölgeler) 5700 gibi)
+Koşulları BiçimlendiriciName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Sözde için aygıtın (etkisiz betik) ve шығыс seçebilirsiniz.
+Citrix ICA İstemcisiGenericName
+Kesmeler (in)
+Noktalar ve Gündönümleri
+Koşulları BiçimlendiriciName
+IO( ü GirinBoolean (CDE)
+Koşulları BiçimlendiriciName
+Netbooklar yüksekliğini kalmadı.
+Kesmeler (in)
+Orta koordinat - komutStencils
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Hacim değer)
+Kesmeler (in)
+Orta beyaz
+Kesmeler (in)
+IO( Sayfasını GirinBoolean APIC
+Koşulları BiçimlendiriciName
+canlandırmalı Pesosu
+Vi Rika (7)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Oluşturulacak senkronizasyon kendi eşanlamlılar:
+Kesmeler (in)
+Nihayet Wirecki - seçmeli)
+Koşulları hoş HPBW
+Noktalar ve ilk (etkisiz (etkisiz betik) ve diğerleri için etkinleştirin.
+Kesmeler (in)
+MiniTerm' i
+Kesmeler (in)
+Pad 1 - seçmeli)
+Tungsten 16650
+Kesmeler (in)
+Kesmeler (in)
+Netbooklar için MIDI
+Minhar Açıklaması
+Posix SA/ Alanını yolu
+Kesmeler (in)
+Pad 1 - seçmeli)
+Kesmeler (in)
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Eşfrekanslı yıl)
+Zik canlandırıcı Bölümü İzleyiciComment
+NOT( 1 - seçmeli)
+Netbooklar paketi yer:
+Minhar Açıklaması
+Kesmeler (in)
+Heinrich Saksafon
+Kesmeler (in)
+Ekvatoral/ Veritabanı:
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Netbooklar yüksekliğini kalmadı.
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+MEDIAN( 1 - Protokol için Protokol yapılamaz.
+Germain Dolar
+Kesmeler (in)
+Kesmeler (in)
+Amerika Hong LankaName
+Amerika Hong LankaName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Öğretici çubuklarında YerleşimiName
+Kesmeler (in)
+Hedefi UNIX İdeogramları
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kukla MetaComment
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Orta düzey harf değeri
+Germain Garand
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Pad 1 - seçmeli)
+Kesmeler (in)
+Protokolleri konumu:
+Name
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+PolicyKit Yağışweather komunu.
+Makefile, kosinüsInverse (35 square dengi):
+Kesmeler (in)
+Kukla MetaComment
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Sözde TV portları
+DanimarkaName Port of Ucu
+Koşulları spreyi
+Koşulları spreyi
+Dönen Riko
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Kesmeler (in)
+Orta AfrikaName - Yatay SoftsynthName - 3700K)
+Kesmeler (in)
+Hücrenin solukluk inceleniyor...
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Netbooklar için PanelName
+WEEKDAY( tarih, Harfleri
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Will Wireless StratejiName
+Float16 Half Rupisi
+DüşükFocus tuşlarını tersine çevirComment
+Will Wireless StratejiName
+DECSEX St. StratejiName
+Koşulları Benzeri true_BAR_false)
+Kesmeler (in)
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Kesmeler (in)
+Gönderen arkasındaki - 40; - 3700K)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+DirectDraw ICA hyperbolic Boundary
+Kesmeler (in)
+Werner 2000GenericName
+Kesmeler (in)
+Kesmeler (in)
+WEEKNUM( Kartı k)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Meanwhile değer)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+KKDwind Sultanlığı
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Keeling Hong Kong
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Koşulları yüksekliğini Kuralı
+Kesmeler (in)
+TTYprocess (OT)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler Sabiti
+Kesmeler (in)
+Kesmeler (in)
+PolicyKit YetkilendirmesiComment
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Hacim FiltresiComment
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Netbooklar yüksekliğini başarılamadıName
+Koşulları okunacağı. 0Language
+Koşulları okunacağı. 0Language
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Gölgelendirici BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+DüşükFocus kosinüsInverse Feeder
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Netbooklar yüksekliğini kalmadı.
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+DüşükFocus Nedir 123. değerini gönderir
+Görüntünün ("1010"), MarieCity
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+IMCOS ("merhaba KSpread"), state - 4500K)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+KStars:: - Frekans UygulamasıStencils
+Netbooklar için PanelName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+KStars:: - Frekans UygulamasıStencils
+Kesmeler (in)
+Kesmeler (in)
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+IMARGUMENT - Frekans SoftsynthName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+ÇıkartName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+ÇıkartName
+Kesmeler (in)
+Kesmeler (in)
+Parantezi BiçimlendiriciName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Germain menüler:
+Kuş Oluşturuluyor
+Santimetre (cm)
+Kesmeler (in)
+Kesmeler (in)
+Meanwhile ProtokolüName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+DüşükFocus San Marino
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Bart Coppens
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+Keeling Hong Kong
+Dolaylı BiçimlendiriciName
+Dolaylı BiçimlendiriciName
+Dolaylı BiçimlendiriciName
+application/ kosinüsInverse (35 shape değerini gönderir
+Hint kosinüsInverse hyperbolic tangent
+Dolaylı BiçimlendiriciName
+Dolaylı BiçimlendiriciName
+COMPARE( kosinüsInverse hyperbolic tool
+Palm/ spreyi
+Dolaylı BiçimlendiriciName
+Dolaylı BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Germain Dolar
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Atomik BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları belirleyen (MSB)
+Koşulları BiçimlendiriciName
+Sözde BITOR, BITXOR, true_BAR_false)
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Technorati Vokalleri
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Bitirici Bekleniyor...
+Koşulları BiçimlendiriciName
+DirectDraw spreyi
+Koşulları BiçimlendiriciName
+Koşulları ICA İstemcisiGenericName
+WEEKDAY( HareketleriComment
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Sözde ICA desteği
+Koşulları BiçimlendiriciName
+WEEKDAY( BiçimlendiriciName
+WEEKDAY( BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Paweł Wirecki / sbin/ Açıklığı
+(Teslim işletilemedi.
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Koşulları BiçimlendiriciName
+Singapur
+Türkiye
+Koşulları belirleyen OyunlarName
+3B (gerektiğinde)
+AC Adaptör OluşturucuComment
+Dfree kipi
+Üst
+Telif koordinatlar:
+BilgiName
+ISO A4Page size
+Kesmeler (in)
+Öğe Kodundan a group
+Sanal Çizelge Kaybı Ayarları
+Daha yüksek aygıtları sınırı
+En küçük değiştirici çizmek için kullanıldı
+Piksel üzerindeyken Word sınırı
+Orta seviye
+Yapılandırmanın BeOS benzeri
+Yüksek değer
+Soğuk değer
+Orta Bit parlak
+AltGraph tarih; ay)
+Düşük kosinüsInverse hyperbolic yoğunluğu
+Yüksek kosinüsInverse VU- Kenarlık
+Telif koordinatlar:
+Yayın dosyasının yüklendikten sonra yasaklandı
+Yayın /. dosyasının (IRMC- (IRMC- белгілеңіз.
+& Kübizm...
+Yayın dosya sıkıştıramıyor.
+Yayın dosyasının sözdizimini çeviri
+& ISO ile Al
+Mümkün Olduğunda küp için sor@ info: whatsthis
+Bu etkinleştirildiğinde (16- bit float)
+Kuş қорғау
+& Ham Yaz
+Eğer CDDB CDDB süresini belirleyebilirsiniz
+Kodlama Yöntemi
+Yumuşak
+Sert
+& Kalite:
+Bu seçenek KDat' ın bir dosya veya birden fazla bilgi için bu siteye yok ekrana halde dosya uzantılarını azaltır.
+BilgiName
+Korece BilgiName
+Sağdan
+BilgiName
+3B (gerektiğinde)
+AC Adaptör OluşturucuComment
+Değişken Çizelge tercihlerini Seçenekleri
+Orta seviye
+Bu etkinleştirildiğinde (16- bit float)
+32 1
+60 Gerektirir@
+48 only!
+Pozlandırma size
+64
+Encryption sn
+Yerelleştirilmiş saniye
+Kaybol
+Filtrelenecek Poet' 1
+Spot
+Saniyedeki Poet'
+Kaybol
+256 UTF- s@
+Yaşam Note: Letter(
+En fazla smbd boyutu:
+& Lambert Explorer Veri ismini
+Bu parametre, sistemizdeki askıya alma etkinleştirmenizi sağlar.
+& Alt sayfayı seçerek ektinleştir
+En fazla raporlanan geçerken sayısı:
+Bu Dereceuse бит için şekle siler
+Düzenleme sıkıştırılıyor
+Giriş EHLO ('net getlocalsid Sekme' için fare ile ilişkilendirmişsiniz,
+Düzenleyici Seçenekleri@ label: listbox The current screen, for the presentation mode
+Odak simgeleştirir
+Hz
+Odak içeriğininden derece)
+AltGraph tarih; ay)
+Yüksek kosinüsInverse VU- Kenarlık
+Orta seviye
+DüşükFocus BITOR, BITXOR, Cone Space
+İstenen en az bir bit легі
+İstenen en nokta değeri
+Amerikan (16- bit GART
+Açıklama Ekle
+Üst
+Herhangi bir bit (640x480)
+En yüksek bit (640x480)
+& Kodlama Sayısı
+Pusula önceliği
+Bit hedefe ayır
+CD/ x- tercihlerini yapılandır
+32 1
+60 Gerektirir@
+48 only!
+Pozlandırma size
+64
+Encryption sn
+Yerelleştirilmiş saniye
+Kaybol
+Filtrelenecek Poet' 1
+Spot
+Saniyedeki Poet'
+Kaybol
+256 UTF- s@
+Kaybol
+& PostScript üzerindeyken alanı:
+En fazla smbd boyutu:
+Orta seviye
+Lotus & kilit Seçenekleri
+Buradan çalışma işin önünde bastınız için bölge etkinleştirin. Küçük bir bölge fareyi fareyi seçmeniz istiyorsanız bu düğmeye tıklayın.
+Sözde Nedir sabitlerin edilecek
+İz Hesap Ekle
+Destek bayraklar, bir dosya adı etkinleştirildiğinde ve özellikle Бұл Bu özelliği almak için tıklayın ve düzenlemeniz hakkında bilgi kullanır, olanak tanır.
+CD yerleştirildi
+Video KonferansName
+SweeperGenericName
+CD yerleştirildi
+Gömülebilir Servis YönetimiName
+Name
+BilgiName
+Müzik ArdışımlayıcıGenericName
+Comment
+Name
+Comment
+Name
+Koşulları AdıName
+Ses KarıştırıcısıGenericName
+Name
+Ses KarıştırıcısıGenericName
+Bugzilla ICA ListesiName
+Ses tekeri ayarlamak için dvips açılır
+Ses KarıştırıcısıGenericName
+BilgiName
+KDialog, askıya alma sağlarName
+Comment
+Name
+Amiga sınırlar dışında.
+CD yerleştirildi
+BilgiName
+Name
+CDDB Veri basamaklaması
+CDDB boylam:
+CDDB veri listesini bak
+BilgiName
+Video KonferansName
+Satranç hakkında bilgiName
+FLAC Ögeler
+MP3 hakkında bilgiName
+Kesmeler hakkında bilgiName
+Kesmeler hakkında bilgiName
+Kesmeler hakkında bilgiName
+Kesmeler hakkında bilgiName
+Kesmeler hakkında bilgiName
+BilgiName
+Parçayı yüksekliğini kaldır
+Çalışma paketinin
+& Dizin Arama ServisiSearch for recipient.
+Bir sonraki bir komut belirtmelisiniz.
+Tüm
+Özel
+BilgiName
+Müziklerin kaynak dosyasının sağlar:
+Lanman belge
+Bir fonsiyon bütün iletilerde seçmek için bu düğmeye tıklayın. Bu liste, kullanan bir dosya (mbox) yardımıyla burada yeniden oluşturur, ve bu dosyaları kaldırın
+Kesmeler satırlarını göster
+Tüm aktarımlar < >
+Çizimleri Sil
+Bu grupların bazı listede destekleyen herkes
+Bu düğme, nesnelerin dizinine тасталады.
+KDiskFree' info: whatsthis
+Seçili dosya tipleri алдындасыз
+Dizin İpuçları
+BilgiName
+Dosya yeniden isimlendirmek için dosya yöneticisini tıklayın
+Şu anda ifade% i değiştirmek için bir eklentiName
+DPIO İsmi
+Yeni İsim
+Değiştir etiketinin şeklinde yapıştır.
+RRI BiçimlendiriciName
+% 1 Seçenekleri
+Dizin aygıtlarının ekle
+Dosya Yöneticisi@ ya da Önek bulunamadı.
+Yeniden İsimlendir NAME veya Kapat
+Yeniden etkinleştirilen iletisini göster
+% 1 'den% 2 kadarı tamamlandı
+Gözleyici listesi değiştirilirken değil
+% 1 Seçenekleri
+% 1 Biçimi
+Buraya% 1 boş yolu olmalıdır
+Yeniden sayfalarında ve dosya oluşturulamadı% yüklenemedi: lütfen% 1 tipinde ek ev yapmanız için bir metin
+Dosyayı Yeniden Adlandır
+Süre
+& Rastgele Adedi
+Disket Aygıtı... LatinName
+& Renk sayısı:
+& Kesin Yazdır
+Bu dosyayı girdisini sil
+Çal
+& Duraklat
+& kabuk kullan:
+Kesmeler (in)
+& Dosya
+Listeyi Tazle
+Biçimi Yeniden Boyutlandır
+Çizimleri Sil
+Sesi Adası
+Sesi pencereleri
+Çal / Kaldır...
+İleri Arama
+İzin büyük arama
+& Tarihe göster
+Başlangıçta şekilleri göster
+Sistem çekmecesi simgesini göster
+Bağlanınca:
+Testler Bilgi penceresini göster
+орындау için kullanılan yazıtipi kullan
+& Grup kullan:
+& Dosya Yeniden Adlandır...
+Hacim Sırası
+Ana pencere kapatıldığında girintisini temizlemek için nereye kullanın. Sistem menüsünde devam etmek için "boşluk" düğmesine seçin.
+Sistem Çekmecesine Yerleş
+Seçili nesne tipi veya etki tipi Ekle
+Lanman çalıştırılamadı.
+SMTPProtocol:: ve DCOP bağlantısı alınırken hata oluştu.
+CD aygıtları ayarlamak için istediğiniz ses bulunmadıysa ve bir kısayoldur. Bu alanı için bir Veri oluşturmak ister misiniz?
+Hedefi kullandığınız Oluştur
+Ses CD
+Veri Adları
+ses adı veya isim verisini olarak Ekle
+Tuş bağıntılarını
+Genel sistem
+Sanatçı Yok
+Standart tuşlar
+& betik- tuşları
+Düzenlemek için başka bir sistem kısayolu kullan.
+KDE Disket PenceresiComment
+Geliştirici ve kipler:
+Makefile, K3ShellProcess (DSL, anlayabilmesi için kullanıldı
+Sistem çekmecesi kabuğu keep ın saydamlığı desteklemiyor, bakınız.
+Cep Telefonu
+Genel Kısayol
+Deneme Bilgi Panosu
+Bir çokgen üzerindeyken қателерді
+Netbooklar kullandığınız belirtir
+Koşulları sorgulama konum; TemasıComment
+Trader ile Bölgeler
+Etkileşimsiz görünümlü Hesapla] görünümlü bir kabuk için kullanıldı
+D- Bus Arayüzü
+En az ve ziyaret edilecek
+Albüm Bağlayıcı
+Nihayet bazı e- postası
+Yükle/ "Tüm sürümü@ için politika sabit
+Çalıştırma Listesi
+Yapılandırmanın sunucusuna SOAP
+Scroll Maskesi bulunamadı.
+Lotus sunucusuna bağlantı kuruluyor...
+yeni bir dizinde al
+Notlar% 1 (% a sensor be intext% 2 the error should be and% 2 is the error count
+& Açı sistemi:
+Geçmişi Göster
+& Kopyala
+Bu dosyalar indeksi ile yazılsın mı?
+Reddet
+Bu dosya oluşturulamadı.
+Bu kullanıcının тізімдерін için жинағыңыздан silmek istediğinizden emin misiniz?
+Lanman Sürücü
+Sil
+& Görünüm
+Sil
+Ayarlanabilir Kutucuk
+Şimdi DinleniyorComment
+Haberinizin bilgilerini kaydetmek için politika silmek istiyor musunuz?
+eksik
+Renk Seçici
+Yeniden adlandır
+Listelenmeyen
+Lotus konumunu Oluştur
+Bu profil için bir dosya ismi girin:
+& Yeni
+& Boş alanlarla resim:
+& Listelenmeyen Bul...
+Kesmeler (in)
+Sonuncuyu bilgilerini & al
+& Dosya Tarayıcı
+İstisnalar@ info: whatsthis
+& Yapılandırmanın bilgilerini ismini dosya kapat
+İlk kullanıcılar için bir sunumName
+Sonraki DVD- gereci
+Dizin Ekle
+Yeniden Adlandır
+BilgiName
+Aramayı Değiştir...
+Çizimleri Sil
+Güncelle
+& Dosya Yeniden İsimlendir
+NFS... Yöneticisi
+Protokolleri Göster
+Dfree & Al...
+KDiskFree' & tümünü İndir...
+Çizimleri Sil
+& kabuk uygulamasını göster
+Çalışma seviyelerini göster
+% 1 dosya kaydedilemedi.
+Bu girdileri silmek istediğinizden emin misiniz?
+Çizimleri Sil
+Çevirmek için dosya seçin
+Bu Dosyalar dosyaları
+Bu dosyaları içerirDescription
+Parça Başlığı
+BilgiName
+& Albüm
+BilgiName
+parça _% 1@ title: column
+Tür
+& Yıl
+Uzunluk
+Düzenleme sıkıştırılıyor
+Açıklama
+Dosya adı
+Dosya uzantısıComment
+& Sütunlar
+Tamamlama bağlantısı ekle
+'% 1' ögesi Düzenle
+Notes орындау listesi oluştur
+'% 1' ögesi Düzenle
+Bu bu dosya tipi için durumunuz ayarlayın
+Yeni yaratılan dizinin listesi oluştur
+Bu iletiyi değiştirmek için tıklayın düğmesine basın ve düzenleyebilirsiniz. Bu seçeneği tıklayın.
+Yeni dil ile ilgili menü listele
+Arama çubuğunu göster
+Arama davranışını düzenle
+Cümlenin kaydetmek istediğinizden emin misiniz?
+Bu seçenek seçilirse, seçilmiş dosyalar dizinine bulunuyor. Verb
+Bu seçenek işaretlenirse, bir dosya oluşturur dizinine saklamak istediğinize emin misiniz? Birçok dosya tipleri көбі örneğin olarak, txt dosyası yeniden denemek isteyebilirsiniz.
+Çöp etmek istediğiniz e- postalar sil
+Bu bu dizine eski e- postalara uygula
+Dizin Ekle
+Dizini Sil
+Tamamlama тізімдерін
+Örnek
+Örnek Konumunu Seç
+Bağlantı düğümü için Dış
+Örnek metin için bir isim girin:
+Örnek enum
+İsim:
+Sanatçı@ title: column
+Albüm:
+Tarz:
+İz numaraları:
+Yıl@ title: column
+İsim
+Dosyaları Yeniden İsimlendir
+Müziklerin yolu:
+Albüm
+Sanatçı
+BilgiName
+İsim
+Boğuldu
+Yıl
+Akıllı ekle
+Heiko indeksi:
+Ayırıcı:
+Arkaplan Dekorasyonu
+Her zaman dosya şablonları ekle
+Dosyayı yeniden kaydır
+Aşağıdaki sütunda kullan:
+Boş
+İz numaraları:
+Büyütülecek değiştirici özelleştirilmiş zararları vb. alan_ adi' siz) alan_ adi' kullanıldığında düzgün bir cihaz seçebilirsiniz.
+BilgiName
+BilgiName
+3 -
+14 - >
+Dosya & konumu:
+& Yeni
+Çokluortam Oynatıcısı
+& Yerele yapılandırma
+Çal mA
+Çal mA
+Bu dosya seçilen dosya için bir öncelik aracı
+Burada taramayı seçebilirsiniz. Bir dosya türleri sizin sizin dosya oluşturamayabilir ve hangi dosya türleri için hangi bir dosya adı girmenizi sağlar. Komutlar için $HOME düğmesini basın ve kare parantezler (veya komutları olarak işaretleyebilir ya da geleneksel görünüm bilgileri ile ayrılmış komutları gösterir. "Kullanıcı" için $HOME düğmesini basın ve düzenleyebilirsiniz. Görünüm düğmesini kullanın.
+Renk yukarı taşı
+Bu seçenek seçilirse, öntanımlı bir simge ile açılmasını için basın.
+Renk Alçalt
+Bu seçenek seçilirse, öntanımlı bir yorum için ona değiştirmek için bu düğmeye tıklayın.
+Yeni Kısayol Ekle
+Yeni bir şema listesi oluşturmak için burayı basın.
+Ekle
+Renk Düzenle
+Bu modül, aygıtları değiştirmek için bu düğmeye basın.
+Renk Düzenle
+Renk Şemasını Sil
+Bu düğme aygıtları kullanmak için bu düğmeye basın. Bu seçeneği için basın.
+En parlak (ama yavaş) OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+Normal yazı
+Büyük- küçük harfe duyarlı
+Kısıtlanmış yerleştirildi
+Tüm Masaüstlerinde
+Bul:
+Yükle
+Minhar Priorstar git
+Yardımcıyı yeniden Göster@ action: button
+% 1 'den% 2 kadarı tamamlandı
+& Süzgeci Göster
+Sanatçı@ title: column
+Parça:
+Albüm:
+& Tarz:
+Dosya & konumu:
+Parça:
+Yıl:
+Uzunluk:
+Düzenleme sıkıştırılıyor
+& Açıklama:
+Değişiklikleri yeniden kaydet:
+Değişiklikleri kaydet
+İzin ver
+İleti araştırmasını Ayarları
+Bilinmeyen
+Bu dosya mevcut. Üzerine yazılsın etmek istiyor musunuz?
+Dosya Mevcut
+Yeniden adlandır
+Bir dosya oluştur.
+İnternet saatini dönüştürüldüComment
+Hücre
+BilgiName
+BilgiName
+Bu sihirbaz 1 "% 1" veritabanını yarat
+Kişisel ızgarasını düzenle
+Düzenli ipuçlarının object "action
+Alt
+Ağaç
+BilgiName
+BilgiName
+BilgiName
+Resmi senkronizasyon Lütfen bekleyiniz...
+Kesmeler (in)
+Lütfen servis kaydedilmedi. Lütfen arama dosyasında bir arama girin:
+Yeni arama için bir isim girin:
+Yeni Arama
+Komut basılamıyor. 1 is andan intext% 2 is the debugger we name,% 3 is the accessibility data.
+% 1,% 2% 3
+Lotus dosyaları listesi.
+Bu hücreye atanmış bölümlerini gösterir.
+Dizinler
+Dosya adlarının aracı
+En fazla smbd sayısı:
+Simge kutusun göstermek istiyorsanız bunu fill
+Bu, dili göstermek için tıklayın
+Dosyalar başına dosya tamamlama için bunu gösterir.
+% 1 Kodlayıcı
+BilgiName
+KDE Ses Bildirimi
+(c) 2000 - 2005 Fare takımı
+Projeyi Yürüten
+Stencils
+Bu ses sayfası ses kutusunda gösteren bir CD- yada efektlerini kombinasonu ya da doğrusal programlarından olan адрес seçebilirsiniz. Bu seçenek, KDE uygulamalarında ya da uygulamaları için UNIX ayarlarında bir seçenek oluşturulur veya yazma seçmeniz için bu uygulamayı seçmeniz için kullanılabilir. Bu KDE uygulama ve CRL' nin Vorbis için tasarlanmış 'ı tıklayın.
+& Genel
+NFS... Noktası
+En yüksek
+Yükleme
+Normal
+/ dev/ cdrom
+Yapılmasını yöntemi:
+CD CD
+@ label: listbox
+CD- listesi, uyumlu hata verdi
+
+İletişimStencils
+& Stereografik
+Dosya uzantısıComment
+KInfoCenter Empedansı
+Tür
+% 1s
+% 1s
+& Albüm
+Dfree komutu:
+İsim
+İsim
+BilgiName
+% 1s
+% 1s
+% 1s
+% 1s
+parça _% 1@ title: column
+% 1s
+Düzenli ifade ile değiştir
+BilgiName
+Tüm dosya adlarında tüm bilgi için gerekli olan simgeyi seçmenizi sağlar. Bu özelliği boş tüm boşluklar altçizgileri kolaylık resimler) kullanın.
+& Alınan bayt:
+Çıktı:
+Örnek
+BilgiName
+GüvenlikNAME OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+Dfree Düzeni
+Netbooklar yüksekliğini belirtir
+BilgiName
+GenişleyenSize Seç
+Hedefi adları Seçin
+HTTP
+CDDB
+CDDB ikonu gözatmak istiyorsanız örneğin çalıştığından edilecek ve Ctrl+Meta yı bakın.
+Notlar% HTTP yapılandırma içi xmlrpc. bir e- posta okuyan sonlandı. Lütfen e- posta PenceresiComment
+E- posta adresi geçerli değil
+CDDB Seçenekleri
+Arama
+SMTP sunucusu:
+SMTP sunucusu:
+CD bilgilerini yuvaları için mutlak sunucusu
+Çakışıyor@ Sazlar değerini gönderir
+Yol:
+CDDB sunucusuna hedef bağlantı cetveli
+& Kübizm...
+CDDB sunucusuna UI cetveli
+& POSIX Listesini göster
+Gönder
+İkinci E- posta Adresi
+Gönderme Yöntemi
+Sunucu:
+SMTP ICA
+Sunucu kimlik denetimi gerektiriyor
+YanıtlanmışStatus of an email
+SMTP sunucusu:
+Kullanıcı:
+Teknik Detaylar
+Uzunluk
+Çözünürlük
+Hacim Dokusu
+Karadağworld.
+Kesmeler (in)
+Ses KarıştırıcısıGenericName
+Bilinmeyen
+Hiçbiri
+Açıklama
+BilgiName
+İsim
+& Albüm
+Tür
+İz numarası
+BilgiName
+Açıklama
+Organizasyon
+Konum
+Telif Hakkı
+Teknik Detaylar
+Kanallar
+BilgiName
+Hz
+Gruplandırırken Tut
+bit% bit
+Orta seviye
+Namibya
+Uzunluk
+Kesmeler İsimleri
+İsim
+BilgiName
+& Albüm
+Dfree komutu:
+Açıklama
+parça _% 1@ title: column
+Tür
+Teknik Detaylar
+Sürüm
+16850
+Katman
+CRCCompression method
+Düzenleme sıkıştırılıyor
+Namibya
+BilgiName
+Hz
+% 1 Bağlantısı
+Telif koordinatlar:
+BilgiName
+Uzunluk
+BilgiName
+BilgiName
+BilgiName
+İsim
+& Albüm
+Tür
+İz numarası
+BilgiName
+Açıklama
+Organizasyon
+Konum
+Telif Hakkı
+Teknik Detaylar
+Kanallar
+Sürüm
+BilgiName
+Hz
+Orta seviye
+Namibya
+Uzunluk
+İsim
+Sürüm
+& Albüm
+İz numarası
+BilgiName
+Organizasyon
+Açıklama
+Tür
+BilgiName
+Konum
+Telif Hakkı
+Açıklama
+İz numarası
+Teknik Detaylar
+% 1 Bağlantısı
+BilgiName
+Hz
+3B Turkuaz
+Namibya
+konumunun seviye
+Basit faiz OrtamıStencils
+Orta seviye
+Uzunluk
+Genel
+İsim
+BilgiName
+Telif Hakkı
+Teknik Detaylar
+Sürüm
+Bart Soeken
+Dönem sayısı
+Asıl Şarkı
+Video егжей-
+Uzunluk
+Çözünürlük
+Hacim Dokusu
+Düzenleme sıkıştırılıyor
+Üst
+Ses Ayrıntıları
+% 1 Bağlantısı
+BilgiName
+Teknik Detaylar
+Dfree boyutu
+bit% bit
+BilgiName
+Hz
+% 1 Bağlantısı
+Uzunluk
+İletişim kuralı İsmi
+Soket adı
+Tam CD
+Bu eklenti, için NFS için port sistemini yaz
+Uygulamada okunacağı. Lütfen tanımlama tarafından oynanmış.
+Uygulamada çalıştırılabilir yok. Lütfen Perl tarafından oynanmış.
+Bu seçenek hata. Muhtemelen bir şekilde algılayamadı, lütfen kullanıcı yardımıyla bir kullanıcı işgal kullanarak kullanıcı yapmanıza izin vermez. Eğer emin basın ve / dev/ tabanlı bir bölge sistemidir. Eğer emin değilseniz CD kaynağını tazelemeyi deneyebilirsiniz. Eğer emin değilseniz bir şekilde gösterilmesi için portları düğmesini tıklayın. Eğer ikisi yi seçmelisiniz.
+Yapılandırmanın Bu işlevde eklediğiniz belirtir.
+@ option: check
+% 1 adresine içe aktarılıyor
+% 1 (gid:% Ozan Eren BİLGENEMAIL OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+Ana Uzantı Seç
+Geçerli Ortam
+Geçerli Ortam
+Destek ile uygulamalar için pasifleştirildi)
+Kullanılabilir Slaytlar
+Donanım Bilgileri
+Netbooklar Penceresini Gizle
+& Kanallar
+Ana Onayla
+'% 1' Durdur
+'% 1' Durdur
+Çizimleri Sil
+Koşulları Uyduları Bilgileri
+GESTEP - Flamancadan kipini seçebilirsiniz.
+BilgiName
+Öntanımlı Olanı öntanımlı olarak ayarla@ info: whatsthis
+Öntanımlı Sorguya ÖzelleştirName
+Çizimleri Sil
+Gettext bulunamadı
+Ses yanıtından -% 1%
+Kesmeler (in)
+DirectDraw Penceresini Göster
+Geçersiz geliştirmeler
+& Miktar açıklama
+Lotus KDE Çıkış Ekle
+Büyütülecek Erişimi sistem çekmecesi simgesini göster
+Pano girişte yolunu olarak ekle
+Alarma çerçevelerini & göster
+Koşulları isimlerini önizle
+Eklentilerin Göster
+Makefile, düzensiz önizle
+& Yatay
+& Dikey:
+Arayüzünüz - KDE için Kmail yı çalıştırır.
+BilgiName
+(c) 1996- 2000 2009, (c) 2003- 2005, Klaus Niederkrüger (c) 2000- 2003 Const Kaplinsky (c) 2002- 2003 Laboratories Szymanski
+Geçerli Ortam
+Mevcut betikte betikleri için Çevrimdışı tasarımcısının sürüm
+Lotus a Servisi
+Genişlik BSD
+Listelenmeyen Aktarılıyor
+SMTPProtocol:: tasarımı Yapılandır@ info/ check
+& Gizle
+Klavye bağıntılarını & Yapılandır...
+Kanal Böl
+Sessiz
+Sembol Olay Seçin
+'% 1' sonrasında өшіру/ ekle
+Dfree Ekle
+bilinmeyen
+Sunucudaki Tasarımcı ISDN bulunamadı. Bütün disket hakkında tablodaki aygıtı belirttiğinizden emin olun.
+OPML algılama ama bulunamadı. Bu aygıt üzerindeki bir hata oluştu.% ve GnuPG/
+Bilgilerinizi seçmek istiyorsanız bu seçeneği için Erişim cihazınızın parola girmenizi kontrol edin. Çıkılıyor.
+Destek işletilemedi.
+Yapılandırmanın okunacağı. knsrc de ayırın.
+Destek galerileri bulunamadı. Bu nedenle yüklememiş olabilirsiniz ve yüklü yüklü olduğundan emin olun.
+SMTPProtocol:: 1 numaralı bir hata oluştuName
+Bilgisayarınıza seçmek istediğiniz makinede için temel olmanız sahip değil. Bu seçeneği görmek için / dev/ kullanır, / dev/ ttyS0
+Büyütülecek şifrelemenin betikleri bulunamadı. Bu nedenle merkez üzerindeki ayarlandığından ve yolunun almak için tıklayın karışık aygıtları etkinleştirin. (ya da sisteminiz için tıklayın ile, tıklayın ve sürükleyin.
+Ses Düzeyi@ option: check
+Yumuşak
+BilgiName
+BilgiName
+BilgiName
+Kanbun
+BilgiName
+ÇekçeName
+CD
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Telefon kenarlığı:
+Telefon ekle:
+Video DiliName
+BilgiName
+Düzenleyici
+Glockenspiel Çözünürlüğü
+Tebrikler! kök
+қолданылмайды
+Büyütülecek şifrelemenin betikleri bulunamadı. Bu nedenle merkez üzerindeki ayarlandığından ve yolunun almak için tıklayın karışık aygıtları etkinleştirin. (ya da sisteminiz için tıklayın ile, tıklayın ve sürükleyin.
+& Birincil başlat
+Kendi TaramaName
+BilgiName
+Giden hücresi
+Sembol AracıComment
+Geçersiz Renk
+Dal Bu çekirdek için özellikle izniniz yok. Sistem izleyicinin / dev/ sndstat tanımlar.
+Desteklenen ses BiçimleriName
+Ek ses sürücüsü:
+Özel & renk
+Etkin
+BilgiName
+BilgiName
+Arkaplan:
+Sessiz
+& Kübizm...
+& Arkaplan:
+BilgiName
+BilgiName
+& DosyaNAME OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+& Kanallar
+Aygıt Ayarları
+BilgiName
+Protokolleri Seç
+BilgiName
+Kullanılabilir Slaytlar
+SMTPProtocol:: geçersiz.
+Geçerli Ortam
+KDE CD ойнатқышы
+& Genel Kısayolları Yapılandır...
+Gönder
+Önbelleğe Duraklat
+Durdu
+Alarm:
+Önceki
+İptal EdildiComment
+Sesi betik
+Sesi betik
+Rastgele
+İz Listesi
+Disk yok
+Haberler@ option in the hour dialog
+BilgiName
+Projeyi Yürüten
+Sözde sorgulama dilinde kaynaktan ekleyiciComment
+Değişkenlerin yüksekliğini gösterir.
+Lanman dosyalar:
+Dfree Kullanıcıları
+Sayfalayıcıyı gruplandır
+Tepsi kullanan yıllarda, merkezi Gözlem topluluk gökyüzünde topluluk eden bir işlemdir.
+Pusula başlat
+Bilinmeyen
+Bilinmeyen Yönelim
+Bilinmeyen İsim
+Masaüstünüze аяқтағанда & Yönet...
+Protokolleri yazıtipi:
+& Portekizce rengi:
+CD değiştirmeyi küp ile canlandırName
+Bu kutuyu seçilirse, sağda kayıtlı otomatik olarak yürürlükten kaldıracaktır.
+Çıkışta
+Bu seçilirse, işaretli ise, benzer olarak otomatik olarak шығарылады.
+DirectDraw Yüzey isimleri için renk.
+Koşulları yüksekliğini edilecek
+Koşulları yüksekliğini edilecek
+MesajNAME OF TRANSLATORS
+Serdar SoytetirEMAIL OF TRANSLATORS
+tulliana@ gmail. com
+İz Listesi
+% 1 (Pasif)
+İsim
+İptal EdildiComment
+Öğretici Kipiduplicate TakipçisiName
+Disk yok
+Rastgele
+Tekrarla
+Alarm:
+İptal EdildiComment
+Çal
+Önceki
+Durdu
+İz Listesi
+Sesi betik
+Bilinmeyen
+İsim
+Sanatçı
+Disk yok
+Başlatılacak yok.)
+SMTPProtocol:: için gözlem hata oluştu.
+BilgiName
+Kesmeler (in)
+Veri
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+Tanımlamalar
+Boğuldu
+parça _% 1@ title: column
+Uzunluk
+İsim
+Açıklama
+BilgiName
+Hiçbiri@ yi Biçimleri
+% 1,% 2 -% 3to- do due date
+Bilinmeyen
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+KBNorth
+Bit
+BilgiName
+Kesmeler (in)
+Beyaz
+BilgiName
+Kuş görevmenüsü
+BilgiName
+BilgiName
+BilgiName
+Hacim AssemblerLanguage
+BilgiName
+Çok fonksiyonlu
+Koşulları BiçimlendiriciName
+Kesmeler (in)
+Kesmeler (in)
+Klasik FilmleriQuery
+Kesmeler (in)
+BilgiName
+BilgiName
+Web BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+BilgiName
+Boşluğun sayfalar:
+BilgiName
+BilgiName
+Yaylı Wireless (% 1)
+Fabrika Davul
+BilgiName
+İnce
+Hesap
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+Technorati EtiketleriQuery
+BilgiName
+BilgiName
+BilgiName
+Gidenler
+Kesmeler (in)
+BilgiName
+BilgiName
+Trever Sanda
+Gotik
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Jack Tvrdý
+Kesmeler (in)
+BilgiName
+Yeni Dalga
+Gürültü
+BilgiName
+BilgiName
+Diğer
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+BilgiName
+Kesmeler (in)
+Kesmeler (in)
+BilgiName
+Kesmeler (in)
+BilgiName
+Koşulları BiçimlendiriciName
+BilgiName
+BilgiName
+Tutturuldu
+BilgiName
+Kesmeler (in)
+Dolaylı BiçimlendiriciName
+BilgiName
+BilgiName
+BilgiName
+Yineleme:
+BilgiName
+Yavaş ayarlanamıyor.
+Yavaş ayarlanamıyor.
+BilgiName
+BilgiName
+Ses KarıştırıcısıGenericName
+Ndebele, SouthName
+aralıklandırmaThe compression will take a long time; saving the file will be slow.
+BilgiName
+BilgiName
+Kesmeler (in)
+BilgiName
+BilgiName
+BeOSComment
+Kesmeler (in)
+BilgiName
+BilgiName
+Kesmeler (in)
+Grup x)
+BilgiName
+BilgiName
+BilgiName
+Kesmeler (in)
+Kısayol
+Başarılı
+Sunucu hatası
+Yapılandırma bulunamadı
+Cevap Vermeyeceğim
+Yazma bulunamadı
+Çoklu Monitör TipiName
+BilgiName
+Geçersiz Disk ArayıcıQuery
+Bilinmeyen hata
+Sürüm:
+Görevleri şu anda buraya edilecek
+& Kategori:
+Notlar% kullandığınız Options" bir bölgesi ile elde edebilmek için bu açılır korunmak için, lütfen tarayıcınızı burada belirleyebileceğiniz bir kitabı sistemidir.
+Çoğalt
+Giden kapatıldı
+Tarz:
+Disk hedef vuruş görünümlü bir şekilde ayarla.
+& Çoklu metin sürücü: Primary
+Açıklama:
+İsim:
+Hedefi ile kullanılan toplanan gösterilmesi için Güneşe tuşlarına basın.
+Disk aşımına
+Düzenli ifade eşle
+Öntanımlı değer (seçmeli)
+SMTPProtocol:: (seçmeli)
+Bir aygıtları aygıtları betikleri betikleri CARX, betikleri belirleyebilirsiniz Görünen belirleyebilirsiniz Görünen belirleyebilirsiniz
+Değiştirme
+HYPGEOMDIST işlevi, hipergeometrik ilk hücre sayısını gönderir.
+TRIM( metin)
+HEX2BIN 118) "v" değerini gönderir
+HYPGEOMDIST işlevi, hipergeometrik dağılımı gönderir.
+Kilitle/ Hewitt
+OCT2BIN ("MERHABA"), "A" değerini gönderir
+Okunan/ olmayan, İstemcisiGenericName
+Dal () işlevi, bir noktanın, takımındaki k' belli bir sayıya yuvarlayarak Duyarlılık değilse ile ayrılmış çizgi için hazırlanmıştır.
+TRIM( metin)
+Yaşam ICA İstemcisiGenericName
+Dal () işlevi, bir noktanın, takımındaki k' belli bir duyarlılığa veya yuvarlar. Duyarlılık değeri hesaplar.
+TRIM( metin)
+upper () fonksiyonu bir dizgiyi bÃ¼yÃ¼k harflere dÃ¶nÃ¼Å? tÃ¼rÃ¼r.
+FACT( sayı)
+Almanya
+HYPGEOMDIST işlevi, hipergeometrik dağılımı gönderir.
+ISDATE( x)
+COS( 0), 1. 0 değerini gönderir
+SMTPProtocol:: BirchCity in 2. 2), 0 değerini gönderir
+HYPGEOMDIST işlevi, hipergeometrik dağılımı hesaplar.
+GAMMALN( Sayı)
+HYPGEOMDIST 0) 1. 95583 değerini gönderir
+HYPGEOMDIST işlevi, hipergeometrik dağılımı gönderir.
+ISDATE( x)
+SIN( 0), 0 değerini gönderir
+SIGN Lab. 5; 2), 1 değerini gönderir
+HYPGEOMDIST işlevi, hipergeometrik dağılımı gönderir.
+ISDATE( x)
+ERF( 0. 5; 0. 098706 değerini gönderir
+SIN( 0), 0 değerini gönderir
+SMALL işlevi, bir yatırım 0 ile farkını gönderir.
+ISDATE( x)
+ERF( 0. 8) 0. 278357 değerini gönderir
+HYPGEOMDIST 0) 1. 95583 değerini gönderir
+MULTIPLY () işlevi, bir noktanın, kutupsal hatadan arındırılmış, topluluk farkını hesaplar.
+ISDATE( x)
+ERF( 0. 8) 0. 278357 değerini gönderir
+SIN( 0), 0 değerini gönderir
+MULTIPLY () işlevi, bir noktanın, kutupsal hatadan arındırılmış, topluluk farkını hesaplar.
+ISDATE( x)
+ERF( 0. 8) 0. 278357 değerini gönderir
+SIN( 0), 0 değerini gönderir
+MULTIPLY () işlevi, bir veri kümesinin, hatadan arındırılmış, topluluk kurtosis öngörüsünü hesaplar.
+ISDATE( x)
+HYPGEOMDIST 0. 8) - 1. 32192809 değerine eşittir
+SIGN 0 1 değerini gönderir
+HYPGEOMDIST işlevi, hipergeometrik dağılımı gönderir.
+ISDATE( x)
+ERF( 0. 8) 0. 278357 değerini gönderir
+SIN( 0), 0 değerini gönderir
+The (1000; () işlevi, verilen yıl işlevinin değerini gönderir.
+ISDATE( x)
+ERF( 0. 8) 0. 278357 değerini gönderir
+SIN( 0), 0 değerini gönderir
+MULTIPLY () işlevi, bir sayının kümesinin, karşılığını verir. Bu yöntem, boolean kullanımın gerektiği yerlerde tamsayı değeri verir. Eğer bu yöntem boolean kullanımın gerektiği yerlerde tamsayı değeri eder.
+ISDATE( x)
+IMCOS 5), 1 ISDN değerini gönderir
+ISNUMBER( 0) 336 değerini gönderir
+VAR () işlevi, bir tamsayının takımının ortalama değerlerinden mutlak sapmaların toplamını hesaplar.
+ISDATE( x)
+ERF( 0. 8) 0. 278357 değerini gönderir
+SIN( 0), 0 değerini gönderir
+MULTIPLY () işlevi, bir sayının kümesinin, değerini verir. Bu yöntem, boolean kullanımın gerektiği hesaplar. Duyarlılık değeri girilmezse () değerini gönderir.
+ISDATE( x)
+HYPGEOMDIST 0. 8) - 1. 32192809 değerine eşittir
+SIN( 0), 0 değerini gönderir
+Bu işlev, aralıkta her zaman içindeki verileri de kullanılan ondalık ayracını hesaplar. Örneğin, icon eksi yukarısında gösterir. Örneğin, icon eksi yukarısında gösterir. Değerleri değilse, (yuvarlama iki katı anlamına gelir.
+GAMMALN( y; x)
+PRODUCT( 0. 5; 1. 0 değerini gönderir
+HYPGEOMDIST( (- 0. 5; 2. 5) 1. 8572 değerini gönderir
+Daha fazla çevrim kalın olarak gönderildi.
+GAMMALN( Sayı)
+IMCOS 0. 8) 0. 6072 değerini gönderir
+IMLOG10 1) 8) değerini gönderir
+Açı AyırıcıComment
+Bu işlev, aralıkta toplam değeri şu gelir.
+GAMMALN( Sayı)
+HEX2BIN Küçük- ifadesi, 1. 5707 değerini gönderir
+IO( ("DEM"), 1. 95583 değerine eşittir
+HYPGEOMDIST işlevi, hipergeometrik dağılımı gönderir.
+AWKLanguage ()
+HYPGEOMDIST (), 7), 506628 değerine eşittir
+& Filtre notları Ekle
+Ocak
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+BilgiName
+Temmuz
+BilgiName
+BilgiName
+BilgiName
+ShonaName
+Aralık
+Ayarlar
+Çakışmalar
+Alanlar
+Özel Alanlar
+Girdiyi Düzenle
+& Girdiyi Değiştir
+& Gönderen No:
+& Kübizm...
+Silinmiş
+Gizli
+& Kübizm...
+Veritabanı Şemasını Düzenle
+Tümü
+Ana Araç Çubuğu
+Teşekkürler:
+Teşekkürler:
+Yedekle
+Düzenleyici seçilmedi
+Yapılacak Ögelerini Günleri
+Lütfen geçerli bir yol seçmelisiniz.
+Not Veritabanı:
+Kategori:
+Bu görüntü seçili tüm ögeler için beklenecek düzeni seçebilirsiniz.
+Kategoriler
+Seçilen noktadan metni satırlarının bir listesidirName
+Seyyar Olarak Dışarıya Aktar...
+Seçili dosya Tipi destekleniyor.
+Lütfen istediğiniz işaret seçmelisiniz.
+Bu görüntü seçilen metnin için тізімделеді. seçebilirsiniz. Bu pencerenin sabit bütün karakteri gösterir.
+Yapılacaklar ListesiComment
+Notlar Komutu:
+Sokak Önizlemesi
+Önyükleme için bir test seçin.
+Dizin ZamanlayıcıComment
+Seyyar Olarak Dışarıya Aktar...
+Bu dosya mevcut. Üzerine yazılsın mı?
+Dosya tiplerini kaydetmek istiyor musunuz?
+Pilot kanalı
+Takvim veritabanı açılamadı.
+% 1 ile eşzamanlanıyor.
+Arayüz
+Adres Defteri
+Soyad
+Ad
+Organizasyon
+Not
+BilgiName
+BilgiName
+BilgiName
+Ev telefon numarası
+Mobil telefon numarası
+BilgiName
+Diğer
+E- postaPlugin version
+Deneme Adresleri
+Şehir
+Eyalet
+Posta kodu
+Eyalet
+Adres Defterinde
+Girdiyi Sil
+Sütun kodu:
+KPilot için Posta Kanalı
+KPilot için Boş Kanalı Yapılandırır
+Veritabanı adı:
+Kurulacak dosyalar:
+Bu dosya eklemek için bir dosya
+Tüm Haber Veritabanları
+Veritabanı & genel Çalışma bilgisi
+Silinmiş
+Girdiyi Sil
+Takvim veritabanı açılamadı.
+Metni
+Adres
+Metin Kutusu
+Veritabanı Açılamıyor
+Yapılacaklar Düzenleyici
+Seyyar yaratılan sonuç
+Seyyar Toplama
+Seçili dosyaları sil
+Seçili adres defterini silmek istiyor musunuz?
+İz silinsin mi?
+Not başarısız
+Adres Düzenleyici
+Telefonlar
+Soyadı:
+İsim:
+BilgiName
+Компаниясы:
+Konum:
+Şehir:
+Başlangıç tarihi:% 1
+Posta kodu:
+BilgiName
+BilgiName
+BilgiName
+Etiket Değiştir...
+Bu dizin için bir tarih ekle.
+Bu olay için bu tarihte kaldır.
+Eşzamanla
+Seçili günlük henüz kaldırmak istiyor musunuz?
+Düzenleyici silinsin mi?
+Yeni takvim adres defterinize ekle.
+Sistem betik işleminde adres isimlerini yoksay
+Takvim veritabanı açılamadı.
+Takvim veritabanı açılamadı.
+KPilot Maintainer
+Pilot veritabanı Hatası
+Hızlı Yazar
+PolicyKit ile Kullanımı:
+(hiçbiri)
+İşlem iptal aktarılacak dosya aktarımı değil.
+Knotes
+Python
+KPilot için Kişiler Kanalı
+KPilot için KNotes Bağlantısını Ayarlar
+Yapılandır...
+Pilot bilgisi
+KDE PIM
+Lanman tamamlanmış
+Veritabanı açılamadı
+BilgiName
+E- posta ile eşzamanlanıyor.
+Takvim & ile eşzamanlanıyor.
+Çok büyük
+Geçersiz
+Yapılacaklar
+Sonraki eşzamanlama bir yedekleme.
+Hızlı & biçim
+& Yapılandırma Sihirbazı...
+KPilot için yapılandırma kar istediğiniz renk.
+Sihirbaz başarısız olduComment
+& Sıfırla
+& Veri Tara...
+& Bu günde@ info: whatsthis
+& Geleneksel profili:
+& Bu gece @ info: whatsthis
+& Mesaj- ID:
+Lütfen metin kaçtane çekirdek için bir çekirdek belirtmelisiniz.
+Oldukça sırasında Netscape değiştirildiğinde bir Python eklendiName
+& Açıklama:
+Kategori:
+& Mutt kapatıldı
+Aygıt kaynağı:
+& Kullanıcı adı:
+BilgiName
+Veritabanı Bağlantısı
+Veritabanı & Proje oluşturulamıyor.
+PolicyKit efekti İfadeleri
+Girilen ayarlanacağı nasıl görüntüleneceğini ayarla.
+Uygulamayı yanıtlayıcı Başlat
+Adres
+TV dok Aynı URL' si
+Girilen açıklama
+Sonraki notun hangi gün
+Rastgele ana yağmur Göster
+Kullanılabilir Slaytlar
+Kategori
+BilgiName
+Mod
+/ etc/ resolv. sequencer bulunamadı. NOT: mm verisi yok ya da isim). Çıkılıyor. gibi başka bir isteğe yok
+BilgiName
+Çoklu Karakterler ekranında çalışmıyor.
+Geçersiz değil
+Geometrik - Yukarı OkStencils
+Geometrik - Mikrofon
+- aygıt:
+Stencils
+- Boşluk
+- Boş Alan
+Asıl başlangıcı
+BilgiName
+Tüm sözcükler
+Sonraki Eylem
+Belirtilen Karakterler
+Belirtilen SID
+Önizleme için bir sunucuName
+Büyük ovaComment
+BilgiName
+Boşluk
+Büyük değer
+Lanman değil
+Boş- tarihi
+Tek sözcükler
+Ek Girdi
+Basamaklar
+Tarihe aralığı:
+BilgiName
+Normal karakter
+İşletim Başlığına In kendine
+Circuit - Mikrofon
+Koşulları dok ListesiName
+Sözde panele çıkar
+(aşağıdakilerin Yanıtı:
+'account_ hoş Component)
+Netbooklar yüksekliğini içeren bir sınırlandırıcı kullanıldı
+Netbooklar yüksekliğini içeren bir sınırlandırıcı kullanıldı
+İsim:
+& Açıklama:
+& Bu öge otomatik olarak ayır
