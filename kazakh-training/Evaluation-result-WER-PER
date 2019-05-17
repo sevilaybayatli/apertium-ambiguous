@@ -1,1 +1,32 @@
+=======Unweigted=======
 
+Test file: '/home/sevilay/Desktop/kazakhTest/unweighted.txt'
+Reference file '/home/sevilay/Desktop/kazakhTest/reference.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9129
+Number of unknown words (marked with a star) in test: 26
+Percentage of unknown words: 0.28 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2959
+Word error rate (WER): 31.99 %
+Number of position-independent correct words: 6314
+Position-independent word error rate (PER): 31.73 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2973
+Word Error Rate (WER): 32.14 %
+Number of position-independent correct words: 6300
+Position-independent word error rate (PER): 31.88 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 14
+Percentage of unknown words that were free rides: 53.85 %
+
+==========Weighted==============
