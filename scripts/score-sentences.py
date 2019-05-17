@@ -1,25 +1,18 @@
-import os
 import sys
-import re
 import kenlm
-import multiprocessing as mp
 
-# Read sentences from file into text
-text = sys.stdin.read()
+if (len(sys.argv) != 4) :
+	print('\nUsage: python score-sentences.py arpa_or_binary_LM_file target_lang_file weights_file');
+	sys.exit()
 
-#print("Loding model started")
+targetfile = open(sys.argv[2], 'r')
+weightfile = open(sys.argv[3], 'w+')
 
 # Load the language model
-LM = os.path.join(os.path.dirname('/home/sevilay/apertium-kaz-tur-mt/scripts/text.binary'), '..', 'scripts', 'text.binary')
-model = kenlm.LanguageModel(LM)
+model = kenlm.LanguageModel(sys.argv[1])
 
-#print("Loding model finished")
+for sentence in targetfile:
+	weightfile.write('%f\n' % (1.0/model.score(sentence)))
 
-# Split the text into sentences
-regex = re.compile('\n')
-sentences = regex.split(text)
-
-#print("Splitting finished")
-
-for i in range (len(sentences)-1):
-	print ('%.4f' % model.score(sentences[i]))
+targetfile.close()
+weightfile.close()
