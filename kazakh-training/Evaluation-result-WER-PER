@@ -29,4 +29,37 @@ Statistics about the translation of unknown words
 Number of unknown words which were free rides: 14
 Percentage of unknown words that were free rides: 53.85 %
 
-==========Weighted==============
+==========LM==============
+
+Test file: '/home/sevilay/Desktop/kazakhTest/lm.txt'
+Reference file '/home/sevilay/Desktop/kazakhTest/reference.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9123
+Number of unknown words (marked with a star) in test: 26
+Percentage of unknown words: 0.28 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2656
+Word error rate (WER): 28.72 %
+Number of position-independent correct words: 6627
+Position-independent word error rate (PER): 28.35 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2668
+Word Error Rate (WER): 28.85 %
+Number of position-independent correct words: 6615
+Position-independent word error rate (PER): 28.48 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 12
+Percentage of unknown words that were free rides: 46.15 %
+
+==========Weighted================
+
+
