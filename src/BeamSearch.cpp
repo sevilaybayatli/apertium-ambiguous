@@ -71,7 +71,7 @@ main (int argc, char **argv)
       cout
 	  << "interInFilePath : Output file of this program which is the input for apertium interchunk."
 	  << endl;
-      cout << "modelsDest : Yasmet models merged file destination." << endl;
+      cout << "modelsDest : Yasmet models destination." << endl;
       cout << "beamSize : The size of beam in beam search algorithm." << endl;
       return -1;
     }
@@ -102,11 +102,10 @@ main (int argc, char **argv)
       stringstream buffer (k);
       buffer >> beam;
 
-//      unsigned i = 0;
       string tokenizedSentence;
       while (getline (lextorFile, tokenizedSentence))
 	{
-//	  cout << i << endl;
+	  //	  cout << i << endl;
 
 	  // spaces after each token
 	  vector<string> spaces;
