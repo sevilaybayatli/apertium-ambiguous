@@ -16,7 +16,7 @@ public:
     unsigned tokenId;
     unsigned ruleId;
     unsigned patNum;
-    vector<Node> neighbors;
+    vector<Node*> neighbors;
     Node (unsigned tokenId, unsigned ruleId, unsigned patNum)
     {
       this->tokenId = tokenId;
@@ -36,7 +36,7 @@ public:
   public:
     unsigned firTokId;
     unsigned maxPat;
-    vector<vector<Node> > combinations;
+    vector<vector<Node*> > combinations;
     AmbigInfo (unsigned firTokId, unsigned maxPat)
     {
       this->firTokId = firTokId;
@@ -57,24 +57,24 @@ public:
 
   static void
   normaliseWeights (vector<vector<float> >* vweights,
-		    vector<vector<RuleExecution::AmbigInfo> >* vambigInfo);
+		    vector<vector<RuleExecution::AmbigInfo*> >* vambigInfo);
 
   static void
-  normaliseWeights (vector<float>* weights, vector<RuleExecution::AmbigInfo> ambigInfo);
+  normaliseWeights (vector<float>* weights, vector<RuleExecution::AmbigInfo*> ambigInfo);
 
   static void
-  getOuts (vector<string>* finalOuts, vector<vector<Node> >* finalCombNodes,
-	   vector<pair<vector<RuleExecution::Node>, float> > beamTree,
-	   map<unsigned, vector<RuleExecution::Node> > nodesPool,
+  getOuts (vector<string>* finalOuts, vector<vector<Node*> >* finalCombNodes,
+	   vector<pair<vector<RuleExecution::Node*>, float> > beamTree,
+	   map<unsigned, vector<RuleExecution::Node*> > nodesPool,
 	   map<unsigned, map<unsigned, string> > ruleOutputs, vector<string> spaces);
 
   static void
-  getOuts (vector<string>* finalOuts, vector<vector<Node> >* combNodes,
-	   vector<RuleExecution::AmbigInfo> ambigInfo,
-	   map<unsigned, vector<RuleExecution::Node> > nodesPool,
+  getOuts (vector<string>* finalOuts, vector<vector<Node*> >* finalCombNodes,
+	   vector<RuleExecution::AmbigInfo*> ambigInfo,
+	   map<unsigned, vector<RuleExecution::Node*> > nodesPool,
 	   map<unsigned, map<unsigned, string> > ruleOutputs, vector<string> spaces);
 
-  static map<unsigned, vector<RuleExecution::Node> >
+  static map<unsigned, vector<RuleExecution::Node*> >
   getNodesPool (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules);
 
   static string
@@ -85,21 +85,21 @@ public:
 //		   vector<vector<pair<unsigned, unsigned> > >* ambigRules);
 
   static void
-  getCombinations (Node root, vector<Node> path, vector<vector<Node> >* ambigRules);
+  getCombinations (Node* root, vector<Node*> path, vector<vector<Node*> >* ambigRules);
 
-  static Node
+  static Node*
   ambiguousGraph (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
-		  map<unsigned, vector<Node> > nodesPool, unsigned firTok,
+		  map<unsigned, vector<Node*> > nodesPool, unsigned firTok,
 		  unsigned maxPat);
 
-  static Node
+  static Node*
   ambiguousGraph (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
-		  map<unsigned, vector<Node> > nodesPool);
+		  map<unsigned, vector<Node*> > nodesPool);
 
   static void
   getAmbigInfo (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
-		map<unsigned, vector<RuleExecution::Node> > nodesPool,
-		vector<RuleExecution::AmbigInfo>* ambigInfo, unsigned* combNum);
+		map<unsigned, vector<RuleExecution::Node*> > nodesPool,
+		vector<RuleExecution::AmbigInfo*>* ambigInfo, unsigned* combNum);
 
 //  static void
 //  getAmbigInfo (
@@ -280,6 +280,10 @@ public:
 	      map<string, vector<vector<string> > > attrs, map<string, string>* vars,
 	      vector<string> spaces, unsigned firPat, string localeId,
 	      map<unsigned, unsigned> paramToPattern);
+
+  static unsigned
+  getAmbigCount (map<unsigned, vector<pair<unsigned, unsigned> > > tokenRules,
+		 map<unsigned, vector<RuleExecution::Node*> > nodesPool);
 };
 
 #endif /* SRC_RULEEXECUTION_H_ */
