@@ -157,81 +157,75 @@ CLExec::getFilesInDir (string dir)
 //}
 
 map<string, map<string, vector<float> > >
-CLExec::loadYasmetModels (string modelsDest)
+CLExec::loadYasmetModels (string modelsFilePath/*, string *localeid*/)
 {
-  // mpa with key yasmet model name and the value is
+  // map with key yasmet model name and the value is
   // another map with key word name and the value is
   // vector of weights in order
   map<string, map<string, vector<float> > > classWeights;
 
-  vector<string> models = CLExec::getFilesInDir (modelsDest);
+  ifstream modelsFile ((modelsFilePath).c_str ());
 
-  for (unsigned i = 0; i < models.size (); i++)
+  if (modelsFile.is_open ())
     {
-      string model = models[i];
-      ifstream modelFile ((modelsDest + string ("/") + model).c_str ());
+      string line, model, token, weight;
 
-      if (modelFile.is_open ())
+      // localeid
+//      getline (modelsFile, line);
+//      *localeid = line;
+
+      while (getline (modelsFile, line))
 	{
-	  string line;
+	  // 0=>word , 1=>rule_num & 2=>wieght
+	  // we don't need rule number , because
+	  // the weights are already sorted
 
-	  // ignore first line
-	  getline (modelFile, line);
+	  char lineChar[line.size ()];
+	  strcpy (lineChar, line.c_str ());
 
-	  while (getline (modelFile, line))
+	  token = strtok (lineChar, ": ");
+	  if (token == "file")
 	    {
-	      // split by ':' but there is a case with ':' as feature !!
-	      // the solution is splitting by ':[0:9]'
-	      // there is another case , without ':' at all
-	      // (ие 1) , We should put it in a vector with all weights equal to 1
-
-	      // 0=>word , 1=>rule_num & 2=>wieght
-	      // if word = ':' , 0=>rule_num & 1=>wieght
-	      vector<string> splits;
-
-	      char lineChar[line.size ()];
-	      strcpy (lineChar, line.c_str ());
-
-	      char * split;
-	      split = strtok (lineChar, ": ");
-
-	      while (split != NULL)
-		{
-		  splits.push_back (split);
-		  split = strtok (NULL, ": ");
-		}
-
-	      // 0=>word , 1=>rule_num & 2=>wieght
-	      // if word = ':' , 0=>rule_num & 1=>wieght
-	      // we don't need rule number , because
-	      // the weights are already sorted
-
-	      float weight = strtof (splits[splits.size () - 1].c_str (), NULL);
-
-	      string word = splits[0];
-	      unsigned size = 0;
-	      if (splits.size () == 2)
-		{
-		  if (splits[0].size () == 1)
-		    word = ":";
-		  else
-		    size = classWeights[model].begin ()->second.size ();
-		}
-
-	      if (size)
-		{
-		  vector<float> weights (size, weight);
-		  classWeights[model][word] = weights;
-		}
-	      else
-		classWeights[model][word].push_back (weight);
+	      model = strtok (NULL, ": ");
+	      continue;
 	    }
-	}
-      else
-	{
-	  cout << "error in opening model file " << model << endl;
+	  // skip rule_num
+	  strtok (NULL, ": ");
+//			cout << "rulenum= " << strtok(NULL, ": ") << endl;
+
+	  weight = strtok (NULL, ": ");
+//			cout << "weight= " << weight << endl;
+
+	  float w = strtof (weight.c_str (), NULL);
+//			cout << w << endl;
+//			if (w < 0)
+//				cout << w << endl;
+	  classWeights[model][token].push_back (w);
+//			if (classWeights[model][token][classWeights[model][token].size() - 1]
+//					< 0)
+//				cout << w << endl;
+//			cout
+//					<< classWeights[model][token][classWeights[model][token].size()
+//							- 1] << endl;
 	}
     }
+  else
+    {
+      cout << "error in opening models file" << endl;
+    }
+//	for (map<string, map<string, vector<float> > >::iterator it =
+//			classWeights.begin(); it != classWeights.end(); it++) {
+//		cout << "model=" << it->first << endl;
+//		for (map<string, vector<float> >::iterator it2 = it->second.begin();
+//				it2 != it->second.end(); it2++) {
+//			cout << "word= " << it2->first << endl;
+////			vector<float> weights = it2->second;
+//			for (unsigned i = 0; i < it2->second.size(); i++) {
+//				cout << it2->second[i] << endl;
+//			}
+//			cout << endl;
+//		}
+//	}
   return classWeights;
 }
 
@@ -292,21 +286,21 @@ CLExec::compareCaseless (string word1, string word2, string localeId)
 
 // to sort translations from best to worth by their weight
 bool
-sortParameter (pair<vector<RuleExecution::Node>, float> a,
-	       pair<vector<RuleExecution::Node>, float> b)
+sortParameter (pair<vector<RuleExecution::Node*>, float> a,
+	       pair<vector<RuleExecution::Node*>, float> b)
 {
   return (a.second > b.second);
 }
 
 void
-CLExec::beamSearch (vector<pair<vector<RuleExecution::Node>, float> > *beamTree,
+CLExec::beamSearch (vector<pair<vector<RuleExecution::Node*>, float> > *beamTree,
 		    unsigned beam, vector<string> slTokens,
-		    vector<RuleExecution::AmbigInfo> ambigInfo,
+		    vector<RuleExecution::AmbigInfo*> ambigInfo,
 		    map<string, map<string, vector<float> > > classesWeights,
 		    string localeId)
 {
   // Initialization
-  (*beamTree).push_back (pair<vector<RuleExecution::Node>, float> ());
+  (*beamTree).push_back (pair<vector<RuleExecution::Node*>, float> ());
 
   for (unsigned i = 0; i < ambigInfo.size (); i++)
     {
@@ -321,25 +315,25 @@ CLExec::beamSearch (vector<pair<vector<RuleExecution::Node>, float> > *beamTree,
 //	    }
 //	}
 
-      RuleExecution::AmbigInfo ambig = ambigInfo[i];
+      RuleExecution::AmbigInfo* ambig = ambigInfo[i];
 //      pair<pair<unsigned, unsigned>, pair<unsigned, vector<vector<unsigned> > > > p =
 //	  ambigInfo[i];
 //      pair<unsigned, unsigned> wordInd = p.first;
 //      vector<vector<unsigned> > ambigRules = p.second.second;
-      unsigned ambigRulesSize = ambig.combinations.size ();
+      unsigned ambigRulesSize = ambig->combinations.size ();
 
       // name of the file is the concatenation of rules ids
       string rulesNums;
       for (unsigned x = 0; x < ambigRulesSize; x++)
 	{
 	  // avoid dummy node
-	  for (unsigned y = 1; y < ambig.combinations[x].size (); y++)
+	  for (unsigned y = 1; y < ambig->combinations[x].size (); y++)
 	    {
 	      stringstream ss;
-	      ss << ambig.combinations[x][y].ruleId;
+	      ss << ambig->combinations[x][y]->ruleId;
 	      rulesNums += ss.str ();
 
-	      if (y + 1 < ambig.combinations[x].size ())
+	      if (y + 1 < ambig->combinations[x].size ())
 		rulesNums += "_";
 	    }
 	  rulesNums += "+";
@@ -350,29 +344,29 @@ CLExec::beamSearch (vector<pair<vector<RuleExecution::Node>, float> > *beamTree,
       map<string, vector<float> > classWeights = classesWeights[(rulesNums + ".model")];
 
       // build new tree for the new words
-      vector<pair<vector<RuleExecution::Node>, float> > newTree;
+      vector<pair<vector<RuleExecution::Node*>, float> > newTree;
 
       // initialize the new tree
       for (unsigned x = 0; x < ambigRulesSize; x++)
 	{
 	  newTree.push_back (
-	      pair<vector<RuleExecution::Node>, float> (vector<RuleExecution::Node> (),
-							0));
+	      pair<vector<RuleExecution::Node*>, float> (vector<RuleExecution::Node*> (),
+							 0));
 	}
       // put rules
       for (unsigned z = 0; z < ambigRulesSize; z++)
 	{
-	  for (unsigned y = 0; y < ambig.combinations[z].size (); y++)
+	  for (unsigned y = 0; y < ambig->combinations[z].size (); y++)
 	    {
-	      newTree[z].first.push_back (ambig.combinations[z][y]);
+	      newTree[z].first.push_back (ambig->combinations[z][y]);
 	    }
 	}
 
-      for (unsigned x = ambig.firTokId; x < ambig.firTokId + ambig.maxPat; x++)
+      for (unsigned x = ambig->firTokId; x < ambig->firTokId + ambig->maxPat; x++)
 	{
 	  // word key is the word and it's order in the rule
 	  stringstream ss;
-	  ss << x - ambig.firTokId;
+	  ss << x - ambig->firTokId;
 	  string num = "_" + ss.str ();
 
 	  // handle the case of two lemmas separated by a space
@@ -405,7 +399,7 @@ CLExec::beamSearch (vector<pair<vector<RuleExecution::Node>, float> > *beamTree,
 	  for (unsigned x = 0; x < initSize; x++)
 	    {
 	      beamTree->push_back (
-		  pair<vector<RuleExecution::Node>, float> ((*beamTree)[x]));
+		  pair<vector<RuleExecution::Node*>, float> ((*beamTree)[x]));
 	    }
 	}
 
