@@ -1,0 +1,6196 @@
+#CC*isco - Koşan *адамSt*enc*ils
+#CC*isco - *Кабелдік *модемSt*enc*ils
+#CC*isco - *Жерсеріктік *табақшасыSt*enc*ils
+#CC*isco - T*DM *маршруттауышыSt*enc*ils
+#CC*isco - *Көпқабатты *коммутаторыSt*enc*ils
+#CC*isco - *ҚұлыпSt*enc*ils
+#CC*isco - *ДК *адаптер *тақшасыSt*enc*ils
+#CC*isco - *7507St*enc*ils
+#CC*isco - *БұлтSt*enc*ils
+#CC*isco - *IPTC*St*enc*ils
+#CC*isco - *AT*M T*ag *қосқыш *маршруттауышыSt*enc*ils
+#CC*isco - *STP*St*enc*ils
+#CC*isco - Yerli *бағыттауышыSt*enc*ils
+#CC*isco - *6701St*enc*ils
+#CC*isco - *Net*So*narSt*enc*ils
+#CC*isco - C*at*alyst *қатынау *шлюзіSt*enc*ils
+#CC*isco - Nokta- *нүктеSt*enc*ils
+#CC*isco - Dosya *шкафыSt*enc*ils
+#CC*isco - *Бағдарламалық *серверіSt*enc*ils
+#CC*isco - *Желіаралық *қалқанSt*enc*ils
+#CC*isco - *СуперкомпьютерSt*enc*ils
+#CC*isco - *VIP*St*enc*ils
+#CC*isco - Oturduğu *әйелSt*enc*ils
+#CC*isco - *BT*S *10200St*enc*ils
+#CC*isco - C*SU *DSU*St*enc*ils
+#CC*isco - *AT*M *3800St*enc*ils
+#CC*isco - *ASIC *процесорыSt*enc*ils
+#CC*isco - Oct*elSt*enc*ils
+#CC*isco - *MAS *шлюзіSt*enc*ils
+#CC*isco - *BBSMSt*enc*ils
+#CC*isco - *Маршрут *қосқыш *процесорыSt*enc*ils
+#CC*isco - Ses *қосқышыSt*enc*ils
+#CC*isco - Durduğu *адамSt*enc*ils
+#CC*isco - *Маршруттауыш *желіаралық *қалқаныменSt*enc*ils
+#CC*isco - Erkek *ӘйелSt*enc*ils
+#CC*isco - *10700St*enc*ils
+#CC*isco - C*DDI- F*DDISt*enc*ils
+#CC*isco - C*isco *хабыSt*enc*ils
+#CC*isco - P*ADSt*enc*ils
+#CC*isco - Dosya *серверіSt*enc*ils
+#CC*isco - *DSLAMSt*enc*ils
+#CC*isco - *MGX *8220St*enc*ils
+#CC*isco - *Виртуалды *қосқыш *контроллері *VSC 3000\/3000 *St*enc*ils
+#CC*isco - *IP *телефонSt*enc*ils
+#CC*isco - *Үлестірілген *бағыттауышSt*enc*ils
+#CC*isco - *Дыбыстық *қосқыш *2St*enc*ils
+#CC*isco - *IBM *мейнфрейміSt*enc*ils
+#CC*isco - *Бағдарламалық *телефонSt*enc*ils
+#CC*isco - *IAD *маршруттаушыSt*enc*ils
+#CC*isco - F*DDI *сақинасыSt*enc*ils
+#CC*isco - Genel *бағдарламалық *қосқышSt*enc*ils
+#CC*isco - *Жұсыс takımı *қосқышыSt*enc*ils
+#CC*isco - UP*SSt*enc*ils
+#CC*isco - Cep *құрылғысыSt*enc*ils
+#CC*isco - #Rüzgâr *басқаруыSt*enc*ils
+#CC*isco - #Ön *процессорSt*enc*ils
+#CC*isco - *3X74 kat *кластер *контроллеріSt*enc*ils
+#CC*isco - *Жинақтауыш *маршрутизаторыSt*enc*ils
+#CC*isco - Ahize *ФаксSt*enc*ils
+#CC*isco - Telsiz *құрылғыSt*enc*ils
+#CC*isco - CT*E *мазмұның *түрлендіру mekanizması *St*enc*ils
+#CC*isco - *ХабSt*enc*ils
+#CC*isco - Optik *күшейткішіSt*enc*ils
+#CC*isco - *IPT*V *мазмұн *менеджеріSt*enc*ils
+#CC*isco - *ITP*St*enc*ils
+#CC*isco - Ses bağlantı *серверіSt*enc*ils
+#CC*isco - P*XF*St*enc*ils
+#CC*isco - Dalga *маршрутизаторыSt*enc*ils
+#CC*isco - *ФаксSt*enc*ils
+#CC*isco - *Мазмұн hizmetinin *қосқышы *1100St*enc*ils
+#CC*isco - Yuvalı *телефонSt*enc*ils
+#CC*isco - *БейнекамераSt*enc*ils
+#CC*isco - O*NS15500St*enc*ils
+#CC*isco - *MU*XSt*enc*ils
+#CC*isco - *УниверситетSt*enc*ils
+#CC*isco - *МикрофонSt*enc*ils
+#CC*isco - Telsiz *бриджSt*enc*ils
+#CC*isco - C*isco*Secu*rit*YSt*enc*ils
+#CC*isco - Klası 4 5 *қосқышSt*enc*ils
+#CC*isco - *ДискетаSt*enc*ils
+#CC*isco - *IO*S *желіаралық *қалқанSt*enc*ils
+#CC*isco - *ПланшетSt*enc*ils
+#CC*isco - *Үкіметтік *мекемеSt*enc*ils
+#CC*isco - *MGX *8240St*enc*ils
+#CC*isco - *ТелефонSt*enc*ils
+#CC*isco - *Протокол *аударғышыSt*enc*ils
+#CC*isco - *IP*St*enc*ils
+#CC*isco - *Байланс *серверіSt*enc*ils
+#CC*isco - *100BaseT *хабыSt*enc*ils
+#CC*isco - *Жұсыс takımı *бағыттауышыSt*enc*ils
+#CC*isco - Sistem *контроллеріSt*enc*ils
+#CC*isco - *Жинатауыш *жиымыSt*enc*ils
+#CC*isco - *Mac- kompüterdeki *әйелSt*enc*ils
+#CC*isco - Iş *станциясыSt*enc*ils
+#CC*isco - Evdeki *компьютерSt*enc*ils
+#CC*isco - *SVX sonrakı *кеңсесімен değişilen *St*enc*ils
+#CC*isco - FC *жинақтауышыSt*enc*ils
+#CC*isco - *Mini *VAXSt*enc*ils
+#CC*isco - *Met*ro *1500St*enc*ils
+#CC*isco - *ISDN *қосқышыSt*enc*ils
+#CC*isco - *ТерминалSt*enc*ils
+#CC*isco - *SC2200 *сигнал *контроллері *St*enc*ils
+#CC*isco - *WWW *серверіSt*enc*ils
+#CC*isco - *IP *телефония *маршруттауышыSt*enc*ils
+#CC*isco - *IPT*V *кеңтаралым *серверіSt*enc*ils
+#CC*isco - *DWDM *сүзгісіSt*enc*ils
+#CC*isco - *БриджSt*enc*ils
+#CC*isco - *IC*SSt*enc*ils
+#CC*isco - T*ransp*ath*St*enc*ils
+#CC*isco - *BBF*W *тасушысыSt*enc*ils
+#CC*isco - *SIP *прокси *серверіSt*enc*ils
+#CC*isco - Birleşecek *серверSt*enc*ils
+#CC*isco - *IP *DSLSt*enc*ils
+#CC*isco - *Lo*ngReach CP*ESt*enc*ils
+#CC*isco - *ПринтерSt*enc*ils
+#CC*isco - P*DASt*enc*ils
+#CC*isco - *Әмбебап *шлюзіSt*enc*ils
+#CC*isco - *ЖерсерікSt*enc*ils
+#CC*isco - Optik *тасымалSt*enc*ils
+#CC*isco - Yapıdaki *маршруттауышSt*enc*ils
+#CC*isco - *ПультSt*enc*ils
+#CC*isco - 3174 masadaki *кластер *контроллеріSt*enc*ils
+#CC*isco - *Сервер *ДК *маршруттауышыменSt*enc*ils
+#CC*isco - *Каталог *серверіSt*enc*ils
+#CC*isco - Genel *процессорSt*enc*ils
+#CC*isco - *RP*SSt*enc*ils
+#CC*isco - *Wo*rkgroup *5500St*enc*ils
+#CC*isco - *IBM To*werSt*enc*ils
+#CC*isco - *AT*ASt*enc*ils
+#CC*isco - *15200St*enc*ils
+#CC*isco - *ДК *бейнеSt*enc*ils
+#CC*isco - *MGX *8260St*enc*ils
+#CC*isco - *MoH *Mu*sic o*n Ho*ld *серверіSt*enc*ils
+#CC*isco - Evindeki *қызметкерSt*enc*ils
+#CC*isco - *МодемSt*enc*ils
+#CC*isco - *IC*MSt*enc*ils
+#CC*isco - To*kenRingSt*enc*ils
+#CC*isco - *SU*N iş *станциясыSt*enc*ils
+#CC*isco - *ЛаптопSt*enc*ils
+#CC*isco - *Мазмұн mekanizması *Кэшті yönetme *St*enc*ils
+#CC*isco - Sonrakı *кеңсеSt*enc*ils
+#CC*isco - *ҚайталауышSt*enc*ils
+#CC*isco - C*isco C*ASt*enc*ils
+#CC*isco - *МаршруттауышSt*enc*ils
+#CC*isco - Genel *шлюзіSt*enc*ils
+#CC*isco - *SC2200 *VSC3000\/3000 *хостыSt*enc*ils
+#CC*isco - *MDU*St*enc*ils
+#CC*isco - HP *MiniSt*enc*ils
+#CC*isco - *DPT*St*enc*ils
+#CC*isco - P*IX *желіаралық *қалқанSt*enc*ils
+#CC*isco - *ADMSt*enc*ils
+#CC*isco - *ДинамикSt*enc*ils
+#CC*isco - *AT*M *маршруттауышыSt*enc*ils
+#CC*isco - *6705St*enc*ils
+#CC*isco - Telsiz *тасымалSt*enc*ils
+#CC*isco - *КілтSt*enc*ils
+#CC*isco - P*BXSt*enc*ils
+#CC*isco - *AT*M T*ag *Sw *гигабиттіік *маршруттауышыSt*enc*ils
+#CC*isco - Yük *машинаSt*enc*ils
+#CC*isco - *Wo*rkgroup *5000St*enc*ils
+#CC*isco - P*AD *X. *28St*enc*ils
+#CC*isco - C*isco *1000St*enc*ils
+#CC*isco - *ДК *маршруттауыш *тақшасыSt*enc*ils
+#CC*isco - *СканерSt*enc*ils
+#CC*isco - Hafif *машинаSt*enc*ils
+#CC*isco - *BBF*WSt*enc*ils
+#CC*isco - *Мазмұн hizmet *маршруттауышыSt*enc*ils
+#CC*isco - u*BR910St*enc*ils
+#CC*isco - *Қатынау *нүктесіSt*enc*ils
+#CC*isco - *Mic*ro*WebserverSt*enc*ils
+#CC*isco - *ДКSt*enc*ils
+#CC*isco - *7505St*enc*ils
+#CC*isco - C*isco*Wo*rks iş *станциясыSt*enc*ils
+#CC*isco - C*DM Bilgilendirici *үлестіру *менеджері *St*enc*ils
+#CC*isco - Şube *кеңсеSt*enc*ils
+#CC*isco - Evdeki kompüter *маршруттауышSt*enc*ils
+#CC*isco - *AT*M *қосқышыSt*enc*ils
+#CC*isco - *Реляциялық bilgiler *қорыSt*enc*ils
+#CC*isco - P*BX *қосқышыSt*enc*ils
+#CC*isco - *Мазмұн *қосқыш *модуліSt*enc*ils
+#CC*isco - C*ent*ri *желіаралық *қалқанSt*enc*ils
+#CC*isco - *Rat*EMU*XSt*enc*ils
+#CC*isco - *Көпқосқыш *құрылғысыSt*enc*ils
+#CC*isco - *MAU*St*enc*ils
+#CC*isco - *Мазмұн *қосқышыSt*enc*ils
+#CC*isco - *ДК- *дегі *адамSt*enc*ils
+#CC*isco - *NetF*lo*w *маршруттауышыSt*enc*ils
+#CC*isco - *РадиомұнараSt*enc*ils
+#CC*isco - Aşağı *хабSt*enc*ils
+#CC*isco - *7500ARS 7513 *St*enc*ils
+#CC*isco - *LAN - *LANSt*enc*ils
+#CC*isco - Küçük *іскерлікSt*enc*ils
+#CC*isco - Seri *гигабиттік *AT*M *Eth*erswitch*St*enc*ils
+#CC*isco - *Layer 3 *қосқышыSt*enc*ils
+#CC*isco - Optik hizmetler *маршруттауышыSt*enc*ils
+#CC*isco - T*VSt*enc*ils
+#CC*isco - *Mac*into*sh*St*enc*ils
+#CC*isco - *ҒимаратSt*enc*ils
+#CC*isco - *Net*RangerSt*enc*ils
+#CC*isco - *Веб *кластеріSt*enc*ils
+#CC*isco - *Сылдырлаған *телефонSt*enc*ils
+#CC*isco - *Бағдарламалық *IP *телефоныSt*enc*ils
+#CC*isco - *Гигабиттік *қосқыш *маршруттауышы *AT*M T*ag *St*enc*ils
+#CC*isco - *Маршруттауыш *Silico*n *қосқышыменSt*enc*ils
+#CC*isco - H. *323St*enc*ils
+#CC*isco - *Веб *шолғышыSt*enc*ils
+#CC*isco - *ME *1100St*enc*ils
+#CC*isco - *Дыбыстық *AT*M *қосқышыSt*enc*ils
+#CC*isco - *VP*N *шоғырлауышыSt*enc*ils
+#CC*isco - *Дыбыстық *маршруттауышыSt*enc*ils
+#CC*isco - *Түйістіргіштер *блогіSt*enc*ils
+#CC*isco - Çancı #üfle *менеджеріSt*enc*ils
+#CC*isco - *Бағдарламаулы *қосқышSt*enc*ils
+#CC*isco - Genel *құралSt*enc*ils
+#CC*isco - *Wo*rkgroup *5002St*enc*ils
+#CC*isco - *VP*N *шлюзіSt*enc*ils
+Genel - *Жатық *клапаныSt*enc*ils
+Genel - *ОңғаSt*enc*ils
+Genel - *Жатық sınırlama *сызығыSt*enc*ils
+Genel - Dönecek beyazını *басқышыSt*enc*ils
+Genel - *Жатық *компрессорSt*enc*ils
+Genel - *РезервуарSt*enc*ils
+Genel - *Жатық *сорғыSt*enc*ils
+Genel - Dik sınırlama *сызығыSt*enc*ils
+Genel - Frekans *аударғышыSt*enc*ils
+Genel - *Сілтеу *сызығыSt*enc*ils
+Genel - Dik *пропеллерSt*enc*ils
+Genel - Dik *компрессорSt*enc*ils
+Genel - Dik *сорғыSt*enc*ils
+Genel - *МоторSt*enc*ils
+Genel - Önünü- alaca #tam *бакSt*enc*ils
+Genel - Gaz *баллоныSt*enc*ils
+Genel - Su *деңгейіSt*enc*ils
+Genel - Iki kat dik *қалдығыSt*enc*ils
+Genel - *Жатық *қалдығыSt*enc*ils
+Genel - *ТопырақSt*enc*ils
+Genel - *ЖоғарғаSt*enc*ils
+Genel - *АэраторSt*enc*ils
+Genel - *Ақырғы *тұндырғышSt*enc*ils
+Genel - *КонтейнерSt*enc*ils
+Genel - Dik *қалдығыSt*enc*ils
+Genel - *РоторSt*enc*ils
+*Қиық - oo*io_ *бөлігіSt*enc*ils
+*Қиық - *iooo_ *бөлігіSt*enc*ils
+*Қиық - *iiio_ *бөлігіSt*enc*ils
+*Қиық - oo*ii_ *бөлігіSt*enc*ils
+*Қиық - o*ioo_ *бөлігіSt*enc*ils
+*Қиық - *ioo*i_ *бөлігіSt*enc*ils
+*Қиық - *iiii_ *бөлігіSt*enc*ils
+*Қиық - o*io*i_ *бөлігіSt*enc*ils
+*Қиық - *io*io_ *бөлігіSt*enc*ils
+*Қиық - oooo_ *бөлігіSt*enc*ils
+*Қиық - o*iio_ *бөлігіSt*enc*ils
+*Қиық - *io*ii_ *бөлігіSt*enc*ils
+*Қиық - *iioo_ *бөлігіSt*enc*ils
+*Қиық - ooo*i_ *бөлігіSt*enc*ils
+*Қиық - o*iii_ *бөлігіSt*enc*ils
+*Қиық - *iio*i_ *бөлігіSt*enc*ils
+*Sybase - *Репликациялау *серверіSt*enc*ils
+*Sybase - *Клиент *қолданбасыSt*enc*ils
+*Sybase - *Репликациялау *сервер *менеджеріSt*enc*ils
+*Sybase - *Журн. taşım. *менедж.  *Репл. *агентіSt*enc*ils
+*Sybase - Derekler *серверіSt*enc*ils
+*Sybase - Daimi *кезекSt*enc*ils
+*Сұлба - *Жатық güç gözü *Еуопалық *St*enc*ils
+*Сұлба - Dik güç gözü *Еуопалық *St*enc*ils
+*Сұлба - *Лампа Avrupa *St*enc*ils
+*Сұлба - Dik *конденсаторSt*enc*ils
+*Сұлба - *NMO*S- #transistör Avrupa *St*enc*ils
+*Сұлба - *Жатық *конденсаторSt*enc*ils
+*Сұлба - *Жатық *индуктор Avrupa *St*enc*ils
+*Сұлба - Yere *қосуSt*enc*ils
+*Сұлба - *Жатық *диодSt*enc*ils
+*Сұлба - *Динамик Avrupa *St*enc*ils
+*Сұлба - *np*n- *транзисторыSt*enc*ils
+*Сұлба - *Жатық *стабилитронSt*enc*ils
+*Сұлба - *Жатық *сәуледиод Avrupa *St*enc*ils
+*Сұлба - Dik *диодSt*enc*ils
+*Сұлба - *Жатық *жалғастырғышSt*enc*ils
+*Сұлба - Dik *стабилитронSt*enc*ils
+*Сұлба - Dik *резистор Avrupa *St*enc*ils
+*Сұлба - *Жатық *резистор Avrupa *St*enc*ils
+*Сұлба - Dik *резисторSt*enc*ils
+*Сұлба - *Жатық *резисторSt*enc*ils
+*Сұлба - P*MO*S #transistör Avrupa *St*enc*ils
+*Сұлба - p*np- *транзисторыSt*enc*ils
+*Сұлба - Dik *резистор Avrupa *St*enc*ils
+*Сұлба - Dik *сақтандырғышы Avrupa *St*enc*ils
+*Сұлба - Dik *сәуледиод Avrupa *St*enc*ils
+*Сұлба - Dik *индукторSt*enc*ils
+*Сұлба - *Жатық *индукторSt*enc*ils
+*Сұлба - *Операц. *күшейткішіSt*enc*ils
+*Сұлба - Dik *сақтандырғышы Avrupa *St*enc*ils
+*Сұлба - Mikrofon Avrupa *St*enc*ils
+*LADDER - out*SSt*enc*ils
+*Контакт - *лампаSt*enc*ils
+*Контакт - *қосSt*enc*ils
+*LADDER - *sout*St*enc*ils
+*LADDER - *if*not*St*enc*ils
+*Контакт - *ажырSt*enc*ils
+*Контакт - *релеSt*enc*ils
+*LADDER - out*not*St*enc*ils
+*LADDER - *sout*RSt*enc*ils
+*LADDER - outj*St*enc*ils
+*LADDER - out*St*enc*ils
+*LADDER - *if*St*enc*ils
+*LADDER - *sout*not*St*enc*ils
+*LADDER - *sout*SSt*enc*ils
+*LADDER - out*RSt*enc*ils
+*LADDER - out*rc*ep*St*enc*ils
+*Пневм. - p*ressh*YSt*enc*ils
+*Пневм. - co*mmu*sc*St*enc*ils
+*Пневм. - *dist*32St*enc*ils
+*Пневм. - *SEIJ*ac*KSt*enc*ils
+*Пневм. - *DEJ*ac*KSt*enc*ils
+*Пневм. - co*nnpo*int*St*enc*ils
+*Пневм. - *dist*52St*enc*ils
+*Пневм. - p*ressSt*enc*ils
+*Пневм. - co*mp*BSt*enc*ils
+*Пневм. - p*ressp*NSt*enc*ils
+*Пневм. - co*msp*RSt*enc*ils
+*Пневм. - co*mp*ilh*St*enc*ils
+*Пневм. - *dist*22St*enc*ils
+*Пневм. - *drainSt*enc*ils
+*Пневм. - *SEOJ*ac*KSt*enc*ils
+*Пневм. - co*mp*ilp*St*enc*ils
+*Пневм. - co*mpu*sh*St*enc*ils
+*Пневм. - *dist*42St*enc*ils
+*Пневм. - co*melec*1St*enc*ils
+*Пневм. - co*melec*2St*enc*ils
+Geometrik - *Өткір *сегізбұрышты *жұлдызSt*enc*ils
+Geometrik - *ЖоғарғаSt*enc*ils
+Geometrik - *Тікбұрышты *үшбұрышSt*enc*ils
+Geometrik - Sağa- Sola- *ЖоғарғаSt*enc*ils
+Geometrik - Dörtgeni *жұлдызSt*enc*ils
+Geometrik - *Теңбүйірлі *үшбұрышSt*enc*ils
+Geometrik - Sola ve *ОңғаSt*enc*ils
+Geometrik - *ОңғаSt*enc*ils
+Geometrik - *СолғаSt*enc*ils
+Geometrik - *ШаршыSt*enc*ils
+Geometrik - Sağa *айырқұйрық *жебесіSt*enc*ils
+Geometrik - *ТрапецияSt*enc*ils
+Geometrik - *ТөменгеSt*enc*ils
+Geometrik - *Бесбұрышты *жұлдызSt*enc*ils
+Geometrik - *Швейцарлық *айқышSt*enc*ils
+Geometrik - *ЖетібұрышSt*enc*ils
+Geometrik - *Мальталық *айқышSt*enc*ils
+Geometrik - *БесбұрышSt*enc*ils
+Geometrik - *АлтыбұрышSt*enc*ils
+Geometrik - *Төртжақты *жебеSt*enc*ils
+Geometrik - *Алтыбұрышты *жұлдызSt*enc*ils
+Geometrik - Içbükey *сегізбұрышты *жұлдызSt*enc*ils
+Türlü başa - Günün *көзіSt*enc*ils
+Geometrik - Içbükey dörtgeni *жұлдызSt*enc*ils
+*Блок *жебесі - *ШевронSt*enc*ils
+Geometrik - *АлмасSt*enc*ils
+Geometrik - *Жетібұрышты *жұлдызSt*enc*ils
+Geometrik - *Жатық *паралелограммSt*enc*ils
+Geometrik - *Жоғарға- Aşağıya- *СолғаSt*enc*ils
+Geometrik - Çeyrek *секторыSt*enc*ils
+Türlü başa - *ЖүрекSt*enc*ils
+Geometrik - *Сегізбұрышты *жұлдызSt*enc*ils
+*Блок *жебесі - *БесбұрышSt*enc*ils
+Geometrik - Dik *паралелограммSt*enc*ils
+Geometrik - *ШеңберSt*enc*ils
+Türlü başa - Sola ve *ЖоғарғаSt*enc*ils
+Geometrik - Sola *айырқұйрық *жебесіSt*enc*ils
+Geometrik - *СегізбұрышSt*enc*ils
+Geometrik - *Жоғарға ve *ТөменSt*enc*ils
+Türlü başa - Çeyrek *айSt*enc*ils
+*Электрикалық - *контакт_ *АSt*enc*ils
+*Электрикалық - *қиылыс_ *ҚSt*enc*ils
+*Электрикалық - kat_ *нүктеSt*enc*ils
+*Электрикалық - *релеSt*enc*ils
+*Электрикалық - *қиылыс_ *АSt*enc*ils
+*Электрикалық - *командаSt*enc*ils
+*Электрикалық - *контакт_ *ҚSt*enc*ils
+*Электрикалық - *лампаSt*enc*ils
+#Rüzgâr - *Желіаралық *қалқанSt*enc*ils
+#Rüzgâr - *АнтеннаSt*enc*ils
+#Rüzgâr - *ЖинақтауышSt*enc*ils
+#Rüzgâr - *ХабSt*enc*ils
+#Rüzgâr - *ТелефонSt*enc*ils
+#Rüzgâr - *Тапал kordaki *ДКSt*enc*ils
+#Rüzgâr - *AT*M *қосқыш *белгісіSt*enc*ils
+#Rüzgâr - *Модульді *қосқышSt*enc*ils
+#Rüzgâr - *ДискетаSt*enc*ils
+#Rüzgâr - *ПлоттерSt*enc*ils
+#Rüzgâr - *Цифрлау *тақтасыSt*enc*ils
+#Rüzgâr - Iş *станциясыSt*enc*ils
+#Rüzgâr - *КомпьютерSt*enc*ils
+#Rüzgâr - Dış *DAT *дискжетегіSt*enc*ils
+#Rüzgâr - *БұлтSt*enc*ils
+#Rüzgâr - *Маршруттауыш *белгісіSt*enc*ils
+#Rüzgâr - *Қосқыш *белгісіSt*enc*ils
+#Rüzgâr - *RJ45 kaburga *түйістіргішіSt*enc*ils
+#Rüzgâr - Iş santralının *мониторыSt*enc*ils
+#Rüzgâr - *ПринтерSt*enc*ils
+#Rüzgâr - *МониторSt*enc*ils
+#Rüzgâr - Güçlendirildiği *динамикSt*enc*ils
+#Rüzgâr - *МодемSt*enc*ils
+#Rüzgâr - Z*IP *дискіSt*enc*ils
+#Rüzgâr - *ДинамикSt*enc*ils
+#Rüzgâr - *sc*EAD kaburga *түйістіргішіSt*enc*ils
+#Rüzgâr - *WAN *қосылымыSt*enc*ils
+#Rüzgâr - Masadaki *ДКSt*enc*ils
+#Rüzgâr - *Мобилді *телефонSt*enc*ils
+#Rüzgâr - *Тапал kordaki *ДКSt*enc*ils
+#Rüzgâr - Büyük kordaki *ДК
+*KOff*ic*e- *тың *сұлба ve #diyagram yapmak aleti
+*Kivio
+#C C 2000\/2000- 2008, *Kivio takımı
+#PP*et*er *Simo*nsso*n
+#Eğit
+#CC*MYK 8- *бит bütün iz
+*Циан
+*Маджента
+Sarı
+Siyah
+*Альфа
+#CC*MYK 16- *бит bütün iz
+*Сұр *реңкті 16- *бит bütün iz
+*Сұр
+#CC*MYK 16- *бит bütün iz
+*Сұр *реңкті 8- *бит bütün iz
+#CC*MYK 8- *бит bütün iz
+#CC*MYK8 *гистограмма
+*GRAY *Alph*a16 *гистограма
+*GRAY *Alph*a8 *гистограмма
+#CC*MYK16 *гистограмма
+#CC*MYK8 *гистограмма
+#CC*MYK16 *гистограмма
+*KOCo*nvert*er
+*KOff*ic*e dosya *түрлендіргіші
+#c c 2001- 2004 *KOff*ic*e #yap
+*David F*au*re
+*Nico*las *Goutt*e
+Kazanç dosyası
+Doğu dosyası
+Maksatı dosyanın *сақтық götürmeyeceğini yapma
+*Десте *режімі: *диалогтар gösterilmez
+*Интерактивті *режімі: *диалогтар gösterilir geleneki
+Doğu dosyanın *MIME türü
+% % 1 doğu dosyanın *MIME türü yok!
+% % 1 *MIME türü bulunmadı
+*MIME türü bulunmadı, - *mimet*yp*e *параметрін kullanın
+*** *** *Түрлендіру *жаңылысы! ***
+Iki *аргумент *керекNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Koruyan mekanizma hayır
+% % 1 bulunmadı
+Başlıca dosyada% 1- yolunda,% 2- *бағанында *талдау hatası Hata duyurmayacağı:% 3
+*ISO *A3
+*ISO *A4
+*ISO *A5
+#UU*S *Lett*er
+#UU*S *Legal
+*Экран
+Başa
+*ISO *B5
+#UU*S *Execut*ive
+*ISO *A0
+*ISO *A1
+*ISO *A2
+*ISO *A6
+*ISO *A7
+*ISO *A8
+*ISO *A9
+*ISO *B0
+*ISO *B1
+*ISO *B10
+*ISO *B2
+*ISO *B3
+*ISO *B4
+*ISO *B6
+*ISO C5
+#UU*S Co*mmo*n 10
+*ISO *DL
+#UU*S Fo*lio
+#UU*S *Ledger
+#UU*S T*ablo*id
+Nüshası
+Günü ve vakti
+Koruyan
+*Түсініктемесі
+Katma
+*Өшіру
+Değişme
+#& & Açma
+Yeni nüsha katılmaz
+Günü:% 1
+*Бағыттауыштарын göstermek
+*Бағыттауыштарын *жасыру
+*Бағыттауыштарын göstermek *жасыру
+Şu dosyayı açmaF*ile *mo*dif*ic*at*io*n *dat*e *and t*ime.% 1 *is *dat*e t*ime
+Değişilen:% 1 F*ile *acc*ess *dat*e *and t*ime.% 1 *is *dat*e t*ime
+Açılan:% 1
+% % #1
+Evet
+Yok
+Dosya *экспорталмайды.
+Ihracat *сүзгісі hayır
+% % 1 türdeki dosya *импортталмайды
+*Импорт *сүзгісі hayır
+#& & Yeni eşkal
+Dosyayı açma
+*Сүзгіні seçme
+Dosya ile ilgili bilgi
+Genel
+*Авторы
+; *таңбаны kullanın Meseli: Off*ic*e; *KDE; *KOff*ic*e
+Dosyanın *шифры çözülmek
+*Шифрын çözmeme
+Dosya *шифрланған
+#& & *Шифрын çözme
+Dosya *шифрланбақ.
+*Шифрламау
+Dosya *шифрланбаған
+#& & *Шифрлау
+Dosya *шифрланбаған
+*Шифрдың çözmesini *құптау
+*Шифрын çözme
+Dosyayı #sağ
+% % 1 *беймәлім dosya türü
+Dosyanın türünü değişme
+Değişme
+Şu Örneği kullanma
+% % 1- yüz basılmada
+Basıp çıkarıldı
+Örtme
+Duruyor
+Durdurma
+Ölçme birliği:
+Dosya ile ilgili bilgi
+*Автосақтау...
+Kalıpı yapmak
+#& & *Торды göstermek
+#& & *Торды göstermek
+*Торға getirme
+#& & *Аясының rengi:
+Örtme
+#& & *Жатық
+#& & Dik
+Tek basmaya
+Örnek #boy yeni dosyayı açma
+*Дисплейдің *айырымдылығын basıp bırakma
+Tek basmaya
+*KOff*ic*e
+Sonraki için örnek bulunmadı:% 1
+Sonraki için örnekler çok çok:% 1
+% % 1 örneği yüklenmedi.
+#& & *Торды göstermek
+*Бағыттауыштарын *жасыру
+*Бағыттауыштарын göstermek *жасыру
+*Сақтық götürmeyeceğini yapma...
+#Sağ...
+% % 1 dosyası korundu
+*Автосақтау...
+*Автосақтау anındaki hata! *Дискі dolu?
+#Sağ için dosya yapılmadı
+% % 1 yazılmadı. *Дискі dolu?
+% % 1 yazma anındaki hata. *Дискі dolu?
+% % 1 diyerek çağırılmayan dosyanın *автосақталған dosyası var. Yapılan günü% 2 diyip atanan Açıp #gör mı?
+#Yara U*RL% 1
+Bu dosyanın *автосақтталған dosyası var. Bunun yerine şunu açıp #gör mı?
+% % 1 dediği dosya yok.
+Yapmak hatası
+Dosya bulunmadı
+Yığma yapılmadı
+*MIME türü #doğru
+*Ендірме dosyada hata
+Tanınmayan *пішім
+Uygulanmadığı
+*Талдау hatası
+Dosya *паролімен korunan
+Iç hata
+*Жад eksikliği
+*Беймәлім hata
+% % 2 açılmadı. Sebebi:% 1
+% % 1 dosyası yüklendi
+% % 1 diyerek% 2- yolunda,% 3- *бағанында *талдау hatası Hata duyurmayacağı:% 4
+% % 1 dediği dosya değil.
+Dosya okumaya açılmadı okuma lisansını *тексеріңіз.
+Dosyanın başı okunmadı.
+Başlıca dosyanın% 1- yolunda,% 2- *бағанында *талдау hatası Hata duyurmayacağı:% 3
+Doğru *KOff*ic*e dosyası değil:% 1
+#Yara dosya: *maindoc. *xml dosyası yok.
+Bu dosyanın #birkaç nüshası var. Eski nüshasını açma için Dosyaya geçme -  Nüshaları diyerek git.
+Çağırılmayan
+% % 1 dosyası *өзгерілген. Korumayı #kur mı?
+Iç hatası: *saveXML uygulanmadığı
+% % 1 korunmadı
+% % 1 korunmadı Sebebi:% 2
+% % 1 açılmadı
+% % 1 açılmadı Sebebi:% 2
+metini işleme
+*электрондық tablo
+*презентация
+#diyagram
+resim
+*Ендірме nesnesi
+Örneği yapmak
+Çağırması:
+Takımı:
+Doldu katma...
+Resim
+Geleneki
+#& & Seçme...
+*Нобайы:
+Yeni örneği geleneki etmek
+*Әрбірде% 1 başlattığında yeni örnek kullansın
+Çınıyla % 1 dediği örneğin üstünden #yaz mı?
+Doldu katma
+Takımın çağırması:
+#Bu çağırma praktisyonerde bar .
+Çınıyla bu doldu *құртпақсыз mı?
+Doldu *өшіру
+Çınıyla bu örneği *өшірмексіз mı?
+Örneği *өшіру
+#& & *Өшіру
+Resim yüklenmedi.
+Resim yok.
+*Беймәлім *KOff*ic*e *Mime türü% 1. Yapmağını *тексеріңіз.
+Ilk yol *шегінісі
+Sol yön *шегінісі
+Sağ yön *шегінісі
+*Мәнзаралау aleti
+% % 1 korunmayan dosya % 2
+#PP*DF- *ке *экспорттау...
+Dönerek yükleme
+Nüshalar...
+*Импорттау...
+*Экспоттау...
+Bütün eşkallarını & örtme
+*Көрністі & bölme
+#& & Eşkalı çevirme
+Tam *экранды sahne yönetmenim
+Bölme & istikameti
+#& & *Жатық
+#& & Dik
+yazmadan korunan
+% % 1 diyip #sağ
+#Sağ
+#Sağ *құпталсын
+*Экспорттауды *құптау
+Ihracat etmek
+Dosyayı böyle #sağ
+Dosyayı böyle *экспорттау
+Böyle çağırılan dosya bar . Üstünden yazabilsin mı?
+*Ескерту
+Dosyayı *импорттау
+#PP*DF- *ті yazma
+% % 1 aletler *панелін göstermek
+% % 1 aletler *панелін *жасыру
+Dosya
+Dosya -% 1
+Sonrakı koruyarak sonrakı yapılan dönüşümleri #küçült #Sürdür mı?
+*Жуырдағы dosyalar
+Bağımsız dosyası
+% % 1 *Сығылмаған *XML dosyaları
+% % 1 Alçakgönüllü *XML dosyası
+% % 1 *Шифрланған
+% % 1 % 2 *үйлесімді
+*Беймәлім
+Alet *параметрлері
+*Сүрлеуді yapma
+Açı noktası
+Ova noktası
+#Simetri nokta
+*Қисықтың noktası etmek
+Yaratmanın noktası etmek
+Noktayı *ендіру
+Noktayı *өшіру
+Noktaları birleşme
+*Сүрлеуге
+Düz *Қисық
+Örtme
+Yönetme noktayı *жылжыту için *сүйреңіз.
+Seçen noktada erteleme için *B- *ні basın.
+*Ұлғайту *кішірейту
+*Мәнзаралау
+Nesneyi yapmak
+*Сүрлеуді işleme aleti
+Aktif alet:% 1
+% % 1 *параметрлері
+Alçakgönüllü *сүрлеу *қалыпы
+Alçakgönüllü *сүрлеу *қалыпы
+Kalıpları *ыдырату
+*Параметрді değişme
+#Kalıp ölçümünü değişme
+Kalıpları *топтастыру
+Kalıpları *қисайту
+*Сүрлеулерді birleşme
+Kalıpları düzenleme
+Bağlantısını değişme
+*Сүрлеуге çevirme
+Noktanın türünü yapmak
+Gölgesini yapmak
+Kalıpları #doğru
+Yönetme noktayı *жылжыту
+*Мөлдірсіздік
+Kalıpı yapmak
+Noktaları *өшіру
+Iç *сүрлеуін *өшіру
+Ayırsın yapmak
+*Сүрлеудерді bölme
+*Толтыру kaidesini yapmak
+Kalıpı *өшіру
+Kalıpları *өшіру
+Iç *сүрлеуді *тұйықтау
+Iç *сүрлеулерін birleşme
+Iç *сүрлеуін noktada erteleme
+Kalıpları *үлестіру
+Kalıpları *бұғаттау
+Noktaları *жылжыту
+Arı erişimini #sağ
+Kalıpları *жылжыту
+Fişini yapmak
+Iç *сүрлеуін erteleme
+*Сүрлеулерді olumsuz çevirme
+Standartı
+*Сызықтар
+Düz
+*Қисық
+Birleştirme
+Kalıpları düzenleme
+*Каталог *режімі uzak konaklamasını korumaz.
+*KOff*ic*e yığması
+Bu dosyayı açma için *паролін getir.
+Dosyayı *шифрлау için *паролін getir.
+*Паролін korumayı #kur mı?
+*Скрипт dosyasını yerine getirme...
+*Скрипттер
+*Скрипт *менеджері...
+*Скрипт dosyasını yerine getirme
+*Скрипт *дестесін yapmak
+% % 1 *дестесі okunmaz.
+% % 1 *дестесінің doğru *inst*all. *rc dosyası yok.
+% % 1 *дестесінің *inst*all. *rc dosyasının *талдау *жаңылысы.
+Değişme
+*Скрипт *менеджері
+*Скрипт dosyasını katma
+Yığma *қапшығын katma
+*Скрипт *десте dosyasını yapmak
+*Скрипт *дестесін *онлайн yapmak
+Katma
+*Скрипт dosyası
+*Скрипт
+Birikime
+Milimetre #mm
+*Сантиметр *см
+*Дециметр *дм
+Inç
+*д *Пика *пи
+*Цицеро *цц
+*Пойнт *пт
+*Пиксел *пк
+Hata!
+Metin
+Kalın
+*Көлбеу
+Aşı *сызылған
+*Сызылып bıraktığı
+Yatay olarak #doğru
+Dikinden #doğru
+*Шегінуін kısma
+*Шегінуін *үлкейту
+*Қаріп ölçümünü *кішірейту
+*Қаріп ölçümünü *үлкейту
+Noktanın türünü yapmak
+Noktanın türünü yapmak
+Ayırsın yapmak
+*Таңбалар tarzını yapmak
+*Абзац tarzını yapmak
+Geleneki *пішімді etmek
+*Аяктау simgesini *ендіру
+Indeksi *ендіру
+Yüzü *ендіру
+*Өшіру
+Yüzü *ендіру
+Fiş *сызығы
+*Пішімі
+Arayarak bulunmadı Hiçbir şey *алмастырылмады
+% % 2 dediği% 1 diyerek *алмастырсын mı?
+Metin atıfı
+GelenekiU*nderline *St*yle
+Hayır
+Yalnız katıU*nderline *St*yle
+Iki katı
+Fonksiyon bulunduğu *жоқNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+#& & Dosya
+#& & *Баптау
+Dosya
+Yolu:
+Çağırması:
+Konusu:
+*Түйінді sözleri:
+*Түсініктемелері:
+Türü:
+Yapılan anı:
+Değişilen:
+Sonrakı basılan anı:
+Genel işleme vakti:
+#& & *Ысырып bırakma
+*Жетілдірімі:
+*Шифрлау:
+*Инициалдары:
+Mansıpı:
+Şirketi:
+*Эл. posta:
+*Тел. ev:
+*Тел. iş:
+#Faks:
+Caddesi:
+Posta indeksi:
+Kalarak:
+Ülke:
+#& & *Адрес broşüründen almak
+*Дербес bilgileri *өшіру
+*Det*ailsP*aneBase
+Başlattığında *әрқашанда şu örneği kullanma
+Her zaman şu örnek kullansın
+*Түйіндер
+*пкс
+*Ортогоналды
+*Бағыттауыш *сызықтары
+...
+*Сүрлеуге çevirme
+*Ұлғайту
+*Кішірейту
+*Эллипс *қалыпы
+Gölgesini göstermek
+Gölgenin yönü:
+Gölgenin *ығысуы:
+Gölgenin rengi:
+*Өшіру
+*Палитраны açma
+*Палитраны #sağ
+Derekler
+#& & *Кодтамасы:
+Birinci yolda - sürecekleri
+Birinci *бағанда - sürecekleri
+*Бөлгіші
+*Үтір
+*Үтірлі nokta
+Başa
+*Кестелегіш
+Boş yer
+#& & *Тырнақшадағы metin:.
+
+
+*Ондық bölük *бөлгіші:
+*Мыңдық *бөлгіші:
+*Қайталанатын *бөлгішті tanımama
+#& & *Пішімі:
+Kapsamları
+*Жаңарту
+*Импорттайтын *бағандар:
+*Импорттайтын yollar:
+- 
+Ölçme birliği:
+Ölçümü:
+Eni:
+Irtifası:
+Istikameti:
+Dikinden
+Sadıktan
+Yüzler *ашылымы:
+Bir yönü
+Yüzler *ашылымы
+Yazma yönü:
+Otomatik
+Soldan sağa
+*Оңдан sola
+*Жиектер
+Yüzün dışarısı
+*Түбтеу dışarısı:
+#Aşağıya:
+En üste:
+Ayır görüntün yapmak...
+Örnekli *аясы olsun
+*Кетіру
+Şirketi:
+*Кәдімгі
+Kısma
+*Альфа *қалқасы
+#CCCC*SGraph
+#c c 2007 C*yrille *Berger
+elle atan #diyagram listesi *қайтарылады
+doğusunu getir p*s ya nokta, gelenekte p*s
+doğu dosyanın çağırması
+*RGB 8- *бит bütün say iz
+Kızıl
+Yeşil
+Mavi
+*Альфа
+#Tam
+*Альфа *қалқасы
+*RGB 16- *бит bütün say iz
+*L* *a* *b * 16- *бит bütün iz
+Ekşidik
+*a *
+*b *
+Başlıca *RGB *гистограммасы
+*R
+*G
+*B
+*L* *a* *b * *гистограммасы
+*L *
+Açık
+Otomatik
+Rengi
+Kızıl Yeşil Mavi
+*XYZ
+*L *a * *b *
+*Циан *Маджента Sarı Siyah
+*Сұр *реңкті
+*Сұр *реңкті *мөлдірліксіз
+*YC*bC*r
+8 *бит
+16 *бит
+16 *бит *қалқымалы H*DR
+32 *бит *қалқымалы H*DR
+Başlıca *RGB *гистограммасы
+*Реңк
+*Қанықтық
+Özü parıltısı
+*Циан
+*Маджента
+Sarı
+Siyah
+Yeşili *маджентаға
+Maviyi sarıya
+*Мөлдірсіздігі:
+*Мөлдірсіздік
+% % #1
+Yönler arı erişimi *пикселдердегідей
+*Тандағанды *ұғайту
+Bütününü *ұғайту
+Birikime
+Konaklaması
+Yüz
+Dosyaya kullanma
+Derek'i *импорттауDesc*ript*ive *enco*ding *name
+Yön diyip bulunanı % 1 *Desc*ript*ive *enco*ding *name
+Yerli standart % 1 *Desc*ript*ive *enco*ding *name
+Başa % 1
+Başlıca
+Günü
+#Beyaz
+*Кодтама bulunmadı:% 1
+*Жуырдағысы:
+*Контрастығы kötü renkler *жасырылсын
+Renkleri katma  *кетіру...
+*Импорт
+*Сүзгіні seçme
+*Парақтың enini *шақтау
+Yüze *шақтау
+Iş yüzündeki *пикселдер
+*Палитраға rengi katma
+Rengin çağırması:
+% % 1 *палитра dosyası yazılmadı. *Бәлкім, o tek okuma için .
+*Палитра
+Renkleri katma *кетіру
+Sol yön dışarısı:
+Sağ yön dışarısı:
+*Түбтеу dışarısı:
+Yüzün dışarısı:
+Yüzler *ашылымы:
+Konaklaması:
+*Слайдтың örnek aletini seçme:
+Örnek *слайды
+Yüzün örnek aletini seçme:
+Örnek yüz
+#Sağ *құпталсын
+Ayır görüntün değişme
+Ayırsın işleme aleti
+*Аясының aleti
+Yeni *слайдты ne katı katma
+Yeni yüzü ne katı katma
+*Слайд
+Katı
+Seçilen nesneleri çevirme
+Seçilen nesneleri öne çıkarma
+Seçilen nesneleri arkaya çıkarma
+*Ықшам eşkal
+*Егжей- *тегжейлі eşkal
+*Нобайлар eşkalı
+Göstermek *режімі
+Yeni kat
+Yeni katın çağırması:
+Yeni kat
+Katı yapmak
+Katı *өшіру
+Tüm katları *өшіруге olmaz. *Кемінде #bir kalma gerek.
+Katları *өшіру hatası
+Yeni *слайдты ne katı katma
+Başka
+Günü
+*Слайдты *ендіру
+Yüzü *ендіру
+Örnek biçimlerini göstermek
+Örnek biçimlerini *жасыру
+Konaklaması
+Örnek *слайдты değişme
+Örnek yüzü değişme
+Örnek ayırsın göstermek
+*Слайдтың ayırsın göstermek
+Yüzün ayırsın göstermek
+*Өшіру
+*Торға getirme
+Örnek yüzlerini göstermek
+*Өлшегіштерін göstermek
+Göründün *өлшегіштерін göstermek *жасыру
+Yüzü *ендіру
+*Назардағынан sonra yeni yüzü *ендіру
+Yüzü götürmeye
+Ilgideki yüzü götürmeye
+Yüzü müthiş bırakma
+Ilgideki yüzü *өшіру
+Örnek yüz...
+Konaklaması
+#Değişken
+Dosyayı *импорттау
+*Импорттайтын yollar:
+% % 1 açılmadı
+*Параметрді değişme
+% % 1- *слайд
+% % 1- yüz
+Takımı
+Kaçırıp
+Görünen
+*Бұғатталған
+Kalıpları dönerek *еншілеу
+*Мәнзаралау aleti
+Kalıpları yapmak
+*Аясының aleti
+Koyu
+Açık
+Özü
+Başka
+Fiş *сызығы
+*Ендіру
+*Бетбелгіні katma
+Renk şafaktaki 
+*Таңбаны seçme
+#& & *Ендіру
+Seçilen *таңбаны metine *ендіру
+Yatay olarak #doğru
+Sözü bitirme lisans etsin
+Katma...
+Öneriler listesine yeni sözler otomatik türde katsın
+*Автоаяқтау *параметрлері
+Boş yer kayıt olsun
+Geleneki etmek
+Başa
+#& & *Ендіретіні:
+*Абзац *аясының rengi
+Fişleri
+#& & Eni:
+#& & Rengi:
+#& & Tarzı:
+Say:
+Yol:
+*Логикалық:
+hakikat
+yalan
+Vakti:
+Günü:
+*Бағыттауыш *сызықты katma
+Istikameti
+*Жатық
+Dik
+#& & Yeri:
+*Бағыттауыш *сызығы
+#& & Yeri...
+*Бағыттауыш *сызықтары
+% % 1 için #işle bulunmadı
+Dosyada uzaktaki dosyaya dış atıfı var% 1
+*Құптау istem edilen
+Yüklemeye
+Yönetip gönderme
+Sonraki *ендірілген nesne yüklenmez:% 1
+% % 1 dış dosyası yüklenmedi:% 2
+*Ендірме dosyayı koruyarak hata bulundu
+#& & Çağırması:
+Yeri
+#& & Irtifası:
+En üste:
+#& & Sol yön:
+*Контекстті tanımla
+Bütünü% 1 ölçümünde çıkılmış.
+Yüzün ölçümü
+Ölçümü:
+#& & Sadıktan
+*Парақ ölçümler meselesi
+*Слайдты *өшіру
+Yüzü *өшіру
+Nesneyi *ендіру
+Nesne
+*Бағандар:
+*Бағандар aralıkı:
+*Астылық *Соңғылық atıfı
+*Астылық atıf ben başlıca metinlerinin aralıkı:
+#Aşağıya *колонтитулы
+*Жұп ve #tek yüzlerdeki #aşağıya *колонтитулдары *бөлек
+Ilk yüzdeki #aşağıya *колонтитулы *бөлек
+#Aşağıya *колонтитулы ben başlıca metinin aralıkı:
+En üste *колонтитулы
+En üste *колонтитулы ben başlıca metinin aralıkı:
+*Жұп ve #tek yüzlerdeki en üste *колонтитулдары *бөлек
+Ilk yüzdeki en üste *колонтитулы *бөлек
+Önünü- alaca bakmak
+Yüz ölçümü ben & *жиектері
+#& & *Колонтитулдары
+En üste *колонтитулы
+Sol yönde:
+Ortada:
+Sağ yönde:
+#Aşağıya *колонтитулы
+metine #birkaç *тегтерді ekler:
+*lt; *sh*eet*gt; Yüzün çağırması *lt; p*agegt; Ilgideki yüz *lt; p*agesgt; Genel yüzler sayı *lt; *namegt; Dosya ne U*RL- atıfı *lt; f*ilegt; Tam yoluyla dosya çağırması ne U*RL- atıfı
+*lt; t*imegt; Şimdiki vakit *lt; *dat*egt; Bugünkü gün *lt; *autho*rgt; Tam adın *lt; o*rggt; Teşkilat Çatın *lt; *emailgt; *Эл. posta *адресіңіз
+#& & *Бағандар
+Çevirme
+*X #boy *қисайту
+*Y #boy *қисайту
+*Масштабтау
+*Масштабтау
+*Түрлендірулерін *ысырып bırakma
+Dik
+*Жатық
+Kalıpları *топтастыру
+#& & Öne çıkarma
+Götürmek
+*Төмендету
+Arkaya & katmak
+Sola #doğru
+*Жатығынан ortaya
+Sağa #doğru
+*Жоғарға #doğru
+Dikinden ortaya
+*Төменге #doğru
+Takımı
+*Ыдырату
+*Бағыттау *сызығын *жылжыту için asıp *сүйреңіз.
+Seçildiği *қисайту için asıp *сүйреңіз.
+Seçildiği *қисайту için asıp *сүйреңіз.
+Seçildiği *жылжыту için asıp *сүйреңіз.
+Seçildiğin ölçümünü değişme için asıp *сүйреңіз.
+Kalıpları *топтастыру
+Kalıpları *ыдырату
+*Құрастыру
+Geometri
+Örtme
+Geleneki alet
+*Масштабтау
+Ölçümünü değişme
+Ortadan ölçümünü değişme için CT*RL- *ды basın.
+45 *градустан *бұрау için *ALT- *ті basın.
+*Қисайту
+*Бағыттамаларды değişme
+Geleneki alet
+*Бағыттамаларды değişme
+Açma...
+#Kitap #sağ...
+Yeni *қапшық...
+Yakın
+#Uzak
+*Қапшықты *өшіру
+Biçimler
+Örnekler
+Biçimin hasiyetleri
+Biçimi katma
+#Ek
+Biçim birikimini açma
+Biçimler kalabalığın *өшіру
+Geleneki
+Geometri
+*Жебелер
+Kahkahalı
+Kalabalık hatası
+Biçimler bu birikimde yok!% 1
+Yapmak hatası
+Dosya bulunmadı
+Yığma yapılmadı
+*MIME türü #doğru
+*Ендірме dosyada hata
+Tanınmayan *пішім
+Uygulanmadığı
+*Талдау hatası
+Dosya *паролімен korunan
+Iç hata
+*Жад eksikliği
+*Беймәлім hata
+% % 2 açılmadı. Sebebi:% 1
+Dosyayı *импорттау *жаңылысы:% 1
+Doğru *KOff*ic*e dosyası değil:% 1
+Gölgenin hasiyetleri
+Tarzı:
+*No *st*ro*ke o*r f*ill
+*So*lid co*lo*r *st*ro*ke o*r f*ill
+Tarzı:
+Eni:
+Görüntüye ihracat etmek
+Derekler'i okuyarak *жаңылыс.
+Ihracat hatası
+#Yara *XML bilgisi.
+*KWo*rd- *қа *RTF *импорттау *сүзгісі
+Çağırılmayan dosya
+*KWo*rd- bil HT*ML *экспорттау *сүзгісіDesc*ript*ive *enco*ding *name
+Önerildiği % 1 *Desc*ript*ive *enco*ding *name
+Yerli standart % 1
+Bulunmadığı *кодтама:% 1
+#QQ*Xml
+*KWo*rd dosyasını *талдау anında hata bulundu.% 1- yolda,% 2- *бағанда Hata duyurmayacağı:% 3
+*KWo*rd- *тың ihracat *сүзгілер kalabalığı
+*KWo*rd- *қа halis metini *импорттау *сүзгісіDesc*ript*ive *enco*ding *name
+Başa % 1
+*KWo*rd- bil halis metini *экспорттау *сүзгісі
+*Lat*ex *импорттау *сүзгі *параметрлері
+Dosyanın tarzı
+*Lat*ex tarzı
+*KWo*rd tarzı
+Dili
+*Юникод
+*Lat*in1
+Dosyanın türü
+Yeni dosya
+*Ендірілген dosya
+% % 1 tablosuO*bj*ect *name
+% % 1- resimF*rameset *name
+*Жұп yüzlerin en üste *колонтитулы
+#Tek yüzlerin en üste *колонтитулы
+*Жұп yüzlerin #aşağıya *колонтитулы
+#Tek yüzlerin #aşağıya *колонтитулы
+Ilk yüzün en üste *колонтитулы
+Ilk yüzün #aşağıya *колонтитулы
+*KWo*rd- *қа *MS *Writ*e *импорттау *сүзгісіF*rameset *name
+% % 1- *астылық atıfıT*able_ *Name C*ell *ro*w, co*lu*mn
+% % 3- tablo,% 1- yol,% 2- *баған
+*AbiWo*rd dosyasını *талдау anda hata bulundu.% 1- yolda,% 2- *бағанда Hata duyurmayacağı:% 3
+*AbiWo*rd *импорттау *сүзгісіF*rameset *name
+Başlıca metin *фрейм birikimi
+*AbiWo*rd dosyasını yükleme anında hata bulundu:% 1
+Dosya bilgisi korunmaz.
+Başlıca dosya korunmaz. O*bj*ect *name
+% % 1 tablosunun *фрейміP*seu*do- *autho*r fo*r *annot*at*io*ns
+*KWo*rd 1. 3
+En üste *колонтитулы
+#Aşağıya *колонтитулы
+Bu Op*enOff*ic*e. o*rg % 1 - nüshasının dosyası. Şu *сүзгі 1. 0- nüsha için yapılmış. Dosyayı okuyarak *оғаш koşul, *қирау ne bilgiyi doğru göstermemek yer önü. Çevirmeyi sürdürmeyi #kur mı?
+Tanımayan dosya nüshası
+Dosya okunmaz.
+*KWo*rd dosyasını *талдау anında hata bulundu.% 1- yolda,% 2- *бағанда Hata duyurmayacağı:% 3
+Dosya okunmaz.
+*Импорт
+Metin
+Say
+#Beyaz
+Günü
+Hayır
+ *SH*EET*NAME 
+Önerildiği: UTF- 8
+Yerli standartı % 1
+Ileri
+Tanınmayan dosya *пішімі.
+Dosya okunmaz.
+Yüzü
+Dosya *бүлінген kılığı. Tablosu yönetilir.
+Tablo yönetilir.
+*EP*S ihracatı
+*Параметрлері
+#PoPo*st*Sc*ript 1- düzeyi
+#PoPo*st*Sc*ript 2- düzeyi
+#PoPo*st*Sc*ript 3- düzeyi
+#PP*NG *экспорттау *параметрлері
+*SVG *экспорттау hatası
+Dosyayı yazma hatası.
+% % 1 *экспорттау hatası
+*Слайдтың çağırması
+Yüzü:
+Tüm yüzü
+Yüzdeki nesneler alanı
+*Экспорттайтын alanı:
+#Öbür ölçümü *пикселде:
+Irtifası:
+Eni:
+*Жиегі:
+#HTHT*ML *экспорттау #diyalog
+#& & *Кодтамасы:
+#& HT& HT*ML 4. 01
+#HTHT*ML 4. 01 eski HT*ML kullanıcılar için
+#& & *XHT*ML 1. 0
+*XHT*ML 1. 0
+*Режімі
+Halis metin *экспорттау #diyalog
+Yolu bitirmesi
+#& U& U*NIX tarzı, tek yolun son simgesi baskın
+#& & *Windo*ws tarzı, *күймешені *қайтару ben yolun son simgeleri
+#& & *MacO*S tarzı, tek *күймешені *қайтару simgesi
+Halis metin *импорттау #diyalog
+*Абзацты bitirmesi
+#& & Var türünde: Yol bitirmesi
+#& & Cümle: Yol bitirmesi - cümle bitirmesi olsa
+*Баяғы & metot: Boş yol ne onun uzunluku 40 *таңбадан yüzleşmese
+*Lat*ex ihracat *сүзгінің *баптаулары
+Dosya
+Özel dosya
+#Ek dosya
+Dosya klası:
+Kalitesi:
+Geleneki *қаріп ölçümü:
+*Ақырғы
+Önünü- alaca projesi
+Resimler
+Resimleri çevirsin
+Resimler *қапшығы:
+*Кодтамасы
+*Өшіру
+Katma
+*Мазмұны
+*Авторы ile ilgili bilgi *экспортталсын
+*Мазмұн tablosu katsın
+*Жазбалар
+*Экспорттамау
+*Жазбалары *түсініктемелер süresinde *экспортталсын
+#& & Tanımla
+#FF1
+#& & *ОК
+Dönme
+*MS *Writ*e *импорттау #diyalog
+#& & *Кодтамасы
+*Writ*e dosyasının *кодтамасын seçin. Bilmeseniz geleneki *кодтамасын CP 1252 seçip gör.
+#& & Başa *кодтама:
+Geleneki *кодтамасы CP 1252
+*Writ*e dosyalarının çoku şu *кейбірде *windo*ws- 1252 tain etilen *кодтамасында yazılır. Bilmeseniz - şunu seçip gör.
+#Ek
+Bu #ek *параметрлер *пішімдеу bilgilerini *экспорттауды ulaşarak *баптауға yetenek çıkar. Onlar *KWo*rd ve *MS *Writ*e arısındaki farkın sonucunu, #ek *түпнұсқада hayır *пішімдеу düzenlemeler ile kısıp, *импортталған dosya *мейілінше *түпнұсқасына aynı olmasına kalkışır. Bilmeseniz - geleneki şartında *қалтыра git.
+#& & Yol aralık farklar *түзелсін
+*Writ*e yol aralıkına aynı edip herbir *абзацтың önüne boş aralıkı katma.
+#& & Görüntü konaklamasını kanıtlama
+Görüntüleri düzenleme için *абзац *шегінісін kullanma.
+Yüzler
+Var yüzler
+********  ********  *SH*EET*NAME  ********
+*Ұяшықтар
+*Бөлгіші
+*Үтір
+*Үтірлі nokta
+*Кестелегіш
+Boş yer
+Başa:
+*Тырнақшалары:.
+
+
+Seçildiği *экспортталсын
+Genel
+Başa
+*Қайталанатын *бөлгішті tanımama
+#& & *Тырнақшадағы metin:
+#& & *Пішімі:
+Kapsamları
+-
+*Импорттайтын yollar:
+*Импорттайтын *бағандар:
+*Жаңарту
+*Кодтамасы:
+Yüzü seçme
+#& & *Бүкілін seçme
+Seçmeden & vazgeçmek
+Herbir tabloya & *бөлек dosya planlasın
+Tarzı
+Geleneki tarz olsun
+#& & Dış tarz tablosu:
+Konaklaması
+#& & Fişleri olsun
+*Ұяшық aralıktaki & *пикселдер sayı:
+Ölçümü *пикселде
+Görüntünün eni:
+Görüntünün irtifası:
+Ölçümü birliklerle
+*Айырымдылығы:
+Birliği:
+Ayır rengi
+Rengi
+*Мөлдірсіздік
+*XSLT ihracat *баптаулары
+Genel *xslt dosyaları
+*Дербес *xslt dosyaları
+Seçme...
+Ihracat *сүзгісінің *паметрлері
+Arı erişimi korusun
+Eni %:
+Irtifası %:
+#PP*NG ihracat hatası
+Dosyayı açma
+*XSLT *импорт *баптаулары
+#PP*NG ihracat *сүзгісінің *параметрлері
+Irtifası
+Eni
+Irtifası %
+Eni %
+*LaT*EX *экспорттау hatası
+*KFo*rmu*la *импорттау hatası
+*KFo*rmu*la1. 3 *импорттау *сүзгісі
+#PP*DF *импорттау *параметрлері
+% % 1- yüz
+#JPJP*EG *экспорттау *параметрлері
+#PP*DF*Impo*rt*Widget
+Yüzler
+#Ek
+*Пішімдер:
+Görüntüleri *импорттау
+Sahibi:
+*Пішімі
+*Sans *Serif tarzı
+Ilgideki metin *қаріпін *Sans *Serif tarzında etmek
+*Serif tarzı
+Ilgideki metin *қаріпін *Serif tarzında etmek
+Kompozisyon tarzı
+Ilgideki metin *қаріпін kompozisyon tarzında etmek
+...
+Ölçümü ve Rengi
+#Doğru
+Türü
+Tarzı
+Çağırması
+Özü
+*Өзгерістеріен *қайтуNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rgGeneral p*rop*ert*ies
+Genel
+Evet
+Hayır
+*ЖоқMou*se Cu*rso*r *Sh*ap*e
+*Меңзері *жоқMou*se Cu*rso*r *Sh*ap*e
+*ЖебеMou*se Cu*rso*r *Sh*ap*e
+Yüksek *жебеMou*se Cu*rso*r *Sh*ap*e
+*АйқышMou*se Cu*rso*r *Sh*ap*e
+*КүтуMou*se Cu*rso*r *Sh*ap*e
+Metin *меңзеріMou*se Cu*rso*r *Sh*ap*e
+Dik ölçümü=*Mou*se Cu*rso*r *Sh*ap*e
+*Жатық *өлшеміMou*se Cu*rso*r *Sh*ap*e
+*Көлбеу *сызық *өлшеміMou*se Cu*rso*r *Sh*ap*e
+Dişisi *көлбеу *сызық *өлшеміMou*se Cu*rso*r *Sh*ap*e
+Tüm *өлшемMou*se Cu*rso*r *Sh*ap*e
+Dik *бөлуMou*se Cu*rso*r *Sh*ap*e
+Yatay olarak *бөлуMou*se Cu*rso*r *Sh*ap*e
+*Меңзеген *қолMou*se Cu*rso*r *Sh*ap*e
+*ТыйымдыMou*se Cu*rso*r *Sh*ap*e
+Bu ne? *Mou*se Cu*rso*r *Sh*ap*e
+Bekleyerek *тұрыңызMou*se Cu*rso*r *Sh*ap*e
+Açık *қолMou*se Cu*rso*r *Sh*ap*e
+*Жұдырық
+Simgeyi seçmeFo*nt *samp*le fo*r p*rop*ert*y *edito*r *it*em, t*yp*ic*ally *Abc
+% % #1 2
+Görüntüsünü bakıp- çıkma için *түртіңізTh*ree *dot*s fo*r *Insert *image f*ro*m f*ile *butto*n
+...
+Dosyadan görüntüyü *ендіру
+Dosyadan görüntüyü *ендіру % 1 hasiyeti için
+*X
+*Y
+Eni
+*БиіктігіSiz*e Po*lic*y
+*БекітілгенSiz*e Po*lic*y
+*МинимумSiz*e Po*lic*y
+*МаксимумSiz*e Po*lic*y
+*БасымдыSiz*e Po*lic*y
+*КеңейтуSiz*e Po*lic*y
+*Минималды *кеңейтуSiz*e Po*lic*y
+Tanımayıp bırakma
+Nesneler listesini değişme
+% % 1 *мазмұны
+Simgeyi seçme
+*Қаріпін değişme
+*Қаріпін değişme
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*KoU*navail *KOff*ic*e programı
+*KoU*navail
+#c c 2001, *David F*au*re
+*David F*au*re
+Planlanmayan
+Dosyayı *ендіру
+#Yara dosya. *MIME türü getirilmemiş.
+Dosya *пішімінің kabullenmemeği
+Sürdürme
+% % 1 yazılmadı. *Дискі dolu?
+#Sağ...
+Dosyadan örnek & yapma...
+Seçme #diyalog göstermek
+Başlıca projeyi işleme...
+*Ендіру
+*KP*lato *баптауы...
+Işleme...
+Süreci...
+Görevi *өшіру
+Görevin yerine getirilmesi
+Görevi *шегіндіру
+Görevi *шегінуден *қайтару
+Görevi *жоғарлату
+Görevi *төмендету
+Iş *дестесі
+Kaynağını işleme...
+*Тәуелдігін işleme...
+*Тәуелдігін *өшіру
+*Өңдегіштер
+Eşkalları
+Iş ve dinlenme
+Kaynakları
+Görevler
+*Тәуілдіктері *график
+Görev *тәуілдіктерін işleme
+*Тәуілдіктері liste
+Planları
+Projenin yerine getirilme #diyagram
+Projenin şart- yeri ile ilgili bilgi
+Görevin şart- yeri
+Görevin şart- yeri ile ilgili bilgi
+Iş *дестесі
+Görevin şart- yeri ile ilgili bilgi
+*Гант #diyagram
+*Гант #diyagram görme
+Kaynağın bölünmesi
+Kaynağın bölünmesini görme
+Kaynağın bölünmesi
+Kaynağın bölünmesini görme
+Görevler yerine getirilme #diyagram
+Görevlerin yerine getirilme şart- yeri *түралы bilgi
+% % 1: Oranlama...
+% % 1 diyerek oranlama
+% % 1: Oranlandı
+% % 1 planını katma
+% % 1 planını *өшіру
+*Бағыныңқы görevi katma
+Görevi katma
+Görevin geleneki *баптаулары
+Iş *дестесі
+Görevleri *өшіру
+Erişimini yapmak
+Erişimini hayır etmek
+Görevin *тәуелдігін hayır etmek
+Kaynağını katma
+Kaynağını *кетіру
+Kaynak takımını *кетіру
+Kaynak nesnelerini *кетіру
+Çağırmasını değişme
+Planlanmayan
+#Vakit dosyayı açma *жаңылысы
+#Vakit dosyaya #sağ *жаңылысы:% 1
+Iş *дестесі:% 11=p*roj*ect *name, 2=t*ask *name
+Iş *дестесі:% 1\@ *info: *wh*at*sth*is
+Dönerek çağırma
+*Баптау...
+*Өшіру
+*Ендіру
+Eşkalı katma
+Kaynak renkteki 
+Görev renkteki 
+Iş ve dinlenme renkteki 
+Oranlayacak renkteki 
+*Тәуелдік renkteki *график
+*Тәуелдік renkteki liste
+Görev eşkalı
+*Гант #diyagram eşkalı
+Yüksek
+Eşkalı *баптау
+*KP*lato *баптауы
+Eşkalı seçme
+Açan dosya
+#& & Dosya
+Işleme
+#& & Eşkal
+#& & Proje
+Aletler
+#& & *Баптау
+Eşkal
+Proje
+Sınırlamalar
+Sınırlamalar
+Skor tamamıyla:
+*Оптимистік:
+*Пессимистік:
+Görevin yerine getirilmesi
+Derekler'i otomatik türde *жаңарту
+Oranlama
+Elle
+Sınırlamalar
+*Жауаптысы:
+*Адрестік broşüründen adamı #seç
+*Адрестік broşüründen adamı #seç.
+Seçme...
+#Bar çabucak
+#Bar geç
+Başlatmış anı
+Bitiren anı
+Belli vakit
+aralıkı Sınırlamalar
+Sınırlamalar
+Sınırlamalar
+Skor tamamıyla:
+Iş hacimi
+*Жұмсалған vakit
+Skor tamamıyla:
+*Оптимистік:
+%%
+*Пессимистік:
+Dosyayı *ендіру
+*Санаты:
+Kei'sini
+Eşkalın türü:
+Çağırması:
+*Ишара:
+Sözler
+Cümleler
+*Буындар
+Yollar
+*Таңбалар boş biçelim. katarak
+*Таңбалар boş biçelim- *сыз
+Okumaya *жеңілдігі F*lesch #boy
+...
+*Астылық ve *соңғылық atıfların metinini getirme
+Derekler'i otomatik türde *жаңарту
+*NAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*KP*lato*KDE 4 t*ag *line, *see http:  *kde. o*rg *img *kde40. p*ng
+1=*dat*et*ime
+1=*dat*et*ime
+*KP*lato - *KDE planlama aleti
+#c c 1998- 2008, *KP*lato takımı
+#ThoTho*mas Z*ander
+*Bo Tho*rsen
+*Dag *Andersen
+*Raph*ael *Langerho*rst
+*Nu*no P*inh*eiro ve *Danny *Allen
+Programın *таңбашасы
+Görev *тәуілдіктерін işleme
+Standartı iş vaktini değişme...
+Yaz:
+Genel
+Dosyalar
+Eşkal...
+Işleme
+Süreci...
+Dosyayı *өшіру
+Geleneki *тапсыманы değişme
+Vakti
+Planı:
+Kaynaklar listesi
+Projenin çağırması:
+Projenin *менеджері:
+Kaynak takımı:
+Adı
+*Эл. posta *адресі
+Şimdi var- yoku
+*Мөлшерлемесі
+Iş vaktinden ofsayt anda
+Yüzü:
+Görevler listesi
+Fiyatı
+Başı
+Proje başkanı:
+*Жауаптысы
+Takvimini değişme...
+Skorlarını değişme...
+Kaynaklarını işleme...
+*Гант #diyagram *параметрлері
+Kaynak eşkalın *параметрлері
+Oranlayacak eşkalın *параметрлері
+Görevi katma...
+*Бағыныңқы görevi katma...
+Aşamasını atama...
+Görevi *өшіру
+Görevi *шегіндіру
+Görevi *шегінуден *қайтару
+*Жоғарлату
+*Төмендету
+Gönderme
+Gönderme vakti
+Yok
+Genel
+Genel *баптаулары
+Planı yerine getirme kılavuzu *ОЖБК *ЖЖБК
+#Diyagram
+#Diyagram *параметрлері
+Takvimi değişme
+Görevi değişme
+Iş *дестесін yönetme
+Proje *параметрлері
+Dosyanın şart- yerini değişme
+*Колонтитулдар1=p*age *nu*mber, 2=*last p*age *nu*mber
+% % 1 % 2
+Yüzü:
+Proje:
+Günü:
+*Менеджері:
+Eşkalı *баптау...
+Eşkalı bölmeden dönme
+Eşkalı bölme
+Kaynak *параметрлері
+Kaynağını değişme
+Kaynağı
+Şu hafta
+Şu haftadaki iş hacimi
+Günü
+% % bitti
+Yerine getirilen iş hacimi
+Kalan iş hacimi
+Planlanan iş hacimi
+Görevin *тәуелдігін hayır etmek
+Iş...
+Çalışmayan
+Tanımlanmayan
+Hafta günün şartını değişme\@ *info: *wh*at*sth*is
+Takvimi katma
+*Бағыныңқы takvimi katma
+Seçilen takvimi *өшіру
+Takvimi değişme
+Iş
+Malzemesi
+Başlatılmayan
+Başlatılan
+Bitirilen
+Proje *параметрлері
+Başlıca projeyi değişme
+Var rezervi göstersin
+Olumsuz #ek vakit
+Karım- erişimi katma
+Erişimini yapmak
+Karım- erişimini değişme
+Çevirme
+Erişimini değişme
+Planı katma
+Seçtiği *өшіру
+Oranlama
+Planı katma
+Neticesi
+Çözücü *тізбек
+Görev *параметрлері
+#& & Genel
+#& & Kaynaklar
+Dosyalar
+#& & Besleyerek
+Tarifi
+*Баптаулары
+Görev süreci
+Görev sürecini değişme
+Kaynak bölme eşkal *параметрлері\@ *info: *wh*at*sth*is
+Kaynak takımını katma...
+Kaynağı katma...
+Seçilen nesneleri *өшіру
+*Гант #diyagram *параметрлері
+*Параметрлері
+Eşkal *параметрлері
+Budak eşkalı
+Budak eşkalın *баған *баптауы
+Başlıca eşkal
+Başlıca eşkalın *баған *баптауы
+Tamamlayıcı eşkalın *баған *баптауыInt*erval *st*art t*ime
+Başlatılmağı
+Uzunluku
+Işleme...
+Eşkal...
+Dosyayı *тіркемелеу
+#UU*RL- *ін değişme
+#UU*RL *адресі *өзертілмейді
+Dosyaları değişme
+Dosyayı *өшіру
+Görevin bitirmesini *өзгертуWeek *nu*mber *year
+% % 1- hafta % 2 *Week *nu*mber
+% % 1- hafta
+Skorunu katma
+*Бағыныңқы skorunu katma
+Seçilen skorlarını *өшіру
+Görevin bitirmesini değişme
+Aşamayı yerine getirmeyi değişme
+Görevin bitirmesini değişme
+Görevin bitirmesini değişme
+Tarifi
+Erişimini değişme
+Bekleyeni
+*Оптимистік:
+*Пессимистік:
+Bilgi
+*Ескерту
+Hata
+Planlama dergisi
+Planlanmadı
+Çevirme
+Planı:
+Proje yok
+Erişimini değişme
+Bitirme- Kaynak
+Bitirme- Bitirme
+Kaynak- Kaynak
+Say
+*Ro*man, büyük harf
+*Ro*man, aşağı harf
+*Lett*er, büyük harf
+*Lett*er, aşağı harf  hou*rs  h:  *minut*es  *m
+% % *1с:% *2м  *days  *d  hou*rs  h:  *minut*es  *m
+% % *1к% *2с:% *3МYear. *Not*e: *Lett*er *s o*nly!
+*Mo*nth. *Not*e: *Lett*er *s o*nly!
+*Week. *Not*e: *Lett*er *s o*nly!
+*Идентификаторы
+*с
+*м
+*ықтималдығы
+*мсек
+*Беймәлім
+Üretim
+Atıf
+Götürmeye
+*Тіркеулі dosyanın *адресі:% 1
+Yüzleşmeyi planlama: bitirme vakti #yara
+% % 1 kaynağı sonraki aralıkta elle atmaz:% 2 -% 3
+% % 1 kaynağı% 2 -% 3 aralıkında elle atar
+Iş
+Skoru:
+*Инициалдары:
+Projeyi sonrakiden planlama:% 1
+Alt
+Oranlama
+*Кейінге bakarak
+Oranlama
+Planı:
+Planı:
+Proje anında bitirilmez:% 1
+Projenin somut bitirilen anı:% 1
+Sonraki vaktine dek bitirilen proje:% 1
+En sonrakı bitirme anı:
+Oranlama
+Beliren anda proje bitirilmez
+Planlanan kaynak:% 1, beliren anı% 2
+Plan
+Bitirme mevsiminin *басы1=t*yp*e of co*nst*raint
+Oranlama
+Planlanan kaynağı% 11=t*yp*e of co*nst*raint
+Kaynağın akşamından geç kaynak
+Planı:
+Planlanan kaynağı% 11=t*yp*e of co*nst*raint
+% % 1: Gerek kaynak vaktini *жоспалауға *келмеді1=t*yp*e of co*nst*raint
+% % 1: Kaynağın eskisinden sonra planlaması olmadı. Ulaşmayanı=% 2
+Erişimini değişme
+Gönderme
+Onaylama
+Proje
+Proje
+Görev
+*Мезгілдігі:
+*Тұжырымы
+#Bar çabucak
+#Bar geç
+Başlatmış anı
+Bitiren anı
+Belli vakit
+aralıkı Iş hacimi
+*Жұмсалған vakit
+Aşağıya
+Yüksek
+Yerine getirme
+Sonraki mevsim
+% % bitti
+Bitirilen
+Kalan iş hacimi
+Görevin fiyatını değişme
+Standartı iş vaktini değişme
+Standartı iş vaktini değişme
+Yolu
+Çözücü *тізбек
+Çözücü *тізбегі göstersin
+Lisans etmek
+Inkar etme
+Bütününü
+Çağırması
+Şartı
+*Жұмсалған vakit
+Tarifi
+Planlanan iş hacimi
+Planlayan fiyatı
+Planı:
+*Фазасы
+*Қатандығы
+Duyur
+Proje hayır
+% % *біттіBu*dget*ed Co*st of *Wo*rk *Sch*edu*led
+*ЖЖБК Fiyatı *Bu*dget*ed Co*st of *Wo*rk P*erfo*rmed
+*ОЖБК Fiyatı *Actu*al Co*st of *Wo*rk P*erfo*rmed
+Iş hacimi
+Saat *белдеуі
+Fiyatı
+Görevin çağırması.
+Görev süreci
+Göreve yanıtı şey
+Erişimini değişme
+Vaktini sınırlama türü
+Kaynak mevsiminin son
+Bitirme vakti atanan
+Görev süreci
+Düzeyi katma
+Planlayan fiyatı
+Bitirme mevsiminin son
+*Тәуелдіктері lisans eden en eski bitirme vakti
+*Тәуелдіктері lisans eden en geç bitirme vakti
+Planlanan *ұзақтығы
+Görevin çağırması.
+*Оптимистік *ұзақтығы
+*Пессимистік *ұзақтығы
+Saklandığı vakitte *үлгеру için görev ne görev *тізбегінің *ұзақтығын *қысқартуға zaruret vakit
+aralıkı Bütün *ілеспе görevlerin kaynağına etki etmeyip görevi *шегіндіруге ne *ұзартуға olmuş vakit
+Eski kaynak ve geç kaynak arısındaki vakit
+aralıkı Eski bitirme ben geç bitirme arısındaki vakit
+aralıkı Göreve bölünen kaynakları
+Görev *параметрлері
+Görevin yerine getirilmesi göstersin
+Planlanan iş hacimi
+Çın fiyatı
+Kalan iş hacimi
+Planlayan fiyatı
+Iş yüzünde görevi başlatan anı
+Eğer görev başlatılsa - göstersin
+Iş yüzünde görevi bitiren anı
+Eğer görev bitirilse - göstersin
+Görev süreci
+Oranlayıp *болжаған takdir etmesi
+Oranlayıp *болжаған *ауытқуы
+*Оптимистік:
+*Пессимистік:
+Takdir eteni
+Riskin türü
+Bu göreve bölünen kaynak elle *жекізбеуде
+Kaynak ne kaynak takımının çağırması
+Kaynak ne kaynak takımının türü
+Kaynağın *эл. posta *адресі
+Görevin çağırması.
+Skorun *түсініктемесі
+Görevin çağırması.
+Kaynağı *асыра planladığını gözlemleme\@ *info: *wh*at*sth*is
+Planladıkta kullanan *үлестірімі\@ *info: *wh*at*sth*is
+Planlanan kaynak vakti
+Planlanan bitirme vakti
+Planlama yönü\@ *info: *wh*at*sth*is
+\@ \@ *info: *wh*at*sth*is
+Dosyanın U*RL- *адресі
+Dosyanın türü
+Dosyanın şart- yeri
+Dosya kurarak gönderilenini #şüphesiz
+Görevin çağırması.
+Görevin çağırması.
+Görevin çağırması.
+Görevin çağırması.
+Erişimin türü
+Erişimin vakitte *кідіруіDef*au*lt c*alendar *name
+Geleneki % 1
+Elle #ulaş:
+Türü
+*Инициалдары:
+*Эл. postası
+Takvimi katma
+Fişi % 1
+Elle #ulaş:
+Var görevleri
+Kalıpı *мөлшерлемесі
+Kaynak takımını katma...
+Kaynağı katma...
+% % 1 skoru *өшіру
+Tarifi
+Seçilen skorlarını *өшіру
+Skorunu katma
+Bütünü
+*Аталық
+*Еншілес
+Gecikme:
+Erişimini değişme
+% % 1 skoru *өшіру
+Takvimi değişme
+Seçilen skorlarını *өшіру
+Takvimi değişme
+Saat *белдеуі
+Takvimi katma
+Seçilen takvimi *өшіруU*ndef*ined
+#UU*No*NWo*rking
+*NWWo*rking
+*W
+Takvimi *өзгерту1=t*ime 2=Th*e *nu*mber of hou*rs of *wo*rk *du*rat*io*n
+% % 1,% 2 saat
+#UU*RL
+Şart- yeri
+Böyle *сақтауWeek *nu*mber
+Sonraki mevsim
+Aydaki saatleri:
+Seçilen skorlarını *өшіру
+Seçilen takvimi *өшіру
+Bugünkü gün olsun
+Fiyatı  *valu*e %
+Erişimini yapmak
+Kaynağı
+Erişimini değişme
+Proje:% 1
+Belli vakit
+aralıkı Başlatılan
+Bitirme anı
+Yükleme
+Erişimini *өзгерту1=p*age *nu*mber, 2=*last p*age *nu*mber
+Bölünen kaynakları:
+Skor tamamıyla:
+*Оптимистік:
+*Пессимистік:
+Başlatılmağı:% 1
+Skoru bitirme:% 1
+Planı:
+*Оптимистік:
+*Пессимистік:
+% % bitti
+Bitirilen
+Kaynak anı
+Başlatılan
+Kaynağa olur
+Projeyi kaynak
+Başlatılmayan
+Çın fiyatı
+Görev başlatılan anı:% 1
+Görev başlatılmayan
+Bitirilmesi:% 1
+Görev bitirilen anı:% 1
+Görev bitirilmeyen
+Planlanan iş hacimi
+Kalan iş hacimi
+Planlayan fiyatı
+*Бабының düzeyi:% 1
+% % 1 anındaki planı yerine getirme kılavuzu:% *2Not *available
+*Жауаптысы:
+Skor tamamıyla:
+Skor tamamıyla:
+Riski:
+Sınırlaması
+Atanan kaynağı
+Atanan bitirmesi
+Yerine getirme
+Kaynak
+Kaynak
+Skorunu katma
+Durdurma
+Kaynak mevsiminin başı
+Bitirme mevsiminin başı
+Kaynak mevsiminin son
+En sonrakı bitirme anı:
+Var #ek vakit
+Kaynak anı
+Bitirme- Kaynak
+Atamaları
+*Ауытқуы *Ұзқ
+*Оптимистік:
+*Пессимистік:
+Çın fiyatı
+Planlayan fiyatı
+Çın fiyatı
+Çın fiyatı
+Planlanmadı
+Bölünmeyen
+Kaynağın türü:
+Proje yok
+Iş hacimi
+*Коды
+Düzeyi *қосуBu*dget*ed Co*st of *Wo*rk *Sch*edu*led
+Iş *дестесін yönetme
+Iş *дестесін yönetme
+#& & Kaynaklar
+Kaynağı katma...
+Erişimini değişme
+Hafta günün şartını değişme
+Gezdik skorunu değişme
+Standartı iş vaktini değişme
+Görevin fiyatını değişme
+Dosyaları değişme
+Var görevleri
+Görevi katma...
+*Бағыныңқы görevi katma...
+Takımı:
+Çağırması:
+*Адрестік broşürden kaynağı seçme
+Seçme...
+*Инициалдары:
+*Эл. postası:
+Kaynağı
+Takvim:
+Elle #ulaş:
+%%
+Başı:
+Sonu:
+Kaynağına *шаққанда
+*Сағаттық fiyatı:
+1- görev
+2- görev
+Karım- erişimi katma
+Gecikme: *Bu*dget*ed Co*st of *Wo*rk P*erfo*rmed
+Fiyatı:
+Iş hacimi:
+Bugünkü gün olsun
+Görevler
+1
+Başı:
+Katma
+*Өшіру
+#Tam
+Proje planı:
+...
+Riski:
+En üste *колонтитулы
+Projenin çağırması
+Yüzün *нөмері
+Proje *менеджер
+#Aşağıya *колонтитулы
+Proje *кодын #şüphesiz
+*Коды:
+*Бөлгіші:
+*Коды:
+*Бөлгіші
+Düzeyi katma
+Göstermek:
+*Мезгілдігі:
+Gün
+Hafta
+Ay
+Integralı
+*Ауытқы
+Kaynak anı
+Projenin çağırması
+Bitirme anı
+Bugünkü gün
+Projeyi bitirme
+Görevin çağırması.
+*Жауаптысы:
+*Адрестік broşüründen adamı #seç
+*Адрестік broşüründen adamı #seç.
+Vakti
+Planı:
+#Bar çabucak
+#Bar geç
+Bitirme mevsiminin son
+Skor tamamıyla:
+Riski:
+*Оптимистік:
+*Пессимистік:
+Genel tüm #ek vakit:
+#& & *Жасырылған *бағандары:
+#& & Görünen *бағандары:
+Görevin çağırması göstersin
+Kaynağın çağırması göstersin
+Görevin *тәуелдігі göstersin
+Çözücü görevleri göstersin
+Görevin bitirmesini değişme
+Projenin çağırması.
+#& & Çağırması:
+Projenin başkanı.
+Projenin başkanını *адрестік broşüründen #seç.
+#& & Seçme...
+Planlama aşaması
+En eski kaynak anı:
+En sonrakı bitirme anı:
+Katma...
+Değişme...
+Açma
+Yol kararnameleri basıp çıkarsın
+Skoru: *Int*erval *st*art t*ime
+Başlatılmağı
+Durdurma
+Yıldaki saatleri:
+Aydaki saatleri:
+Haftadaki saatleri:
+Gündeki saatleri:
+Proje planı:
+Var görevleri
+Gerek görevi katma
+Gerek görevi *өшіру
+Çözücü *тізбекі görev *ID- *і:
+Projede tüm #ek vakit:
+Görev *егжей- *тегжейі
+*Идентификаторы
+Kaynak mevsiminin başı
+Bitirme mevsiminin başı
+Kaynak mevsiminin son
+En sonrakı bitirme anı:
+Var #ek vakit
+Bitirmesi
+Başlattığı:
+Bitirerek:
+Oranlama
+Var görevleri
+Kaynağına *шаққанда
+Yazmayı katma
+Yazmayı *өшіру
+Kaynağı
+#Ön
+Sonraki
+Proje:% 1
+Yerine getirme
+*Жаңарту
+Gerek
+*Эл. posta
+Sonrakı gayret
+*KOff*ic*e dosyasını yapmak *жаңылысы
+Açan dosya
+% % 1 dediği dosyası hayır
+% % 1 dosyası açtığı 
+#Yara U*RL:% 1
+% % 1 dosyası açarak 
+% % 1 dediği dosyası hayır
+Bununla işleme:
+Dosya yazma *жаңылысы:% 1
+#Yara dosya. *MIME türü getirilmemiş.
+Koysun açma *жаңылысы:% 1
+#Yara dosya. *MIME türü getirilmemiş.
+Dosya *пішім kabullenmeyeceği
+Sürdürme
+Işleme
+#& & *Баптау
+#& & Eşkal
+Süreci...
+Dosyalar
+Bununla işleme:
+*NAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Süreci...
+Proje
+Proje
+*KP*lato*Wo*rk *баптауы...
+*KP*lato*Wo*rk *баптауы...
+Işleme
+#& & Eşkal
+Süreci...
+Bu dosya işlemeye gelmez
+Dosya açarak 
+Koysun açma *жаңылысы:% 1
+% % 1 dosyası müthiş- çıkarılmadı
+Dosya okuma *жаңылысы:% 1
+Dosya yazma *жаңылысы:% 1
+*KP*lato iş *дестесінің *өңдеуіші
+#c c 1998- 2007, *KP*lato takımı
+*Dag *Andersen
+% % 1- *слайд
+Yeni *слайд *көрсетілімі% 1
+Birce çağırılan iki *көрсетілім olmaya #lazım
+Hata
+Gayreti *құптау
+% % 1- *дисплей başlıca
+% % 1- *дисплей
+Gösterici eşkalını *баптау
+Bütün *слайдтар
+*Слайд *көрсетілімін *баптау
+Örnek *слайдтарын göstermek
+*Слайд *көрсетілімін *баптау...
+*Слайдты ekleme
+Ilgidekiden sonra yeni *слайдты ekleme
+*Слайдты *көшірмелеу
+Ilgideki *слайдты götürmeye
+*Слайдты *өшіру
+Ilgideki *слайдты *өшіру
+Örnek *слайды...
+#Ön *слайд
+Sonraki *слайд
+Ilk *слайд
+Sonrakı *слайд
+Gösterici eşkalını *баптау...
+*Кәдімгі
+*Жазбалар
+Bulunmasını *анимациялау
+Bağımsız *көрсетілімді işleme...
+*Презентацияны kaynak
+Ilgideki *слайдтан
+Ilk *слайдтан
+*Слайд *көрсетілімін *баптау...
+Gösterici eşkalını *баптау...
+Animasyon aleti
+*Ауысулары
+*Түрту gayretleri
+2. 0 nüshasında uygulanmadığı
+Biçim animasyonu
+*Эффект hayır
+*сек
+Düzenleme aleti
+Biçimi işleme
+*Слайд *пішімдері
+Açan dosya
+Yüz *эффектін *жобалау
+Yüz *эффектін değişme
+Yüz *эффектін *өшіру
+Işleme
+Biçim animasyonunu *жобалау
+*Көрсетілім bitirildi. Çıkma için *түртіңіз.
+*Пішімдеу
+Çağırma gitme için kat *түртім yapın
+Metini katma için kat *түртім yapın
+Yazmayı katma için kat *түртім yapın
+Resimi katma için kat *түртім yapın
+#Diyagram katma için kat *түртім yapın
+Nesneyi katma için kat *түртім yapın
+*KOff*ic*e *презентация aleti
+*KP*resent*er
+#c c 1998- 2008, *KP*resent*er takımı
+#ThoTho*rst*en Z*ach*mann
+#Eğit
+*Lau*rent *Mo*nt*el
+#Eskiden #eğit
+*Reginald *St*adlbau*er
+*Бастапқы *авторы
+*Werner T*ro*bin
+*David F*au*re
+#ToTo*sh*it*aka Fuj*io*ka
+*Lu*káš T*inkl
+*Ariya H*idayat
+#PP*erc*y *Leo*nh*ardt
+#ThoTho*mas Z*ander
+#PP*et*er *Simo*nsso*n
+*Bou*dewij*n *Rempt
+#CC*arlo*s *Lic*ea
+#CC*asp*er *Bo*emann
+#FF*redy *Yanardi
+#JJ*an H*ambrecht
+*Marij*n *Kru*isselbrink
+*Mart*in Pf*eiff*er
+*Sven *Langkamp
+#TT*imothé*e *Lac*ro*ix
+#Göster *жазбалары
+Ilgideki% 1 *слайд genel% 2
+*Көрсетілім son
+Saat
+#& & Dosya
+#& & Işleme
+#& & Eşkal
+#& & *Ендіру
+*Сызық
+Biçim
+#& & *Пішімі
+Nesneleri düzenleme
+Nesneleri #doğru
+#& & Metin
+#& & #Doğru
+Türü
+*Емлесін *тексеру
+*Автотүзету
+#& & *Көрсетілім
+#& & *Баптау
+Dosya
+*Ендіру
+Aletler
+*Пішімі
+Metin
+*Көрсетілімі
+*Шарлау
+Dikinden #doğru
+Nesneleri çevirme
+#& & Resimi 1: 1 *масштабында göstermek
+*Емлесін *тексеру neticesi
+*ПрезентацияNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Bağımsız *көрсетілім renkteki 
+Bağımsız *көрсетілімдері
+Yeni *көрсетілімді katma
+*Көрсетілімді *өшіру
+Var *слайдтары
+Ilgideki *көрсетілімі:
+*Слайдты katma
+Dönme
+*Ок
+Örtme
+*Слайдтар
+*Презентация *слайдтары:
+Bağımsız *көрсетілімді işleme...
+#Birkaç *дисплей
+*Презентация *дисплейі:
+*Ойып almak
+*X:
+#& & Eni:
+#& & Irtifası
+*Y:
+#& & Arı erişimi:
+Kat
+Görüntü
+#& & *Ойып almak
+#& & *Слайд
+#Ses gayretini değişme
+Sessiz
+*Импорт...
+*Қалқандармен *иректеп
+Iki *қалқан *жоғардан içe
+Iki *қалқан #aşağıya içe
+Iki *қалқан soldan içe
+Iki *қалқан sağdan içe
+Iki *қалқан #aşağıya *сыртқа
+Iki *қалқан soldan *сыртқа
+Iki *қалқан sağdan *сыртқа
+*Беймәлім tür branşı
+Harla
+Yüksek sol yönden dikinden
+Yüksek sol yönden sadıktan
+Yüksek sağ yönden dikinden
+Yüksek sağ yönden sadıktan
+Aşağıya sol yönden dikinden
+Aşağıya sol yönden sadıktan
+Aşağıya sağ yönden dikinden
+Aşağıya sağ yönden sadıktan
+Sıra *иректеп
+Birce dikinden *жоғардан içe
+Birce dikinden *жоғардан *сыртқа
+Karşı *қиғаштап en üste sol yönden içe
+*Шиыршық
+Saat *жүрісімен en üste sol yönden içe
+Saat *жүрісімен en üste sol yönden *сыртқа
+Saat *жүрісімен en üste sağ yönden içe
+Saat *жүрісімен en üste sağ yönden *сыртқа
+Saat *жүрісімен #aşağıya sol yönden içe
+Saat *жүрісімен #aşağıya sol yönden *сыртқа
+Saat *жүрісімен #aşağıya sağ yönden içe
+Saat *жүрісімен #aşağıya sağ yönden *сыртқа
+Saat *жүрісіне karşı en üste sol yönden içe
+Saat *жүрісіне karşı en üste sol yönden *сыртқа
+Saat *жүрісіне karşı en üste sağ yönden içe
+Saat *жүрісіне karşı en üste sağ yönden *сыртқа
+Saat *жүрісіне karşı #aşağıya sol yönden içe
+Saat *жүрісіне karşı #aşağıya sol yönden *сыртқа
+Saat *жүрісіне karşı #aşağıya sağ yönden içe
+Saat *жүрісіне karşı #aşağıya sağ yönden *сыртқа
+*Иректеп
+Sol yönden
+Sağ yönden
+*Жоғарынан
+#Aşağıya
+Sol yön *жоғарынан
+Sağ yön *жоғарынан
+Sol yön #aşağıya
+Sağ yön #aşağıya
+*Бесбұрыш
+Yüksek
+Yüksek dişisi
+Aşağıya
+Aşağıya dişisi
+*Дөнгеленген dörtgen
+Sadıktan
+Sadıktan dişisi
+Dikinden
+Dikinden dişisi
+Başka
+Kalp
+Kalp dişisi
+*Құлыптың *саңылауы
+*Құлыптың *саңылауы dişisi
+*Эллипс
+Dolay
+Dolay dişisi
+Dörtgeni
+Dörtgeni dişisi
+*Ромб
+Dişisi *ромб
+Göz
+*Алтыбұрыш
+Üçgen
+Sağa
+On yön dişisi
+Sola
+Sol yönden dişisi
+*Жебе uçu
+Yıldız
+Dört açıyı yıldız
+Dört açıyı yıldız dişisi
+Beş açıyı yıldız
+Beş açıyı yıldız dişisi
+Altı açıyı yıldız
+Altı açıyı yıldız dişisi
+*Қатарлап süpürme
+Dikinden sıra
+*Қигаштап sıra
+Dikinden karşı
+Sadıktan karşı
+*Қигаштап en üste sol yönden sıra
+*Қигаштап #aşağıya sol yönden sıra
+Dikinden karşı dişisi
+Sadıktan karşı dişisi
+*Катар *қиғаштап yüksek sol yönden dişisi
+*Катар *қиғаштап #aşağıya sol yönden dişisi
+#Vantilatör
+Sağ yön ortadan
+Yüksek ortadan
+Sol yön ortadan
+#Aşağıya ortadan
+Sağ yönden yayılma
+#Aşağıya yayılma
+Sol yönden yayılma
+Sağ yöne toparlanma
+*Төменге toparlanma
+Sol yöne toparlanma
+*Зырылдауық *қалақтар
+Saat
+Saat on ikiden dil *жүрісімен
+Saat üçten dil *жүрісімен
+Saat altıdan dil *жүрісімен
+Saat dokuzdan dil *жүрісімен
+Saat on ikiden dil *жүрісіне karşı
+Saat üçten dil *жүрісіне karşı
+Saat altıdan dil *жүрісіне karşı
+Saat dokuzdan dil *жүрісіне karşı
+*Салун eşiki
+*Жоғарға
+Sol yöne
+*Төменге
+Sağ yöne
+Pencere *тазартқышы
+Kat #vantilatör
+Dikinden toparlanma
+Sadıktan toparlanma
+Süpürme
+*Жоғарынан saat *жүрісімен
+Sağ yönden saat *жүрісімен
+#Aşağıya saat *жүрісімен
+Sol yönden saat *жүрісімен
+En üste sol yönden saat *жүрісімен
+#Aşağıya sol yönden saat *жүрісіне karşı
+#Aşağıya sağ yönden saat *жүрісіне karşı
+En üste sağ yönden saat *жүрісіне karşı
+*Төменге saat *жүрісіне karşı
+Sol yöne saat *жүрісіне karşı
+#Aşağıya sol yöne saat *жүрісімен
+#Aşağıya sağ yöne saat *жүрісіне karşı
+Yüksek sağ yöne saat *жүрісімен
+*Жолақ
+*Слайд
+Dört *қалқан
+Türlü *қиғаштап
+Kat *ромб
+*Ирек
+Avlu dövmeyeceği
+*Қиғаштап #aşağıya sol yöne
+*Қиғаштап #aşağıya sol yöne dişisi
+*Қиғаштап en üste sol yöne
+*Қиғаштап en üste sol yöne dişisi
+*Диагональ
+*V- benzeri
+*Иректеп- *бұлтақтау
+Dikinden dişisi
+Sadıktan dişisi
+*Қалқан
+Kalp
+*Абстракты 1
+*Абстракты 2
+*Абстракты 3
+*Аневризм
+Yeşil mavi
+*Қоңырлар
+*Жырылған alüminyum
+*Жанған kağıt
+*Жанған *кеңістік
+*Қанық maviler
+#CC*D
+yarım C*D
+*Қауа
+Soğuk çelik
+Soğuk çelik 2
+*Кертеш
+*Кою 1
+Derin deniz
+Geleneki
+Dört *жолақ
+Fransa sancakı
+Almanya sancakı
+Almanya sancakı 2
+Altın
+Yeşiller
+*Көкжиек 1
+*Көкжиек 2
+Yer 1
+Yer ve deniz
+Meksika sancakı
+Meksika sancakı 2
+Kalp *айнытарлық baş acıması
+*Циан *реңкті #neon
+Yeşil #neon
+Sarı #neon
+*Пастельді gökkuşağı
+*Пастельділер
+Kızıl turuncular
+Boyum sancakı
+Boyum sancakı 2
+*Дөңгеленген dışarı
+Gölgeler 1
+Gölgeler 2
+Gölgeler 3
+*Көкжиек
+*Күңгірт *көкжиек
+Kare ağaç *жақтау
+Gün doğu
+*Тропикалық renkler
+Kızıl boru
+Ağaç 1
+Ağaç 2
+Sarı *контраст
+*Қызғылт sarı
+40_ renkler
+Çağırılan renkler
+*KDE yeni
+*Веб
+Uçtuğu *конфетти
+*Фломастер
+*Ұшқындар
+*Қарындаш *нобайы
+*Шырмауық
+kare *10x10
+*бұлдыр kare *10x10
+Dolay 11
+*Бұлдыр *дөңгелек 11
+Dolay 13
+*Бұлдыр *дөңгелек 13
+Dolay 15
+*Бұлдыр *дөңгелек 15
+Dolay 17
+*Бұлдыр *дөңгелек 17
+Dolay 19
+*Бұлдыр *дөңгелек 19
+Dolay 01
+kare *20x20
+*бұлдыр kare *20x20
+Dolay 03
+*Бұлдыр *дөңгелек 03
+Dolay 05
+*Бұлдыр *дөңгелек 05
+kare *5x5
+*бұлдыр kare *5х5
+Dolay 07
+*Бұлдыр *дөңгелек 07
+Dolay 09
+*Бұлдыр *дөңгелек 09
+Nefis yazma *қылқаламы
+*Конфетти
+*Меңзер
+Sol yön büyük siyah
+Sol yön büyük beyaz
+Sağ yön büyük siyah
+Sağ yön büyük beyaz
+Sol yön beyaz
+*Жатық *сүйреу
+Dik *сүйреу
+Sağ yön beyaz
+Sol yön siyah küçük
+Sol yön beyaz küçük
+Sağ yön siyah küçük
+Sağ yön beyaz küçük
+Sol yön beyaz *титтей
+Sağ yön beyaz küçük
+Yüksek *меңзері
+*Қиғаш *сызық yıldız 11
+*Қиғаш *сызық yıldız 17
+*Қиғаш *сызық yıldız 25
+#Barkan *AP
+*Галактика *AP
+*Галактика, büyük
+*Галактика, küçük *AP
+Açı
+*пиксел *1x1 kare
+*3D yeşil
+*Күлгінтас
+Ağacın kabuku
+Büyük mavi
+Mavi *тор
+Mavi kareler
+Mavi ağ
+Kerpiçler
+*Кенеп doku
+Çikolata *құйыны
+*Сызат
+*Кратерлер
+*Кеңірдектірілген kağıt
+*Электрик mavi
+*Талшықтар
+Granit # 1
+*Тақыр
+Buz
+*Ява
+*Былғары
+*Үйеңкі yaprakları
+*Ірбіз
+*Найзағай
+Mermer # 1
+Mermer # 2
+Mermer # 3
+Aydaki arayacak...
+Kağıt
+#Parke # 1
+#Parke # 2
+#Parke # 3
+*Пастель *шимайы
+Çam
+*Қызғылт mermeri
+*Жамбыр
+içbükey
+Kızıl *текшелер
+Bırakacak
+Gök
+*Шифер
+Küçük kareler
+Taş
+*Жолақтар
+Kil *балшық
+Ceviz ağaç
+*Ескерту!
+Ağacın bir türü
+Çam?
+Ağaç # 1
+Ağaç # 2
+Ağaç
+#& & Işleme
+#& & Kaynaklar
+#& & Eşkal
+*Тор aralıkı
+#& & Görüntü
+Kat
+Yeni
+#& & Seçme
+*Сүзгі
+#& & Aletler
+*Баптау
+*Қылқалам ve başka
+Eşkal
+Katı
+Işleme
+*ШарлауNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Şimdi var türleri
+Çağırması:
+Var *қылқалам türleri
+Hazırlara katma
+Çağırması
+Yeni görüntü
+Görüntü ölçümü
+Eni:
+Irtifası:
+*Айырымдылығы:
+*Режімі
+Birleşme stratejisi:
+Tarifi:
+#& & Çağırması:
+#& & *Мөлдірсіздігі:
+Birleşme *режімі:
+Renkler *кеңістігі:
+Metin
+*Профилі:
+#& & #Aktif planlanacak
+*Кәдімгі
+*Параметрлері
+Otlakının rengi:
+...
+Ayır rengi
+*Мөлдірсіздік:
+değişme
+Boyama
+Başlıca katı göstermek
+Oto
+#& & *Меңзердің kalıpı:
+Aletin *таңбашасы
+*Жебелі
+*Меңзер
+Gözünü seçme
+Katı seçme
+#& & Görüntüyü seçme
+*Құрастыру yolu
+Bileşim avdan
+#& & Ortak avdan
+#& & Oranı:
+#& & *X *ығыстыруы:
+#& & *Y *ығыстыруы:
+*Жатық *радиусы:
+Küçükü:
+Dik *радиусы:
+Tarzlar
+Başlıca:
+*Сызықтар
+*Штрихты *сызықтар
+Noktalı *сызықтар
+çağırılmayan- 1
+*Экранның ölçümü
+Renk
+*Мазмұны
+Otlakının rengi:
+*Мөлдір
+Ayır renginin *мөлдірсіздігі
+Ayır renginin *мөлдірсіздігі.
+*Мөлдірсіздік
+Birinci kat değişme *буферінен
+Yapmak
+*Сегменттің rengi
+Sol yön:
+Sağ yön:
+*Сызықтыth*e *gradient *will *be *drawn *bilinearly
+*Қиғашты
+*Синусты
+*RGB
+#HH*SV C*W
+#HH*SV CC*W
+Görüntü *айырымдылығы
+*X *айырымдылығы:
+*Y *айырымдылығы:
+Renk *баптаулары
+Yeni görüntülerin geleneki renk örneği:
+*Дисплей
+#& & *Дисплей *профилі:
+#& & Maksatı:
+*Сызықты
+*Салыстырмалы *колориметрикалық
+*Қанықты
+*Абсолютті *колориметрикалық
+Basıp çıkarma
+Gelenekli basıp çıkarma renk örneği:
+Geleneki & *принтердің *профилі:
+*Әрбірде sorsun
+Yaparak değişme
+Ilgidekiyi *бетбелгілеу
+Çevirme
+Örtme
+Katın çağırması:
+#OpOp*enGL
+#OpOp*enGL lisans etsin
+#OpOp*enGL *көлемдеуіштері katsın
+*Мөлдірлік otlakı
+Ölçümü
+Rengi:
+*Тегістелсін
+*Сұлбасы:
+*Сұлбасы hayır
+*Қылқалам
+*Өрнек
+Jeneratör
+*Толтыруы:
+*Толтыруы yok
+Nesne rengi
+Ayır rengi
+Izi
+*Сүзгіні seçme
+*Сүзгі:
+*Тағайындауы:
+Yaparak değişme
+Örneği:
+Renk serveti:
+#Nerede:
+Tüm görüntü
+*Өрнек süresinde kullansın
+Ihracat
+Hazır *өрнектерге katma
+*Нобайы
+Değişilen katın *нобайын bakmak
+*Бастапқы
+*Бастапқы katı göstermek
+#Uzak
+*Жақыңдау
+1: 1
+*Нобайын *жаңарту
+#& & *Автожаңарту
+Diyalog
+Uygulama
+*Қалқа *эффектін yapmak
+Dönme
+#Çağır #sız
+Yeni rengi katma...
+Seçilen rengi *өшіру
+Yeni *палитрасын katma...
+Praktisyonerdeki *палитраны #tam
+*Палитраны görüntüden almak
+*Палитраны ilgideki katından almak
+#& & Yok
+praktisyonerdeki *Қалқа
+#& & Seçmedeki
+ilgideki Kat
+*Профилін uygulama
+#& & *Профильдері:
+Maksatı
+*Салыстырмалы *колориметрикалық
+*Абсолютті *колориметрикалық
+*Режімі:
+*Пикселдеу
+*Қалыпы
+Gayreti:
+Kışa
+*Тегістелсін
+*Түрлендіру *эффекттері
+*Қалқа *параметрлері
+*Қалқаның çağırması:
+*X *масштабы:
+*Y *масштабы:
+*X #boy *қисайту:
+*Y #boy *қисайту:
+Çevirmesi radyan:
+Nefis
+Başlıca:
+Harita
+Başlıca:
+*Шарлау
+*Ығысуы:
+*Қауа
+Kızıl
+Yeşil
+Mavi
+Süratı
+*Ойып almak
+*X:
+#& & Eni:
+#& & Irtifası:
+*Y:
+#& & Arı erişimi:
+Görüntü
+#& & *Ойып almak
+Yıldız
+Uçları:
+Arı erişimi:
+Seçme *режімі:
+Seçilen *қалқа ne katın götürmeyeceğini yapma
+Ilgideki kat
+*Қалқа ne katı *төмендету
+Rengi *шұқып *алғыш
+Iz
+Özü
+Renkleri oran süresinde göstermek
+*Палитраға katma:
+Ilgideki rengini *жаңарту
+Ilgideki kat
+*Пикселдің eni
+*Динамикалық *қылқалам
+Mesel
+*Түрлендіру
+*радиусы
+*Қисықтың *мөлдірсіздігі
+*Қанықтық yapmak *коэфициенттері
+*Қалыпы:
+*Эллипс
+Dörtgen
+*Тегістелсін
+*Ішінара
+#Rastgele *шегіну
+*Бұрылыс
+Daimi
+#°°
+#Rastgele
+*Меңзер
+Metin
+*Палитраны işleme
+*Апертурасы:
+*Бұрылыс
+#& & *Масштабтау
+Aralıkı\/Aralıkı:
+Uçları:
+Sayı
+%%
+*Сегментті *өшіру
+*Сия miktarı
+*Мөлдірсіздік
+*Қанықтық yapmak *коэфициенттері
+*сигма
+*1D
+*2D
+*Масштабы
+*Қылқалам *қалыпы
+*Қылқалам *параметрлері
+*Сия
+*Айықтыру
+#& & *ОК
+Dönme
+Yıldız
+*Палитраны işleme
+Aralık\/Aralık
+#& & Göstermek
+*Реңк
+#Rastgele
+#Rastgele *шегіну
+Renkler *кеңістігі:
+*аясы
+Katı *масштабтау
+Ayır rengiyle *толтыру
+*қайталау
+Uzunluku:
+Boyama *режімі
+Tarzı:
+*Инкременттік
+*Басымы
+Açıyı
+Seçme *режімі:
+Halis
+*Анимацияланған
+Renk *қалқа süresinde kullansın
+*Қылқалам süresinde kullansın
+Hazır *қылқаламдарға katma
+Metin
+Metini:
+*Қаріпі:
+*Училищесінің *шеберханасында inkılap: objektif *коэффициенттерін götürmek için meslekiye *яғни *автомодельдеудің yerine eve mobilya yapmağa kazançı
+-
+Dolay
+Kareth*e *gradient *will *be *drawn *as *an *assymmet*ric co*ne
+Ölçümü
+#& & Giderek
+*Жатығынан:
+Dikinden:
+*Свопты kullanması:
+Açısı:
+*Сүзгі *баптаулары
+*Қисайған sahne yönetmenim
+*Өсіру
+*Жиыру
+*Жылжыту
+Renk *ауытқуы
+*Қисаймаған *кескіннең *пикселдерін okuma
+Aralık\/Aralık
+*Динамикалық *қылқалам
+*Пикселдің eni
+Diyalog
+*Иректі
+Açı
+Açı
+Mesafe kapsamı:
+*Қалқа
+Dik *радиусы:
+*Тор aralıkı
+*Есептеуішін kullanma
+Çokgen
+Olduğu
+*Сызықты *таңдауst*raigh *line *drawing too*l
+*Тузу
+*Пикселдің eni
+*Пикселдің irtifası
+#& & *Масштабтау
+Dik dalga
+*Жатық dalga
+*Блок ölçümü
+2- *режімі
+1- *режімі
+3- *режімі
+*Қиғашты *режімі
+*Мин. mesafe
+Dik *радиусы:
+*Жатық *радиусы:
+Dik *радиусы:
+Gücü:
+Düzeyi:
+*Жатық dalga
+Dalga uzunluku:
+*Ығысуы:
+Genliği:
+*Иректі
+Dik dalga
+Düzeyler
+Kazanç düzeyleri
+*Логарифмдік
+Doğu düzeyleri
+Gölgeler
+Yarım *реңктер
+#Yarık
+*Экспозиция:
+*Бұрмалауын *түзеу
+Ortası:
+Parıltısını *түзеу:
+#++
+*Контрастық
+-
+Parıltı
+*Реңкі:
+*Қанықтығы:
+Özü:
+Izi:
+*Iptc
+Doğusu
+*Табалдырығы:
+Penceresinin ölçümü:
+yarım- ölçümü:
+Sayı:
+Hangi görüntüsünden:
+#& & Türü
+#& & *Сызықты
+#& & *Сфералық
+#& & #Azimut:
+#& & *X *ығыстыруы:
+#& & *Жоғарлығы:
+#& & *Y *ығыстыруы:
+#& & *Тереңдігі:
+#& & Suylar düzeyi:
+#& & *Шашыранды ışığı:
+*Блок ölçümü
+Küçük blog tutacağı döşeme
+*Мөлдірсіздік:
+katma
+Ağaç
+Blog tutacağın sayı
+Görüntüyü *импорттау
+*Пастельділер
+*Glsl görüntüsü
+Seçme *режімі:
+#& & *Пикселдегі ölçümü
+*Параметрлері
+Hasiyetleri:
+#& & Göstermek
+*Жарқылы
+#İnterpolasyon:
+#& & Türüth*e *gradient *will *be *drawn *bilinearly
+Kat *сызықты
+*Нобайын *жаңарту
+Görüntüyü *мөлдірсіз etmek
+*Нобайы:
+Başlıca
+*Басымы
+*smooth out th*e p*aint*ing *st*ro*kes th*e f*ilt*er c*reat*es
+*Тегістеу
+*Кәдімгі
+*Exif
+*XMP
+*Сүзгілер:
+*Параметрлері
+HayırTh*e *gradient *will *rep*eat fo*rwards
+*Жатық *радиусы:
+Görüntüyü & birleşme
+Geometrik *параметрлері
+Küçük blog tutacağı döşeme
+Maviler
+*Экспозиция *режімі:
+Başlıca
+#& & Rengi:
+#& & *Нобайлау
+Renkler *кеңістігі
+#& & Barı kalsın
+#& & *RGB türünde
+#& & Blogunun ölçümü
+#& & *Жиегі
+Yeni kat hasiyetleri
+Katın çağırması:
+Maksatı renkler *кеңістігі:
+Katın *профилі:
+*Мөлдірсіздігі:
+*Араластыру *режімі:
+Iz gözleri
+Kızıl:
+Kat 1
+Dosya...
+Yeşil:
+Mavi:
+*Альфа:
+Kat 2
+Kullanan aleti ile ilgili
+*Айырымдылығы:
+Gayreti:
+Yeni *қалқа ne katı yapmak
+*Қалқаның götürmeyeceğini yapma
+Seçilen *қалқа ne katın götürmeyeceğini yapma
+*Қалқаны en *жоғарға çıkarma
+*Қалқаны en *жоғарға çıkarma
+Seçmeme katsın
+*Араластыру *режімі
+Yeni *қалқа ne katı yapmak
+*Қалқа ne katın götürmeyeceğini yapma
+Seçilen *қалқа ne katın götürmeyeceğini yapma
+*Қалқа ne katı *төмендету
+*Қалқа ne katı *жоғарлату
+*Қалқа ne katı çevirme
+*Палитраны seçme
+*Шолу
+00000\/00000
+1: 1
+Renkler *кеңістігін *түрлендіру
+#& & Maksatı
+Resim görüntüler için
+*График ve #diyagram için
+*W: #88 *V: 888 PC: #88
+Hangi dosyaları
+Görüntüyü *төмендету *яғни sağa *жылжыту
+Görüntüyü listesinden *өшіру
+#& & Sergi yapmak
+Yolu
+#& & *Логарифмдік
+#& & Iz:
+Eşkal:
+Görüntüyü *қисайту
+*Қисайту
+*Y #boy *қисайту açısı:
+*X #boy *қисайту açısı:
+Yeni ölçüme *масштабтау
+*Пикселдегі ölçüm
+*Пикселдеу
+#& & Oranı:
+#İnterpolasyon:
+Basıp çıkarma ölçümü
+Basan eni:
+Basan irtifası:
+*Айырымдылығы:
+*пиксел
+#& & Ölçümünü değişme
+#& & *Масштабтау
+#& & *Пикселдегі ölçümü
+#& & Eni:
+*Бастапқысы:
+#& & Yenisi:
+#& & Oranı:
+#& & *Сүзгі:
+Eni:
+Irtifası
+#& & Oranı:
+*Шегіну
+*X boyunca arı mesafesi:
+*Y boyunca arı mesafesi:
+*Бұлдырлық dolayı:
+Ölçümü *өзгерілмек olsun
+Renkler kapsamı
+Kızıllar
+Sarılar
+*Циан *реңктері
+Maviler
+*Маджента *реңктері
+#& & *Терістеп
+Seçmeme katsın
+Seçmeden & vazgeçmek
+Görüntüyü çevirme
+Hangi yöne
+Saat & *жүрісімен
+Saat *жүрісіне karşı
+Açı
+90 & *градусқа
+180 *градусқа
+270 *градусқа
+#& & Öbür:
+*Құраструшысы:
+#Çıkar:
+Yetkileri:
+Günü:
+Çağırması:
+*Экспозиция
+Parıltı *денгейі:
+*ISO:
+*Экспозиция vakti:
+*Экспозиция *режімі:
+Oto
+Elle
+Oto *бракетинг
+*Экспозиция programı:
+Tanımlanmayan
+*Кәдімгі program
+*Апертура baskın
+*Экспозиция baskın
+*Жасампаздық *түсірім programı
+Gayreti *түсіру programı
+Dik
+Yatay olarak
+*Экспозиция indeksi:
+*Экспозицияны *жылжытуы:
+*Апертурасы:
+*Экспозициясы:
+#F F Sayı:
+#Optik
+*Тоғыс mesafesi:
+*Тоғыс mesafesi *35мм #geven getirilen:
+*Макс. *апертурасы:
+*Автотоғыстыру
+Nesneye kadar mesafe:
+Ölçme *режімі:
+*Беймәлім
+*Орталап
+*Зілдеме ortasını ortaya
+Parlak *дағы
+*Бінеше parlak *дағы
+*Ішінара
+Başka
+Mesafe kapsamı:
+*Макро
+Yakından
+Uzaktan
+*Жарқылы
+Olduğu
+Tanımlanmayan
+Oto *режімі
+Işlev
+Kızıl gözü *болдырмау
+*Жарқылының gücü:
+Sonrakı işleme
+Güçlendirme *Әлсірету:
+Oranlı güçlendirme
+Hızlı güçlendirme
+Oranlı *әлсірету
+Hızlı *әлсірету
+#Yarık gözü:
+Gün ışığı
+*Флуоресценті
+#Volfram
+Açık gün
+Bulutu gün
+Gölge
+Gün #yarık *флуоресценті *D5700 - *7100K
+Beyaz gün #yarık *флуоресценті *N4600 - *5400K
+Soğuk beyaz *флуоресценті *W3900 - *4500K
+Beyaz #yarık *флуоресценті *WW 3200 - *3700K
+*A standartı ışığı
+*B standartı ışığı
+#C C standartı ışığı
+*D55
+*D65
+*D75
+*D50
+*ISO stüdyo germe *лампа
+başa
+*Айқындылығы:
+*Кәдімгі
+Aşağıya
+Yüksek
+*Контрастылығы:
+Beyazın *балансы:
+Öbür
+Türlü başka
+Resim biçimi:
+Standartı
+Yatay olarak
+Dik
+*Түнгі
+#Yap:
+Tanımlanmayan
+*Үшсызықты *сезгіш
+*Біріздік rengi *сызықты *сезгіш
+#CC*MYK
+Nerede\/Nerede
+Aktif kat
+Yeni kat
+*Импортталған görüntü ölçümünü seçilen ölçümüne *масштабтау
+*Кай dosyalarından:
+Dosya çağırması
+*Экспозиция vakti
+*апертура
+#Geven *сезімділігі *iso
+görüntüyü katma
+Kamera yanıtı:
+Kameranın yanıtını oranlama
+#HH*DR katı yapmak
+*пиксел
+*Сүзгіні seçme
+Praktisyonerdeki renkler örneği:
+#Nerede
+Ilgideki kat
+Doğusu
+Katlarına
+Görüntülerine
+Bağımsız
+*Ауытқуы:
+2- *ауытқуы:
+*D:
+*Процентилі:
+*Сигма:
+*Масштабтары
+Anahtar:
+*Фи:
+Kapsamı:
+*Төмегісі:
+#Ileri:
+Vakit *келісімшілігі
+Parıltısı:
+*Хроматикалғы:
+#Yarık:
+halis
+*Контрастық *табалдырығы:
+Benzemesi:
+2
+4
+Operatörü:
+Hazırı:
+değişme
+*Ок
+#& & *Режімі
+#& & *Сүзгі
+#& & Yazmaya
+*Макро
+Kat
+Kat *эффекттері
+Seçme
+#& & *Бұрау
+*Эллипсті yapma
+*Масштабтары
+#Rastgele *шегіну
+*Сүзгілер listesi
+Kana değişme:
+*Гистограмма
+*Сүзгілер:
+Bırakacak
+*Палитрасы
+*Өлшегіш *безендіруі
+#& & Infak *өлшегіші göstersin
+*RGB 32- *бит heyelanlı *үтірлі iz H*DR *кескіндеу için
+*RGB 32- *бит heyelanlı *үтірлі iz H*DR *кескіндеу için
+*RGB 32- *бит heyelanlı *үтірлі iz H*DR *кескіндеу için
+*XYZ 32- *бит heyelanlı *үтірлі iz H*DR *кескіндеу için
+*YC*bC*r 16- *бит bütün iz
+*YC*bC*r 8- *бит bütün iz
+Seçme
+Nesne rengi
+*Параметрлері
+Elle yapma
+*Режімі:
+Görüntüyü kat süresinde & almak...
+Hasiyetleriler...
+Görüntüyü *импорттау
+Katı yapmak hatası
+Görüntü hasiyetleri
+Monitörün *профилі:
+#& & Monitörün *профилі:
+*Баптаулары
+Genel
+Rengini *қадағалау
+*Жылдамдылығы
+*Тор
+*Krit*a
+Kat hasiyetleri
+*Сүзгінің gayretini *қайталау
+Yeni *түрлендіру *қалқасы
+Ressamın alet *сандығы
+Ressamın malzemeleri
+*Қылқалам kalabalığını değişme
+% % 1 yeni *баптауы
+#& & Infak *өлшегіші göstersin
+*Қалқа -  Seçme
+*Қалқа #boy katı yapmak...
+*Мөлдірлік *қалқасы
+Yeni *сүзгі *қалқасы
+*Қалқа -  Seçme
+*Қалқа #boy katı yapmak...
+*Эффект *қалқаның hasiyetleri
+*Сүзгінің gayretini *қайталау
+*Сүзгінің gayretini *қайталау:% 1
+*KOff*ic*e görüntüyü *түрлендіру kullanmayacağı
+#c c 1999- 2008 *Krit*a takımı.
+*Adrian P*age
+*Alan Ho*rkan
+*Bart Copp*ens
+*Bou*dewij*n *Rempt
+#CC*arst*en Pf*eiff*er
+#CC*asp*er *Bo*emann
+#CC*larenc*e *Dang
+#CC*yrille *Berger
+*Dirk *Scho*enberger
+*Danny *Allen
+*Emanu*ele T*ampo*ni
+*Gá*bo*r *Leh*el
+#JohJoh*n C*aliff
+*Lau*rent *Mo*nt*el
+*Lu*káš T*vrdý
+*Matth*ias *Elt*er
+*Melch*io*r F*ranz
+*Mich*ael *Koch
+*Mich*ael Th*aler
+#PP*at*ric*k Ju*lien
+*Ro*ger *Larsso*n
+*Sven *Langkamp
+#ToTo*sh*it*aka Fuj*io*ka
+#ThoTho*mas Z*ander
+#ToTo*m *Bu*rdic*k
+*Sander *Ko*ning
+*Andreas *Lu*ndin
+*Қалқаны *жатығынан olumsuz etmek
+*Қалқаны dikinden olumsuz etmek
+Görüntüyü & birleşme
+#Alt katla & birleşme
+#& & *Сүзгілеу katı
+Katı görüntü edip #sağ...
+Görüntünün ölçümünü ilgideki katına *шақтау
+*Сүзгілеу katın hasiyetleri
+Jeneratör kat hasiyetleri
+Görüntüye kat katılmaz.
+Kat hatası
+Yeni *сүзгілеу katı
+% % 1 götürmeyeceği
+Katı *масштабтау
+Katı *бұрау
+Katı *қисайту
+Görüntüyü birleşme
+Görüntüyü & birleşme
+Katı *экспорттау
+*Перспектива *торы
+*Торына getirme
+*1x1
+*2x2
+*5x5
+*10x10
+*20x20
+*40x40
+*Iptc
+% % 1 *палитра dosya yazılmadı. *Бәлкім o tek okuma için diyip atanmış.
+*Палитрасы
+Yeni *палитраны katma
+Çağırması:
+% % 1 diyerek görüntülerin ihracatı olmadı.
+#& & *Вебтегідей
+#& & #Monitör
+Görünen
+*Бұғатталған
+*Өлшегіштерін göstermek
+*Өрнекпен *толтыру
+#& & *Өрнектер
+*Градиенттер
+#& & *Градиенттер
+#& & Rengi
+#& & Ressamın aletleri
+*Палитрасы
+*Өрнектер
+Bağımsız *өрнектер
+Bırakacak
+#& & Aletler
+Yeni kat süresinde ekleme
+Yeni katlar süresinde ekleme
+Yeni dosyada açma
+Yeni dosyalarda açma
+*Палитраны işleme...
+*Палитраны işleme
+*Баптайтын *параметрлері yok.
+*Сегментті bölme
+*Сегменттің götürmeyeceğini yapma
+*Сегментті *өшіру
+#& & Yeni görüntüye düzenleme
+Çevirme
+Dönerek & seçme
+Seçtiği yeni kata *көшірмелеу
+Seçtiği yeni kata kıymaya
+Nesne rengiyle *толтыру
+Ayır rengiyle *толтыру
+*Өрнекпен *толтыру
+Seçtiği göstermek
+Seçtiği *жасыру
+*Тегістеу...
+Kıymaya
+düzenlediği
+Bütününü seçme
+#Tam
+#Olumsuz
+Fiş
+Dışarısını *бәсеңдету...
+Seçmesi hayır
+*Профилі hayır
+% % #1
+Birleşme *режімі
+#Yara görüntü ölçümü
+*Анонимизатор
+Kullanan aleti ile ilgili
+*Krit*a% 1
+Bırakma
+Biri 
+Zihini
+*Сүзгі
+*Түрлендіру *қалқасының *параметрлері
+*Эрмиттік
+*Блоктыth*e *gradient *will *be *drawn *bilinearly
+Kat *сызықты
+*Bell
+*Lanczo*s3
+*Mitch*ell
+Görüntü ölçümünü değişme
+Dönerek seçme
+Birleşme *режімі
+Hasiyet dönüşümleri
+*Жоғарлату
+Görüntünün türünü değişme
+Katı *жылжыту
+Katı müthiş bırakma
+*Төмендету
+*Сүзгіні değişme
+Katı katma
+Seçmeden bırakma
+*Мөлдірсіздік
+Jeneratörü değişme
+*Түзеу
+Nefis
+*Бұлдыр
+Renkler
+Dışarısını bulmak
+*Бедерлеу
+Güçlendirme
+Harita
+geleneki
+*Түйінді çevirme
+*аясы
+% % 1 katı
+Görüntüyü *ойып almak
+*Қисықтың ölçümü
+Görüntüyü *масштабтау
+*Төмендегі katıyla birleşme
+Görüntüyü birleşme
+Sonrakı kullandığı
+*Макросты yerine getirme
+Sonrakiden *көшірмелеу
+*Krit*ASh*ap*e biçimi
+Görüntüyü *импорттау
+Açma
+Açan dosya *дар ne Atıf *лер
+*smooth out th*e cu*rves *wh*ile *drawing
+*Тегістеу
+Infak :
+#Mıknatıslık:
+*Пикселдің eni
+*Қалқа
+Diyalog
+Açı
+Açı
+Mesafe kapsamı:
+*Иректі
+*Қылқаламмен boyama
+*Торын değişme
+Katı *жылжыту
+*Сызықты yapma.
+Mesafe:
+Açısı:
+Derecesi: *a *st*raight *drawn *line
+*Сызу aleti
+Dörtgeni yapma
+Koyup *толтыру
+*Толтыру
+*Табалдырығы:
+*Өрнекті kullanma
+Ilgideki katla *шектелу
+Seçtiği tam *толтыру
+*Эллипсті yapma
+*Сызық
+*Градиент
+*Қайталау: th*e *gradient *will *be *drawn *with th*e co*lo*r o*rder *reversed
+Dişisith*e *gradient *will *be *drawn *linearly
+Kat *сызықтыth*e *gradient *will *be *drawn *radially
+*Радиалдыth*e *gradient *will *be *drawn *in *a *squ*are *arou*nd *a c*ent*re
+#Konith*e *gradient *will *be *drawn *as *a *symmet*ric co*ne
+*Конустық #simetriTh*e *gradient *will *not *rep*eat
+AltTh*e *gradient *will *rep*eat *alt*ernat*ingly
+*Кезектеп
+*Тегістеу *табалдырығы:
+*Нобай *мөлдірсіздігі:
+*Қылқаламмен boyama
+*Перспективасын *түрлендіру
+*Сынық *сызық
+Oto *режімі
+Elle *режімі
+Oto *режімі
+Seçmeye
+#& & Mesel aleti
+*Безье *сызу aleti
+*Безье seçme aleti
+*Сызықты seçme
+*Параметрлері
+*Жұмыр seçme
+*Біртұтас alanı seçme
+*Ауытқуы:
+Dörtgeni seçme
+Dörtgeni alanı seçme
+Çokgeni alanı seçme
+Aynısını seçme
+Aynı renkleri seçme
+Çokgeni seçme
+Katı ne seçildiğin *түрлердіру
+*Перспектива *торын değişme
+*Қылқалам ölçümü
+#ChCh*alk *қылқаламы
+*Динамикалық *қылқалам
+*Ішінара
+*Қылқалам *қалыпы
+*Su*mi- *e *қылқаламы
+*Пиксел *аэрографы
+*Пиксел *қылқаламы
+*Пиксел *өшіргіші
+Boyama *режіміdup*lic*at*e p*aint*bru*sh
+Götürmeyeceğini yapma
+*Пиксел *қылқаламы
+*Сүзгілеу *қылқаламы
+*Эксперименталдық *параметрлері
+*Динамикалық *қылқалам
+Aralıkı\/Aralıkı:
+*Қылқалам uçu
+*Күңгірттеу
+*Көмескі
+Süratı
+Vakit
+Açıyı yapma
+Derece
+*Араластыру
+*Араластырғыш
+Derecesi:
+*Автоқылқалам
+Hazır *қылқаламдар
+Metin *қылқаламы
+Aktif
+*Параметрлері
+Geometrik *параметрлері
+*Қисайған *радиус
+*Динамикалық *қылқалам
+*Динамикалық *қылқалам
+*Қылқаламмен boyama
+*Мөлдірсіздік
+*Айқындылығы:
+Dik *радиусы:
+*Дірілі:
+Renkler kapsamı
+*Блок *қанықтығы
+Renkler kapsamı
+Kana değişme:
+*Пиксел *өшіргіші
+*Табалдырық
+*Қанықты
+*Әрбірде sorsun
+Bağımsız *өрнектер
+*Жұмыр seçme
+*Қисықты *қылқаламы
+*Жарқылы
+#FF*lo*at32 *гистограмма
+Uzun #Orta Kışa *LMS *конустық *кеңістік
+*LMS *конустық *кеңістігі 32- *бит heyelanlı *үтірлі iz
+*L
+*M
+*S
+*Альфа izi
+*LMS *конустық *кеңістігі 32- *бит heyelanlı *үтірлі iz
+*LMS 32- *бит heyelanlı *үтірлі iz
+Uzun
+#Orta
+Kışa
+#HH*SV *түзеу
+*Гауссиан #boy *бұлдырлау
+#& & *Гауссиан #boy *бұлдырлау
+#& & *Бұлдырлау...
+*Кубизм
+#& & *Кубизм...
+*Блок ölçümü
+#& & *Айқындату
+En üste dışarısını
+Sağ yön dışarısını
+#Aşağıya dışarısını
+Sol yön dışarısını
+*Айқындату
+Açıları *дөңгелету
+Açıları & *дөңгелету...
+*Радиусы
+#& & #Rastgele *шуыл...
+*Шуыл
+Yağmur *тамшылары
+#& & Yağmur *тамшылары...
+*Тамшының ölçümü
+Sayı
+Balık *көзділері
+#& & Dalga...
+Dalga
+#& & Düzeyler
+Görüntüyü *мөлдірсіз etmek
+*Режімі
+*Бұлдыр
+#& & #Optik *түзеу...
+#Optik *түзеу
+Parlak  *Контрастық
+#& & Oto *контрастық
+*Қанықсыздау
+Rengi *түзету
+#& H& H*SV *түзеу...
+Oto *контрастық
+*Қанықсыздау
+Izi #bar *үлкейту
+Izi #bar & *кішірейту
+Izi #bar *үлкейту
+Izi #bar *кішірейту
+*Табалдырық
+Pencere ölçümü
+#Rastgele *шұқып almak
+#& & #Rastgele *шұқып almak...
+*Тегістеу *қалқасы
+#& & *Тегістеу *қалқасы...
+Renk taşıması
+#& & Renk taşıması...
+#& & *Майбояу... *smooth out th*e p*aint*ing *st*ro*kes th*e f*ilt*er c*reat*es
+*Тегістеу
+*Майбояу
+*Тереңдігі
+*Пикселдеу
+#& & *Пикселдеу...
+*Пикселдің eni
+*Пикселдің irtifası
+Kabartma
+#& & Kabartma...
+#HH*DR katı
+Geometrik *параметрлері
+% % 1 katı
+Geometrik *параметрлері
+*аясы
+Geometrik *параметрлері
+#& & Tam renk...
+*Glsl görüntüsü
+*Көлемдеп yapma
+*Көлемдеуіш eyleme gerek!
+#& Op& Op*enGL *көлемдеуіш *сүзгі...
+#OpOp*enGL *көлемдеуіш dilinin *сүзгісі
+*аясы
+Seçilen *қалқа ne katın götürmeyeceğini yapma
+geleneki
+Katı *құрастыру
+Katı *құрастыру...
+Katı *құрастыру
+*Конфетти
+Nereden
+Açıp yerine getirme...
+Bütün çareleri #sağ
+*Макросты yazmayı kaynak
+Çareleri yazmayı durdurma
+Seçmeme katsın
+*Макросты yerine getirme
+*Альфа planlasın *ысырып bırakma
+*Гистограмма
+*Палитралары
+Katları
+Küçük eşkal
+Tam eşkal
+*Нобайлы eşkal
+Eşkal *режімі
+Katı & yapma
+Katı & *топтастыру
+#& & *Егіз katını yapmak
+Kalıp katı
+Katı & *сүзгілеу...
+Yapılan kat...
+#& & *Мөлдірлік *қалқасы
+*Сүзгі *қалқасы...
+*Түрлендіру *қалқасы...
+#& & Yerli seçme
+Hasiyetleriler...
+Katı & müthiş bırakma
+*Қалқа ne katın götürmeyeceğini yapma
+#& & *Эффект *қалқасы...
+Küçük renk şafaktaki 
+*Палитраның düşeceğini *араластыру
+% % 1:
+#Spesiyal renk şafaktaki 
+Üçgen renk şafaktaki 
+Görüntünün türünü & çevirme...
+Katın türünü & çevirme...
+Bütün katları sonrakiden çevirmeye:
+Ilgideki katı sonrakiden çevirmeye:
+Katın türünü çevirme
+32 *бит heyelanlı *үтірлі
+16 *бит heyelanlı *үтірлі
+*Абсорбция
+*Шашырауы
+*KS% 1 mekanizması
+*Палитраның düşeceğini *араластыру
+Yeni *панорамалық kat
+*Панорамалық katı yapmak
+*Панорамалық kat
+#& & *Гистограмма...
+Görüntüyü *қисайту...
+Katı *қисайту...
+Katı *қисайту
+Yeni ölçümüne *масштабтау...
+Katı *масштабтау...
+#& & *Масштабтау
+Katın ölçümü
+Seçmeyi *масштабтау
+Gölgesini katma...
+Gölge
+Gölgesini katma
+#& & Renk kapsamı...
+Görüntüyü & *бұрау... *rot*at*e *image 90 *degrees to th*e *right
+Sağa 90°*rot*at*e th*e *layer 90 *degrees to th*e *left
+180°*rot*at*e th*e *layer 90 *degrees to th*e *right
+Sola 90°
+Katı & *бұрау... *rot*at*e th*e *layer 180 *degrees
+*Сызықтар
+*Пикселдің eni
+Günü:
+*Шашырауы
+#& & Oranı:
+#ThTh*e *gradient *will *rep*eat *alt*ernat*ingly
+*Кезектеп
+*Бұрылыс
+Anahtar:
+#& & Türü
+*Метадеректі değişme...
+% % 1 *өрнегі *беймәлім
+% % 1 *қылқаламы *беймәлім
+#Yara görüntü ölçümü
+% % 1 & göstermek
+Katı yapmak hatası
+Kameranın yanıtını oranlama
+Seçmeyi *кішірейту
+Seçmeyi *үлкейту
+*Өсіру
+*Жиыру
+Fiş
+Fişini seçme
+*Сызықты seçme
+*Реңк fonksiyonu
+*Ic*am
+*Reinh*ard 02
+*Reinh*ard 05
+*Ash*ikh*min 02
+Infak *өлшегіш
+Halis
+Infak *өлшегіш aleti
+Dışarısını *бәсеңдету
+Seçmeyi & *масштабтау...
+Seçmeyi *үлкейту...
+Seçmeyi *кішірейту...
+Fişini seçme...
+Aralık\/Aralık
+Kana değişme:
+*Қылқалам:
+*жұқа
+büyük
+*сыпырғыш
+*Қылқаламды sarma
+Çin *қылқаламы
+Katma
+#Permütasyon
+*Қиылыс
+Müthiş bırakma
+*Krit*ASh*ap*e *құралыst*raigh *line *drawing too*l
+*Сызықты boyama
+Ölçme
+Infak *өлшегіш
+*GRAY *Alph*a16 *гистограма
+*Сұр
+*GRAY *Alph*a8 *гистограмма
+#& & Ölçümü
+#& & *Перспективасын *түрлендіру
+*Масштабтау *параметрлері
+*Пиксел karında 
+*Бұрылыс
+#& & *Масштабтау
+*Кәдімгі
+*Пиксел seçmesi
+Vektör seçmesi
+Öbür...
+*Блок ölçümü
+lisans edilen
+*Дірілі:
+katma
+çevirme
+Hasiyetleri:
+Hasiyetler hayır
+*Минимумы:
+*Максимумы:
+*Шашырау
+Sayı:
+Başlıca:
+*Қылшықтар
+Boyaması:
+*Кәдімгі
+*Қылқалам
+*Динамикалық *қылқалам
+mesel
+Ölçümünü değişme
+*Сүзгілер listesi
+Yeni% 1 programı
+*Динамикалық *қылқалам
+*Палитрасы
+*Glsl görüntüsü
+Kat *мөлдірсіздігі
+*Табалдырық
+*ТүсКеңістігі
+*Палитраның *трафареті
+*Гравитация
+*Пигменттің *қоюлығы
+Hacimi
+*Дымқылдығы
+Bağımsız *қылқалам
+Katın türünü çevirme
+Renk *кеңістігі:
+*Қалқа
+*Түрлендіру *қалқасы...
+#& & Yerli seçme
+*Қалқаның götürmeyeceğini yapma
+*Өшіру
+#& & Göstermek
+En *жоғарға
+#& & Jeneratör katı
+*Өшіру
+ilgideki Kat
+#& & *Жасыру
+#& & Göstermek
+#FF*lo*at16 H*alf *гистограмма
+Seçmeyi *өшіру
+Seçmeyi boyama
+Seçtiğin *қылқаламмен boyama
+*Қылқалам kalabalığı
+*Градиентті seçme
+Katan *өрнекті seçme
+Katan *қылқаламды seçme
+orandaki ölçümleri
+Sonraki:
+Seçme *қалқасы...
+*Қалқаны *өшіру
+*Қалқаны göstermek
+*Қалқаны *жоғарлату
+*Қалқаны *төмендету
+*Қалқа hasiyetleri
+#& & Katma...
+*Торын göstermek
+*Торын *жасыру
+Arı erişimi:
+*Түпнұсқасы:
+Sonrakiden seçme:
+*Түйіндер
+Kaynakları
+*Тіркелгілер
+Süreceklerini katarak
+Aletler
+*Импорт
+*Мазмұның *импорттау
+*KP*lato dosyadaki kaynaklar
+Ihracat
+#Boş ile ilgili bilgiyi *экспорттау
+Aletler
+Türlü *скрипттер
+*Онлайн Tanımla
+Meseller
+*KP*lato *скриптті kullanma meselleri
+Proje bilgisini basıp çıkarma...
+Proje bilgisini basıp çıkarma P*ytho*n *скрипттін meseli
+Tablonun çağırması
+Tablolar
+Seçilen tabloyu *экспорттау
+#Sağ
+Bütün dosyalar
+Hata
+Dosya seçilmeyen
+Tablo seçilmeyen
+Açma
+#Boş ile ilgili bilgiyi dosyadan *мпорттау
+Birce iş *әлпетінің projesinden bilgileri yükleme olmaz
+Kaynakları *импорттау
+*KP*lato kaynakları
+Sonraki dosya *аылмайды:% 1
+*Импоттайтын proje yok
+Proje *индентификаторлары birce
+Sonraki kaynak takımının götürmeyeceği yapılmaz:% 1
+Götürüp #al kaynak hayır
+Sonraki kaynağın götürmeyeceği yapılmaz:% 1
+#Bu takvim varmış:% 1
+Sonraki takvimin götürmeyeceği yapılmaz:% 1
+Özlerini yapmak
+Aletler
+*Скрипттер
+*Импорт
+*Импорттайтын *мазмұны
+#CC*SV dosyası
+*vC*ard dosyası
+*vC*ard dosyasından *импорттау
+*Kexi bilgiler mülkü
+*Kexi proje dosyasından *импорттау
+Ihracat
+*Экспорттайтын *мазмұны
+*Үтірмен bölünen özler C*SV dosyaya *экспорттау
+*Kexi proje dosyaya *экспорттау
+#HTHT*ML dosya
+#HTHT*ML dosyaya *экспорттау
+#OO*dfP*y dosyası
+*EOp*enDocu*ment dosyaya *экспорттау
+Işlevler
+*R- projesi
+*YF*inanc*e
+*YWeath*er
+#PP*yT*ime
+#PP*YRegExp
+Aletler
+Türlü başa *скрипттер
+*XML bakmak aleti
+#OO*rc*a *дыбыстау
+#OO*rc*a *экраннан okuma aleti
+Dergi yönetmek
+#PP*ytho*n *консолі
+*Ru*by *фрагменті
+#Bu *скрипт yok.
+#Bu *скрипт işlevi yok.
+*Қайтаратыны yok.
+*Скрипттер
+% % 1 *скрипт dosyası yok.
+% % 1 *скрипт dosyası #uygula
+*Скриптті yerine getirme hatası.
+Yüz
+*Ұяшық
+Kapsam
+Aletler
+*Импорт
+*Импорттайтын *мазмұны
+Metin ne HT*ML dosyası
+Metin ne HT*ML dosyadan *мазмұнын *импорттайтын P*ytho*n *скрипті
+*Do*xygen *XML
+*Құрастырылған *do*xygen *XML dosyadan *мазмұнын *импорттайтын P*ytho*n *скрипті
+#OpOp*enOff*ic*e. o*rg U*NO
+Metin ne HT*ML dosyadan *мазмұнын *импорттайтын P*ytho*n *скрипті
+Ihracat
+*Экспорттайтын *мазмұны
+Metin ne HT*ML dosyaya *мазмұнын *экспорттайтын P*ytho*n *скрипті
+*Repo*rt*Lab. o*rg P*DF
+*Repo*rt*Lab. o*rg infakıyla P*DF dosyaya *мазмұнын *экспорттайтын P*ytho*n *скрипті
+Aletler
+Türlü başa *скрипттер
+*XML bakmak aleti
+Dosya budakı
+Dosyanın aletini budak *көрісінде gösteren Qt*Ru*by *скрипті
+*Онлайн tanımla
+#Değişken
+*KWo*rd *скрипт #değişken
+*Файдан okuma...
+#Değişken dosyadan okuyan P*ytho*n *скрипті
+Meseller
+*KWo*rd *скрипт meselleri
+Biçimi *ендіру...
+Biçimi *ендіретін P*ytho*n *скрипті
+*Меңзерді yönetme...
+*Меңзерді kurarak yönetmeyi gösteren *Ru*by *скрипті
+Gayreti yerine getirme...
+Gayreti kullanmasını gösteren P*ytho*n *скрипті
+Alet gayreti...
+Alet gayretini kullanmasını gösteren P*ytho*n *скрипті
+Süreç *индиқаторы
+Süreç *индикаторын kullanmasını gösteren P*ytho*n *скрипті
+Metin
+Metin mekanizmasını kullanmasını gösteren P*ytho*n *скрипті
+#HTHT*ML listesi
+#HTHT*ML listeleri yapmağını gösteren P*ytho*n *скрипті
+*Меңзері var liste
+*Меңзері var listeleri kurarak yapmağını gösteren P*ytho*n *скрипті
+Tablolar
+Tablolarla kurarak meşgul olmağı gösteren P*ytho*n *скрипті
+#Değişken kurarak meşgul olmağı gösteren P*ytho*n *скрипті
+Bütün biçimler
+Bütün *пішідерді katma
+#& & *Ендіру
+Aletler
+Görüntüyü & *сканерлеу...
+*Сканерлеу hizmeti hayır
+*Сканерлеу *плагині
+Avustralya
+Dolar
+Kanada
+*Кариб vicdan- *ы
+Yeni Sjælland
+Bileşim Kadrolar
+Avusturya
+Euro
+Belçika
+*Кипр
+Finlandiya
+Fransa
+Almanya
+Yunanistan
+İrlanda
+İtalya
+Lüksemburg
+Malta
+Monako
+Hollanda'sı
+Portekiz
+Say- *Марино
+Slovakya
+Slovenya
+İspanya
+Birleşik Krallık
+*Фунт
+Japonya
+*Йен
+Afganistan
+*Ауғани
+*AF*A
+*Ауғани
+*AF*A
+#Arnavutluk
+*Лек
+Cezayir
+Cezayir *динары
+*DZ*D
+Doğu Samoa
+ABC doları
+#UU*SD
+Andorra
+*EU*R
+*Андорралық *песета
+*ADP
+Angola
+*Кванза
+*AO*A
+Anguilla
+Doğu *Карибия doları
+*XC*D
+*Антигуа ve *Барбуда
+Doğu *Карибия doları
+Arjantin
+*Аргентиналық *песо
+*ARS
+Ermenistan
+Dram
+*AMD
+Aruba
+Aruba *гульдені
+*AWG
+*Аустралиялық dolar
+*AU*D
+*Шиллинг
+*S
+Azerbaycan
+*Манат
+*AZ*M
+*Багам vicdan- *ы
+*Багам doları
+*BSD
+Bahreyn
+Bahreyn *динары
+*BH*D
+Bangladeş
+*Така
+*BDT
+Barbados
+Barbados doları
+*BBD
+*Белоруссия
+*Беларус #ruble
+#pp.
+Frank
+*BF
+Belize
+Belize doları
+*BZ
+Benin
+#CFCF*A F*ranc *BC*EAO
+*XOF
+*Бермуд vicdan- *ы
+*Бермуд doları
+*BMD
+Bhutan
+Hindistan *рупиясы
+*INR
+*Нгултрум
+*BT*N
+Bolivya
+*Боливар
+*Bs
+*Мвдол
+*BO*V
+*Босния ve *Герцоговина
+Çevirili *марка
+*BAM
+Botsvana
+*Пула
+*BWP
+*Буве vicdan- *ы
+Norveç *кронасы
+*NO*K
+Brezilya
+Brezilya rialı
+*R
+*Британияның Ünü okyanustaki yerleri
+Brunei
+Brunei doları
+Bulgaristan
+*Лев
+*BGL
+*Болғар *леві
+*BGN
+*Буркина- *Фасо
+Burundi
+Burundi *франкы
+*BIF
+Kamboçya
+*Риел
+*KH*R
+Kamerun
+#CFCF*A F*ranc *BEAC
+*XAF
+Kanada doları
+#CC*AD
+*Кабо- *Верде
+*Кабо- *Верде *эскудосы
+#CC*VE
+*Кайман vicdan- *ы
+*Кайман arılı doları
+*KYD
+orta Afrika Cumhuriyeti
+#ChCh*ad
+Şili
+Şili *песосы
+#ChCh
+#UU*nidades *de fo*mento
+#CC*LF
+Çin
+*Юань
+#CC*NY
+Noel arılı
+*Кокос vicdan- *ы
+Kolombiya
+Kolombiya *песосы
+#CC
+*Комор vicdan- *ы
+*Комор *франкы
+*KMF
+Kongo
+Kongo *Демократикалық Cumhuriyeti
+Kongo *франкы
+#CC*DF
+*Кук *а- *лы
+Yeni Sjælland doları
+*NZ*D
+*Коста- *Рика
+*Коста- *Рика *колоны
+#CC
+*Кот *д *Ивуар
+Hırvatistan
+*Хорват *кунасы
+*kn
+Küba
+Küba *песосы
+#CUPCUP
+*Кипр *фунты
+#CC*YP
+*Чех Cumhuriyeti
+*Чех *кронасы
+*Kc
+Danimarka
+Danimarka *кронасы
+*kr
+Cibuti
+Cibuti *франкы
+*DJF
+Dominika
+*RD
+*Доменикан cumhuriyeti
+*Доменикан *песосы
+*DOP
+Doğu *Тимор
+*Тимор *эскудосы
+#TPTP*E
+*Экуадор
+Mısır
+Mısır *фунты
+*EGP
+*Сальвадор
+*Сальвадор *колоны
+*Экваториалдық Gine
+Eritre
+*Накфа
+*ERN
+Estonya
+Estonya *кронасы
+Etiyopya
+*Эфиоп *бирр
+*ET*B
+*Фолькленд *Мальвин *а- *лы
+*Фолькленд adasının *фунты
+#FF*KP
+*Фарер vicdan- *ы
+Fiji
+Fiji doları
+#FJFJ*D
+*Маркка
+*mk
+#FF
+Fransa'nın *Гуиана
+Fransa'nın Polinezya'sı
+#CFP CFP *франкы
+*XPF
+Fransa'nın güney yerleri
+Gabon
+Gambiya
+*Даласи
+*GMD
+Gürcistan
+*Лари
+*GEL
+Almanya *маркасы
+*DM
+Gana
+*Седи
+*GHC
+Cebelitarık
+Cebelitarık *фунты
+*GIP
+*Драхма
+*GRD
+*Гренландия
+*DKK
+Grenada
+*Гваделупа
+Guam
+Guatemala
+*Куецал
+#QQ
+Gine
+Gine *франкы
+*GNF
+Gine- *Бисау
+Gine- *Бисау *песосы
+*GWP
+Guyana
+Guyana doları
+*GYD
+Haiti
+*Гурд
+#HTHT*G
+*Херд ve *Макдоналд vicdan- *ы
+Vatikan
+Honduras
+*Лемпира
+*L
+*Сянган Hong Kong
+Hong Kong doları
+#HH*KD
+Macaristan
+*Форинт
+#FtFt
+İzlanda
+İzlanda *кронасы
+*kr.
+Hindistan
+Endonezya
+*Рупия
+*Rp
+İran
+İran rialı
+*IRR
+Irak
+Irak *динары
+*IQ*D
+*Фунт
+*IR ----
+*Пенс
+*IEX
+İsrail
+*Шекель
+*ILS
+*Лира
+*L.
+Jamaika
+Jamaika doları
+#JJ
+#JPJP*Y
+Ürdün
+*Иондания *динары
+#JOJO*D
+Kazakistan
+Denge
+*KZT
+Kenya
+Kenya *шиллинг
+*KES
+Kiribati
+Kore *КХДР
+Kuzey Kore *воны
+*KP*W
+Kore Cumhuriyeti
+*Вон
+*KRW
+Kuveyt
+Kuveyt *динары
+*KWD
+Kırgızistan
+*Сом
+*KGS
+Laos
+Giyip
+*LAK
+Letonya
+*Лат
+*Ls
+Lübnan
+Lübnan *фунты
+*LBP
+Lesotho
+*Ранд
+#ZZ*AR
+*Лоти
+*LSL
+Liberya
+Liberya doları
+*LRD
+Libya
+Libya *динары
+*LYD
+Lihtenştayn
+*Швецария *франкы
+#CHFCHF
+Litvanya
+Litvanya *литі
+*Lt
+*Аомынь Makao
+*Патака
+*MOP
+Makedonya
+Makedonya *динары
+*MKD
+Madagaskar
+Madagaskar *франкы
+*MGF
+Malavi
+*Куача
+*MWK
+Malezya
+Malezya *ринггиті
+*MYR
+*Мальдив vicdan- *ы
+*Мальдив *рупиясы
+*MVR
+Mali
+*EU*RO
+Malta *лирасы
+*MT*L
+*Маршалл vicdan- *ы
+*Мартиника
+Moritanya
+*Угия
+*MRO
+Mauritius
+Mauritius *рупиясы
+*MU*R
+*Майотте
+Meksika
+Meksika *песосы
+*MXN
+Meksika'nın U*nidad *de *Inversio*n U*DI
+*MXV
+*Микронезия
+Moldova
+Moldova *лейі
+*MDL
+*Монғолия
+*Тугрик
+*MNT
+*Монсеррат
+Fas
+Fas *дирхамы
+*MAD
+Mozambik
+*Метикал
+*MZ*M
+Myanmar
+*Кият
+*MMK
+Namibya
+Namibya doları
+*NAD
+Nauru
+Nepal
+Nepal *рупиясы
+*NP*R
+*Гульден
+#ff*l
+*Нидерландияның *Антил vicdan- *ы
+*Нидерландияның *Антил *гульдені
+*ANG
+Yeni *Каледония
+Nikaragua
+*Кордоба *оро
+*NIO
+Nijer
+Nijerya
+*Наура
+*NGN
+*Ниуэ
+*Норфолк vicdan- *ы
+Kuzey *Мариан vicdan- *ы
+Norveç
+Umman
+Umman rialı
+#OO*MR
+Pakistan
+Pakistan *рупиясы
+#PP*KR
+*Палау
+Panama
+*Балбоа
+#PP*AB
+*Папуа - Yeni Gine
+*Кина
+#PP*GK
+Paraguay
+*Гуарани
+*G
+Peru
+*Нуево Sol
+#PP*EN
+Filipinler
+Filipinler *песосы
+#PHPPHP
+*Питкэрн vicdan- *ы
+Polonya
+*Злотый
+#ztzt
+*Эскудо
+*Esc.
+*Пуэрто- *Рико
+Sıra
+Sıra rialı
+#QQ*AR
+Romanya
+*Лей
+*LEI
+Rusya
+Rusya #ruble
+*RU*R
+*RU*B
+Ruanda
+Ruanda *франкы
+*RWF
+*Әулие *Елена vicdan.
+*Әулие *Елена vicdan. *фунты
+*SHP
+*Сент- *Китс ve *Невис
+*Сент- *Люсия
+Sen- Per ve *Микелон
+*Сент- *Винсент ve *Гренадин
+Samoa
+*Тала
+*WST
+Say- *Томе ve *Принсипи
+*Добра
+*ST*D
+*Сауд Arabistan'ı
+*Сауди rial
+*SAR
+Senegal
+*Сейшел vicdan- *ы
+*Сейшел *рупиясы
+*SC*R
+*Сьерра- *Леоне
+*Леоне
+*SLL
+Singapur
+Singapur doları
+*SGD
+*Словак *кронасы
+*Sk
+Dolacak
+*SIT
+Solomon vicdan- *ы
+Solomon vicdan- *ның doları
+*SBD
+Somali
+Somali *шиллингі
+*SO*S
+Güney Afrika
+*R
+*Песета
+#PtPt*s
+*Шри- *Ланка
+*Шри- *Ланка *рупиясы
+*LKR
+Sudan
+*Судпн *динары
+*SDD
+Surinam
+Surinam *гульдені
+*SRG
+*Свалбард ve *Ян *Майен
+Svaziland
+*Лилангени
+*SZ*L
+İsveç
+*Швед *кронасы
+İsviçre
+*SF*r.
+Suriye
+Suriye *фунты
+*SYP
+*Тайвань Çin
+Yeni *Тайвань doları
+#TT*WD
+Tacikistan
+*Сомони
+#TJTJ*S
+Tanzanya
+Tanzanya *шиллинг
+#TZTZ*S
+Tayland
+Dalalım
+#THTH*B
+Togo
+*Токелау
+*Тонга
+*Паанга
+#TOPTOP
+*Тринидад ve *Тобаго
+*Тринидад ve *Тобаго doları
+#TTTT
+Tunus
+Tunus *динары
+#TT*ND
+#TuTu*rkey
+Türkiye *лирасы
+#TT*L
+Türkmenistan
+*Манат
+#TT*MM
+*Теркс ve *Кайкос vicdan- *ы
+*Тувалу
+Uganda
+Uganda *шиллингі
+#UU*GX
+Ukrayna
+*Гривна
+#UU*AH
+Birleşen arap\/Arap Emirlikleri
+*БАӘ *дирхамы
+*AED
+*Стерлинг *фунты
+*GBP
+ABC doları sonraki günde
+#UU*SN
+ABC doları şu günde
+#UU*SS
+Uruguay
+Uruguay *песосы
+*NU
+Özbekistan
+*Сум
+#UZUZ*S
+Vanuatu
+*Вату
+*VU*V
+Venezuela
+*Боливар
+Vietnam
+*Донг
+*VND
+*Виргин vicdan- *ы
+*Уоллис ve *Футуна
+Batı *Сахара
+Yemen
+Yemen rialı
+*YER
+*Югославия
+*Югославия *динары
+*YU*M
+Zambiya
+#ZZ*MK
+Zimbabve
+Zimbabve doları
+#ZZ*WD
+Metin
+Bütün say 1; 132; 2344 benzeri
+*Логикалық öz T*RU*E ya F*ALSE
+Heyelanlı *үтірлі say 1, 3; 0, 343; 253 benzeri
+An gelen öz
+Metin yollar sırası
+Bütün saylar sırası 1; 132; 2344 benzeri
+*Логикалық özler sırası T*RU*E ya F*ALSE
+*Жыжымалы *үтірлі saylar sırası 1, 3; 0, 343; 253 benzeri
+An gelen özler sırası
+*Қайтаратын türü:% 1
+*Синтаксисі
+*Параметрлері
+*Түсініктемесі:% 1
+Türü:% 1
+Meselleri
+Yakın işlevleri
+Yüz% 1
+Bu dosyada yüzler tabloları yok.
+#& & Dosya
+#& & Işleme
+#& & *Толтыру
+#Tam
+*Өшіру
+#& & Eşkal
+#& & *Ендіру
+#& & Dış bilgiler
+#& & *Пішім
+*Ұяшықтарды birleşme
+#& & Yol
+#& & *Баған
+#& & Yüz
+Kapsamını & basıp çıkarma
+#& & Derekler
+*Сүзгі
+#& & Aletler
+#& & *Баптау
+Işleme
+*Жылжу
+*Қаріп
+Biçim
+Rengi *ШегіNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Derekler mülkü şafaktaki 
+Derekler alanı
+Alan:
+Birinci yol - çağırmalar
+Birinci *баған - çağırmalar
+Derek'in *пішімі
+Derekler yollarda
+Derekler *бағандарда
+Bakmaya
+Vakit
+Gün
+Bölük
+#Beyaz
+#Beyaz
+Oran
+Genel
+Say
+Gün ve vakit
+#Beyaz:
+*Пішімі:
+*Жалғауы:
+*Дәлділігі:
+*Префиксі:
+Değişmeyip bırakma
+*Ro*man
+*Көлбеу
+*Кәдімгі
+Kalın
+Rengi:
+Aşı *сызық
+Ölçümü:
+Gelini:
+Tarzı:
+*Сызылып bıraktığı
+Sadıkından
+Standartı
+Sola
+Ortaya
+Sağa
+Dikinden
+*Жоғарға
+Ortaya
+*Төменге
+*Бұрылыс
+#°°
+Metin *параметрлері
+Taşıma
+Dikinden yazma
+*Шегінісі
+*Ұяшықтарды birleşme
+*Ұяшықтың ölçümü
+Geleneki irtifası % 1
+Irtifası:
+*Ұяшықтың irtifasını yapmak.
+Geleneki eni % 1
+Eni:
+Basıp çıkarma
+#& & Basıp çıkarmama
+Koruma
+Bütününü *жасыру
+Korunan
+Formülünü & *жасыру
+*Мазмұнын
+Bütününü
+*Түсініктемесін
+Neticesini
+Bütününü *шектерісіз
+Çare
+Üstünden yazma
+Katma
+Kısma
+Artma
+Bölme
+Derivasyon
+Derivasyonu sonrakiye katma:
+Kullanan işlev:
+Sonrakinin herbir dönüşümünde:
+*Бағандарда
+*Параметрлері
+Sıradaki *қортыдыны & #permütasyon
+Yoğunlayacak arısında & *парақ ertelesin
+Derekler'den sonra derivasyonu olsun
+Derivasyon 
+Dönüşümleri bakarak boş *ұяшықтар & *еленбесін
+Dosya *параметрлері
+*Автосақтау aralıkı *мин:
+*Автосақтау olmayacağını
+*мин
+*Сақтық götür dosyalar yapsın
+Birliği:
+*Шегініс adımı:
+Renkler
+*Торы:
+Öbür...
+*Парақ dışarıları:
+Basıp çıkarma *параметрлері
+*Торы
+*Түсініктеме simgesi
+#Diyagram
+Nesneler
+Sıfır özleri
+Resimler
+Sürecekler
+*Парақтар süresi
+Sadıktan ortaya
+Dikinden ortaya
+-
+*Масштабы
+*Парақ fişleri:
+*Sh*eetP*rop*ert*iesBase
+Konaklama yönü:
+Soldan sağa
+Sağdan sola
+*Түсініктеме simgesi olsun
+#& & *LC *режімі
+*Парақтың & fişleri göstersin
+Birinci *әріпі büyük olsun
+#& & Sıfır *жасырылсын
+#& & Formülü göstersin
+*Бағандары & *нөмірлеп göstersin
+Formül & simgesi olsun
+#& & *Тор göstersin
+#& & Otomatik türde oranlasın
+Bütün yüzleri
+Aktif yüzü
+Seçilen yüzleri
+Elle atacak yüzleri
+Var Yüzler
+Seçilen yüzleri
+Bütün yüzleri seçme
+Seçilen yüzleri *жоғарға çıkarma
+Yüzleri seçme
+Seçilen yüzleri *жоғарлату
+Yüzleri müthiş bırakma
+Seçilen yüzleri *төменге *түсіру
+Seçmeden vazgeçmek
+Seçilen yüzleri *төмендету
+*Тәуелдік
+Kıymaya
+Bu doğru dosya değil. Yüzün çağırması yok.
+Korunan yüzü değişerek #al  *and 
+yüz
+yüzler
+dosya
+çağırması
+vakti
+günü
+*авторы
+*эл. posta
+çatısı
+yüz
+Sürecek
+*Айдар1
+Geleneki
+#TT*ru*e
+#FF*alseErro*r: c*ircu*lar fo*rmu*la *dep*endenc*y
+## # *ТҰЙЫҚ! *Erro*r: *bro*ken c*ell *ref*erenc*e
+## # *ТӘУЕЛДІК! *Erro*r: *divisio*n *by z*ero
+## # BÖLME 0! *Erro*r: *not *available
+## # *А *ЖErro*r: u*nkno*wn fu*nct*io*n *name
+## # #ÇAĞIR? *Erro*r: *nu*mber out of *range
+## # SAY! *Erro*r: *empt*y *int*ersect*ing *area
+## # #SIFIR! *Erro*r: fo*rmu*la *not p*arseable
+## # *ТАЛДАУ! *Erro*r: *invalid c*ell *array *ref*erenc*e
+## # *СІЛ! *Erro*r: *wro*ng *nu*mber of fu*nct*io*n *argu*ment *s
+## # ÖZ!
+#PP*M
+*AM
+*сағ
+*мин
+*сек
+#tt*ru*e
+#ff*alse
+#pp*m
+*am
+*Биттік çareler
+Birinci say
+Ikinci say
+*BIT*AND  işlevi iki bütün *параметрлерімен *биттік VE çaresini yapar.
+*BIT*AND öz; öz
+*BIT*LSH*IFT  işlevi birinci *параметрлерімен *биттік sola *ығыстыру çaresini yapar. *Канша *биттерге *ығыстыруын ikinci *параметрі tanımlar. Bu *параметр olumsuz say olsa sola *ығыстыру çaresi sağa *ығыстыру olur.
+*BIT*RSH*IFT  işlevi birinci *параметрлерімен *биттік sağa *ығыстыру çaresini yapar. *Канша *биттерге *ығыстыруын ikinci *параметрі tanımlar. Bu *параметр olumsuz say olsa sağa *ығыстыру çaresi sola *ығыстыру olur.
+*BITO*R  işlevi iki bütün *параметрлерімен *биттік YA çaresini yapar.
+*BITO*R öz; öz
+*BIT*XO*R  işlevi iki bütün *параметрлерімен *биттік *СЫЙЫСПАЙТЫН YA çaresini yapar.
+*BIT*XO*R öz; öz
+Çevirme
+Çeviren *логикалық özü
+*BOO*L2ST*RING  işlevi *логикалық özünü metine çevirir. Bu *логикалық #değişken özünü metin yolu türünde onaylayan işlevlere planlanan *түрлендіру
+*BOO*L2ST*RING öz
+*BOO*L2ST*RING t*ru*e *қайтаратыны T*ru*e dediği yol
+*BOO*L2ST*RING f*alse *қайтаратыны F*alse dediği yol
+#uppupp*er *BOO*L2ST*RING f*ind sağlıklı; kötü *қайтаратыны T*RU*E
+Çevirilen bütün say
+*INT*2BOO*L  işlevi bütün sayı *логикалық öze çevirir. Bu say #değişken *логикалық öz türünde onaylayan işlevlere planlanan *түрлендіру. Tek 0 ya 1 saylarını onaylar. Öbür saylara *қайтаратыны - f*alse.
+*INT*2BOO*L öz
+*INT*2BOO*L 1 *қайтаратыны t*ru*e
+*INT*2BOO*L 0 *қайтаратыны f*alse
+#OO*R *INT*2BOO*L 1; f*alse *қайтаратыны t*ru*e
+*BOO*L2INT  işlevi *логикалық özü bütün saya çevirir. Bu *логикалық özü bütün say türünde onaylayan işlevlere planlanan *түрлендіру.
+*BOO*L2INT öz
+*BOO*L2INT T*ru*e *қайтаратыны 1
+*BOO*L2INT F*alse *қайтаратыны 0
+Metin yoluna çeviren say
+*NU*M2ST*RING  işlevi sayı metin yoluna çevirir. Söylemek, gereksinimde *KSp*read kendisi da sayı metin *таңбалар yoluna otomatik türde çevirir, sonra bu işlevin ihtiyacı #sıvı doğar.
+*NU*M2ST*RING öz
+*NU*M2ST*RING 10 *қайтаратыны 10
+*NU*M2ST*RING 2. 05 *қайтаратыны 2, 05
+=#f=f*ind 101; *NU*M2ST*RING *A1 *A1 = 2, 010102 *қайтаратыны T*ru*e
+*ST*RING  işlevi sayı metin yoluna çevirir. *Дәл *NU*M2ST*RING #işlev.
+Çeviren bir *таңбадан duracak yol
+#CHCH*ARTO*ASC*II  işlevi getirilen *таңбаның *ASC*II *кодын *қайтарады.
+#CHCH*ARTO*ASC*II öz
+#CHCH*ARTO*ASC*II *v *қайтаратыны 118
+#CHCH*ARTO*ASC*II *r diyip yazma hata. *Таңба kat *тырнақшаларда durma gerek.
+Çeviren *ASC*II *коды
+*ASC*IITOCH*AR  işlevi getirilen *ASC*II *кодтар sırasına *сәйкесті *таңбалар *тізбегін *қайтарады
+*ASC*IITOCH*AR öz
+*ASC*IITOCH*AR 118 *қайтаратыны *v
+*ASC*IITOCH*AR 75; 68; 69 *қайтаратыны *KDE
+*X *бойлығы
+*Y *бойлығы
+#POPO*LR  işlevi getirilen *тікбұрышты *Декарт *координаттарға *сйкесті *радиусының uzunlukunu *қайтарады.
+#POPO*LR *X; *Y
+#POPO*LR 12; 12 *қайтаратыны 16. 9705
+#POPO*LR 12; 0 *қайтаратыны 12
+#POPO*LA  işlevi getirilen *тікбұрышты *Декарт *координаттарға *сәйкесті *радиусының radyandaki açısını *қайтарады.
+#POPO*LA *X; *Y
+#POPO*LA 12; 12 *қайтаратыны 0, 78539816
+#POPO*LA 12; 0 *қайтаратыны 0
+#POPO*LA 0; 12 *қайтаратыны 1, 5707
+*Радиус
+Açı radyan
+#CC*ARX  işlevi getirilen *полярлық *координаттардың *X *бойлығын *қайтарады.
+#CC*ARX *Радиус; Açı
+#CC*ARX 12; 1, 5707 *қайтаратыны 0, 00115592
+#CC*ARX 12; 0 *қайтаратыны 12
+Özü
+*DEC*SEX  işlevi heyelanlı *үтірлі sayı vakit simgesine çevirir.
+*DEC*SEX *dou*ble
+*DEC*SEX 1, 6668 *қайтаратыны 1: 40
+*DEC*SEX 7, 8 *қайтаратыны 7: 47
+Saat
+Dakika
+Saniye
+*SEXDEC  işlevi heyelanlı *үтірлі sayı *қайтарады. Vakti saat, dakika, *секундтарын *бөлек ne vakit simgesi türünde getirmeye olur.
+*SEXDEC vakit simgesi ya *SEXDEC saat; dakika; saniye
+*SEXDEC 1; 5; 7 *қайтаратыны 1, 0852778
+*DEC*SEX 8: 05 *қайтаратыны 8, 08333333
+#CC*ARY  işlevi getirilen *полярлық *координаттардың *Y- *бойлығын *қайтарады.
+#CC*ARY *Радиус; Açı
+#CC*ARY 12; 1, 5707 *қайтаратыны 12
+#CC*ARY 12; 0 *қайтаратыны 0
+*RO*MAN  işlevi sayı *римдік türdeki saya çevirir. Say #olumsuz ve bütün olma gerek. #Ek *Пішім *аргументі *қысқалық düzeyini #şüphesiz, sırasında o getirilmese geleneki düzeyi - 0.
+*RO*MAN say
+*RO*MAN 99 *қайтаратыны *XC*IX
+*RO*MAN - 55 *қайтаратыны *Err
+Roma_ sayı
+*ARABIC  işlevi *Римдік sayı *кәдімгі arap\/Arap *пішіміне çevirir.
+*ARABIC Roma_ sayı
+*ARABIC *IV *қайтаратыны 4
+*ARABIC *XC*IX *қайтаратыны 99
+Derekler bazı
+Derekler mülkünü atayan kapsam
+Derekler mülkü *бағанның simgesi
+Şartını atayan kapsam
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы saylarının *қосындысы.
+*DSU*M Derek_ Mülkü; Sürecek; Şartlar
+*DSU*M *A1: C5; *Айлық; *A9: *A11
+Sayı şart sonucu tanımlayan bilgiler mülkünün *бағандағы saylarının ortası
+*DAVERAGE Derek_ Mülkü; Sürecek; Şartlar
+*DAVERAGE *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы sayı var *ұяшықтарын oranlama.
+*DCOU*NT Derek_ Mülkü; Sürecek; Şartlar
+*DCOU*NT *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы sayları ne harfi- *цифрлық yazması var *ұяшықтарын oranlama.
+*DCOU*NT*A Derek_ Mülkü; Sürecek; Şartlar
+*DCOU*NT*A *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы yalnız sayını *қайтарады. Say olmasa ne o yalnız olmasa - hatayı *қайтарады.
+*DGET Derek_ Mülkü; Sürecek; Şartlar
+*DGET *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы en büyük sayını *қайтарады.
+*DMAX Derek_ Mülkü; Sürecek; Şartlar
+*DMAX *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы en aşağı sayını *қайтарады.
+*DMIN Derek_ Mülkü; Sürecek; Şartlar
+*DMIN *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы saylarının bir birine artma neticesini *қайтарады.
+*DP*RO*DUCT Derek_ Mülkü; Sürecek; Şartlar
+*DP*RO*DUCT *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы #bar say özler #boy takdir etilen seç sonucunun standartı *ауытқуын *қайтарады.
+*DST*DEV Derek_ Mülkü; Sürecek; Şartlar
+*DST*DEV *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы #bar say özler #boy oranlandığı genel sonucunun standartı *ауытқуын *қайтарады.
+*DST*DEVP Derek_ Mülkü; Sürecek; Şartlar
+*DST*DEVP *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы #bar say özler #boy takdir etilen seç sonucunun *дисперсиясын *қайтарады.
+*DVAR Derek_ Mülkü; Sürecek; Şartlar
+*DVAR *A1: C5; *Айлық; *A9: *A11
+Şart birikimi tanımlayan bilgiler mülkünün *бағандағы #bar say özler #boy oranlandığı genel sonucunun *дисперсиясын *қайтарады.
+*DVARP Derek_ Mülkü; Sürecek; Şartlar
+*DVARP *A1: C5; *Айлық; *A9: *A11
+Bileşim tablosunun alanı
+Gün ve vakit
+Yolu getirmemeye olur
+*WEEKDAY  işlevi getirilen günün haftadaki süresini *қайтарады. Yolu 1 diyerek geleneki koşul *WEEKDAY  pazara 1, pazartesiye 2,... *қайтарады. Yolunu 2 diyip getirilse pazartesiye 1, *сейсінбіге 2,... *қайтарылады. Yolu 3 diyerek pazartesiye 0, *сейсінбіге 1,... *қайтарылады.
+*WEEKDAY gün; yol
+*WEEKDAY 2002- 02- 22; 2 *қайтаратыны 5
+*Күн1
+*Күн2
+Yolu
+*DAYS360  işlevi ayda 30 gün diyip oranlandığı 360 *күндік takvim #boy *Күн1 ben *Күн2 arısında #ne gün *екенді sanar. Eğer yolu f*alse geleneki koşul diyip getirilse ABC yoluyla oranlanır, #yoksa  Avrupa yolu kullanılır.
+*DAYS360 *күн1; *күн2; yolu
+*DAYS360 22. 02. 2002; 21. 04. 2002; F*ALSE *қайтаратыны 59
+#TT*IMEVALU*E  işlevi getirilen vakte *сәйкесті günün 0 ben 1 arısındaki bölüğünü gösterir.
+#TT*IMEVALU*E vakit
+#TT*IMEVALU*E 10: 05: 02 *қайтаратыны 0, 42
+*DAT*EVALU*E işlevi günün süresini göstermiş, *яғни 1899 yıl 31- Aralıkından\/Aralıkından geçen gününü *қайтарады.
+*DAT*EVALU*E gün
+*DAT*EVALU*E 22. 02. 2002 *қайтаратыны 37309
+Aylar sayı
+*EDAT*E işlevi getirilen gününden gösterilen aylar sayına *алшақты günü *қайтарады.
+*EDAT*E gün; aylar_ sayı
+*EDAT*E 22. 022. 2002; 3 *қайтаратыны 22. 05. 2002
+*EDAT*E 31. 03. 2002; - 1 *қайтаратыны 28. 02. 2002
+*EO*MO*NTH işlevi getirilen günün gösterilen aylar sayına *алшақты ayının sonrakı gününü *қайтарады.
+*EO*MO*NTH günü; aylar_ sayı
+*EO*MO*NTH 22. 02. 2002; 3 *қайтаратыны 31. 05. 2002
+*EO*MO*NTH 12. 03. 2002; - 1 *қайтаратыны 28. 02. 2002
+*EO*MO*NTH 12. 03. 2002; 0 *қайтаратыны 31. 03. 2002
+*YEAR işlevi getirilen günün yılını *қайтарады. *Параметрі getirilmese #bu yıl yılı *қайтарады.
+*YEAR gün
+*YEAR 22. 02. 2002 *қайтаратыны 2002
+*YEAR 2323, 1285 *қайтаратыны 1906
+*MO*NTH işlevi getirilen günün ayının nosunu *қайтарады. *Параметрі getirilmese şimdiki ayın nosunu *қайтарады.
+*MO*NTH gün
+*MO*NTH 22. 02. 2002 *қайтаратыны 2
+*MO*NTH 2323, 1285 *қайтаратыны 5
+*DAY işlevi getirilen günün nosunu *қайтарады. *Параметрі getirilmese bugünkü günün nosunu *қайтарады.
+*DAY gün
+*DAY 22. 02. 2002 *қайтаратыны 22
+*DAY 2323, 1285 *қайтаратыны 11
+#HOUHOU*R işlevi getirilen vaktin saatini *қайтарады. *Параметрі getirilmese şimdiki saatin nosunu *қайтарады.
+#HOUHOU*R vakit
+#HOUHOU*R 22: 10: 12 *қайтаратыны 22
+#HOUHOU*R 0, 1285 *қайтаратыны 3
+*MINUT*E işlevi getirilen vaktin dakikasını *қайтарады. *Параметрі getirilmese şimdiki dakikanın sayını *қайтарады.
+*MINUT*E vakit
+*MINUT*E 22: 10: 12 *қайтаратыны 10
+*MINUT*E 0, 1234 *қайтаратыны 57
+*SECO*ND işlevi getirilen vaktin #saniye *қайтарады. *Параметрі getirilmese şimdiki #saniye sayını *қайтарады.
+*SECO*ND vakit
+*SECO*ND 22: 10: 12 *қайтаратыны 12
+*SECO*ND 0, 1234 *қайтаратыны 42
+Birinci günü #ön
+Ikinci günü
+Oranlama metotu
+*WEEKS  işlevi iki günün arısındaki haftalar sayını *қайтарады. Üçüncü *параметрі oranlama metotu: bu 0 olsa, *WEEKS  arısındaki tam *жетікүндіктер sayını *қайтарады. Eğer metotunu 1 diyip dursa, arısındaki tek *тұтас pazartesi- pazar haftalar sayını *қайтарады.
+*WEEKS *күн2; *күн1; metot
+*WEEKS 18. 02. 2002; 26. 02. 2002; 0 *қайтаратыны 1, zira arısında bir hafta ve 1 gün var
+*WEEKS 19. 02. 2002; 19. 02. 2002; 1 *қайтаратыны 0, zira arısında *тұтас pazartesiden başlatılıp pazarla bitirilen hafta hayır
+*MO*NTH*S  işlevi iki günün arısındaki aylar sayını *қайтарады. Üçüncü *параметрі oranlama metotu: bu 0 olsa, *MO*NTH*S  arısındaki gün sayının esasında aylar sayını *қайтарады. Eğer metotunu 1 diyip dursa, arısındaki tek *тұтас aylar sayını *қайтарады.
+*MO*NTH*S *күн2; *күн1; metot
+*MO*NTH*S 18. 01. 2002; 26. 02. 2002; 0 *қайтаратыны 1, zira arısında 1 ay ve 8 gün var
+*MO*NTH*S 19. 01. 2002; 26. 02. 2002; 1 *қайтаратыны 0, zira arısında birinci günden başlatılan *тұтас ay hayır
+*YEARS  işlevi iki günün arısındaki yıllar sayını *қайтарады. Üçüncü *параметрі oranlama metotu: bu 0 olsa, *YEARS  arısındaki gün sayının esasında yıllar sayını *қайтарады. Eğer metotunu 1 diyip dursa, arısındaki tek *тұтас 1- Ocaktan\/Ocaktan 31- Aralıka\/Aralıka kadar yıllar sayını *қайтарады.
+*YEARS *күн2; *күн1; metot
+*YEARS 19. 02. 2001; 26. 02. 2002; 0 *қайтаратыны 1, zira arısında bir yıl ve 7 gün var
+*YEARS 19. 02. 2001; 26. 02. 2002; 1 *қайтаратыны 0, zira arısında birinci günden başlatılan *тұтас yıl hayır
+*DAYS  işlevi iki günün arısındaki günler sayını *қайтарады.
+*DAYS *күн2; *күн1
+*DAYS 22. 02. 2002; 26. 02. 2002 *қайтаратыны 4
+Yıl
+Ay
+Gün
+*DAYOF*YEAR  işlevi günün *жылдын başından oranladığı nosunu *қайтарады 1... 365.
+*DAYOF*YEAR yıl; ay; gün
+*DAYOF*YEAR 2000\/2000; 12; 1 *қайтаратыны 336
+*DAYOF*YEAR 2000\/2000; 2; 29 *қайтаратыны 60
+*DAT*E  işlevi yerli *пішіміндегі günü *қайтарады.
+*DAT*E yıl; ay; gün
+*DAT*E 2000\/2000; 5; 25 *қайтаратыны 25. 05. 2000\/2000
+#TT*IME  işlevi yerli *пішіміндегі vakti *қайтарады.
+#TT*IME saat; dakika; saniye
+#TT*IME 10; 2; 2 *қайтаратыны 10: 02: 02
+#TT*IME 10; 70; 0 *қайтаратыны 11: 10: 0
+#TT*IME 10; - 40; 0 *қайтаратыны 9: 20: 0
+#HOUHOU*RS  işlevi vakit *өрнегіндегі saat sayını *қайтарады.
+#HOUHOU*RS vakit
+#HOUHOU*RS 10: 5: 2 *қайтаратыны 10
+Getirilen yıl dolgun olsa *ISLEAP*YEAR  *қайтаратыны T*ru*e.
+*ISLEAP*YEAR yıl
+*ISLEAP*YEAR 2000\/2000 *қайтаратыны T*ru*e
+*DAYSINMO*NTH  işlevi getirilen yıldaki ayının günler sayını *қайтарады.
+*DAYSINMO*NTH yıl; ay
+*DAYSINMO*NTH 2000\/2000; 2 *қайтаратыны 29
+*DAYSINYEAR  işlevi getirilen yıldaki günler sayını *қайтарады.
+*DAYSINYEAR yıl
+*DAYSINYEAR 2000\/2000 *қайтаратыны 366
+*WEEKSINYEAR  işlevi getirilen yıldaki haftalar sayını *қайтарады.
+*WEEKSINYEAR yıl
+*WEEKSINYEAR 2000\/2000 *қайтаратыны 52
+*MINUT*ES  işlevi vakit *өрнегіндегі dakika sayını *қайтарады.
+*MINUT*ES vakit
+*MINUT*ES 10: 5: 2 *қайтаратыны 5
+*SECO*NDS  işlevi vakit *өрнегіндегі saniye sayını *қайтарады.
+*SECO*NDS vakit
+*SECO*NDS 10: 5: 2 *қайтаратыны 2
+Günün haftadaki nosu 1.. 7
+*DAYNAME  işlevi getirilen günün haftadaki nosuna 1.. 7 *сәйкесті günün çağırmasını *қайтарады. Birkaç ülkelerde haftanın birinci günü Pazartesi, *кейбірлерде - Pazar.
+*DAYNAME hafta_ günü
+*DAYNAME 1 *қайтаратыны Pazartesi hafta *Дүйенбіден başlatılan olsa
+Ayın nosu 1.. 12
+*MO*NTH*NAME  işlevi getirilen ayın nosuna 1... 12 *сәйкесті ay çağırmasını *қайтарады.
+*MO*NTH*NAME no
+*MO*NTH*NAME 5 *қайтаратыны Mayıs\/Mayıs
+#CUCU*RRENT*DAT*E  işlevi bugünkü günü *қайтарады. Bu TO*DAY işlevinin *баламасы.
+#CUCU*RRENT*DAT*E 
+#CUCU*RRENT*DAT*E  *қайтаратыны 24. 11. 2007
+#TOTO*DAY  işlevi bugünkü günü *қайтарады.
+#TOTO*DAY 
+#TOTO*DAY  *қайтаратыны 24. 11. 2007
+*NO*W  işlevi şimdiki günü ve vakti *қайтарады. Bu CU*RRENT*DAT*ET*IME işleviyle birce, başa *қолданбалармен *үйлесімділік olsun diyip eklenmiş.
+*NO*W 
+*NO*W  *қайтаратыны Cumartesi\/Cumartesi 24 #Siyah 2007 19: 12: 01
+#CUCU*RRENT*DAT*ET*IME  işlevi şimdiki gün ve vakti *қайтарады.
+#CUCU*RRENT*DAT*ET*IME 
+#CUCU*RRENT*DAT*ET*IME  *қайтаратыны Cumartesi\/Cumartesi 24 #Siyah 2007 19: 12: 01
+#CUCU*RRENTT*IME  işlevi yerli *пішіміндегі şimdiki vakti *қайтарады.
+#CUCU*RRENTT*IME 
+#CUCU*RRENTT*IME  *қайтаратыны 19: 12: 01
+*EAST*ERSU*NDAY  işlevi gösterilen yıldaki *католик *Пасха bayramı gelmiş gününü *қайтарады.
+*EAST*ERSU*NDAY yıl
+*EAST*ERSU*NDAY 2007 *қайтаратыны 07. 04. 2007
+*ISO*WEEKNU*M gün
+*ISO*WEEKNU*M *A1 *қайтаратыны 47 eğer *A1 *ұяшығында 24. 11. 2007 olsa.
+*WEEKNU*M  işlevi getirilen günün haftasının *ISO- standartı değil nosunu *қайтарады.
+*WEEKNU*M gün; metot
+Birinci gün
+Ikinci gün
+aralık
+*DAT*EDIF  işlevi iki gün aralıkını *қайтарады.
+*YEARF*RAC  işlevi esas *параметріне *жүгініп iki günün arısındaki tam günler sayını oranlar.
+*Бастапқы gün
+Iş günleri
+Dinlenmeler
+*WO*RKDAY  işlevi getirilen günden başlatıp gösterilen günler aralıkındaki iş günlerini *қайтарады.
+Sonrakı gün
+*NET*WO*RKDAY  işlevi iki günün arısındaki iş günler sayını *қайтарады.
+*DAT*E2U*NIX  işlevi gün ve vaktini U*NIX vaktine çevirir.
+*DAT*E2U*NIX gün
+*DAT*E2U*NIX 01. 01. 2001 *қайтаратыны 946 681 200
+#UU*nix_ vakti
+#UU*NIX2DAT*E  işlevi u*nix vaktini *кәдімгі gün ve vaktine çevirir.
+#UU*NIX2DAT*E 0 *қайтаратыны 01. 01. 1970
+*Инженерлік
+Tamamıyla
+*МинҰзындығы
+*BASE  işlevi 10- esası sayı tamamıyla 2- *ден 36- *ға kadar sayın *таңбалар yoluna çevirir.
+*BASE say; tamamıyla; *дәлділігі
+*BASE 128; 8 *қайтаратыны 200
+Işlevin süresi
+*BESSELI  işlevi *модификацияланған *Бессел *In *x işlevini oranlar.
+*BESSELI *X; *N
+*BESSELI 0, 7; 3 *қайтаратыны 0, 007367374
+*BESSELJ  *Бессел işlevini oranlar.
+*BESSELJ *X; *N
+*BESSELJ 0, 89; 3 *қайтаратыны 0, 013974004
+*BESSELK  işlevi *модификацияланған *Бессел işlevini oranlar. Bu *Бессел işlevini tam tahmin *аргументімен oranladığa denk.
+*BESSELK *X; *N
+*BESSELK 3; 9 *қайтаратыны 397, 95880
+*BESSELY  işlevi *Бессел işlevini oranlar. Bu işlev şununla sıra *Вебер işlevi ya *Нейман işlevi tain etilir.
+*BESSELY *X; *N
+*BESSELY 4; 2 neticesi 0, 215903595
+Ölçüm birliğinden
+Ölçüm birliğine
+#COCO*NVERT  işlevi bir ölçüm sisteminden başka ölçüm sistemine çevirir.
+Anlayan kitle birlikleri: *g *грамм, *sg *пиіс, *lbm *фунт, u nükleer kitle, oz*m *унция, *sto*ne *стоун, to*n ton, *grain *гран, p*weight *пенниуейт, h*weight *хандретуейт, *bro*n büyük ingilizce ton.
+Anlayan mesafe birlikleri: *m metre, *in inç, ft *фут, *mi *миля, *Nmi deniz *миля, *ang *Ангстрем, p*arsec #parsek, *light*year parıltı yıl.
+Anlayan baskı birlikleri: P*a *Паскаль, *at*m atmosfer, *mmH*g cıva *баған #mm, p*si *фунт kare, To*rr *Торр.
+Anlayan güç birlikleri: *N *Ньютон, *dyn *дин, pou*nd *фунт.
+Anlayan enerji birlikleri: J *Джоуль, *e *эрг, c *термодинамикалық kalori, c*al uluslararası kalori, *EV *электронвольт, HPh ad gücü- saat, *Wh *Ватт- saat, f*lb *фут- *фунт, *BTU *Британдық sıcaklık birliği.
+Anlayan güç birlikleri:: *W *Ватт, HP ad gücü, P*S Pf*erdest*aerke ad gücü - #almanca.
+Anlayan *магниттік birlikleri: T *Тесла, *ga *Гаусс.
+Anlayan sıcaklık birlikleri: C *Цельсий *градусы, F *Фаренгейт *градусы, *K *Кельвин.
+Anlayan hacim birlikleri: *l litre, t*sp çay kaşık, t*bs aş kaşık, oz #suyuk *унция, cup *шыныаяқ, pt *пинта, qt *кварта, *gal *галлон, *barrel *баррель, *m3 #köken metre, *mi3 #köken *миля, *Nmi3 #köken deniz *миля, *in3 #köken inç, ft3 #köken *фут, *yd3 #köken *ярд.
+Anlayan avdan birlikleri: *m2 kare metre, *mi2 kare *миля, *Nmi2 kare deniz *миля, *in2 kare inç, ft2 kare *фут, *yd2 kare *ярд, *ac*re *акр, h*a hektar.
+#COCO*NVERT 32; C; F neticesi 89, 6
+#COCO*NVERT 3; *lbm; *kg neticesi 1, 3608
+#COCO*NVERT 7, 9; c*al; J neticesi 33, 0757
+#Aşağıya_ fiş
+En üste_ fiş
+*ERF  işlevi hata işlevini oranlar. Yalnız *аргумент getirilse *ERF  0 ben sol *аргумент oranı arısındaki hata işlevini *қайтарады.
+*ERF 0, 4 neticesi 0, 42839236
+*ERF  işlevi *толықтауыш hata işlevini oranlar.
+*ERFC 0, 4 neticesi 0, 57160764
+Çeviren oran
+*DEC*2BIN  işlevi *ондық sayı *бинарлық türde *қайтарады.
+*DEC*2BIN öz
+*DEC*2BIN 12 *қайтаратыны 1100
+*DEC*2BIN 55 *қайтаратыны 110111
+*DEC2H*EX  işlevi *ондық sayı *оналтылық türde *қайтарады.
+*DEC2H*EX öz
+*DEC2H*EX 12 *қайтаратыны c
+*DEC2H*EX 55 *қайтаратыны 37
+*DEC2OCT  işlevi *ондық sayı *сегіздік türde *қайтарады.
+*DEC2OCT öz
+*DEC2OCT 12 *қайтаратыны 14
+*DEC2OCT 55 *қайтаратыны 67
+#OCTOCT*2BIN  işlevi *сегіздік sayı *бинарлық türde *қайтарады.
+#OCTOCT*2BIN öz
+#OCTOCT*2BIN 12 *қайтаратыны 1010
+#OCTOCT*2BIN 55 *қайтаратыны 101101
+#OCTOCT*2DEC  işlevi *сегіздік sayı *ондық türde *қайтарады.
+#OCTOCT*2DEC öz
+#OCTOCT*2DEC 12 *қайтаратыны 10
+#OCTOCT*2DEC 55 *қайтаратыны 45
+#OCTOCT2H*EX  işlevi *сегіздік sayı *оналтылық türde *қайтарады.
+#OCTOCT2H*EX öz
+#OCTOCT2H*EX 12 *қайтаратыны *A
+#OCTOCT2H*EX 55 *қайтаратыны *2D
+*BIN2DEC  işlevi *бинарлық sayı *ондық türde *қайтарады.
+*BIN2DEC öz
+*BIN2DEC 1010 *қайтаратыны 10
+*BIN2DEC 11111 *қайтаратыны 31
+*BIN2OCT  işlevi *бинарлық sayı *сегіздік türde *қайтарады.
+*BIN2OCT öz
+*BIN2OCT 1010 *қайтаратыны 12
+*BIN2OCT 11111 *қайтаратыны 37
+*BIN2H*EX  işlevi *бинарлық sayı *оналтылық türde *қайтарады.
+*BIN2H*EX öz
+*BIN2H*EX 1010 *қайтаратыны *a
+*BIN2H*EX 11111 *қайтаратыны 1f
+#HH*EX2DEC  işlevi *оналтылық sayı *ондық türde *қайтарады.
+#HH*EX2DEC öz
+#HH*EX2DEC *a *қайтаратыны 10
+#HH*EX2DEC 37 *қайтаратыны 55
+#HH*EX2OCT  işlevi *оналтылық sayı *сегіздік türde *қайтарады.
+#HH*EX2OCT öz
+#HH*EX2OCT *a *қайтаратыны 12
+#HH*EX2OCT 37 *қайтаратыны 67
+#HH*EX2BIN  işlevi *оналтылық sayı *бинарлық türde *қайтарады.
+#HH*EX2BIN öz
+#HH*EX2BIN *a *қайтаратыны 1010
+#HH*EX2BIN 37 *қайтаратыны 110111
+Somutlu bölgesinin *коэффициенті
+Tahmini bölgesinin *коэффициенті
+#COCO*MP*LEX *x; *y kompleks sayı *x+*yi türünde yapar.
+#COCO*MP*LEX *real; *imag
+#COCO*MP*LEX 1, 2; 3, 4 *қайтаратыны 1, 2+3, *4i
+#COCO*MP*LEX 0; - 1 *қайтаратыны - *i
+Kompleks say
+*IMAGINARY yol kompleks sayın tahmini bölgesinin *коэфициентін *қайтарады.
+*IMAGINARY yol
+*IMAGINARY 1, 2+3, *4i *қайтаратыны 3, 4
+*IMAGINARY 1, 2 *қайтаратыны 0
+*IMREAL yol kompleks sayın somutlu bölgesinin *коэффициентін *қайтарады.
+*IMREAL yol
+*IMREAL 1, 2+3, *4i *қайтаратыны 1, 2
+*IMREAL 1, *2i *қайтаратыны 0
+*IMCO*S yol kompleks sayın *косинусын *қайтарады.
+*IMCO*S yol
+*IMCO*S 1+*i *қайтаратыны 0, 83373- 0, *988898i
+*IMCO*S *12i *қайтаратыны 81 377, 4
+*IMCO*SH yol kompleks sayın *гиперболалық *косинусын *қайтарады.
+*IMCO*SH yol
+*IMCO*SH 1+*i *қайтаратыны 0, 83373+0, *988898i
+*IMCO*SH *12i *қайтаратыны 0, 84358
+*IMSIN yol işlevi kompleks sayın *синусын *қайтарады.
+*IMSIN yol
+*IMSIN 1+*i *қайтаратыны 1, 29846+0, *634964i
+*IMSIN 1, 2 *қайтаратыны - 0, 536573
+*IMSINH yol işlevi kompleks sayın *гиперболалық *синусын *қайтарады.
+*IMSINH yol
+*IMSINH 1+*i *қайтаратыны 0, 63496+1, *29846i
+*IMSINH 1, 2 *қайтаратыны 1, 50946
+*IMT*AN yol işlevi kompleks sayın *тангенсін *қайтарады.
+*IMT*AN yol
+*IMT*AN 1+*i *қайтаратыны 0, 27175+1, *08392i
+*IMT*AN 1, 2 *қайтаратыны 2, 57215
+*IMT*ANH yol işlevi kompleks sayın *гиперболалық *тангенсін *қайтарады.
+*IMT*ANH yol
+*IMT*ANH 1+*i *қайтаратыны 1, 08392+0, *27175i
+*IMT*ANH 1, 2 *қайтаратыны 0, 83365
+*IMEXP yol kompleksi sayın *экспонентасын *қайтарады.
+*IMEXP yol
+*IMEXP 2- *i *қайтаратыны 3, 99232- 6, *21768i
+*IMEXP *12i *қайтаратыны 0, 843854- 0, *536573i
+*IMLN yol kompleks sayın *натурал #logaritma *қайтарады.
+*IMLN yol
+*IMLN 3- *i *қайтаратыны 1, 15129- 0, *321751i
+*IMLN 12 *қайтаратыны 2, 48491
+*IMLO*G2 yol kompleks sayın tamamıyla 2 #logaritma *қайтарады.
+*IMLO*G2 yol
+*IMLO*G2 3+*4i *қайтаратыны 2, 321928+1, *337804i
+*IMLO*G10 yol kompleks sayın tamamıyla 10 #logaritma *қайтарады.
+*IMLO*G10 yol
+*IMLO*G10 3+*4i *қайтаратыны 0, 69897+0, *402719i
+*IMSQ*RT yol kompleks sayın kare *түбірін *қайтарады.
+*IMSQ*RT yol
+*IMSQ*RT 1+*i *қайтаратыны 1, 09868+0, *45509i
+*IMSQ*RT 1, *2i *қайтаратыны 0, 774597+0, *774597i
+Derece
+*IMPO*WER yol kompleks sayı dereceye çıkarır.
+*IMPO*WER yol
+*IMPO*WER 4- *i; 2 *қайтаратыны 15- *8i
+*IMPO*WER 1, 2; 2 *қайтаратыны 1, 44
+*IMSU*M  #birkaç kompleks saylar *қосындысын *x+*yi türünde *қайтарады.
+*IMSU*M öz; öz;...
+*IMSU*M 1, 2; 3, 4+*5i *қайтаратыны 4, 6+*5i
+*IMSU*M 1, 2; *1i *қайтаратыны 1, 2+*i
+*IMDIV  #birkaç kompleks saylarının bir- birine bölme neticesini *x+*yi türünde *қайтарады.
+*IMDIV öz; öz;...
+*IMDIV 1, 2; 3, 4+*5i *қайтаратыны 0, 111597- 0, *164114i
+*IMDIV 12+*i; 12- *i *қайтаратыны 0, 986207+0, *16551i
+*IMSU*B  #birkaç kompleks saylarının kısma çareler *нәтіжесін *x+*yi türünde *қайтарады.
+*IMSU*B öz; öz;...
+*IMSU*B 1, 2; 3, 4+*5i *қайтаратыны - 2, 2- *5i
+*IMSU*B 1, 2; *1i *қайтаратыны 1, 2- *i
+*IMP*RO*DUCT  #birkaç kompleks saylarının bir- birine artma neticesini *x+*yi türünde *қайтарады.
+*IMP*RO*DUCT öz; öz;...
+*IMP*RO*DUCT 1, 2; 3, 4+*5i *қайтаратыны 4, 08+*6i
+*IMP*RO*DUCT 1, 2; *1i *қайтаратыны +1, *2i
+*IMCO*NJU*GAT*E kompleks_ say kompleks sayın *түйіндес sayını *x+*yi türünde *қайтарады.
+*IMCO*NJU*GAT*E kompleks_ say
+*IMCO*NJU*GAT*E 1, 2+*5i *қайтаратыны 1, 2- *5i
+*IMCO*NJU*GAT*E - *i *қайтаратыны *i
+*IMCO*NJU*GAT*E 12 *қайтаратыны 12
+*IMARGU*MENT kompleks_ say işlevi *x+*yi türdeki kompleks sayın *полярлық türünün *аргументін *қайтарады.
+*IMARGU*MENT kompleks_ say
+*IMARGU*MENT 1, 2+*5i *қайтаратыны 0, 6072
+*IMARGU*MENT - *i *қайтаратыны - 1, 57079633
+*IMARGU*MENT 12 *қайтаратыны # *Div 0
+*IMABS kompleks_ say işlevi *x+*yi türdeki kompleks sayın *модулін *қайтарады.
+*IMABS kompleks_ say
+*IMABS 1, 2+*5i *қайтаратыны 5, 1419
+*IMABS - *i *қайтаратыны 1
+*IMABS 12 *қайтаратыны 12
+Heyelanlı *үтірлі say
+*DELT*A  işlevi *x ve *y eşit olsa 1- *ді *қайтарады, #yoksa  0- *ді *қайтарады. *y getirilmese, o 0 diyip sanılır.
+*DELT*A *x; *y
+*DELT*A 1, 2; 3, 4 *қайтаратыны 0
+*DELT*A 3; 3 *қайтаратыны 1
+*DELT*A 1; T*RU*E *қайтаратыны 1
+*GEST*EP  işlevi *x sayı *y sayından lüzümsüz yere ne eşit olsa 1- *ді *қайтарады, #yoksa  0- *ді *қайтарады. *y getirilmese, o 0 diyip sanılır.
+*GEST*EP *x; *y
+*GEST*EP 1, 2; 3, 4 *қайтаратыны 0
+*GEST*EP 3; 3 *қайтаратыны 1
+*GEST*EP 0, 4; T*RU*E *қайтаратыны 0
+*GEST*EP 4; 3 *қайтаратыны 1
+*Қаржылық
+*Шығарлым günü
+Ilk *төлемі
+Skor ayırma günü
+*Кұнды kağıtın senelik *мөлшерлемесі
+*Номиналы
+Senelik *төлемдер sayı
+Mevsimini sanma metotu
+*ACC*RINT işlevi mevsimi türde ödenecek kadir kağıt oran *мөлшерлемесін oranlar. *Төлемдер frekansı: 1 - senelik, 2 - yarı senelik, 4 - çeyrek senelik. Günleri sanma metotu: 0: *АҚШтық 30 360 #gelenek, 1: çın günler sayı 2: çın günler 360, 3: çın günler 365 o*r 4: Avrupa 30 365.
+*ACC*RINT 28. 02. 2001; 31. 08. 2001; 01. 05. 2001; 0, 1; 1000\/1000; 2; 0 *қайтаратыны 16, 944
+*ACC*RINT*M işlevi *өтеу gününde *біржолата ödenecek kadir kağıt *өсім *мөлшерлемесін oranlar. Günleri sanma metotu: 0: *АҚШтық 30 360 #gelenek, 1: çın günler sayı 2: çın günler 360, 3: çın günler 365 o*r 4: Avrupa 30 365.
+*ACC*RINT*M 28. 02. 2001; 31. 08. 2001; 0, 1; 100 *қайтаратыны 5, 0278
+Fiyatı
+*Бастапқы fiyat
+Gelecek besleyerek
+*AMO*RDEGRC işlevi fransızca *бухгалтерлік sistemi #boy *дегрессивті *өтеу metotuyla *амортизацияны oranlar.
+*AMO*RDEGRC 1000\/1000; 01. 02. 2006; 31. 12. 2006; 10; 0; 0, 1; 1 *қайтаратыны 228
+*П
+*AMO*RLINC işlevi fransızca *бухгалтерлік sistemi #boy *біркелкі *өтеу metotuyla *амортизацияны oranlar.
+*AMO*RLINC 1000\/1000; 01. 02. 2004; 31. 12. 2004; 10; 0; 0, 1; 1 *қайтаратыны 91, 256831
+*Бастапқы anapara
+*Өсім *мөлшерлемесі
+Yıldaki aşamalar
+Yıllar
+#COCO*MPOU*ND *бастапқы_ anapara; *өсім_ miktar; yıldaki_ *кезен_ sayı; mevsimi
+#COCO*MPOU*ND 5000\/5000; 0, 12; 4; 5 neticesi 9030, 56
+#COCO*NT*INOU*S *бастапқы_ anapara; *өсім_ miktar; mevsim
+#COCO*NT*INUOU*S 1000\/1000; 0, 1; 1 neticesi 1105, 17
+*Өтеу günü
+Frekansı
+#COUPCOUP*NU*M işlevi skor ayırma anla *өтеу günü ana kadar ödenecek *купондар sayını oranlar. Günleri sanma metotu: 0: *АҚШтық 30 360 #gelenek, 1: çın günler sayı 2: çın günler 360, 3: çın günler 365 o*r 4: Avrupa 30 365.
+#COUPCOUP*NU*M 28. 02. 2001; 31. 08. 2001; 2; 0 *қайтаратыны 1
+*мөлшерлемесі
+aşamaları
+katkısı
+kaynağı
+son
+türü
+#CUCU*MIP*MT 0, 06 12; 5* 12; 100000\/100000; 5; 12; 0 neticesi - 3562, 187023
+#CUCU*MP*RINC 0, 06 12; 5* 12; 100000\/100000; 5; 12; 0 neticesi - 11904, 054201
+Kaldık *кұны
+Kullanma mevsimi
+Aşaması
+*DB  işlevi *келтірілен aşamadaki mülkün *амортизациясын *біркелкі *өтеу metotuyla oranlar. Ayını getirmemeye olur, getirilmedikte o 12 diyip oranlanır.
+*DB fiyatı; kaldık_ *кұны; kullanma_ mevsimi; aşama ; ayı
+*DB 8000\/8000; 400; 6; 3 neticesi 1158, 40
+*DB 8000\/8000; 400; 6; 3; 2 neticesi 1783, 41
+*Коэффициенті
+*DDB  işlevi *келтірілен aşamadaki mülkün *амортизациясын *тездетіп *өтеу metotuyla oranlar. *Коэффициентін getirmemeye olur, getirilmedikte o 2 diyip oranlanır. Kaldığı *параметрлері sıfırdan lüzümsüz yere olma gerek.
+*DDB fiyatı; kaldık_ *кұны; kullanma_ mevsimi; aşaması ; *коэффициенті
+*DDB 75000\/75000; 1; 60; 12; 2 *қайтаратыны 1721, 81
+*Өтеп almak
+*DISC işlevi kadir kağıtı #boy *дисконт *мөлшерлемесін oranlar. Günleri sanma metotu: 0: *АҚШтық 30 360 #gelenek, 1: çın günler sayı 2: çın günler 360, 3: çın günler 365 o*r 4: Avrupa 30 365.
+*DISC 28. 02. 2001; 31. 08. 2001; 12; 14 *қайтаратыны 0, 2841
+Bölüğü dolar
+*DO*LLARDE 1, 02; 16 - bu 1 bütün 2 16 diyerek getirdiği - *қайтаратыны 1, 125
+*Ондық bölüğü dolar
+*DO*LLARF*R 1, 125; 16 *қайтаратыны 1, 02. Bu 1 + 2 16 dediği say
+*Өсім *мөлшерлемесі *ӨМ
+*Бастапқы *сома *БС
+Gelecek *сомасы *КС
+Katkı #ne aşamadan sonra gerek *сомаға ulaşanını oranlar.
+*DU*RAT*IO*N *өм; *бс; *кс
+*DU*RAT*IO*N 0, 1; 1000\/1000; 2000\/2000 *қайтаратыны 7, 27
+*Купон
+Kazanç
+Metot
+*DU*RAT*IO*N_ *ADD 01. 01. 1998; 01. 01. 2006; 0, 08; 0, 09; 2; 1 *қайтаратыны 5, 9937749555
+*Номиналды *өсім *мөлшерлемесі
+Aşamaları
+*EFF*ECT  işlevi *номиналды senelik büyüme *мөлшерлеме esasında *эффективті *мөлшерлемесін oranlar. Meseli: #8 her ay çıkılan *өсім *EFF*ECT 0, 08; 12 *яғни 8, #3 *эффективті *мөлшерлемеге denk.
+*EFF*ECT *номинал; aşamaları
+*EFF*ECT 0, 08; 12 neticesi 0, 083
+*EFF*ECT*IVE  işlevi *номиналды senelik *өсім *мөлшерлеме esasında *эффективті *мөлшерлемесін oranlar. Bu *EFF*ECT işlevinin *баламасы.
+*EFF*ECT*IVE *номинал; aşamaları
+*EU*RO  işlevi bir euroyu gösterilen Avrupa #beyaz ittifakının\/İttifakının bir ulusal dövizine çevirir. Dövizi sonraki biri olmaya lazım: *AT*S Avusturya, *BEF Belçika, *DEM Almanya, *ESP İspanya, *EU*R Euro, F*IM Finlandiya, F*RF Fransa, *GRD Yunanistan, *IEP İrlanda, *IT*L İtalya, *LUF Lüksemburg, *NLG Hollanda, PT*E Portekiz.
+*EU*RO döviz
+*EU*RO *DEM neticesi 1, 95583
+Çeviren dövizi
+Gerek dövizi
+*EU*ROCO*NVERT  işlevi gösterilen Avrupa #beyaz ittifakının\/İttifakının bir ulusal dövizindeki *соманы başkasına euro ile çevirir. Dövizi sonraki biri olmaya lazım: *AT*S Avusturya, *BEF Belçika, *DEM Almanya, *ESP İspanya, *EU*R Euro, F*IM Finlandiya, F*RF Fransa, *GRD Yunanistan, *IEP İrlanda, *IT*L İtalya, *LUF Lüksemburg, *NLG Hollanda, PT*E Portekiz.
+*EU*ROCO*NVERT 1; *EU*R; *DEM neticesi 1, 95583
+Şimdiki *сома
+#FF*V şimdiki_ *сома; *өсімі; aşamaları
+#FF*V 1000\/1000; 0, 08; 2 neticesi 1166, 40
+Aşama *сайынғы *төлемі
+#FF*V_ *ANNU*IT*Y *сома; *өсімі; aşamalar
+#FF*V_ *ANNU*IT*Y 1000\/1000; 0, 05; 5 neticesi 5525, 63
+Katkı
+*INT*RAT*E işlevi kadir kağıta yaparak *өсім *мөлшерлемесін oranlar. Günleri sanma metotu: 0: *АҚШтық 30 360 #gelenek, 1: çın günler sayı 2: çın günler 360, 3: çın günler 365 o*r 4: Avrupa 30 365.
+*INT*RAT*E 28. 02. 2001; 31. 08. 2001; 1000000\/1000000; 2000000\/2000000; 1 *қайтаратыны 1, 98
+Aşamalar sayı
+Şimdiki *сома
+Gelecek *сома getirilmemesi da makul
+Türü getirilmemesi da makul
+*IP*MT *мезгілдік *төлемдер *тізбегінің *төлемінің *өсімді ödemeye gitmiş *сомасын oranlar.
+*Өсімі - aşama kadar ödenecek *мөлшерлемесі.
+*IP*MT *Өсімі; Aşaması; *КСаны; *БМ; KM; Türü
+*IP*MT 0, 1; 3; 3; 8000\/8000 neticesi - 292, 45
+*Бастапқы miktarı *БМ
+Getirilen aşamasında katkıya ödenecek *өсімін oranlar.
+*ISP*MT *Өсімі; Aşaması; *КСаны; *БМ
+*ISP*MT 0, 1; 1; 3; 8000000\/8000000 neticesi - 533333
+*Номиналы
+*Купон *мөлшерлемесі
+Yıldaki *купондар sayı
+*Өсім *мөлшерлеменің narhı
+*LEVEL_ COUPO*N 1000\/1000; 0, 13; 2; 4; 0, 1 neticesi 1096, 95
+*MDU*RAT*IO*N 01. 02. 2004; 31. 05. 2004; 0, 08; 0, 09; 2; 0 *қайтаратыны 0, 316321106
+*Сомалары
+Dönerek katkı *өсімі
+*MIRR  işlevi mevsimi katkı *тізбегінің *түрлендірілген iç fayda #normа oranlar.
+*Эффективті *өсім *мөлшерлемесі
+*NO*MINAL  işlevi *эффективті senelik *өсім *мөлшерлемесі ben onun ödenecek aşamalar bilgisinin esasında *номиналды yayınlayan *өсім *мөлшерлемесін oranlar. Meseli: her ay ödenecek #8 senelik oranı olma için *NO*MINAL 0, 08; 12 *яғни *номиналды 7. #72 diyip koyu gerek.
+*NO*MINAL *эффективті; *кезңдер_ sayı
+*NO*MINAL 0, 08; 12 neticesi 0, 0772
+*Төлемі
+Gelecek miktarı KM - getirilmeme da olur
+Katkılar aşamalar sayını *қайтарады.
+*NP*ER *өсімі; *төлемі; *бм; km; türü
+*NP*ER 0, 1; - 100; 1000\/1000 neticesi 11
+*NP*ER 0, 06; 0; - 10000\/10000; 20000\/20000; 0 *қайтаратыны 11, 906
+*Сомалар *жиым
+Mevsimi *төлемдер yapan genel şimdiki *сомасы.
+*NP*V *Дисконт; *Сомалар
+*NP*V #100; 4; 5; 7 = 4, 125
+Sonrakı aşaması
+Senelik kazançı
+#OO*DDLP*RIC*E işlevi kadir kağıtın 100 #beyaz birliği *номиналының çın fiyatını oranlar. Kadir kağıtın sonrakı *төлем aşaması *өзгермелі.
+Fiyatı
+#OO*DDLYIELD işlevi sonrakı *төлем aşaması *өзгермелі kadir kağıtın *табыстығын oranlar.
+Aşamalar sayı *КСаны
+#PP*MT *Өсімі; *КСаны; *БМ ; KM = 0 ; Türü = 0
+#PP*MT 0, 1; 4; 10000\/10000 neticesi - 3154, 71
+#PPPP*MT *мезгілдік *төлемдер *тізбегінің *төлемінің başlıca anaparasını *өсімінен bölüp oranlar.
+#PPPP*MT *Өсімі; *Қезеңі; *КСаны; *БМ ; KM = 9 ; Türü = 0
+#PPPP*MT 0, 0875; 1; 36; 5000\/5000; 8000\/8000; 1 neticesi - 18, 48
+*Шығарылым günü
+*Дисконт *мөлшерлемесі
+#PP*RIC*EMAT işlevi *өсімі mevsiminin sonunda ödenecek kadir kağıtın 100 #beyaz birliği *номиналының çın fiyatını oranlar.
+Tamamıyla Oranlama metotu
+Gelecek miktarı
+#PP*V gerek_ *сома; *өсімі, mevsimi
+#PP*V 1166, 4; 0, 08; 2 neticesi 1000\/1000
+#PP*V_ *ANNU*IT*Y miktar; *өсімі; aşamaları
+#PP*V_ *ANNU*IT*Y 1000\/1000; 0, 05; 5 neticesi 4329, 48
+*REC*EIVED işlevi kadir kağıtın *өтеу gününe toparlanan *сомасын *қайтарады. Günleri sanma metotu: *АҚШтық 30 360 #gelenek, 1: çın günler sayı 2: çın günler 360, 3: çın günler 365 o*r 4: Avrupa 30 365. Skor ayırma günü *өтеу gününün önünde olma gerek.
+*REC*EIVED 28. 02. 2001; 31. 08. 2001; 1000\/1000; 0, 05; 0 *қайтаратыны 1 025, 787
+*RRI işlevi katkıdan düşen *пайдасыныw *қайтарылымынын esasında *өсім *мөлшерлемесін oranlar.
+*RRI *П; *Бм; Km
+*RRI 1; 100; 200 *қайтаратыны 1
+*SLN  işlevi mülkün bir aşamadaki *біркелкі *амортизациясын oranlar. Fiyatı - mülkü sattık fiyatı. *Қалдығы - mülkün aşama sonundaki kaldık farkı. Mevsimi - mülkün riyakar *амортизацияланатын aşamalar sayı. *SLN mülkün farkın tüm kullanma mevsimine *біркелкі ayırdı.
+*SLN fiyatı; *қалдығы; mevsimi
+*SLN 10000\/10000; 700; 10 neticesi 930
+*SYD  işlevi mülkün bir aşamadaki *тездетілген *амортизациясын fiyatı, kaldık farkı, *болжаулы kullanma mevsimi ve gösterilen aşama için oranlar. Bu *тездетілген *амортизация metotu, #ön anlarındaki *өтеуі sonraki *кезеңдергіден lüzümsüz yere. *Өтейтін farkı diyerek şimdiki farkı ben kaldık farkı arısındaki farkı. Kullanma mevsimi - mülkün *амортизацияланатын aşamalar çokunda yıllar sayı.
+*SYD fiyatı; *қалдығы; mevsimi; aşaması
+*SYD 5000\/5000; 200; 5; 2 neticesi 1280
+#TT*BILLEQ 28. 02. 2001; 31. 08. 2001; 0, 1 *қайтаратыны 0, 1068
+#TT*BILLP*RIC*E 28. 02. 2001; 31. 08. 2001; 0, 05 *қайтаратыны 97, 4444
+#TT*BILLYIELD 28. 02. 2001; 31. 08. 2001; 600 *қайтаратыны - 1, 63
+*VDB 10000\/10000; 600; 10; 0; 0, 875; 1, 5 *қайтаратыны 1312, 5
+Anları
+Tahmin
+*XIRR işlevi *беймезгілді *түсімдер *тізбегінің iç fayda #normа oranlar.
+*XNP*V işlevi *түсімдер *тізбегінің iç genel toparlanan *сомасын oranlar.
+*XNP*V *Өсімі; *Сомалары; Anları
+*YIELDMAT *өсімін *өтеу gününde ödenecek kadir kağıttan gören avantajlı oranlar.
+#ZZ*ERO_ COUPO*N *номиналы; oranı; yıllar
+#ZZ*ERO_ COUPO*N 1000\/1000; 0, 1; 20 neticesi 148, 64
+Bilgisi
+Hata
+*ERRO*RT*YP*E öz
+*ERRO*RT*YP*E *NA  *қайтаратыны 7
+*ERRO*RT*YP*E 0 *қайтаратыны hata 0 dediği hata *коды değil
+*N  işlevi devretildiği özü saya *айналдырады. Eğer devrettiği say ne saya atıf olsa, onda şu say *қайтарылады. Eğer T*ru*e *логикалық öz devretilse, işlev 1 sayını *қайтарады. Eğer devrettiği gün olsa, günün *тізбекті sayı *қайтарылады. Öbür birşey devretildikte - *қайтарылатыны 0.
+*N öz
+*N 3, 14 *қайтаратыны 3, 14
+*N 7 *қайтаратыны 0 zira 7 dediği metin
+Bilgi türü
+*INFO  işlevi eyledik orta ile ilgili sorulan bilgisini çıkar. *Параметрі soran bilgiyi tanımlar. O sonrakinin biri: *directo*ry praktisyonerdeki *каталогтың yolunu sorma için, *nu*mf*ile aktif dosyalar sayın sorma için, *release diyip sorsanız *KSp*read nüshası metin yolu türünde *қайтарылады, *rec*alc deseniz praktisyonerdeki oranlamaya *режімі *қайтарылады: *Auto*mat*ic otomatik güçte *Manu*al elle, *syst*em diyip operasyonel sistemi sormaya olur, o*sversio*n diyip - operasyonel sistemin nüshasını.
+*INFO ne_ sorma
+An gelen öz
+*ISLO*GIC*AL  işlevi, *параметрдегісі *логикалық öz olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der.
+*ISLO*GIC*AL *x
+*ISLO*GIC*AL *A1  *A2 *қайтаратыны T*ru*e
+*ISLO*GIC*AL 12 *қайтаратыны F*alse
+*ISBLANK  işlevi, *параметрдегісі boş olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der.
+*ISBLANK *x
+*ISBLANK *A1, eğer *A1 boş olsa, T*ru*e diyerek *қайтарады
+*ISBLANK *A1 eğer *A1 boş olmasa F*alse diyerek *қайтарады
+*ISNU*MBER  işlevi, *параметрдегісі say olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der. Bu işlev *ISNU*M işleviyle bir.
+*ISNU*MBER *x
+*ISNU*MBER 12 *қайтаратыны T*ru*e
+*ISNU*MBER *сәлем *қайтаратыны F*alse
+*ISNU*M  işlevi, *параметрдегісі say olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der. Bu işlev *ISNU*MBER işleviyle bir.
+*ISNU*M *x
+*ISNU*M 12 *қайтаратыны T*ru*e
+*ISNU*M *сәлем *қайтаратыны F*alse
+*IST*IME  işlevi, *параметрдегісі vakit olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der.
+*IST*IME *x
+*IST*IME 12: 05 *қайтаратыны T*ru*e
+*IST*IME *сәлем *қайтаратыны F*alse
+*ISDAT*E  işlevi, *параметрдегісі gün simgesi olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der
+*ISDAT*E *x
+*ISDAT*E 02. 02. 2000\/2000 *қайтаратыны T*ru*e
+*ISDAT*E *сәлем *қайтаратыны F*alse
+*ISREF  işlevi, *параметрі atıf olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der
+*ISREF *x
+*ISREF *A12 *қайтаратыны T*ru*e
+*ISREF *сәлем *қайтаратыны F*alse
+*IST*EXT  işlevi, *параметрдегісі metin olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der
+*IST*EXT *x
+*IST*EXT 12 *қайтаратыны F*alse
+*IST*EXT *сәлем *қайтаратыны T*ru*e
+*ISNO*NT*EXT  işlevi, *параметрдегісі metin değil olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der. Bu işlev *ISNOTT*EXT işleviyle bir.
+*ISNO*NT*EXT *x
+*ISNO*NT*EXT 12 *қайтаратыны T*ru*e
+*ISNO*NT*EXT *сәлем *қайтаратыны F*alse
+*ISNOTT*EXT  işlevi, *параметрдегісі metin değil olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der. Bu işlev *ISNOT*EXT işleviyle bir.
+*ISNOTT*EXT *x
+*ISNOTT*EXT 12 *қайтаратыны T*ru*e
+*ISNOTT*EXT *сәлем *қайтаратыны F*alse
+*ISO*DD  işlevi, *параметрдегісі #tek say olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der.
+*ISO*DD *x
+*ISO*DD 12 *қайтаратыны F*alse
+*ISO*DD - 7 *қайтаратыны T*ru*e
+*ISEVEN  işlevi, *параметрдегісі *жұп say olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der.
+*ISEVEN *x
+*ISEVEN 12 *қайтаратыны T*ru*e
+*ISEVEN - 7 *қайтаратыны F*alse
+*ISERR  işlevi, *параметрдегісі hatası *А Yıl bilgi yok hatasından başa olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der. Eğer *А Yıl hatalar sırasından bölsün deseniz *ISERRO*R  işlevini kullanın.
+*ISERR *x
+*ISERRO*R  işlevi, *параметрдегісі türü an gelen hata simgesi olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der.
+*ISERRO*R *x
+*ISNA  işlevi, *параметрдегісі hatası *А Yıl bilgi yok hatası olsa, *қайтаратыны T*ru*e. #Yoksa  F*alse der.
+*ISNA *x
+*NA  işlevi tek *А Yıl bilgi yok hata simgesini *қайтарады.
+*NA 
+#TT*YP*E  işlevi *параметрдегісі say olsa *қайтаратыны 1, metin olsa 2, *логикалық öz olsa 4, hata simgesi olsa 16, *жиым olsa 64. Eğer *сілтегені formülü var *ұяшық olsa - formülü *қайтаратынның türü *қарастырлады.
+#TT*YP*E *x
+#TT*YP*E *A1, eğer *A1 *мазмұны Metin olsa, *қайтаратыны 2
+#TT*YP*E - 7 *қайтаратыны 1
+#TT*YP*E *A2, eğer *A2 *мазмұны =CU*RRENT*DAT*E  olsa, *қайтаратыны 1
+Şu dosyanın dosya çağırmasını *қайтарады. Eğer dosya hâlâ korunmayan olsa - boş yol *қайтарылады.
+#FF*ILENAME 
+*Логикалық
+#FF*ALSE  işlevi *логикалық F*ALSE özünü *қайтарады.
+#FF*ALSE 
+#FF*ALSE  *қайтаратыны F*ALSE
+#TT*RU*E  işlevi *логикалық T*RU*E özünü *қайтарады.
+#TT*RU*E 
+#TT*RU*E  *қайтаратыны T*RU*E
+*Логикалық özler
+*AND  işlevi bütün özleri t*ru*e hakikat olsa *қайтаратыны T*ru*e. #Yoksa  *қайтаратыны F*alse *кемінде birinin özü hata olmasa, #bu *қайтаратыны hata simgesi.
+*AND öz; öz;...
+*AND t*ru*e; t*ru*e; t*ru*e *қайтаратыны T*ru*e
+*AND t*ru*e; f*alse *қайтаратыны F*alse
+#OO*R  işlevi özlerinin *кемінде biri t*ru*e hakikat olsa *қайтаратыны T*ru*e. #Yoksa  *қайтаратыны F*alse *кемінде birinin özü hata olmasa, #bu *қайтаратыны hata simgesi.
+#OO*R öz; öz;...
+#OO*R f*alse; f*alse; f*alse *қайтаратыны F*alse
+#OO*R t*ru*e; f*alse *қайтаратыны T*ru*e
+*NAND  işlevi özlerinin *кемінде biri t*ru*e hakikat değil olsa *қайтаратыны T*ru*e. #Yoksa  *қайтаратыны F*alse.
+*NAND öz; öz;...
+*NAND t*ru*e; f*alse; f*alse *қайтаратыны T*ru*e
+*NAND t*ru*e; t*ru*e *қайтаратыны F*alse
+*NO*R  işlevi özlerinin bütünü *логикалық öz ve f*alse yalan olsa *қайтаратыны T*ru*e. #Yoksa  *қайтаратыны F*alse.
+*NO*R öz; öz;...
+*NO*R t*ru*e; f*alse; f*alse *қайтаратыны F*alse
+*NO*R f*alse; f*alse *қайтаратыны T*ru*e
+*XO*R  işlevi özlerinin arısındaki t*ru*e hakikat özler sayı *жұп olsa *қайтаратыны T*ru*e. #Yoksa  *қайтаратыны F*alse. *Аргументінің *кем diyerek #bir hata olsa *қайтаратыны hata simgesi.
+*XO*R öz; öz;...
+*XO*R f*alse; f*alse; f*alse *қайтаратыны T*ru*e
+#OO*R t*ru*e; f*alse *қайтаратыны T*ru*e
+*Логикалық öz
+*NOT  işlevi, eğer devretildiği T*ru*e olsa, *қайтаратыны F*alse ve devretildiği F*alse olsa, *қайтаратыны T*ru*e. Kazançında hata olsa, hatayı *қайтарады.
+*NOT *логиқалық_ öz
+*NOT f*alse *қайтаратыны T*ru*e
+*NOT t*ru*e *қайтаратыны F*alse
+Şart
+Eğer hakikat olsa
+Eğer yalan olsa
+*IF  işlevi şart işlev. Eğer şartı T*ru*e hakikat olsa ikinci *параметрін *қайтарады. #Yoksa  f*alse - yalan olsa üçüncü *параметрін *қайтарады.
+*IF şart; hakikat_ olsa; yalan_ olsa
+*A1=4; *A2=6; *IF *A1  *A2; 5; 3 *қайтаратыны 3
+*Математикалық
+Işlev
+*SU*BTOT*AL  işlevi *берлген *аргументтер listesinin derivasyonunu oranlar. Listesinde yüzleştiği başka derivasyonlar skora alınmaz. Oranladıkta kullanan işlevi sonraki bir nosuyla atanıp çıkılır: 1 - *Average, 2 - Cou*nt, 3 - Cou*nt*A, 4 - *Max, 5 - *Min, 6 - P*ro*duct, 7 - *St*Dev, 8 - *St*DevP, 9 - *Su*m, 10 - *Var, 11 - *VarP.
+*SU*BTOT*AL işlev; öz
+Eğer *A1: *A5 *мазмұны 7, 24, 23, 56, 9 olsa:
+*SU*BTOT*AL 1; *A1: *A5 *қайтаратыны 23. 8
+*SU*BTOT*AL 4; *A1: *A5 *қайтаратыны 56
+*SU*BTOT*AL 9; *A1: *A5 *қайтаратыны 119
+*SU*BTOT*AL 11; *A1: *A5 *қайтаратыны 307. 76
+*SERIESSU*M  işlevi *дәрежелік sırasının *қосындысын oranlar.
+*SERIESSU*M 2; 0; 2; 1; 2 *қайтаратыны 9
+*LC*M  işlevi iki ne ondan da lüzümsüz yere somut saylarının en aşağı ortak *еселігін *қайтарады
+*LC*M öz; öz
+*LC*M 6; 4 *қайтаратыны 12
+*LC*M 1, 5; 2, 25 *қайтаратыны 4, 5
+*LC*M 2; 3; 4 *қайтаратыны 12
+Üçüncü say
+*GC*D  işlevi iki ne ondan da lüzümsüz yere bütün saylarının en büyük ortak *бөлгішін *қайтарады.
+*GC*D öz; öz
+*GC*D 6; 4 *қайтаратыны 2
+*GC*D 10; 20 *қайтаратыны 10
+*GC*D 20; 15; 10 *қайтаратыны 5
+*EP*S  kompüterin *эпсилон oranını *қайтатады; bu 1 ve sonraki ondan lüzümsüz yere ama *мейілінше yakın heyelanlı *үтірлі sayla farkı. Kompüterde say *таңбалары sınırlayan olduktan oranladıkta *дөңгелектеу *қателігінен *құтылуға olmaz ama gelenekte o önemsiz demeğe olur.
+*EP*S 
+Sistemlerinin çokunda bu 2- 52=2. *2204460492503131e- 16
+0, 5* *EP*S  dediği *дөңгелектеу birliğini *қайтарады; bu say *дөңгелектеу *қателігі sonucundan 1+*x - 1=0 neticeye getirecek en büyük *x sayı.
+*x sayın 0 ben *EP*S  arısında edip seçin. *Дөңгелектеу 1+*x *өрнегінде, 1+*x - 1 formülünü kullanıp, *x- *ті 0 ya *EP*S  eder
+#POPO*WER *x; *y işlevi *x- *ті *y derecesine çıkarır.
+#POPO*WER öz; öz
+#POPO*WER 1, 2; 3, 4 neticesi 1, 8572
+#POPO*WER 2; 3 neticesi 8
+#POPO*W *x; *y işlevi *x- *ті *y derecesine çıkarır. Bu işlev PO*WER işleviyle bir.
+#POPO*W öz; öz
+#POPO*W 1, 2; 3, 4 neticesi 1, 8572
+#POPO*W 2; 3 neticesi 8
+*EVEN  işlevi sağ olumsuz sayı en yakın lüzümsüz yere *кем *жүп bütün saya dek *өсіріп *кемітіп çıkar.
+*EVEN öz
+*EVEN 1, 2 *қайтаратыны 2
+*EVEN 2 *қайтаратыны 2
+*Дәлдігі
+#TT*RU*NC  işlevi sayı gösterilen *дәлдігіне *ондық bölük *таңбалар sayına dek *қысқартып bırakır. Eğer *дәлдігі getirilmese, o 0 diyip sanılıp sayın bütün bölgesi bırakılır.
+#TT*RU*NC öz; *дәлдігі
+#TT*RU*NC 1, 2 *қайтаратыны 1
+#TT*RU*NC 213, 232; 2 *қайтаратыны 213, 23
+#OO*DD  işlevi sağ olumsuz sayı en yakın lüzümsüz yere *кем #tek bütün saya dek *өсіріп *кемітіп çıkar. O*DD 0 neticesi 1 diyip sanılır.
+#OO*DD öz
+#OO*DD 1, 2 *қайтаратыны 3
+#OO*DD 2 *қайтаратыны 3
+#OO*DD - 2 *қайтаратыны - 3
+*GAMMA  - gamma işlevini oranlar.
+*GAMMA öz
+*GAMMA 1 *қайтаратыны 1
+*MO*D  işlevi bölmenin *қалдығын *қайтарады. Eğer ikinci *параметрі sıfır olsa onun *қайтаратыны # *DIV 0 hatası.
+*MO*D öz; öz
+*MO*D 12; 5 *қайтаратыны 2
+*MO*D 5; 5 *қайтаратыны 0
+Bu işlev devretildiği say olumsuz olsa - 1 *қайтарады, 0 devretilse 0 *қайтарады, sağ say devretilse 1 *қайтарылады.
+*SIGN öz
+*SIGN 5 neticesi 1
+*SIGN 0 neticesi 0
+*SIGN - 5 neticesi - 1
+Bu işlev devretildiği sayı #olumsuz - 1- *ге artar.
+*INV öz
+*INV - 5 neticesi 5
+*INV 5 neticesi - 5
+*INV 0 neticesi 0
+Bu işlev devretildiği *параметрлердің sırasında *қаншасы bütün ne bölüğü say olduğunu sanar. Devrettikte *ұяшық alanını göstermeğe olur, meseli böyle: COU*NT *A1: *B5 ya düz özlerini getirmeye olur, meseli, böyle: COU*NT 12; 5; 12, 5.
+#COUCOU*NT öz; öz; öz...
+#COUCOU*NT - 5; *KSp*read; 2 *қайтаратыны 2
+#COUCOU*NT 5 *қайтаратыны 1
+Bu işlev *параметрлердің sırasında *қаншасы getirilen #boş olduğunu sanar. Devrettikte *ұяшық alanını göstermeğe olur, meseli böyle: COU*NT*A *A1: *B5 ya düz özlerini getirmeye olur, meseli, böyle: COU*NT*A 12; 5; 12, 5.
+#COUCOU*NT*A öz; öz; öz...
+#COUCOU*NT*A - 5; *KSp*read; 2 *қайтаратыны 3
+#COUCOU*NT*A 5 *қайтаратыны 1
+*Ұяшық alanı
+Bu işlev getirilen *ұяшықтар alanında *қаншасы boş *ұяшық olduğunu sanar.
+#COUCOU*NT*BLANK alanı
+#COUCOU*NT*BLANK *A1: *B5
+Alanı
+Şart
+#COUCOU*NT*IF  işlevi getirilen *ұяшықтар alanında *қаншасы getirilen şarta *сәйкесті olduğunu sanar.
+#COUCOU*NT*IF alanı; şartı
+#COUCOU*NT*IF *A1: *A2; 14, eğer *A1 *ұяшығында - 4 ve *A2 *ұяшығында 14 olsa, *қайтаратыны 1
+Heyelanlı *үтірлі say
+#FF*ACT  devretildiği sayın *факториалын oranlar. *N *факториалдың *математикалық *өрнегі *N!.
+#FF*ACT say
+#FF*ACT 10 *қайтаратыны 3628800
+#FF*ACT 0 *қайтаратыны 1
+#FF*ACT*DOU*BLE  devretildiği sayın iki katlı *факториалын *x!! oranlar.
+#FF*ACT*DOU*BLE say
+#FF*ACT*DOU*BLE 6 *қайтаратыны 48
+#FF*ACT*DOU*BLE 7 *қайтаратыны 105
+*SU*M  işlevi #her yerde devretildiği saylarının *қосындысын oranlar. Saylarını *ұяшықтар alanı süresinde devretmeğe, meseli, *SU*M *A1: *B5 diyip, ya düz özlerini getirmeye olur, meseli, *SU*M 12; 5; 12, 5 diyip.
+*SU*M öz; öz;...
+*SU*M 12; 5; 7 neticesi 24
+*SU*M 12, 5; 2 neticesi 14, 5
+*SU*MA  işlevi #her yerde devretildiği saylarının *қосындысын oranlar. Saylarını *ұяшықтар alanı süresinde devretmeğe, meseli, *SU*MA *A1: *B5 diyip, ya düz özlerini getirmeye olur, meseli, *SU*M 12; 5; 12, 5 diyip. Devrettiklerin arısında metin ne *логикалық F*ALSE özü *кезессе, o 0 diyip oranlanır, *логикалық T*RU*E *кезессе, 1 diyip oranlanır.
+*SU*MA 12; 5; 7 neticesi 24
+*SU*MA 12, 5; 2; T*RU*E neticesi 15, 5
+*Тексеретін alanı
+*Қосылғыштар alanı
+*SU*MIF *ТексерісАумағы; Şartı; *ҚосылғышАумағы
+#PP*RO*DUCT  işlevi #her yerde devretildiği saylarının bir- birine artma neticesini oranlar. Saylarını *ұяшықтар alanı süresinde devretmeğe, meseli, P*RO*DUCT *A1: *B5 diyip, ya düz özlerini getirmeye olur, meseli, P*RO*DUCT 12; 5; 12. 5 diyip. Say değil öz yüzleşse 0 *қайтарылады.
+#PP*RO*DUCT öz; öz;...
+#PP*RO*DUCT 3; 5; 7 neticesi 105
+#PP*RO*DUCT 12, 5; 2 neticesi 25
+*KP*RO*DUCT  işlevi #her yerde devretildiği saylarının bir- birine artma neticesini oranlar. Saylarını *ұяшықтар alanı süresinde devretmeğe, meseli, *KP*RO*DUCT *A1: *B5 diyip, ya düz özlerini getirmeye olur, meseli, *KP*RO*DUCT 12; 5; 12, 5 diyip. Say değil öz yüzleşse 1 *қайтарылады.
+*KP*RO*DUCT öz; öz;...
+*KP*RO*DUCT 3; 5; 7 neticesi 105
+*KP*RO*DUCT 12, 5; 2 neticesi 25
+*G_ P*RO*DUCT öz; öz;...
+*DIV  işlevi birinci *параметріндегісін #kal bir- *бірлеп ayırdı.
+*DIV öz; öz;...
+*DIV 20; 2; 2 *қайтаратыны 5
+*DIV 25; 2, 5 *қайтаратыны 10
+*SU*MSQ  işlevi bütün devretildiği *сандардарының karelerinin *қосындысын oranlar. Saylarını *ұяшықтар alanı süresinde devretmeğe, meseli, *SU*MSQ *A1: *B5 diyip, ya düz özlerini getirmeye olur, meseli, *SU*MSQ 12; 5; 12, 5 diyip.
+*SU*MSQ öz; öz;...
+*SU*MSQ 12; 5; 7 neticesi 218
+*SU*MSQ 12, 5; 2 neticesi 173
+*MAX  işlevi *параметрдегілерінің en büyükünü *қайтарады. Metin ne *логикалық özleri tanımayıp bırakılır.
+*MAX öz; öz;...
+*MAX 12; 5; 7 *қайтаратыны 12
+*MAX 12, 5; 2 *қайтаратыны 12, 5
+*MAX 0, 5; 0, 4; T*RU*E; 0, 2 *қайтаратыны 0, 5
+*MAXA  işlevi *параметрдегілерінің en büyükünü *қайтарады. T*RU*E diyerek 1 diyip sanılır, F*ALSE diyerek 0 diyip sanılır. Metin tanımayıp bırakılır.
+*MAXA öz; öz;...
+*MAXA 12; 5; 7 *қайтаратыны 12
+*MAXA 12, 5; 2 *қайтаратыны 12, 5
+*MAXA 0, 5; 0, 4; T*RU*E; 0, 2 *қайтаратыны 1
+*MIN  işlevi *параметрдегілерінің en aşağısını *қайтарады. Metin ne *логикалық özleri tanımayıp bırakılır.
+*MIN öz; öz;...
+*MIN 12; 5; 7 *қайтаратыны 5
+*MIN 12, 5; 2 *қайтаратыны 2
+*MIN 0, 4; 2; F*ALSE; 0, 7 *қайтаратыны 0, 4
+*MINA  işlevi *параметрдегілерінің en aşağısını *қайтарады. T*RU*E diyerek 1 diyip sanılır, F*ALSE diyerek 0 diyip sanılır. Metin tanımayıp bırakılır.
+*MINA öz; öz;...
+*MINA 12; 5; 7 *қайтаратыны 5
+*MINA 12, 5; 2 *қайтаратыны 2
+*MINA 0, 4; 2; F*ALSE; 0, 7 *қайтаратыны 0.
+*MU*LT*IP*LY  işlevi #her yerde devretildiği saylarının *көбейтісін oranlar. Saylarını *ұяшықтар alanı süresinde devretmeğe, meseli, *MU*LT*IP*LY *A1: *B5 diyip, ya düz özlerini getirmeye olur, meseli, *MU*LT*IP*LY 12; 5; 12, 5 diyip. Bu işlev P*RO*DUCT işleviyle bir.
+*MU*LT*IP*LY öz; öz;...
+*MU*LT*IP*LY 12; 5; 7 neticesi 420
+*MU*LT*IP*LY 12, 5; 2 neticesi 25
+*a+*b+c!  *a! *b! c!
+*MU*LT*INO*MIAL öz; öz;...
+*MU*LT*INO*MIAL 3; 4; 5 neticesi 27720
+*SQ*RT  işlevi #olumsuz *аргументінің kare *түбірін *қайтарады. *Аргументі olumsuz olsa *қайтарылатыны - hata simgesi.
+*SQ*RT *x
+*SQ*RT 9 neticesi 3
+*SQ*RT - 9 dediği hata
+*SQ*RTP*I  işlevi #olumsuz *x * P*I artma neticesinin kare *түбірін *қайтарады. *Аргументі olumsuz olsa *қайтарылатыны - hata simgesi.
+*SQ*RTP*I *x
+*SQ*RTP*I 2 neticesi 2, 506628
+*LN  işlevi *x sayın *натурал #logaritma *қайтарады.
+*LN *x
+*LN 0, 8 neticesi - 0, 22314355
+*LN 0 neticesi - *inf
+*LO*Gn  işlevi *x sayın tamamıyla *n #logaritma *қайтарады.
+*LO*Gn öz; tamamıyla
+*LO*Gn 12; 10 neticesi 1, 07918125
+*LO*Gn 12; 2 neticesi 3, 5849625
+*ROOT*N  işlevi #olumsuz *x sayın derecesi *n *түбірін *қайтарады.
+*ROOT*N *x; *n
+*ROOT*N 9; 2 neticesi 3
+#CUCU*R  işlevi #olumsuz *x sayın küp *түбірін *қайтарады.
+#CUCU*R *x
+#CUCU*R 27 neticesi 3
+Heyelanlı *үтірлі, sıfırdan lüzümsüz yere say
+*LO*G  işlevi *x sayın tamamıyla 10 #logaritma *қайтарады.
+*LO*G *x
+*LO*G 0, 8 neticesi - 0, 09691001
+*LO*G 0 dediği hata.
+Heyelanlı *үтірлі sağ say
+*LO*G10  işlevi *аргументінің tamamıyla 10 #logaritma *қайтарады.
+*LO*G10 *x
+*LO*G10 10 neticesi 1.
+*LO*G10 0 dediği hata.
+*LO*G2  işlevi *x sayın tamamıyla 2 #logaritma *қайтарады.
+*LO*G2 *x
+*LO*G2 0, 8 neticesi - 0, 32192809
+*LO*G2 0 neticesi - *inf.
+*EXP  işlevi *e sayını *натурал #logaritma tamamıyla *x derecesine çıkarır.
+*EXP *x
+*EXP 9 neticesi 8 103, 08392758
+*EXP - 9 neticesi 0, 00012341
+#CC*EIL  işlevi *x sayın en yakın bütün saya dek *өсіріп, heyelanlı *үтірлі say türünde *қайтарады.
+#CC*EIL *x
+#CC*EIL 12, 5 neticesi 13, 0
+#CC*EIL - 12, 5 neticesi - 12, 0
+*Дәлділік adımı getirmemesi da olur
+#CC*EILING *x
+#CC*EILING 12, 5 neticesi 13
+#CC*EILING 6, 43; 4 neticesi 8
+#CC*EILING - 6, 43; - 4 neticesi - 8
+Metotu getirmemesi da olur
+Bu *x sayın en yakın, ikinci *параметрінде *келтіірілген, *дәлділік *қадамынына katlı saya dek *кемітіп olumsuz *x- *ті *өсіріп çıkar.
+#FF*LOO*R *x
+#FF*LOO*R 12, 5 neticesi 12
+#FF*LOO*R - 12, 5 neticesi - 13
+#FF*LOO*R 5; 2 neticesi 4
+#FF*LOO*R 5; 2, 2 neticesi 4, 4
+*ABS  işlevi heyelanlı *үтірлі *x sayın *модулін *қайтарады.
+*ABS *x
+*ABS 12, 5 neticesi 12, 5
+*ABS - 12, 5 neticesi 12, 5
+*INT  işlevi sayın bütün bölgesini *қайтарады.
+*INT *x
+*INT 12, 55 neticesi 12
+*INT 15 neticesi 15
+*RAND  işlevi 0 ben 1 arısındaki *псевдо- #rastgele sayı *қайтарады.
+*RAND 
+Heyelanlı *үтірлі say 0- *ден lüzümsüz yere
+*RANDEXP  işlevi *экспонента #boy *үлестірілген *псевдо- #rastgele sayı *қайтарады.
+*RANDEXP *x
+*RANDEXP 0, 88
+*RANDPO*ISSO*N  işlevi *Пуассон #boy *үлестірілген *псевдо- #rastgele sayı *қайтарады.
+*RANDPO*ISSO*N *x
+*RANDPO*ISSO*N 4
+Heyelanlı *үтірлі say 0 ben 1 arısındaki
+Sınavlar sayı  0
+*RANDBINO*M  işlevi *бином #boy *үлестірілген *псевдо- #rastgele sayı *қайтарады.
+*RANDBINO*M *x
+*RANDBINO*M 4
+Sınavdan geçmemeleri  0
+*RANDNEGBINO*M  işlevi olumsuz *бином #boy *үлестірілген *псевдо- #rastgele sayı *қайтарады.
+*RANDNEGBINO*M *x
+*RANDNEGBINO*M 4
+*RANDBERNOU*LLI  işlevi *Бернулли #boy *үлестірілген *псевдо- #rastgele sayı *қайтарады.
+*RANDBERNOU*LLI *x
+*RANDBERNOU*LLI 0, 45
+Kalıpı *үлестірімінің orta özü
+Kalıpı *үлестірімінің *дисперсиясы
+*RANDNO*RM  işlevi *Гауссиан kalıpı *үлестірім #boy *үлестірілген *псевдо- #rastgele sayı *қайтарады.
+*RANDNO*RM *мю; *сигма
+*RANDNO*RM 0; 1
+#Aşağıya fişi
+En üste fişi
+*RANDBET*WEEN  işlevi #aşağıya ben yüksek fişler arısındaki *псевдо- #rastgele sayı *қайтарады. Eğer aşağıya  yüksek olsa hata simgesi *қайтарылады.
+*Еселігі
+*MROU*ND  işlevi getirilen sayı ikinci *параметрі sonunda çıkılan sayın en yakın *еселігіне *дөңгектеп çıkar. *Параметрінің #bir olumsuz say olsa - ikincisi da olumsuz olmaya lazım
+*MROU*ND öz; *еселік
+*MROU*ND 1, 252; 0, 5 neticesi 1, 5
+*MROU*ND - 1, 252; - 0, 5 neticesi - 1, 5
+*Таңба sayı
+*ROU*ND öz; *таңба_ sayı
+*ROU*ND 1, 252; 2 neticesi 1, 25
+*ROU*ND - 1, 252; 2 neticesi - 1, 25
+*ROU*ND 1, 258; 2 neticesi 1, 26
+*ROU*ND - 12, 25; - 1 neticesi - 10
+*ROU*ND - 1, 252; 0 neticesi - 1
+*ROU*NDUP öz; *таңба_ sayı
+*ROU*NDUP 1, 252; 2 neticesi 1, 26
+*ROU*NDUP - 1, 252; 2 neticesi - 1, 25
+*ROU*NDUP - 1, 252 neticesi - 1
+*ROU*NDDO*WN öz; *таңба_ sayı
+*ROU*NDDO*WN 1, 252; 2 neticesi 1, 25
+*ROU*NDDO*WN - 1, 252; 2 neticesi - 1, 26
+*ROU*NDDO*WN - 1, 252 neticesi - 2
+*N- üye
+#FF*IB *n
+#FF*IB 9 *қайтаратыны 34
+#FF*IB 26 *қайтаратыны 121393
+*Алымы
+Bölümü
+#QUOTQUOT*IENT işlevi *алым bölüm bölüğün bütün bölgesini *қайтарады.
+#QUOTQUOT*IENT 21; 4 *қайтаратыны 5
+*MDET*ERM *матрица
+*MDET*ERM *A1: C3
+Birinci *матрица
+Ikinci *матрица
+*MMU*LT *A1: C3
+*Матрица
+*MINVERSE *матрица
+*MINVERSE *A1: C3
+Ölçümü
+*MU*NIT ölçümü
+#TT*RANSPO*SE *матрица
+#TT*RANSPO*SE *A1: C3
+*Қарастыру ben *сілтеу
+Yol nosu
+*Баған nosu
+*Абсолютті nosu getirmemeye da olur
+*A1 tarzı getirmemeye da olur
+Yüzün çağırması
+*ADDRESS yol; *бағ; *абсолют; tarzı; yüz_ çağırması
+*ADDRESS 6; 4 *қайтаратыны *D6
+*ADDRESS 6; 4; 2 *қайтаратыны *D6
+*ADDRESS 6; 4; 2; F*ALSE; *Бет1 *қайтаратыны *Бет1! *R6C 4
+Posta *адресі yok
+Dosya çağırması hayır
+*Сілтеген *ұяшық boş
+Bağımsız listeleri
+Liste:
+Yazma:
+Katma
+Dönme
+Yeni
+Değişme
+Götürmeye
+Çınıyla bu listeyi *өшірмексіз mı?
+Listeyi *өшіру
+Alanda birşey var. *Жалғастра gidelim mı?
+#& & Seçme
+#& & Işleme...
+#& & Yeni...
+Çağırılan alanlar
+Alanı:% 1
+Yeni çağırılan alan
+Çağırılan alanı değişme
+Çınıyla bu çağırılan alanı çevirmek #iste mı?
+*Ұяшықтар:
+Yüz:
+Alanın çağırması:
+*Ұяшықтарды *ығыстырып düzenleme
+Sıralar
+Özlerini getirme kuralı
+Dik, bir- birinin altında
+Sadıkından, sol yönden sağa
+Türü
+*Сызықты 2, 4, 6,...
+Kaynaktan bitirmeye dek getirilen adımıyla sırayı yapmak. Herbir sıranın özü #ön adımını katmayla bulunur.
+Geometrik 2, 4, 8,...
+Kaynaktan bitirmeye dek getirilen öze artıp sırayı yapmak. Herbir sıranın özü #ön adımına artmayla bulunur. Adımı 5 sıranın meseli: 5; 25; 125; 625.
+Kaynağı:
+Bitirmesi:
+Adımı:
+Kaynak ben bitirme özü sağ say olmaya lazım.
+Bitirme özü kaynak özünden lüzümsüz yere olma gerek, #yoksa  adımı 1- *ден *кем olması lazım.
+Kaynak, Bitirme, Adım özlerinin #bir da sıfır olmaması gerek.
+Adım özü 1 olmama gerek
+Adım özü olumsuz.
+Adım özü sıfırdan lüzümsüz yere olma gerek, #yoksa  *сызықты sıra ahirsiz olacak.
+Eğer kaynak özü bitirme özünden lüzümsüz yere olsa, adımı sıfırdan *кем olması lazım.
+Eğer adımı olumsuz say olsa, kaynak özü bitirme özünden lüzümsüz yere olma lazım.
+Gösteren sığın *бағандар:
+Gösteren sığın yollar:
+*Баған:% 1
+Yol:% 1
+Gösteren sığın yüzler:
+Düzenleme
+Konaklama
+#& & Yolları düzenleme
+#& & *Бағандарды düzenleme
+Sonraki #boy
+böylece
+Düzenleme şartı
+Birinci anahtarı
+Kendi listesi & #boy
+% % 1- *баған
+% % 1- fiyatı
+% % 1 yol
+% % 1- yolu
+#& & Birinci yolu çağırmalardan durur
+#& & Birinci fiyatı çağırmalardan durur
+Özel düzenleme
+#& & Değişme...
+#& & *Өшіру...
+Tarz *менеджері
+Bütün tarzlar
+*Құрастырған tarzlar
+*Иерархиялық
+tarz% 1
+Derivasyonları
+Bütününü *өшіру
+Derivasyonları katma için *кемінде bir *бағанды seçme gerek.
+*Ақырғы derivasyonu
+% % 1 fiyatı
+#CouCou*nt*A
+*St*Dev
+*St*DevP
+*Var
+*VarP
+*Дұрыстығы
+#& & Bütününü #tam
+#& & Şartları
+Lisansı:
+Bütün say
+Metin uzunluku
+Liste
+Işsizliklerini lisans etmek
+Derek'i:
+*Минимумі:
+*Максимумі:
+Günü:
+En eskisi:
+En #sonra:
+Vakti:
+En eskisi:
+*Беймәлім hata
+#PhoPho*no*n::
+#PhoPho*no*n::
+AdıPho*no*n::
+*def*au*lt *label fo*r *Su*bmit *butto*ns *in fo*rms o*n *web p*ages
+#tt*it*le fo*r f*ile *butto*n u*sed *in HT*ML fo*rms
+#tt*ext to *disp*lay *in f*ile *butto*n u*sed *in HT*ML fo*rms *wh*en *no f*ile *is *select*ed
+#OpOp*en *in *New *Windo*w co*nt*ext *menu *it*em
+*Do*wnlo*ad *Linked F*ile co*nt*ext *menu *it*em
+#CopCop*y *Link co*nt*ext *menu *it*em
+#OpOp*en *Image *in *New *Windo*w co*nt*ext *menu *it*em
+*Do*wnlo*ad *Image co*nt*ext *menu *it*em
+#CopCop*y *Link co*nt*ext *menu *it*em
+#OpOp*en F*rame *in *New *Windo*w co*nt*ext *menu *it*em
+*Stop co*nt*ext *menu *it*em
+*Igno*re *Sp*elling co*nt*ext *menu *it*em
+*Search Th*e *Web co*nt*ext *menu *it*em
+*Loo*k Up *in *Dict*io*nary co*nt*ext *menu *it*em
+*АшуIgno*re *Grammar co*nt*ext *menu *it*em
+*menu *it*em t*it*le
+*menu *it*em t*it*le
+#ChCh*ec*k *sp*elling co*nt*ext *menu *it*em
+#ChCh*ec*k *sp*elling *wh*ile t*yp*ing co*nt*ext *menu *it*em
+#ChCh*ec*k *grammar *with *sp*elling co*nt*ext *menu *it*em
+#& & *ҚаріпBo*ld co*nt*ext *menu *it*em
+#& & Aşı *сызылғанOut*line co*nt*ext *menu *it*em
+*СұлбаWrit*ing *direct*io*n co*nt*ext *su*b- *menu *it*em
+#TT*ext *direct*io*n co*nt*ext *su*b- *menu *it*em
+*ӘдеттегілерLeft to *Right co*nt*ext *menu *it*em
+*ЕндіруLabel fo*r o*nly *it*em *in *menu th*at *app*ears *wh*en c*lic*king o*n th*e *search f*ield *image, *wh*en *no *search*es h*ave *been p*erfo*rmed
+*label fo*r f*irst *it*em *in th*e *menu th*at *app*ears *wh*en c*lic*king o*n th*e *search f*ield *image, u*sed *as *embedded *menu t*it*le
+*menu *it*em *in *Rec*ent *Search*es *menu th*at *empt*ies *menu *s co*nt*ent*s
+*Media co*nt*ro*ller *st*atu*s *message *wh*en th*e *media *is *lo*ading
+*Media co*nt*ro*ller *st*atu*s *message *wh*en *watch*ing *a *live *bro*adc*ast
+*Media co*nt*ro*ller *element
+*Media co*nt*ro*ller *element
+*Media co*nt*ro*ller *element
+*ӨлшеміMedia co*nt*ro*ller *element
+*Media co*nt*ro*ller *element
+*Media co*nt*ro*ller *element
+*Media co*nt*ro*ller *element
+*Media co*nt*ro*ller *element
+*ҚайталауMedia co*nt*ro*ller *element
+*Media co*nt*ro*ller *element
+*Media t*ime *desc*ript*io*n
+#QQ*WebP*age
+Bütününü seçmeQ*Xml
+#yara *таңба
+#& & *Сызылған
+*Ендіру
+Dik
+#QQ*WebP*age
+Yeri
+#& & *Қаріп
+Yerine getirme
+#Qt Qt ile ilgili
+#Qt Qt ile ilgili
+*Үнділігі:% #1
+*Дыбыстын *қаттылығын yöneten *жүгірткі. Sol yön dışarısı 0%, sağ yön dışarısı% #1
+Ünü *өшірілген
+Sesi yerine getirme% 1 aygıtı eylemez.% 2 diyerek *ауысты.
+Elle atacak olduğu ve *артықшылығы #yüksek% 1 sesi yerine getirme aygıtına *ауысу.
+% % 1 aygıtına dönmePho*no*n::
+*ҚұлақтандыруларPho*no*n::
+MusikiPho*no*n::
+TavırPho*no*n::
+BağlantıPho*no*n::
+OyunlarPho*no*n::
+#Istisnai *мүмкіндікNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+#PhoPho*no*n *Xine mekanizması
+#ThTh*is *st*ring *is o*nly *sho*wn *wh*en th*e *KDE *ru*nt*ime *is *bro*ken. Th*e t*ech*nic*al t*erm P*latfo*rm P*lu*gin *might h*elp u*sers to f*ind *a *so*lut*io*n, *so *it *might *make *sense to *leave th*at t*erm u*nt*ranslat*ed.
+#ThTh*is *st*ring *is o*nly *sho*wn *wh*en th*e *KDE *ru*nt*ime *is *bro*ken. Th*e t*ech*nic*al t*erm P*latfo*rm P*lu*gin *might h*elp u*sers to f*ind *a *so*lut*io*n, *so *it *might *make *sense to *leave th*at t*erm u*nt*ranslat*ed.
+#JJ*ac*k *аудио bağlantı aleti
+#JJ*AC*K dediği *кідіртуі aşağıya *аудио *сервері. O #birkaç türlü *қолданбаларды bir *аудио aygıtına katar, şununla sıra bir aygıtı onlara *ортақтастырып gider. J*AC*K *түгелімен sesle *кәсіпқой düzeyinde çalışmaya planlanmış, onu *жобалағанда iki *түйінді mesele fikirde olduğu: bütün *клиенттерімен *синхронды türde ve *мейілінше kışa *кідіріспен eyleme.
+*ARt*s
+*ARt*s eski *KDE2 ben *KDE3 zamanının ses *сервері ve *медиа aleti. Bunu kullanması *мақұлданбайды.
+% % 1 diyerek taşıyıcı açılmadı
+*Үнділік
+Giderek *ауысу *сызығы
+Giderek gidecek *үнділігі
+*Ауысу vakti
+*Ауысуды kaynak
+#Ses *бұрмалаудан koruyup, *үнділігін güçlendirip *қалыптандыру. *Параметрлер: yol: 1: *ауытқуларды *тегістеу için geçen *дискретерді standartı *салмақталған ortasını *шамалайтын bir kalıpı kullanma geleneki yol; 2: *ауытқуларды *тегістеу için geçen *дискретерді standartı *салмақталған ortasını *шамалайтын bir sıra kalıpları kullanma.
+*MRL % 1 için kazanç *плагині bulunmadı
+gösterilen *медиа bilgiler için *демультиплексер *плагині bulunmadı
+*MRL % 1 için *демультиплексер *плагині bulunmadı
+*Xine akışı oluşturulmayıp *жаңылды.
+Yaramı ses ne tavır çıkarma yolu bulunmayıp yerine getirme *жаңылды
+*ауысу *сызығы
+şimdiki *үнділігі
+giderek gidecek *үнділігі
+*ауысу vakti, *милисекунд
+Bu aygıt *дәл şimdi elle *жекізбеуде *ажыратылған ne *драйвері yüklenmemiş.
+Sonraki aygıtlardan birinci çalışanı kullanan olur:% 1.

@@ -1,0 +1,6300 @@
+*жатығынан *терістелген
+Dikinden *терістелген
+dikinden *терістелген
+*беймәлім yön
+Dönüşümleri *құптау
+*Баптаулар onaylasın
+#Ön *баптаулар *қайтарылсын
+*Экраннің *параметрлері sorarak değişildi. Yeni *параметірлеге *көшетіңізді *құптаңыз, #yoksa  15 *секундтан sonra #eskiden *параметрлеріне *қайтарылады.
+*X- *тың ölçümü değişme, *бұрау genişlemelerinin% 1.% 2 nüshası
+*Экранның ölçümünü *өзгету ve *бұрау *параметрлері
+Simgesi koyulsa, *жүйелік raftaki *апплетімен yapılan *параметрлер korunup, sonraki *сеанстарында kullanılır, #yoksa , onlar şu *сеанстың sonuna dayım\/deyim.
+*Экранның *параметрлері:
+*Параметрлері değişilen *экран şu *ашылмалы listesinden seçilir.
+*Экранның ölçümü:
+*Экраныңыздың ölçümü, *яғни *айырымдылығы, şu *ашылмалы listesinden seçilir.
+*Жаңарту frekansı:
+*Экранның *жаңарту frekansı şu *ашылмалы listesinden seçilir.
+*Экраныңызды *бұрау *параметрлері.
+Yönü *градус, saat dili *жүрісіне karşı
+Bu *құсбелгі koyulsa, yapılan *экранның ölçümü ve yönü *KDE- *нің sonraki *сеансы *басталғада kullanılır.
+Değişmeler *KDE- *нің sonraki kaynağında kullansın
+*Жүйелік raftaki *апплетімен yaparak korusun
+Doğusunu *баптау
+Ölçümü:
+*Жаңарту:
+Istikameti: Po*sit*io*n of th*e *sc*reen
+Yeri:
+*Дисплей *баптаулары *X11- *дің ölçümü değişmesi, *бұрауы, ve *шағылысуы
+Doğularını *анықтауNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*Экранның ölçümünü *өзгету ve *бұрау
+## # *KDE sistemi yapmış,% 1 # # *GT*K *баптауларын *KDE sistemi yaparak kurmasanız # Yönetme kökeninde Eşkal -  Renkler *модулін açıp # *KDE- *ге #has *қолданбаларда şu renkler kullansın # dediği simgesini müthiş bırakın. # #
+*KReadCo*nf*ig
+*KCo*nf*ig yazmaları okuma - *қоршау- orta *скрипттері için
+#c c 2001 *Red H*at, *Inc.
+*Bernh*ard *Ro*senkraenz*er
+Genel *баптау yerine  f*ile  kullansın
+Içinde arayan takım. Içindeki yoğunlayacak için gene kullanın.
+Anahtarı
+Gelenekteki özü
+#Değişken türü
+*Баптаулары
+% % 1:% 2
+Gayretleri
+Arayan türü.
+Yükleme...
+Neticesi yok.
+% % #1 2
+Otomatik türde çıkma
+Sistemden çıkmayıp, *сеанста kalma için *тірілшілік et - fareyle *қимылдаңыз ne *пернені #bas.
+Kalan vakit:
+*KRu*nner *сеанс *бұғаттауышы
+*Сеансты *мәжбүрлеп *бұғаттау
+Tek *экран #koru *жегу
+Tek boş *экран #koru kullansın
+*баптауға *ашыық *плазмамен kaynak
+*Бұғаты *шешілмейтіндіктен *сеанс *бұғатталмайды:
+*kch*ec*kp*ass işe katılmadı.
+*kch*ec*kp*ass işini yaparak #al. *root *SetU*ID yaparak makul.
+Gerek #selamlaşma *модулі *бапталмаған.
+*Сеанс *бұғатталған
+*Сеансты% 1 *бұғаттаған
+#& & *Бұғатты çözme
+Kullanıcıyı & değişme...
+*Бұғатты çözme *жаңылысы
+*Ескерту: C*ap*s *Loc*k katılıyor
+*Аутентификация sisteminin *жаңылысынан *экран *бұғаты çözülmedi; *kru*nner_ *loc*k sürecini p*id% 1 elle *құрту gerek.
+#& & Yeni *сеансты kaynak
+#Eskiden *сеансты sürdürmenin yerine, yenisini kaynağı seçtiniz. Var *сеанс *жасырылып, yeni sisteme girme penceresi gösterilir. Herbir *сеансқа bir F- *пернесі planlanır, gelenekte birinci *сеансқа F% 1 *пернесі, ikincisine - F% 2 *пернесі ve T. *б. *Сеанстың #bir *ауысу için Ct*rl, *Alt *пернелерін basıp, gerek *сеансқа göre F- *пернесін basma gerek. Şuna katarak, *KDE *панелінің *жане masa *мәзірлерінде *сеанс arılarında *ауысу çarelerini bulur.
+#& & Bu soru *ендігәрі koysun
+*Сеанс
+*Орыныsessio*n
+#& & *Белсендету
+#& & Yeni *сеансты kaynak
+Ekipi\/Ekibi yerine getirme
+Ekipi\/Ekibi *жегу *KDE *интерфейсі
+Ekipi\/Ekibi *жегу *интерфейсі
+#c c 2006, *Aaro*n *Seigo
+*Aaro*n J. *Seigo
+*Авторы ve *желілдіруші
+*Плагиндер
+Kullanıcı *интерфейсі
+Elle atacak yetenekleri
+Ekipe\/Ekibe *бағытталған
+Göreve *бағытталған
+Önünü- alaca *қарауNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Tek *экран #koru *жегу
+Tek boş *экран #koru kullansın
+Sistem *белсенділігі
+Değişme *буферіндегі ekipi\/ekibi yerine getirme
+Sistem *белсенділігін göstermek
+Kullanıcıyı değişme
+*Сеансты *бұғаттау
+*Сеансты bitirme
+*Сеансты *құптаусыз bitirme
+*Құптау sormayıp durdurma
+*Құптау sormayıp #yeni *бастауRu*n *kru*nner *rest*rict*ing th*e *search o*nly to *ru*nner% 1
+*Сеанс doğru yoluyla bitirmeye gelmiyor. *Сеанс *менеджері yanıt çıkmaz. Ct*rl+*Alt+*Bac*ksp*ac*e *перне debriyajımı basıp işi bitirmeye olur, ama, böyle *мәжбүрлеп bitirerek *сеанстың şartı korunmaz.
+*KRu*nner *баптаулары
+*KRu*nner *бұғаттауышы
+*Жегу ekipi\/ekibi:% 1 - *setup *args #Rastgele *экран #koru *жегеді. Bütün - *setup - bil başa *аргументтер *экран #koru devretilir.
+#Rastgele *KDE *экран #koru *жегілсін
+#Rastgele *экран #koru
+*Экран #koru *баптау
+Getirilen *XWindo*w- da *жегілсін
+*Түбірлі *XWindo*w- da *жегілсін
+#Rastgele *әкран #koru *баптау
+#OpOp*enGL *экран #koru kullansın
+*Экранмен *манипуляциялар yapan *сақтаушысылар kullansın
+% % 1 diyerek mekan *қапшығы yok.
+% % 1 dediği kullanıcısı yok.
+% % 1 dediği dosya da *қапшық da yok.
+#& & *Sho*rtU*RLs
+*X11R6 sisteminin standartı *сеанс yönetme *протоколын *XSMP kullanan inançı *KDE *сеанс *менеджері.
+*KDE *сеанс *менеджері
+#C C 2000\/2000, *KDE #yap
+*Matth*ias *Ett*rich
+*Lu*boš *Luňá*k
+*Жетелдірушісі
+Yetenek olsa, kullanıcının korunan *сеансын kalıpına getirme
+Başka pencere *менеджері kullanmada olmasa, *wm *менеджерін işe katma. Gelenekte *kwin kullanılır
+Uzak *қосылымдарды da lisans *етілсінNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+% % 1 *шыгуды kesti
+*Жүйден & çıkma
+Kompüteri & *сөндіру
+#& & Bekleme *режімі
+*Жадына koruyup *қалғу
+#& & *Дискіне koruyup *қалғу
+Kompüteri dönerek *жегуdef*au*lt opt*io*n *in *boot *lo*ader
+Dönme
+kullanmadaki
+Yeni *нақыштарды almak...
+Yeni *нақыштарды Internetten almak
+Bunu kurmak için Internete toplamalı olma gerek. *Керсетілетін *диалогта http:  *www. *kde. o*rg *веб- sitesindeki var *нақыштар listesi önerilir. Kurduğu *нақышқа *сәйкесті düğmeyi basıp *нақышты kendisine *түсіріп alacasız.
+*Нақыш dosyasını yapmak...
+#Kendi var arşiv dosyasından bir *нақышты yapmak
+#Kendi *нақыштың arşiv dosyası var olsa, bu düğme onu *тарқатып, *KDE *қолданбаларда kullanmaya hazır eder
+*Нақышты *өшіру
+Seçilen *нақышты *дискіңізден *кетіру
+Seçilen *нақышты *дискіңізден *кетіру.
+*Нақышты katma
+Seçilen *нақышты görmeye
+Seçilen *нақышты görmeye.
+% % 1 *қапшығы, *мазмұнымен katarak, *өшірілсін mı?
+*Өшіру
+% % 1 dediği *нақыш *өшірілмеді
+*Нақыш yüklenmedi U*nkno*wn *name
+*Беймәлім
+Çağırması:% 1U*nkno*wn *desc*ript*io*n
+Tarifi:% 1U*nkno*wn *versio*n
+Nüshası:% 1U*nkno*wn *autho*r
+*Авторы:% 1U*nkno*wn ho*mep*age
+Mekan *парағы:% 1
+Bu *нақышқа% 1 demiş, sisteminde yapılmamış, *плагині gerek.
+*Нақыштың *конфигурация dosyası yüklenmedi.
+Görmeye olmaz.
+*KSp*lash *нақыштар dosyaları
+*Нақышты katma
+*Бейнеперде *экранның sınavı anı olmadı.
+#& & *Нақыштарды yapmak
+*KDE *бейнеперде *экранның *нақыштар *менеджері
+#c c 2003 *KDE #yap
+*Ravikiran *Raj*agop*al
+*Brian *Ledbett*er
+*Бастапқы *KSp*lash *ML *авторы
+*KDE *нақыштар *менеджерінің *авторы
+*Орнатқыштың *бастапқы *коды
+#HH*ans *Karlsso*n
+*Бейнеперде *экранның *нақыштар *менеджері *Бейнеперде *экранның *нақыштарды görme ve yapmak. *NAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*KSt*art
+*Қолданбаларды özel hasiyeti *таңбашаға *түйілген, #gen yayılmış, somut bir *виртуалды masada, özel *безендіруімен T. *б. pencereli edip *жегу *утилитасы.
+#C C 1997- 2000\/2000 *Matth*ias *Ett*rich *ett*rich\@ *kde. o*rg
+*Matth*ias *Ett*rich
+*David F*au*re
+*Rich*ard J. *Moo*re
+Yerine getiren ekip\/ekip
+Pencere süreceğine göre gelmiş örnek *өрнегі
+Şu pencereyi gösteren masa
+Kullan başlatarak ilgide olan masasında penceresini göstermek
+Pencereyi tüm masalarda göstermek
+Pencereyi *таңбашаға *түйіп *кою
+Pencereyi #gen yayma
+Pencereyi dikinden #gen yayma
+Pencereyi *жатығынан #gen yayma
+Pencereyi tam *экранға yayma
+Pencerenin türleri: *Кәдімгі *No*rmal, Masa *Desktop, *Ендірілген *Doc*k, Aletler Too*llbar, *Мәзір *Menu, Diyalog *Dialo*g, *Мәзір *панелі Top*Menu ya Üstünden basılan O*verride
+Başa *виртуалды masada başlatılan olsa da, penceresine *ауысу
+Pencereyi yüz önünde tutmaya kalkışma
+Pencereyi arkasında tutmaya kalkışma
+Penceresi görevler *панелінде gösterilmez
+Penceresi masa *ақтарғышында gösterilmez
+Penceresi *панельдегі *жүйелік rafta gösterilir
+Ekipi\/Ekibi *келтірілмегенNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+değişilen
+*Веб tarzının *модулі
+Yolların eni *артығрақ olsun
+Alet *панелінің elementlerin *бөлгіші göstersin
+Üçgeni budak *тарқатушысы
+*Жүгірту *жолағының *жебелерін *бояулау
+Süreç kılavuzları *анимациялау
+Dosya% 1 açılmadı.
+% % 1 dediği doğru *XML dosyası değil.
+% % 1 dosyasında *KSysGu*ardWo*rkSh*eet dediği dosyanın türüne durmuş göstermek otlakının doğru yazması yok.
+% % 1 dosyasındaki göstermek otlakının ölçümü #doğru.
+% % 1 dosyası korunmadı
+Değişme *буферінде yaramı *дисплей tarifi yok.
+*Дисплей türünü seçme
+#& & *Сызықты *график
+*Цифрлық *дисплей
+#& & *Жолақты #diyagram
+Dergiyi dosyaya yazma
+*Дисплейді & çevirme
+*Дисплейді & çevirme
+Halis% 1 *is *a ho*st *name
+% % 1 *хосттан gelen mesaj:% 2
+% % 1 hizmet *бағларламасы *жегілмеді.
+% % 1 hizmet *бағларламаның *жаңылысы.
+Dönüşüm
+*Денгейі
+*Процессордың *жүктелісі
+Boş durmağı
+*Артықшылық
+Kullanıcı *жүктелісі\@ *it*em *senso*r *desc*ript*io*n
+Sistemin *жүктелісі
+Bekleme
+Genel *жүктелісі
+*Жады
+#Bedeni *жады
+*Своп *жады
+*Кэштелген *жады
+*Буферлік *жады
+Kullanmadaki *жады
+*Қолданбаның *жады
+Boş *жады
+Aktif *жады
+*Белсендіксіз *жады
+Yapılan *жады
+Yerine getirme *парақтар
+Dosya *парақтар
+*Процесстер sayı
+*Процесстерді yönetme
+*Дискінің *белсендігіCPU *Lo*ad
+*Жүктелісі
+Bütün gayretler
+Okuma gayretleri
+Yazma gayretleri
+Okuyarak
+Yazarak
+Okuma vakti, *мсек
+Yazma vakti, *мсек
+Olduk ekleme çıkarma
+Ekleme yüzler
+Çıkarma yüzler
+*Контексті #değiş
+#Rüzgâr
+*Интерфейстер
+*Қабылдағыш
+#Sensör
+*Денгейі
+*Сығылған *дестелер
+Bırakan *дестелер
+Hatalar
+Sıranın dolması
+*Кадр hataları
+*Мультикаст
+*Дестелер\@ *it*em *senso*r *desc*ript*io*n c*arrier *is *a t*yp*e of *net*wo*rk *signal
+Taşıyıcı
+Çelişkiler
+Derekler
+*Сығылған *дестелер
+Bırakan *дестелер
+Hatalar
+Sıranın dolması
+*Кадр hataları
+*Мультикаст
+*Дестелер\@ *it*em *senso*r *desc*ript*io*n c*arrier *is *a t*yp*e of *net*wo*rk *signal
+Taşıyıcı
+*Сокеттер
+Genel sayı
+Tablo
+*Қуаттандыруды yönetme *AP*M
+*ACP*I
+Germe bölgesi
+Sıcaklık
+#Vantilatör
+Şartı
+Pil
+Pil dolması
+Pilin *жұмсалғаны
+Kalan vakit
+*Үзілімдер
+#Orta *жүктелісі 1 *мин
+#Orta *жүктелісі 5 *мин
+#Orta *жүктелісі 15 *мин
+*Таймер frekansı
+cihaz *сенсорлары
+Bölümler kullanması
+*Жұмсалған yer
+Boş yer
+Dolma düzeyi
+Sistem
+*Тірілік vakti
+*Linu*x *Soft *Raid *md
+*Процессорлар
+Çekirdekler
+*Дисплейлер sayı:
+Genel sayı
+*Дисплейлер sayı:
+*Дисплейлер sayı:
+*Процессор% 1
+*Диск% 1
+#Vantilatör% 1
+Sıcaklık% 1
+Bütünü
+*Int% 1th*e u*nit 1 p*er *seco*nd
+1 *с
+*КБайтth*e u*nit *minut*es
+*минth*e f*requ*enc*y u*nit
+*МГцa p*erc*ent*age
+%%
+Bütün say
+*Қалқымалы *үтірлі oran
+% % 1 *қосылымынан bırakıldı
+% % 1 *хосты bulunmadı
+% % 1 *хостында jöle hatası meseli, #rüzgâr *кабелі farketmeyip *суырылып kaldı.
+% % 1 *хост hatası:% 2
+*Таймер *параметрлері
+Göstermek otlakın ölçme aralıkını kullanma
+Ölçme aralıkı:
+*сек
+Bütün *дисплейлер getirilen aralıkla ölçmeleri eder.
+*Хостқа katılma
+*Хост:
+Katılan *хосттың çağırmasını getir.
+*Қосылым türü
+*ssh
+Bunu uzaktaki *хостқа tehlikesiz *ssh *протоколы ile katılma için seçin.
+*rsh
+Bunu uzaktaki *хостқа *rsh *протоколы ile katılma için seçin.
+Hizmet
+Katılan kompüterdeki *клиенттік istemlerini onaylayan *ksysgu*ard hizmetine *қатынау için şunu seçin.
+Başka ekip\/ekip
+Uzaktaki *комьютерде *ksysgu*ard hizmeti *төмендегі ekiple\/ekiple *жегу için şunu seçin.
+Liman:
+*ksysgu*ard hizmeti hangi liman ile *қосылымдарды bekleyenini getir.
+meseli, 3112
+Ekip\/Ekip:
+Gözlemlemesini kurduğu *хостта *ksysgu*ard hizmeti *жегетін ekipini\/ekibini getir.
+meseli: *ssh - *l *root *remot*e. ho*st. o*rg *ksysgu*ardd
+% % 1 otlakı
+% % 1 *қойындысында korunmayan bilgiler var. Korumak #iste mı?
+**. *sgrd_*BAR_*Сенсор dosyası *. *sgrd
+*Импорттайтын *қойынды dosyasını seçme
+Koruyan *қойындысы yok.
+*Қойындысын *экспорттау
+*Өшірілетін *қойындысы yok.
+Sistemi gözlemleme
+*Жолақты #diyagram *баптауларын değişme
+Kapsamı
+Çağırması
+Burda *дисплейдің çağırmasını getir.
+*Дисплей kapsamı
+#Aşağıya fişi:
+#Aşağıya fişini getir. Eğer *мәндердін ikisi da 0 olsa, kapsam otomatik türde seçilir.
+En üste fişi:
+En üste fişini getir. Eğer *мәндердін ikisi da 0 olsa, kapsam otomatik türde seçilir.
+Çan
+#Aşağıya dışarıya ulaşarak çan
+Çanı lisans etmek
+#Aşağıya dışarıya ulaştı dediği çanı lisans etmek.
+Aşağıya düzeyin fişi:
+En üste dışarıya ulaşarak çan
+En üste dışarıya ulaştı dediği çanı lisans etmek.
+En üste düzeyin fişi: \@ t*it*le: t*ab *App*earanc*e of th*e *bar *graph
+Eşkalı
+*Бағанның kalıpı rengi:
+Fişten çıktığında rengi:
+Ayır rengi:
+*Қаріптің ölçümü:
+Burda *бағанның altındaki kararnamesinde kullanılan *қаріп ölçümünü *баптауға olur. Eğer metin çok büyük olsa *бағандар *автоматтытүрде *кішірейеді, sonra burda *қаріптің küçükünü kullandığı yön.
+*Сенсорлары
+Işleme...
+Kararnameyi *баптау için şu düğmeyi basın.
+*Өшіру
+*Сенсорды *өшіру için düğmeyi basın.
+#Diyagram kararnamesi
+Yeni kararnamesi:
+*Графикті *баптау
+Genel
+Çağırması:
+*Масштабтары
+Dik *масштабы
+Bu simgesi koyulsa, *дисплей alanı gösterilen özlere *бейімделіп durur. Koyulmasa, düş getirilen alanında kalır.
+Burda *дисплейдің çağırmasını getir.
+Yatay olarak *масштабы
+*пиксел vakit
+aralıkı *Тор
+*Сызықтар
+Dik *сызықтар
+*Дисплейдің *үлкендігі *жеткілікті olsa, dik *сызықтарды göstermek için şu simgeyi koyun.
+Aralıkı\/Aralıkı:
+Iki dik *сызықтардың aralıkını getir.
+Dik *сызықтарды *жүгірту
+*Жатық *сызықтар
+*Дисплейдің *үлкендігі *жеткілікті olsa, *жатық *сызықтарды göstermek için şu simgeyi koyun.
+Metini
+*Осьтердің yazmaları göstersin
+*Жатық *сызықтардың atayan özünü göstermek için şu simgeyi koyun.
+Rengini seçme...
+#Diyagram *сенсор rengini *баптау için düğmeyi basın.
+*Жоғарға
+*Төменге
+*Сенсор dergisi
+*ОК
+Hata
+Hasiyetleri
+*Дисплейді & çevirme
+Bu *сенсордың *дисплейі. *Сенсордың *дисплейін *баптау için, fareyi *дисплейдің alanına ne *қоршауына *меңзеп, sağ düğmesini basıp kalıp, çıktığı *қалқымалы *мәзірде Hasiyetleri dediği yolunu seçin. *Дисплейді göstermek otlakından *кетіру için *Дисплейді çevirme diyerek seçin.% 1 *Largest *axis t*it*le
+99999 *XXXXu*nit*s
+%%
+% % 1:% 1 *and% 2 *are *senso*r *s *last *and *maximu*m *valu*e
+% % 1 % 2u*nit*s
+#uu*nit*s
+#uu*nit*s
+#uu*nit*s
+#uu*nit*s
+#uu*nit*s
+#uu*nit*s
+#uu*nit*s
+*a p*erc*ent*age
+% % *Argu*ment*s *are fo*rmatt*ed *byt*e *siz*es u*sed tot*al
+Dergi
+*Таймер aralıkı
+*Сенсор çağırması
+*Хост çağırması
+Dergi dosyası
+*Сенсорды çevirme
+#& & *Сенсорды işleme...
+*Жүрналдауды & bitirme
+*Журналдауды & kaynak
+*Хост
+*Сенсор
+Ölçüm birliği
+Şart- halis
+Kararname
+Dergi dosyasını *баптаулары
+Boyama rengi: *Mu*lt*imet*er *is *a *senso*r *disp*lay th*at *mimic*s *digit*al *mu*lt*imet*er *ap*aratu*s
+*Мултиметрды *баптау
+Liste eşkalını *баптау
+*Сенсор dergisini *баптау
+*Сенсорды burda *сүйреп getir
+Bu göstermek otlakının boş yeri. *Сенсорды *сенсор *шолғышынан *сүйреп şurada getir. Bulunan *сенсордің *дисплейі onun ölçtüğünü gözlemlemeye yetenek çıkar.
+#& & Dosya
+#& & Dosya
+#& & *Баптау
+Başlıca *құралдарNAME OF T*RANSLATO*RS
+*Мәмбет *Ізбасаров, *Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Dosya
+Çanı lisans & etmek
+Çanı & lisans etmek
+Çağırması:
+Ölçüm birliğini *дисплей süreceğine göstermek.
+#& & *Бірлікгін göstermek
+#& & Aşağıya düzeyin fişi:
+#& & En üste düzeyin fişi:
+*Цифрлардың kalıpı rengi:
+Çan *цифрларының rengi:
+Renkler
+Metinin rengi:
+*Тордың rengi:
+Çan rengi:
+#& & Metin
+Çağırması:
+*Сүзгі
+#& & Katma
+*Өшіру
+#& & Değişme
+*Процесстер tablosu
+*Процессордың dergisi
+*Жады ben *своп dergisi
+Jöle dergisi
+*Қойындының *касиеттері
+Hasiyetleri
+Yollar:
+*Бағандар:
+Göstermek otlakının yol sayını getir.
+Göstermek otlakının *баған sayını getir.
+Göstermek otlakının süreceğini getir.
+*Сенсор *шолғышы
+*Сенсорларды göstermek otlakının boş *ұяшықтарына ya *панель *апплетіне *сүйреп taşı.
+*KDE sistem *бақылауышы
+Sistemi gözlemleme
+#& & Yeni *қойынды...
+*Қойындыны & dosyadan *импорттау...
+*Қойындыны & böyle #sağ...
+*Қойындыны örtme
+Uzaktakiyi & gözlemleme...
+#& & Yeni *қойындыларды yüklemeye...
+#& & Yeni *қойындыларды yüklemeye...
+*Қойындының hasiyetleri
+*Процессор:% 1 *Argu*ment*s *are fo*rmatt*ed *byt*e *siz*es u*sed tot*al
+*Своп yeri hayır *Argu*ment*s *are fo*rmatt*ed *byt*e *siz*es u*sed tot*al
+*Своп:% 1 % 2
+#c c 1996- 2008 *KDE sistem *бақылауыштың #yap
+#JohJoh*n T*ap*sell
+Şimdiki #eğit
+#ChCh*ris *Sch*laeger
+#Eskiden #eğit
+*Greg *Mart*yn
+#ToTo*bias *Ko*enig
+*Nico*las *Lec*lercq
+*Alex *Sanda
+*Bernd Joh*annes *Wu*ebben
+*Ralf *Mu*eller
+#HH*amish *Ro*dda
+#ToTo*rst*en *Kasch
+*So*laris koruması *Коды *William *LeF*ebvre yazan top *утилитасының *su*no*s5 *модулінен lisans #boy *ішінара alınmış.
+#Ek göstermek otlaklar dosyalarını yükleme
+*Қаріпі:
+*Тор *сызықтар:
+*Аясы:
+Bu *дисплейді *кетіруіңіз geldiği gerçek mi?
+*Дисплейді çevirme
+Işleme
+Fişleri otomatik türde *орнатуa p*erc*ent*age
+Bu iş yerin. Burda *қойындыларыңыз konaklar. *Сенсоларды *сүйреп getirmeğin önünde yeni bir Dosya -  Yeni *қойындысын yapın.
+% % 1 *қосылымы ertelenmiş.
+#& & Sürecek
+Sistemi gözlemleme *апплетін *баптау
+Ölçümler oranı: *Nu*mber *suff*ix *in *sp*inbo*x
+#& & Sistem *бақылауышты *жегу
+% % 1 *өрнегіне göre gelmiş pencere hayır ve ekip\/ekip da getirilmemiş.
+*KSysT*rayC*md: *K3Sh*ellP*roc*ess *қоршау- ortayı *табалмады.
+*KSysT*rayC*md
+#& & *Жасыру
+*Қайтару
+#& & Raftan götürmek
+#& & Çıkma
+Bütün *қолданбаларға *жүйелік rafta konaklamayı lisans etmek
+#C C 2001- 2002 *Rich*ard *Moo*re *rich\@ *kde. o*rg
+*Rich*ard *Moo*re
+Yerine getirilen ekip\/ekip
+Pencerenin süreceğine *сайкес gelmiş örnek *өрнегі Onu getirmese, birinci bulunan penceresi alınır - ama bu #o #doğru diyip sanılır.
+Maksatı pencerenin *идентификаторы Kullanan pencerenin *идентификаторын getir. Eğer getirildiği *0x diyip başlatılsa, o *оналтылық say diyip sanılır.
+Başlattığında penceresini rafta *жасыру
+Ekipi\/Ekibi yerine getirmenin önünde, *тезезені göster diyerek bekleme
+Raftaki *таңбашаның *бастапқы *ишарасын yapmak
+Raftaki *таңбашаны *клиенті işini bitiren sonra da #sağ. *st*arto*nsho*w getiren olsa bu hiçbir şeye etki etmez.
+*Жүелік rafta pencerenin *таңбашасының yerine *ksyst*rayc*md *ksyst*rayc*md *таңбашаны getirme için -- *ico*n *параметрімен getiren *таңбашасын kullanma
+Pencereyi yüz önünde tutmaya kalkışma
+*Тезезені *жасыр diyerek *клиенттің işi da bitirilir. *st*arto*nsho*w getirilen olsa, bunun ve *keep*ru*nning diyerek etkileri yok.
+Ekip\/Ekip ne pencere *келтірілмегенNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Yeni *нақыш
+*KDE *нақыш *менеджері
+Bu yönetme *модулі *KDE- *нің *көрнекті *нақыштарды yapmak, *өшіру ve *құрастырумен meşgul olur.
+#c c 2003, 2004 *Lu*káš T*inkl
+*Нақыш dosyaları
+*Нақыш dosyasını seçin
+% % 1 dediği *нақышын *өшіргіңіз geldiği gerçek mi?
+*Нақышты *өшіру
+Benim *нақышым
+% % 1 dediği *нақыш bar .% 1 *is th*eme *arch*ive *name
+% % 1 diyerek *нақышыңыз anı yapıldı.
+*Нақыш yapıldı
+*Нақышыңызды yapmak anda hata bulundu.
+*Нақыш yapılmadı
+Bu *нақыштың önünü- alaca bakmağı yok.
+*Авторы:% 1 *Эл. posta:% 2 Nüshası:% 3 Mekan *парағы:% 4
+*KDE- *нің *көрнекті *нақышңызды seçin:
+Yeni *нақыштарды yüklemeye...
+*KDE *нақыштар *веб- sitesine çıkma
+*Нақышты *өшіру
+#& & *Жана *нақышты yapmak...
+*Жана *нақышты & yapmak...
+*Нақыш
+*Нақышыңызды değişme:
+Masanın ayırsın değişme
+Ayır
+Renkleri değişme
+Renkler
+*Грфикалық *интерфейс bölüklerin tarzı
+Tarzı
+*Таңбаша *нақышын değişme
+*Таңбашалар
+*Қаріп *нақышын değişme
+*Қаріптер
+*Экран #koru değişme
+*Экран koruyucu
+#& & *Нақыштың çağırması:
+#& & *Авторы:
+#& & *Эл. postası:
+#& & Mekan *парағы:
+*Түсініктемесі:
+#& & Nüshası: *NAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*KT*raderC*lient
+*KDE *трейдер sistemine soru koyu *коменда yolunun aleti
+*mime türü
+Hizmetin türü, *KP*art*s *ReadO*nlyP*art ne *KMYApp P*lu*gin kılığı
+*Трейдер sorular dilindeki *сойлем *құрлымы
+% % 1 % 2 *өңдірілген anı% 3
+% % 1 % 2 *өңдірілді
+% % 1 *өңдірілген% 2 *с süratıyla
+% % 1 *өңдірілді
+*Аялдау
+Dönme
+Sürdürme
+Bunları başka listeye *жылжыту.
+Bunları *өшіру.
+Bütün görevleri listede göstermek.
+Bütün görevleri budakta göstermek.
+*Бөлек pencereleri göstermek.
+Biten görevler
+Bunları başka listeye *жылжыту
+Bunları *өшіру
+Eşkal
+Bütün görevleri listede göstermek
+Bütün görevleri budakta göstermek
+*Бөлек pencereleri *көрсетуNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*Баптау...
+Arama
+Yerine getirilmede
+Biten görevler
+Kuralı
+Süreç *менеджері
+*KDE süreç ile ilgili bilgi *интерфейсінін *сервері
+#C C 2000\/2000- 2008, *KDE takımı
+*Raf*ael F*erná*ndez *Lóp*ez
+#Eğit
+*David F*au*re
+#Eskiden #eğit
+*Mat*ej *Ko*ss
+#Yap
+Çağırması
+*Қысқармалары
+Hayır
+Bu *модулінде *веб *қысқармалары diyerek *баптай alacasız. *Веб *қысқармалары Internette gerek sözler ile ilgili çabucak arama yapmaya yetenek çıkar. Meseli, *Goo*gle mekanizmasıyla *KDE projesi ile ilgili bilgiyi arama için halis *gg: *KDE ya *goo*gle: *KDE diyip yazabilir. Geleneki arama mekanizmasını seçip koysanız, *Ko*nqu*ero*r benzeri, bu yeteneki kapsamına ekleyen *қолданбалар infakıyla, halis arayan *кәдімгі bir- iki sözü devşirip, arama yapar.
+#& & Arama *сүзгілері
+*Қысқармалары lisans ettiği Internetteki bilgiyi çabucak aramaya yetenek çıkar. Meseli, *gg: *KDE dediği *Goo*gle T*M arama mekanizmasını *KDE sözünü aramaya *жұмсайды.
+*Веб *қысқармалар lisans & etsin
+Arama *провайдерін katma.
+#& & Yeni...
+Arama *провайдерінің bilgisini değişme.
+Değişme...
+Seçilen arama *провайдерін *өшіру.
+*Өшіру
+#UU*RL ekleme otlakında *адрестің yerine *кәдімгі söz ya söz *тізбегі getirdikte otomatik türde çağırılıp, şu söz diyecek *дің araması devretilen mekanizmasını seçin. Bu yeteneki *бұғаттау için listesinden Hayır diyerek seçin.
+Geleneki arama mekanizması:
+*Қысқарманы arayan *түйінді sözden ya söz *тізбегінен ayıran *бөлгішін seçin.
+#& & *Түйінді sözün *бөлгіші:
+Kat nokta
+Boş yer
+Burda arama *провайдерінің *кәдімгі çağırmasını *келіріңіз.
+Arama & *провайдерінің çağırması:
+Arayan & U*RI:
+Burda eklenen *қысқармалар *KDE- da *псевдо- U*RI *сұлбасы süresinde kullanılır. Meseli, *av *қысқармасы *av: *my *search süresinde *my *search diyerek aramaya kullanılır.
+#UU*RI *қысқармалары:
+Soruda kullanılan *таңбалар *кодтамасын seçin
+#& & *Кодтама:
+Soru çıkılan *кодтамасын gösterelim.
+Geleneki
+Arama *провайдерінің bilgisini değişme
+Yeni arama *провайдері
+Sorunun U*RI *өрнегінде ... diyip *таңбаланған yerli basanı yok. *Соңдықтан, getirilen söze rağmen, bu soru bir *параққа taşır.
+Kalsın
+Arama *провайдерлер listesi, onların *қысқармалары ve *мәзірлерде gösterileni- gösterilmeyeni.
+% % 1 penceresi tepki vermeyi sorar.
+*Композициялау çok *баяу olduktan *аялдатылады. *Композициялаудың #ek *параметрлерде eyleyenin *тексеруді *бұғаттай alacasız.
+*Композициялау çok *баяу olduktan *аялдатылады. *Егерде bu #vakit mesele olsa - % 1 debriyajımla onu sürdürür. *Композициялаудың #ek *параметрлерде eyleyenin *тексеруді *бұғаттай alacasız.
+Gerekli *X genişlemeleri *XCo*mpo*sit*e ve *XDamage yok.
+*GLX Op*enGL hayır, tek *enGL korumasıyla yığılmış.
+*XRender *XF*ixes genişlemeler hayır, tek *XRender korumasıyla yığılmış.
+*GLX Op*enGL ben *XRender *XF*ixes yok.
+*Композициялау *компиляция anında yazılmamış. *Бәлкім, *Xo*rg *құрастыру sürecekleri yapılmamış.
+Sistem
+*Шарлау
+Pencereleri dolaşma
+Pencereleri dolaşma dişisi
+Pencereleri dolaşma
+Pencereleri dolaşma dişisi
+Pencereleri dolaşma dişisi
+Pencereleri dolaşma dişisi
+Masaları dolaşma
+*Үстелідерді dolaşma dişisi
+Masalarının listesi #boy dolaşma
+Masalarının listesi #boy dolaşma dişisi
+Pencereler
+Pencere gayretler *мәзірі
+Pencereyi örtme
+Pencereyi #gen yayma
+Pencereyi dikinden #gen yayma
+Pencereyi sadıkından #gen yayma
+Pencereyi *түю
+Pencereyi süreceğe *түю
+Pencereyi *жылжыту
+Pencerenin ölçümünü değişme
+Pencereyi öne çıkarma
+Pencereyi arkaya katmak
+Pencereyi öne arkaya değişme
+Pencereyi tam *экранды etmek
+Pencerenin fişini *жасыру
+Pencereyi yüz önünde tutma
+Pencereyi arkasında tutma
+Ilgiyi soran pencereye *ауысу
+Pencereye planlanan *тіркесімдерді *баптау
+Pencereyi sağ yöne *тіреу
+Pencereyi sol yöne *тіреу
+Pencereyi yüksek yöne *тіреу
+Pencereyi aşağıya yöne *тіреу
+Pencerenin sağ yönünü *созу
+Pencerenin aşağıya yönünü *созу
+Pencerenin sağ yönünü yığma
+Pencerenin aşağıya yönünü yığma
+Pencereyi sol yöne *тіреу
+Pencereyi sağ yöne *тіреу
+0- *экранына *ауысу
+önceki masaya *ауысу
+Pencereyi sağ yöne *тіреу
+Pencereyi sol yöne *тіреу
+Pencere ve masa
+Pencereyi bütün masalarda göstermek
+Pencereyi 1- masaya değişme
+Pencereyi 2- masaya değişme
+Pencereyi 3- masaya değişme
+Pencereyi 4- masaya değişme
+Pencereyi 5- masaya değişelim
+Pencereyi 6- masaya değişme
+Pencereyi 7- masaya değişme
+Pencereyi 8- masaya değişme
+Pencereyi 9- masaya değişme
+Pencereyi 10- masaya değişme
+Pencereyi 11- masaya değişme
+Pencereyi 12- masaya değişme
+Pencereyi 13- masaya değişme
+Pencereyi 14- masaya değişme
+Pencereyi 15- masaya değişme
+Pencereyi 16- masaya değişme
+Pencereyi 17- masaya değişme
+Pencereyi 18- masaya değişme
+Pencereyi 19- masaya değişme
+Pencereyi 20- masaya değişme
+Pencereyi sonraki masaya değişme
+Pencereyi #ön masaya değişme
+Pencereyi sağ yöndeki masaya değişme
+Pencereyi sol yöndeki masaya değişme
+Pencereyi yüksek yöndeki masaya değişme
+Pencereyi aşağıya yöndeki masaya değişme
+Pencereyi 0- *экранына
+Pencereyi 1- *экранына
+Pencereyi 2- *экранына
+Pencereyi 3- *экранына
+Pencereyi 4- *экранына
+Pencereyi 5- *экранына
+Pencereyi 6- *экранына
+Pencereyi 7- *экранына
+Pencereyi sonraki *экранына
+Masada *тор göstersin
+Masaya *ауысу
+1- masaya *ауысу
+2- masaya *ауысу
+3- masaya *ауысу
+4- masaya *ауысу
+5- masaya *ауысу
+6- masaya *ауысу
+7- masaya *ауысу
+8- masaya *ауысу
+9- masaya *ауысу
+10- masaya *ауысу
+11- masaya *ауысу
+12- masaya *ауысу
+13- masaya *ауысу
+14- masaya *ауысу
+15- masaya *ауысу
+16- masaya *ауысу
+17- masaya *ауысу
+18- masaya *ауысу
+19- masaya *ауысу
+20- masaya *ауысу
+Sonraki masaya *ауысу
+önceki masaya *ауысу
+Sağ yöndeki masaya *ауысу
+Sol yöndeki masaya *ауысу
+Yüksek yöndeki masaya *ауысу
+Aşağıya yöndeki masaya *ауысу
+0- *экранына *ауысу
+1- *экранына *ауысу
+2- *экранына *ауысу
+3- *экранына *ауысу
+4- *экранына *ауысу
+5- *экранына *ауысу
+6- *экранына *ауысу
+7- *экранына *ауысу
+Sonraki *экранына *ауысу
+Türlü başka
+Fareyi *эмуляциялау
+Pencereyi *құрту
+Pencereyi *алм. *буферіне *түсіріп almak
+Masayı *алм. *буферіне *түсіріп almak
+Genel *тіркесімдерді *бұғаттау
+*Композициялауды *аялдату
+*kwin: kesin pencere *менеджері yerine getirilmede. *kwin işe katılmadı.
+*KWin doğru eylemiyor. #Birkaç süre sıra *қираған kılığı. Başka pencereler *меенеджерін #ye:
+*kwin: *менеджер olamadı; başka pencere *менеджері yerine getirilmede mı? #permütasyon için, -- *rep*lac*e *параметрімен *жегіп gör
+*KDE pencere *менеджері
+*KWin
+#c c 1999- 2008, *KDE #yap
+*Matth*ias *Ett*rich
+#CC*rist*ian T*ibirna
+*Daniel *M. *Du*ley
+*Lu*boš *Luňá*k
+Eğitici
+*Баптау *параметрлерін lisans etmemek
+Eyledik *ICCC*M2. 0- benzeri pencere *менеджерін #permütasyon
+*KWin geçerek *n süre *қирағанын gösterir
+*KWin:
+*KWin şimdi bitirir... *NAME OF T*RANSLATO*RS
+*Аксауле *Мамаева, *Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*ak78\@ *sc*i. *kz, *sairan\@ co*mput*er. o*rg
+Bütününün & önünde tutma
+Bütününün arkasında tutma
+#& & Tam *экранды
+Fişi & hayır
+#& & *Перне *тіркесімі...
+Pencerenin #istisnai *параметрлері...
+*Қолданбаның #istisnai *параметрлері...
+#& & *Мөлдірсіздік
+#& & *Жылжыту
+Ölçümü değişme
+#& & *Түю
+#& & *Қең yayma
+#& & Süreceğe *түю
+#Ek
+Pencere hasiyetlerini *баптау...
+#& & Örtme
+0- *экранына *ауысу
+Pencereyi *жылжыту
+Hangi & masa
+#& & Bütün masalar
+Pencereyi *белсендету % 1
+% % 1- masa
+Pencerenin fişini göstermemeği *ұйғардыңыз. Fişi yokta farenin infakıyla *қайтадан fişini gösteren ederek #al. Onun yerine% 1 *перне *тіркесімімен çağırılan pencereyi yönetme *мәзірін kullanmaya olur.
+Pencereni tam *экранды sahne yönetmenimde kullanmaya *ұйғардыңыз. Eğer *қолданбаның kendisinin *толықэкранды *режімінен dönme mekanizması hayır olsa, farenin infakıyla bu *режімінен çıkarak #al. Onun yerine% 1 *перне *тіркесімімен çağırılan pencereyi yönetme *мәзірін kullanmaya olur.
+*KWin infak *утилитасы
+Kesen *қолданбаның P*ID *коды
+Kullan yerine getirdik *хост çağırması
+Kesilen pencerenin süreceği
+Kesilen *қолданбаның çağırması
+Şu kullan kaynağının *ID- *і
+Kesme sebebi çaresinin vakti.
+Infak *утилитасы kendisi özel #uygula.
+% % 2 tain etilen pencere yanıt çıkmıyor. Bu pencere% 1 P*ID=% 3, *хост=% 4 dediği *қолданбаға durur. *Қолданбаның işini #kes mı? Korunmayan bilgilerin bütünü *жоғалады.  qt 
+% % 1 diyerek bakmak
+*Мәзір
+Balık masalara değil
+Bütün masalara
+Tanımla
+*Түю
+Kalıpına getirme
+#Gen yayma
+Örtme
+Yüz önünde tutmama
+Yüz önünde tutma
+En arkasında tutmama
+En arkasında tutma
+Sürecekten yayma
+Süreceğe *түю
+Pencereyi *безендіру *модулінің kalabalık dosyası bulunmadı.
+Gelenekteki *безендіру *модулі *зақымдалып, yüklenmedi.
+% % 1 kalabalık dosyası *KWin *модулі değil.
+*** *** Pencere yok ***
+Pencereleri dolaşma
+Pencereleri dolaşma dişisi
+*kwin: *инициализациялау anındaki *жаңылысқа uğrayıp, kesmede
+Kessin
+Kalabilsin
+Masa *текшесі\@ t*it*le: t*ab *Basic *Sett*ings
+#Ek
+Gösteren penceresini değişme Ilgideki masa
+Gösteren penceresini değişme Bütün masalar
+Masadaki kar *эффектін #olumsuz
+*Бейнежазуды kaynak durdurma
+#& & Pencere *қоршауы süreceğinin rengiyle boyasın
+*Құсбелгісі koyulsa, pencerenin fişi süreceğiyle *түстес olur, #yoksa , *кәдімгі fişinin kendisinin rengiyle boyanır.
+Ölçümünü değişen açılar olsun
+*Құсбелгісі koyulsa, ölçümü değişme için pencerenin sağ yöndeki #aşağıya açısında tutan *бұрыштама olur.
+*Құсбелгісі koyulsa, ilgideki sürecekler nokta *сызық *эффектімен *бейнеленеді.
+Gayretleri *баптау
+*Мәзір düğmesindeki kat *шертім:
+Hiçbir şey etmez
+Pencereyi *түйеді
+Pencereyi süreceğe *түйеді
+Pencereyi örter
+*Мәзір düğmesinde kat *шертім yaparak olmuş gayreti seçin. *Күмәндәнсаңыз, hiçbir şey etmeyen şartında bırakın.
+*Мәзір
+Bütün masalarında değil
+Bütün masalarında
+*Түю
+#Gen yayma
+Örtme
+Tanımla
+Sürecekten yayma
+Süreceğe *түю
+Ölçümünü değişme
+*B *II konu örneği
+Kalıpına getirmeH*elp *butto*n *label, o*ne ch*aract*er
+?
+*Web
+Sürecekte nokta & *сызық *эффекті yapsın
+*Құсбелгісі koyulsa, ilgideki sürecekler nokta *сызық *эффектімен *бейнеленеді.
+Pencerelerin altında tutan *жолағы olsun
+*Құсбелгісі koyulsa, pencerelerin altında tutan *жолағы *бейнеленеді.
+#& & *Градиенттер *бейнеленсін
+*Құсбелгісі koyulsa, pencereyi *безендіруде, çok rengi *дисплейлерінде *градиенттер kullanılır.
+*KDE 2
+*Keramik konu örneği
+Yüz önünde tutma
+En arkasında tutma
+*Redmo*nd
+*KWMTh*eme
+*Жабысқақ
+*Жабысқақ değil
+*KWM *нақышын yapar
+*Нақышты *баптау dosyasının yolu
+Bütün masalarında
+Örtme
+*Ноутбук
+#outout*line *windo*w t*it*le
+*draw *sep*arato*r
+Sola
+Ortaya
+Ona
+Aşağı
+Büyük
+Büyük
+Ölçümünü değişme
+#& & *Градиенттер *бейнеленсін
+#OO*xygen
+Bütün masalarında
+Süreceğe *түю *батырмасыNAME OF T*RANSLATO*RS
+*EMAIL OF T*RANSLATO*RS
+*Keramik
+#& & Süreceğinin *томпағында pencerenin *таңбашасы *бейнеленсін
+Süreceğinin *томпағында, yazmayla sıra, pencerenin *таңбашасы *бейнеленсін deseniz, şu *құсбелгісін koyun.
+Ilgideki pencerelerin süreceğinin *томпағы & küçük olsun
+Ilgideki pencerelerin süreceğinin *томпағы, ilgiden ofsayt pencerelerin süreceğinin *томпағынан yüzleşsin deseniz, şu *құсбелгіні koyun. Bu *ноутбук ya *айырымдылығы aşağıya *дисплейлерде, pencere *мазмұны için #çok yer *босатуыкерек koşulda faydalı.
+Pencerelerin altında tutan *жолақтар olsun
+Pencerelerin altında tutan *жолағы olsun deseniz, *құсбелгісін koyun. *Құсбелгісі olmasa, onun yerinde tek *жұқа *жиек *бейнеленеді.
+#& & Metin gölgeli olsun
+Süreceğin metini, arkasında gölgesi var üç ölçümü türde olsun deseniz, şu *құсбелгісін koyun.
+#& & Süreceğin yazmasının *ығысуы
+#& & Sola
+Ortaya
+#& & Ona
+Pencereyi *түйеді
+Süreceğin rengi pencere *мазмұның rengiyle boyasın
+Pencereyi *түйеді
+Pencereyi *түйеді
+Ortaya
+#& & Süreceğin yazmasının *ығысуы
+Pencereyi *түйеді
+Süreceğin rengi pencere *мазмұның rengiyle boyasın
+Süreceğe *түю
+Pencereyi *түйеді
+Kalıpına getirme
+*KWM *нақышын yapar
+*KWM *нақышын yapar
+*Баптау #diyalog
+*Құсбелгісі koyulsa, pencerenin fişi süreceğiyle *түстес olur, #yoksa , *аясының rengiyle boyanır.
+Pencerenin fişini boyama
+Düğmeler fare *меңзері dokundukta, giderek değişip, *меңзер gittiğinde giderek #eskiden türüne dönsün deseniz, şu *құсбелгіні koyun.
+Düğmeler *анимациялансын
+*Mic*ro*soft *Windo*ws- daha kılığı *мәзір düğmesinde kat *шертім yaparak pencere örtsün deseniz, şu *құсбелгіні koyun.
+*Мәзір düğmesini kat *шерткенде pencere örtsün
+*Құсбелгісі koyulsa, pencerenin *безендіруінің fişi süreceğiyle *түстес olur, #yoksa , *қәдімгі fişinin kendisinin rengiyle boyanır.
+Geçerek *жұқа Qu*artz
+Süreceği geçerek *жұқа Kuvars dediği *безендіру türü.
+#QuQu*artz
+Pencereyi *түйеді
+Pencereyi *түйеді
+Ölçümünü değişen açılar göstersin
+*Құсбелгісі koyulsa, ölçümü değişme için bütün pencerelerde sağ yöndeki #aşağıya açısında tutan *бұрыштама olur. Bu pencerenin ölçümünü değişmeyi *жеңілдетеді, özellikle *ноутбуктердегі *трекболдар ve başka da fareyi *алмастыратын aygıtlarla eyleyerek.
+Burda pencerenin ölçümünü değişme için kullanan *бұрыштаманың ölçümünü değişir.
+#Orta
+*Mo*dern *Syst*em
+#PP*last*ik
+Pencereyi *түйеді
+#& & Pencere *қоршауы süreceğinin rengiyle boyasın
+Masa *текшесі
+Masa silindiri
+Masa küresi\@ t*it*le: t*ab *Basic *Sett*ings
+Başlıca\@ t*it*le: t*ab *Advanc*ed *Sett*ings
+#Ek
+Kar
+Masada kar *жаууын göstermek
+Devir\/Devir *ауыстырғышын #olumsuz Ilgideki masa
+Devir\/Devir *ауыстырғышын #olumsuz Bütün masalar
+Farenin izlerini #tam
+Farenin sonrakı izini #tam
+Farenin bütün izlerini #tam
+Tavırı yazma yazmama şartını #olumsuz
+Tavırı #sağ *қапшығы
+Ilgideki penceredeki *нобайларын değişme\@ *act*io*n *Enables *Disables *an *eff*ect th*at *makes *windo*ws *mo*re *sh*arp
+*Айқындату *эффектін #olumsuz
+Farenin *меңзері nerede\/nerede olduğunu bulmak için Ct*rl+*Met*a *пернелерін #bas.
+#Olumsuz *эффектін #olumsuz
+Penceredekiyi #olumsuz *эффектін *болдыру *кетіру
+Masa *торын göstermek
+*Бұғатталған
+*Жоғардан
+Yüksek sağ yönden
+Sağ yönden
+#Aşağıya sağ yönden
+#Aşağıya
+#Aşağıya yap yönden
+Sol yönden
+En üste sol yönden
+Ortada
+1- *қойынды
+*Аясы
+Ayır rengi:
+*Түсқағазы:
+*Белсендету
+Eşkalı
+Masa çağırmasını göstermek
+*Шағылу
+*Бұрау *ұзақтығы: *Du*rat*io*n of *rot*at*io*n
+Geleneki
+Pencereler *текшенің üstünden olsun
+*Буалдырлығы
+%%
+*Мөлдір
+*Мөлдір değil
+Pencerelerin *мөлдір *еместігі değişilmeyeceğini
+2- *қойынды
+Üstü- aşı açıları
+Üstü- aşı açıları göstersin
+Açısının rengi:
+Üstü- aşı açılarında görüntüsü göstersin
+*Масштабы
+Yakın
+#Uzak
+Böyle olsun...
+#Ek *параметрлері
+*Эффект *бұғатталса, #köken *тыішқанмен *бұрағаннан sonra o *белсендіктен ayırılır, #yoksa  aktif #ol #ol #ver
+Fareyle çektikten sonra örtsün
+Bu *эффектті masaları *ақтару için kullanın
+*Меңзер *пернелерін #olumsuz
+Fare düğmelerini #olumsuz
+Kürenin *төбесін *майыстыру
+Küre
+*Жазықтық
+*Барлыық masalarda pencereleri *анамацияланбасын
+*мсек
+*Панельдері *анимацияланбасын
+*Ақтарғыштың biçimi *анимациялауға kullansın
+Kar *қылаулар sayı:
+*Қылаудын en aşağısı:
+*Қылаудын en büyükü:
+#& & Dik *жылдамдылығының en üste fişi:
+#& & Yatay olarak *жылдамдылығының en üste fişi:
+Kar pencerenin & arkasında
+*Төңкеруді *анимациялау *ұзақтығы: *Du*rat*io*n of f*lip *animat*io*n
+Açısı:
+#°°
+Yüz yönünün sadıktan konaklaması:
+Yüz yönünün dikinden konaklaması:
+Pencerenin & çağırması göstersin
+#& & Eni:
+#& & Rengi:
+*Sh*ift+*Met*a *пернелерін basıp fareyi *жылжытып *сызыңыз.
+Dikinden
+Yatay olarak
+*Ұзақтығы
+*Топтасқандырғанда *сырғанасын
+*қойындыны *сырғанатып değişme
+#& & Eninin fişi:
+#& & Aralıkı\/Aralıkı:
+#& & *Мөлдір *еместігі:
+Kanca mesafede pencereler bulunanını tanımlayalım
+Animasyon
+*Ауысу *анимациялансын
+*Қойындыны açması *анимациялансын
+*Қойындыны örtmesi *анимациялансын
+Animasyonun *ұзақтығы:
+*Нобайлар *панелі
+#Ek *нобайлар *панелі olsun
+Pencereler sayı atayarak lüzümsüz yere olsa - *нобайлар *панелі tek göstersin
+*Динамикалық şartı
+Pencereler sayı:
+*Шағылысулар
+Arka yön rengi
+Önünün rengi
+*Қатаңдығы:
+*Сүйреу:
+#& & *Жылжу çarpması:
+#& & *Бұлғалақтап *жылжысын
+Ölçümünü değişerek *бұлғалақталсын
+*Қеңейтілген *режімі lisans etsin
+#& & *Бұлғалақтау
+Azalsın
+*Үлғайсын
+#& & *Радиусы:
+Yazması
+Yazmasının yeri:
+Resimin içinde
+*Ешқайда
+Sol yön *жоғарында
+Sağ yön *жоғарында
+Sol yön *төменінде
+Sağ yön *төменінде
+Yazmasının *қаріпі:
+Yazmasının rengi:
+Yazmasının *альфасы:
+Ayır penceresinin & *мөлдірсіздігі:
+Seçilen pencere yüze & çıkarsın
+Pencereleri & dolaşma *анимациялансын
+*Масштабын değişme *ұзақтығы: *Du*rat*io*n of zoo*m
+#& & *Жиегінің gelini:
+Masa çağırmasının #doğru:
+#& & Konaklama kuralı:
+*Ақтарғыш
+Otomatik
+#Getir
+#& & *Бағандар sayı:
+Ölçümü
+*пк
+#& & Irtifası:
+#& & *X- *ығысуы:
+#& & *Y- *ығысуы:
+%%
+#& & *Шашырауы:
+#& & Ölçümü:
+#& & Aktif pencerelerde gölgesi #kalın olsun
+*Эффект & *панельдерге kullansın
+*Эффект & masaya kullansın
+*Эффект & takımlara kullansın
+#& & Gücü:
+Doğal diyerek *параметрлері
+#& & Arıları *толтырылсын
+Çabuk
+*Әсемрек
+Pencereler
+Sol yön düğme:
+Gayretsiz
+Pencereyi *белсендету
+Bitirme *эффекті
+Pencereyi ilgideki masaya getirmek
+Pencereyi bütün masalara düzenleme
+Pencereyi *түю yayma
+Pencereyi örtme
+Orta düğme:
+Sağ yön düğme:
+Masa
+Masayı göstermek
+Düzenleme kuralı:
+#& & Pencerenin *таңбашлары göstersin
+Pencereler arısında *ауысуға kullansın
+#& & *Түйіп koyan pencereleri tanımama
+#& & *Панелдер göstersin
+Doğal
+*Тор #boy
+*Икемді *тор #boy
+*Мөлдірлік
+Genel *мөлдірлік *параметрлері
+*Безендіруі:
+Ilgiden ofsayt pencereler
+Heyelanlı pencereler:
+*Диалогтар
+*Қалқымалы *ашылмалы listeler:
+*Мәзірлер:
+Fayda *ғайып olma *ұзақтығы: *Du*rat*io*n of f*ading
+*Мәзірлерінің *мөлдірлігін *жекелеп yapmak
+*Ашылмалы *мәзірлер:
+*Қалқымалы *мәзірлер:
+Branşı *мәзірллер:
+Pencereleri göstermek şartını #olumsuz bütün pencere için
+Pencereleri göstermek şartını #olumsuz *незардағы pencere için
+Pencereleri göstermek şartını #olumsuz pencere klası için
+*Сүзгісі:% 1
+Dönerek *реттеуDu*rat*io*n of *rearrangement
+% % 1 diyerek bakmak
+*Мәзір
+Bütün masalara değil
+Bütün masalara
+Tanımla
+*Түю
+Kalıpına getirme
+Yayma
+Örtme
+Yüz önünde tutmama
+Yüz önünde tutma
+Arkasında tutmama
+Arkasında tutma
+Sürecekten yayma
+Süreceğe *түю
+Pencereyi *безендіру *модульдің kalabalık dosyası bulunmadı.
+Geleneki *безендіру *модулі *зақымдалып yüklemeye gelmez.
+% % 1 dediği kalabalık dosyası *KWin *плагин *модулі değil.
+*KDE metin *өңдегіш *компоненті bulunmadı; *KDE *орнатылымын *түгелдеңіз.
+Ilgideki dosyayı örtme
+Yeni dosyayı yapmak ekipi\/ekibi
+Var dosyayı işleme için açma ekipi\/ekibi
+*Қайтадан açmayı *тездететін *жуырда açılan dosyalar listesi.
+#& & Yeni pencere
+Ilgideki dosyayla daha bir eşkalı yapmak
+Ilgideki dosya eşkalını örtme
+Eşkalın şart- halis *жолағын göstermek *жасыру ekipi\/ekibi
+Yolunu & göstermek
+Pencere süreceğinde dosyanın tam yolunu göstermek
+*Қолданбаның *перне *тіркесімдерін *баптау.
+Aletler *панелін diyecek da gösterilen şeyleri *баптау.
+*Өңдегіш *компоненті ile ilgili\@ *info: *st*atu*s *St*atu*sbar *label fo*r cu*rso*r *line *and co*lu*mn po*sit*io*n
+Yol:% 1 *Баған:% 2
+*ЕНД \@ *info: *st*atu*s *St*atu*sbar *label fo*r *line *select*io*n *mo*de
+YOL
+Dosyayı açma
+Getirilen dosya okunmadı, onun #var ve gayret eden kullanıcıya okuması lisans olduğunu *тексеріңіз. \@ *info: *st*atu*s *St*atu*sbar *label fo*r *bloc*k *select*io*n *mo*de
+*БЛОК
+Çağırılmayan
+*KWrit*e
+*KWrit*e - metin renkteki 
+#c c 2000\/2000- 2005, *Kat*e *авторлары
+#ChCh*ristoph Cu*llmann
+#Eğit
+*Anders *Lu*nd
+Esasını #kur
+#JoJo*seph *Wenninger
+#HH*amish *Ro*dda
+*Do*minik H*au*mann
+#Yap, *талдап *бояулау *шебері
+*Waldo *Bast*ian
+Güçlü *буфер sistemi
+#ChCh*arles *Samu*els
+Işleme ekipleri\/ekipleri
+*Matt *NewellC*redit t*ext fo*r *so*meo*ne th*at *did t*est*ing *and *so*me oth*er *similar th*ings
+Sınama,...
+*Mich*ael *Bart*l
+*Бастапқы esasını #kur
+*Mich*ael *McC*allu*m
+#JochJoch*en *Wilh*emly
+*KWrit*e *авторы
+*Mich*ael *Koch
+*KWrit*e- *ті *KP*art*s- *қа götürmesi
+#ChCh*rist*ian *Gebau*er
+*Simo*n H*au*smann
+*Glen P*arker
+*KWrit*e çarelerden dönme dergisi, *Ksp*ell- ben *бірлестіруі
+*Scott *Manso*n
+*KWrit*e- da *XML *синтаксисын *талдап *бояулауы
+#JohJoh*n F*irebau*gh
+*Жамаулары ben T. *б.
+*Matt*eo *Merli
+*RP*M *Sp*ec- dosya, P*erl, *Diff için *талдап *бояулауы ve T. *б.
+*Roc*ky *Sc*alett*a
+*VH*DL için *талдап *бояулауы
+*Yu*ry *Lebedev
+*SQ*L için *талдап *бояулауы
+#ChCh*ris *Ro*ss
+#FF*erit*e için *талдап *бояулауы
+*Nic*k *Rou*x
+*ILERP*G için *талдап *бояулауы
+#CC*arst*en *Nieh*au*s
+*LaT*EX için *талдап *бояулауы
+#PP*er *Wigren
+*Makef*ile, P*ytho*n için *талдап *бояулауы
+#JJ*an F*ritz
+#PP*ytho*n için *талдап *бояулауы
+*Daniel *Naber
+*Ro*land P*abel
+*Sch*eme için *талдап *бояулауы
+#CC*rist*i *Du*mit*rescu
+#PHP PHP *түйінді sözleri ve bilgi türlerinin listesi
+#CC*arst*en Pf*eiff*erC*redit t*ext fo*r *so*meo*ne th*at h*elp*ed *a *lot
+#Ihtişamla tanımlamayacağı
+Faizini katmış, ama şunda çağırılmayan tüm ortaklarım
+*st*din *мазмұнын okuma
+Açan dosyanın *кодтамасын seçin
+Şu yola *ауысу
+Şu *бағанға *ауысу
+Açan dosyası
+% % 1 açılmaz: o *кәдімгі dosya değil, o - *қапшық.
+*Өңдегіш *компонентін seçme
+#& & Dosya
+#& & Işleme
+#& & Eşkal
+#& & Aletler
+#& & *Баптаулары
+#& & Tanımla
+Başlıca aletler *панеліNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*KWrit*eCo*nf*ig
+*KCo*nf*ig yazmaları - *қоршау- orta *скрипттері için
+#c c 2001 *Red H*at, *Inc. & *Luí*s P*edro Co*elho
+*Luí*s P*edro Co*elho
+*Bernh*ard *Ro*senkraenz*er
+*kreadco*nf*ig- *ті *негіздеген ve yazılan
+Genel *баптау yerine  f*ile  kullansın
+Içinde arayan takım. Içindeki yoğunlayacak için gene kullanın.
+Anahtarı
+#Değişken türü. *Бульдік için *boo*l diyelim, #yoksa  metin yolu diyip sanılır
+Yazılan öz. Zorunlu olma gerek, boş olsa diyip yazın
+Fonksiyon çağırması
+*Сұлба
+Türü
+*ТамғасыDef*au*lt *variant
+Geleneki
+*Бірнешеліктері
+Tanımlanmadı
+
+*Пернетақта fonksiyonunu *аыстыру *утилитасы
+*KDE *пернетақта fonksiyonu *ауыстырғышы
+#CopCop*yright C 2006- 2007 *Andriy *Rysin
+*Пернетақтаның sonraki fonksiyonuna *ауысу
+% % 1 takımı
+% % 1 dediği *пернетақта fonksiyonuna *ауысу hatası
+*Баптау...
+*KDE *пернетақта fonksiyonu *ауыстырғышы
+Fonksiyonu
+*KDE fonksiyonları *баптап *индикаторын gösterir
+#& & *Пернетақта fonksiyonlar katsın
+*KDE *индикаторын gösterir ama var fonksiyon sistemini kullanır
+Tek *индикаторы
+*KDE *пернетақта fonksiyonlarını *баптамайды da göstermez
+*Пернетақта fonksiyonlar kullansın
+*Индикатор *параметрлері
+Yalnız fonksiyon da göstersin
+*Панеліндегі fonksiyonunun çağırması ülke gönderin *аясында gösterilir
+Ülke gönderi *көрсетелсін
+*Пернетақта fonksiyonu Burda Siz *пернетақта fonksiyonu ve örneğini seçer. Örnek dediği kompüterin donatıldığı *пернетақтаның türü, fonksiyonu dediği her ülkedeki kendisinin geleneki #boy hangi *перне ne eyleyeni gösteren *сұлбасы.
+*Пернетақта örneği:
+Burda Siz *пернетақта örneğini seçer. Bu seçme *пернетақта fonksiyonuna alakası hayır, bu *пернетақтаңызды cihaz süresinde, *яғни kurarak yaparak, niteler. Şimdiki anda, kompüterler çoğu, iki #ek *пернесі tüm 104 *пернелік *пернетақталармен donatılır, sonra Sizde hangi olduğunu bilmeseniz - *бәлкім, şu olacak.
+Var fonksiyonlar:
+...
+Praktisyonerdeki fonksiyonlar:
+Ekipi\/Ekibi:
+*Бапталған fonksiyonları *бастапқы şartına getiren ekip\/ekip.
+Fonksiyonunun türü:
+Burda seçilen *пернетақтаның fonksiyonunun türünü seçer. Fonksiyonunun türü dediği bir dile planlanan türlü fonksiyonlarlar. Meseli Kazak *пернетақта fonksiyonlar üç türlü olur: *basic başlıca - kazak dilinin #spesiyal harfleri *цифрлық *пернелерде, *kz1 - #spesiyal harfler *префикс *перне sonunda eklemiş, *kz2 - kazak dilde #sıvı kullanan harfleri *префикс *перне sonunda eklemiş, fonksiyonlarlar.
+*Тамғасы:
+*Ауысу *параметрлері
+Eğer *пернетақта fonksiyonunu değişmesi Kullan ne Pencere dolayında olsun deseniz, *ауысу gayreti tek ilgideki kullan ne pencere için gücüne iner.
+*Ауысу dolayı
+#& & Genel *жүйелік
+#& & Masa
+Kullan
+#& & Pencere
+Fonksiyonu değişen debriyajım
+Başlıca *тіркесімдер:
+Bu *X. o*rg düzeyinde eyleyen fonksiyonu değişen debriyajım. *Олтек *түрлендіргіш *пернелерді *негіздейтін *тіркесімдерді kullanır.
+3- *ші düzeyli *тіркесімдер:
+Bu *X. o*rg düzeyinde eyleyen üçüncü düzeyli aktif fonksiyonu değişen debriyajım *бұндайы olsa, *әрине. O tek *түрлендіргіш *пернелерді *негіздейтін *тіркесімдерді kullanır.
+*Баламалы debriyajım:
+Bu *KDE düzeyinde eyleyen fonksiyonu değişen debriyajım. O tek *түрлендіргіш *пернелерді *негіздейтін *тіркесімдерді kullanmaz. Birkaç koşullarda eylemeye makul *мәселен, *қалқымалы pencere ne *экран #koru aktif olduğunda.
+#Ek
+#Eskiden & *ысырып bırakma
+*Бапталған *параметрлерді *бастапқы şartına getiren ekip\/ekip. *NAME OF T*RANSLATO*RS
+*Ақсәуле *Мамаева, *Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*ak78\@ *sc*i. *kz, *sairan\@ co*mput*er. o*rg
+Burda, *X11 *баптау dosyada getirdiklerin yerine ne onlara #ek *xkb *параметрлерін getirmeye olur.
+*Xkb *параметрлері
+Yenisini yapmak
+Aygıta atıf
+% % 1 dediği örnek dosyası yok.
+Dosya çağırması:
+\@ t\@ t*it*le: *menu
+*Көшірімелеу yeri\@ t*it*le: *menu
+*Жылжытатын yeri\@ t*it*le: *menu
+Mekan *қапшығы\@ t*it*le: *menu
+*Түбір *қапшығы\@ t*it*le: *menu *in Cop*y To o*r *Mo*ve To *su*bmenu
+*Ақтару... \@ t*it*le: *menu
+Şunda *көшірмелеу\@ t*it*le: *menu
+Şunda *жылжыту
+*Қапшықты kendisini kendisine yapmaya olmaz
+*Жылжытқанға çağırma git:
+Şunda & *жылжыту
+Şunda & *көшірмелеу
+Şunda & atıf yapmak
+#& & *Тұсқағаз süresinde yapmak
+Dönme
+Yenisini yapmak
+*Қапшықтың çağırması:
+Yeni *қапшық
+*Қапшықтың çağırması:
+Yeni *қапшық\@ *act*io*n: *inmenu
+\@ \@ *act*io*n: *inmenu
+\@ \@ *act*io*n: *inmenu
+#& & Açma
+*Қапшықты yapmak...
+Yerine *қайтару
+*Өшірілгендерді & çevirme
+*Парақты & *бетбегілеу
+Yeri & *бетбегілеу
+*Қапшықты & *бетбегілеу
+Atıfı & *бетбегілеу
+Dosyayı & *бетбегілеу
+Bakmak aleti
+Hasiyetler
+*Ортақтастыру\@ t*it*le: *menu
+Gayretler
+Bununla & açma
+Başka...
+Bununla & açma...
+% % 1 & diyerek açma
+*Экран #koru *баптау
+Getirilen *X- penceresinde yerine getirsin
+*Түбір *X- penceresinde yerine getirsin
+*Экран koruyucu mesel süresinde *көрсетілсінNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+% % 1: TT*Y girmiş... *loc*at*io*n TT*Y o*r *X *disp*lay
+Boş
+Uzaktaki *хосттағы *X- girme... ho*st
+% % 1 *хосттағы *X- girmeu*ser: *sessio*n t*yp*e
+% % 1:% *2sessio*n *loc*at*io*n
+% % 1 % 2 *Act*io*n th*at *reo*rganiz*es th*e *windo*ws to t*ry to h*ave th*em *less c*lutt*ered
+Pencereleri kurala *келтіруAct*io*n th*at *reo*rganiz*es th*e *windo*ws *so th*at th*ey *are *in c*asc*ade
+*Терезеледі *кезектеу
+Bütün Masalarda
+Penceresiz
+#& & *Түю
+#& & *Қең yayma
+#& & Süreceğe *түю
+Ölçümü değişme
+#& & *Жылжыту
+#& & Örtme
+#& & Ilgideki masaya
+#& & Bütün masalar
+Hangi & masaya
+Bütününün & önünde tutma
+Bütününün arkasında tutma
+#& & Tam *экранды
+#Ek
+Takımdan & çıkarma
+Doldu *өзгертуmarks th*at *a t*ask h*as *been *mo*dif*ied
+değişilen
+Takımdan çıkarma
+Doldu *өшіру
+Programa takıma girmeye lisans etmek
+Programa takıma girmeye lisans etmemek
+Bütününü & ilgideki masaya
+Bütününü *түю
+Bütününü & #gen yayma
+Bütününü kalıpına getirme
+Bütününü & örtme
+Bütününü & masaya
+*Плагин *модулін *жегу
+*плагин *модулі
+Böyle & #sağ...
+% % 1 *Net*sc*ap*e *модулін yükleme
+% % 1 *Net*sc*ap*e *модулін yüklemesi olmadı
+*Net*sc*ap*e bakmak aleti *плагин *модулі
+#Çağır #sız *модулі
+*Net*sc*ap*e bakmak aleti *плагин *модулі
+*nsp*lu*ginsc*an
+#c c 2000\/2000, 2001 *St*ef*an *Sch*imanski
+*Грфикалық *интефейсте süreci göstersin
+#& & *ФайлNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+% % 1 diyerek bilgiyi devretme
+% % 1 diyerek sorma
+*nsp*lu*ginviewer
+*Net*sc*ap*e *модулінің *mime bilgisi
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+yapmak yolu *қайтарғаны 0
+% % 1 *мультимедиа programını kullanmaya olmaz:% 2
+*Мультимедиа programı bulunmadı
+Sorulan *мультимедиа programı bulunmadı
+#Yara *драйвер
+*ALSA
+#OO*SS
+#JJ*ac*k
+Bu aygıt şimdi eylemez *ажыратылған ne *драйвері yapılmamış. Th*e f*irst *argu*ment *is *name of th*e *driver *sou*nd *su*bsyst*em. Th*e *seco*nd *argu*ment *is th*e *devic*e *ident*if*ier
+% % 1:% 2
+Bu sonraki aygıtları kullanıp görür da birinci eyleyenin kullanır:% #1 1 *is th*e *sou*nd c*ard *name,% 2 *is th*e *desc*ript*io*n *in c*ase *it *exist*s
+% % 1 % 2
+Doğusu:% 1
+*Қармауы:% 1
+*Кетірген ses *құрылығылар
+ses *құрылығылар ile ilgili unutalım. *sho*rt *st*ring fo*r *a *butto*n, *it op*ens th*e Pho*no*n p*age of *Syst*em *Sett*ings
+*Құрылығыларды yönetme
+Ses *құрылығы *баптап *ажыратылған aygıtları *кэштен *өшіруге yetenek çıkmış *Жүйелік *баптау yüzünü açma.
+*KDE bir ne #birkaç ses *құрылығылар *кетірілгенін farketti. *KDE o aygıtlar ile ilgili unutsun mı? *KDE- *нің #fikir *кетірілмек aygıtlar:% 1
+Bu aygıtlar ile ilgili *ендігәрі *суралмасын
+#PuPu*lseAu*dio
+*ESD
+*ARt*s
+Genel
+*Экранның parıltısı
+*Қуаттандыру *профилі
+*Қалғу
+Uyuma
+*Қуаттандыруды yönetme
+*Қуаттандыруды *басқаруBatt*ery *is *not p*lu*gged *in
+Pili: yok
+Pili:% #1 tam *Sho*wn *wh*en *a t*ime *est*imat*e *is *not *available
+Pili:% #1 dolmasını küçülten *Sho*wn *wh*en *a t*ime *est*imat*e *is *not *available
+Pili:% #1 dolmasını küçülten
+% % 1 pili:% #2 dolması
+AD *адаптері: Katılan
+*Batt*ery *is *not p*lu*gged *in
+Pili: yok
+Pili gözlemleme monitörünü *баптау
+Herbir pilinin şartı göstersin
+#Ek...
+Gayretler
+Pili:% #1 tam
+Kalan vakit:% 1
+Pili:% #1 dolması
+% % 1 pili:% #2 tam
+% % 1 pili:% #2 dolmasını küçülten
+AD *адаптері: *Ажыратылған
+Pilin & dolma oranı göstersin
+*Секундтар göstersin
+*Секундтары göstersin deseniz simgesini koyun.
+#& & *Секундтар dili göstersin
+*Белдеу metinle yazsın
+*Белдеу metinle yazsın deseniz *белісін koyun.
+*Белдеуі & yazsın
+Genel
+\@ \@ *info: *st*atu*s F*ree *disk *sp*ac*e
+Katılan aygıt hayır
+Sonrakı katılan aygıt:% *1General opt*io*ns p*age
+Aygıt kayıt olmaktan çıkarılmadı. Aygıttaki bir ne #birkaç dosya bir *қолданбада açılıyor.
+*Дискіні müthiş- çıkarmaya olmaz. *Діскідегі bir ne #birkaç dosya bir *қолданбада açılıyor.
+#HH*ide *a *devic*e
+Katılan aygıt hayır
+Yeni yapılan aygıtlar:
+\@ \@ *label *Sho*rt *dat*e:% 1 *day *in th*e *mo*nth,% 2 *sho*rt *mo*nth *name,% 3 *year
+% % #1 #2 3\@ *label *Sho*rt *dat*e:% 1 *day *in th*e *mo*nth,% 2 *sho*rt *mo*nth *name
+% % #1 2
+% % 1,% 2\@ *label *Dat*e *with cu*rrentT*imezo*ne:% 1 *day of th*e *week *with *dat*e,% 2 cu*rrentT*imezo*ne
+*Қаріп tarzı:
+Kalın *қаріпті kursanız - simgesini koyun
+Simgesi koyulsa - saatin *қаріпі kalın olur.
+Kalın
+*Көлбеу *қаріпті kursanız - simgesini koyun
+Simgesi koyulsa - saatin *қаріпі *көлбеу olur.
+*Көлбеу
+*Қаріптің rengi:
+Praktisyonerdeki masa *нақыштың rengi *пайдалынсын
+Geleneki seçme. Saat *қаріпінің rengini praktisyonerdeki masasının *нақышына göre eder.
+*Нақыштың rengi kullansın
+Kurduğu rengini seçin
+Simgesi koyulsa, saat için kurduğu rengi sağ yöndeki renk *таңдағышынан seçer.
+Kurduğu rengi *пайдалынсын
+Renk şafaktaki 
+Düğmeyi bassanız *KDE- *нің standartı renk seçme #diyalog gösterilir. Ondan kurduğu rengi seçer.
+Günün göstermek
+Haftanın gününü göstermek
+Hafta günün çağırması günden sonra yazılır.
+#& & Haftanın gününü göstermek
+#Bu yıl yılı göstermek
+#Bu yıl yıl gösterilir.
+#& & Yılı göstermek
+Vakit *белдеу çağırmasını göstermek
+Vaktin altında *белдеу çağırması gösterilir.
+*Секундтары göstermek
+*Серундтарды görmeyi kursanız - simgesini koyun.
+*Қаріпі
+Bilgi
+Vakit *белдеуін göstermek:
+*Секундтарды göstermek:
+Günü göstermek:
+Genel
+Düzenlenmeyen
+*Жоғардан sağa. Soldan sağa
+*Жоғардан *төмнге. Sağdan sola
+Soldan sağa. *Жоғардан *төменге.
+#TT*it*le of th*e p*age th*at *let*s th*e u*ser choo*se *wh*ich *loc*at*io*n *shou*ld th*e fo*lderview *sho*w
+KonaklamasıT*it*le of th*e p*age th*at *let*s th*e u*ser choo*se ho*w th*e fo*lderview *shou*ld *be *sho*wn
+#TT*it*le of th*e p*age th*at *let*s th*e u*ser choo*se ho*w to f*ilt*er th*e fo*lderview co*nt*ent*s
+*Сүзгі
+#& & Düzenleme
+Dönerek yükleme
+Dönerek çağırma
+*Өшірілгендерге & bırakma
+*Өшіру
+*Ico*ns o*n th*e *desktop
+*So*rt *ico*ns
+Çağırma *бойыншаSo*rt *ico*ns
+Ölçümü *бойыншаSo*rt *ico*ns
+Türü *бойыншаSo*rt *ico*ns
+Günü *бойыншаSo*rt *ico*ns
+*ТаңбашаларInsert*ed *as% 1 *in th*e *message *belo*w.
+% % 1,% 2.
+#& & *Тұсқағаз süresinde yapmak
+Kuralı:
+Düzenleme:
+Ölçümü:
+Küçük
+Büyük
+Yolları:
+1 yol
+Rengi:
+Bütününü seçme
+*Mu*sic
+#Yerine getir: *Mu*sic
+Çağırması: *Mu*sic
+*Альбомы:
+Kamera: *Length *in *millimet*ers
+% % 1 *ммIn photo*graph*y
+#OO*n *a c*amera
+#OO*n *a c*amera
+#FF*ract*io*n of *a *seco*nd, o*r *nu*mber of *seco*nds
+% % 1 *сO*n *a c*amera
+*Апертурасы: O*n *a c*amera
+Vakti: *Insert*ed *as% 1 *in th*e *message *belo*w.
+*Панелінің *параметрлері
+*Икемді ölçümünü yapmak
+*Параметрлері
+Sorunu şurada getir
+*Белсенділік
+Enstürmanlar *панелін *жасыру
+Enstürmanlar *панелі
+Masa
+Sonraki *белсенділік
+#Ön *белсенділік
+Masanın *баптаулары
+Monitör
+*KDE masa, *панельдері ve bölük iş yer kullanmayacağı.
+#PP*lasma iş yeri
+#CopCop*yright 2006- 2007, *KDE takımı
+*Aaro*n J. *Seigo
+*Авторы ve *желілдіруші
+#JohJoh*n *Lio*ns
+Katan faizinin anısı süresinde, 1937- 1998.
+*Панелді #doğru
+Sola
+Ortaya
+Sağa
+Görüneni
+*Әрқашанда görünen
+Oto *жасыру
+*Терезеле örterek alanı
+*Терезеле örterek alanı
+*Экранның dışarısı
+Irtifası
+Başa *баптаулары
+*Панельді #gen yayma
+*Баптау penceresini örtme
+Eni
+*Жоғарға
+*Төменге
+Enstürmanlar *панелін göstermek
+Sonraki *белсенділік
+Sonraki *белсенділік
+*Панельдің yerini şu *жүгірткімен seçin
+*Панельдің en büyük ölçümünü şu *жүгірткімен seçin
+*Панельдің en küçük yok olurum şu *жүгірткімен *таңдаңызNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Masanın *баптаулары
+Ortaya
+Çağırması:
+*Төменге
+Masanın *баптаулары
+*Тұсқағаз
+Sonraki *белсенділік
+Bu seçtik masa eşkalını önünü- alaca bakıp  monitör resimi.
+Türü:
+Çağırması:
+Bölüğü *косу
+Masa *белсенділігі
+Masa *нақышы
+*Нақышы:
+Yeni *нақышы...
+#PP*lasma- *ны masa türünün yerine *кәдімгі pencere edip *жегу.
+#PP*lasma mekanizma *шолғышы
+Arama
+Bütününü *бүктеу
+Bütününü *тарқату
+*ДерекКөзі
+*Параметр
+Özü
+Türü
+Lazımı hizmete elle atma
+Şimdi gözünü *жаңартып almak
+Derek gözünü *өшіру
+ *XD0 *XB1 *XD0 *XBE *XD1 *x81  *A th*e *dat*aengine *retu*rned *so*meth*ing th*at th*e hu*mble *view o*n th*e *engineexp*lo*rer c*an t *disp*lay, *like *a p*ictu*re
+#PP*lasma *ДерекТетік *шолғышыTh*e *name of th*e *engine fo*llo*wed *by th*e *nu*mber of *dat*a *sou*rc*es
+Arayan *бағандар
+#Her yerde görünen *бағандар
+#& & Arayanı:
+#PP*lasma *ДерекТетігі çıkaran *шолғышы
+#c c 2006, *KDE takımı
+*Aaro*n J. *Seigo
+*Авторы ve *желілдіруші
+Gerek irtifası *пикселдер
+Gerek eni *пикселдер
+Gerek *x- *бойлығы *пикселдер
+Gerek *y- *бойлығы *пикселдер
+Kullanan bilgi mekanizması
+Soran gözü
+*Жаңарту aralıkı *милисекунд
+Derek gözünün çağırması
+Istem #boy *жаңарту
+*мсек kadar
+Herbir
+Soru
+#& & Ameliyatı:
+Ameliyatlar *саныNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*Орерацияны kaynakP*lasma *engine *with u*nkno*wn *name
+*Беймәлім% 1 *is *a P*lasma *servic*e *name
+% % 1 hizmet *шолғышы
+Derek mekanizması:% 1; Gözü:% 2; Hizmeti% 3
+% % 2 *мақсаттаған% 1 ameliyatının *жаңылысы. Hatası:% 3
+Ameliyatın neticesi
+Görevden yanıt yok!
+% % 2 *мақсаттаған% 1 ameliyatı anı oldu. Neticesi:% 3
+% % 2 bilgi mekanizması% 3 gözünün% 1 hizmeti
+*Sh*ift
+#CtCt*rl
+*Alt
+*Met*a
+*Sup*er
+#HH*yp*er
+*Alt*Gr
+*Nu*m *Loc*k
+#CC*ap*s *Loc*k
+*Sc*ro*ll *Loc*k
+Sol yön düğme
+Sağ yön düğme
+Orta düğme
+Birinci *X düğmesi
+Ikinci *X düğmesi
+Basılan
+Saklandığı
+*Бұғатталған
+% % 1 gösteren Jo*BView bulunmadı
+Görevi kullanıcı *жабып *тастағанByes p*er *seco*nd
+% % 1 *сек
+*А Yılp*ressu*re t*endenc*y
+*NO*AA Ulusal *Метеорологиялық Hizmetinin bilgisi *бойыншаwind *sp*eed
+*Желсізweath*er co*ndit*io*n
+oranlı *бұлтweath*er co*ndit*io*n
+*бұлттыweath*er fo*rec*ast
+kalın *бұлтweath*er co*ndit*io*n
+*буалдырweath*er co*ndit*io*n
+sis ben *мұздақweath*er co*ndit*io*n
+*сіркіреген *жауынweath*er fo*rec*ast
+*сәл *сіркіреген *жауынweath*er co*ndit*io*n
+*сіркіреген beyaz *жауынweath*er co*ndit*io*n
+*сіркіреген buzu *жауынweath*er co*ndit*io*n
+*сіркіреген buzu beyaz *жауынweath*er co*ndit*io*n
+*жаңбырweath*er co*ndit*io*n
+geçen *жаңббырweath*er fo*rec*ast
+oranlı *жаңбырweath*er co*ndit*io*n
+hızlı *жаңбырweath*er fo*rec*ast
+*өткінші buzu *жауынweath*er co*ndit*io*n
+buzu *жаңбырweath*er co*ndit*io*n
+*өткінші kar karış *жаңбырweath*er co*ndit*io*n
+hızlı kar karış *жаңбырweath*er co*ndit*io*n
+*қарweath*er co*ndit*io*n
+geçen *қарweath*er fo*rec*ast
+oranlı *қарweath*er co*ndit*io*n
+hızlı kar *шашыныweath*er fo*rec*ast
+*нөсерлерweath*er co*ndit*io*n
+*өткінші *нөсерлерweath*er fo*rec*ast
+hızlı *нөсерлерweath*er fo*rec*ast
+geçtiği kar karış *нөсерweath*er co*ndit*io*n
+hızlı kar karış *нөсерлерweath*er co*ndit*io*n
+*өткінші kar *шашындарыweath*er fo*rec*ast
+hızlı kar *шашындарыweath*er co*ndit*io*n
+gün *күркіреуweath*er co*ndit*io*n
+geçtiği gün *күркіреуweath*er co*ndit*io*n
+hızlı gün *күркіреуweath*er co*ndit*io*n
+*а *жweath*er co*ndit*io*n
+gün *ашықweath*er fo*rec*ast
+gök *ашықweath*er fo*rec*ast
+% % 1,% 2,% *3Geo*graph*ic*al *loc*at*io*n: qu*art*er c*it*y, *st*at*e, *ISO- cou*nt*ry- co*de
+*Күндіз
+*Enviro*nment C*anada tahmini #boy
+*күндіз
+gece
+gece
+*Сн
+*Жк
+*Дс
+*Сс
+*Ср
+*Бс
+*Жмwind *direct*io*n - *wind *sp*eed *is too *lo*w to *measu*re
+*Жоқvisibilit*y
+Geçerek küçük
+Birleşik Krallık
+ABC
+#UU*K *MET *Оффисінің *bac*kst*age. *bbc. co. u*k  bilgisi koruduğu
+*Сwind *direct*io*n
+*ССШwind *direct*io*n
+*СШwind *direct*io*n
+*ШСШwind *direct*io*n
+*Шwind *direct*io*n
+*ООШwind *direct*io*n
+*ОШwind *direct*io*n
+*ШОШwind *direct*io*n
+*Оwind *direct*io*n
+*ССБwind *direct*io*n
+*СБСБwind *direct*io*n
+*БСБwind *direct*io*n
+*Бwind *direct*io*n
+*ООБwind *direct*io*n
+*ОБwind *direct*io*n
+*БОБwind *direct*io*n
+*ашықweath*er fo*rec*ast
+*мезгілдеп gök *ашықweath*er fo*rec*ast
+bulutu, *бұршақweath*er fo*rec*ast
+bulutu, kalın *қарweath*er fo*rec*ast
+bulutu, küçük kar *шашыныweath*er fo*rec*ast
+bulutu, kar karış *жаңбырweath*er fo*rec*ast
+*тұманweath*er fo*rec*ast
+*тұмандануweath*er fo*rec*ast
+*сұр *бұлтweath*er fo*rec*ast
+*бұршақweath*er fo*rec*ast
+nohut *шашыныweath*er fo*rec*ast
+nohut *шашындарыweath*er fo*rec*ast
+*тұманweath*er fo*rec*ast
+hızlı *нөсер *жаңбырweath*er fo*rec*ast
+hızlı *нөсерweath*er fo*rec*ast
+hızlı kar *төпеуіweath*er fo*rec*ast
+*төпелеген kar *шашындарыweath*er fo*rec*ast
+#geç *нөсер *жаңбырweath*er fo*rec*ast
+geçen *нөсерweath*er fo*rec*ast
+geçtiği kar *шашыныweath*er fo*rec*ast
+*буалдырweath*er fo*rec*ast
+*буалырлануweath*er fo*rec*ast
+*а *жweath*er fo*rec*ast
+alaca *бұлттыweath*er fo*rec*ast
+*кұмды *боранweath*er fo*rec*ast
+hava *райыweath*er co*ndit*io*n
+kar karış *жаңбырweath*er fo*rec*ast
+kar karış *нөсеріweath*er fo*rec*ast
+kar karış *нөсерлерweath*er fo*rec*ast
+*мезгілдеп gün *ашықweath*er fo*rec*ast
+gün *күркіреуweath*er fo*rec*ast
+gün *күркіреумен *нөсерweath*er fo*rec*ast
+*тропикалық *дауылweath*er fo*rec*ast
+beyaz *бұлтwind *direct*io*n
+Geçerek *жақсыvisibilit*y
+*Жақсыvisibilit*y
+*Орташаvisibilit*y
+*Нашарvisibilit*y
+Geçerek kötüp*ressu*re t*endenc*y
+*жоғарлайдыp*ressu*re t*endenc*y
+düşerp*ressu*re t*endenc*y
+*өзгермейдіweath*er co*ndit*io*n
+Karlı *желweath*er fo*rec*ast
+Gök *ашықweath*er fo*rec*ast
+*Бұлттыweath*er fo*rec*ast
+Bulutların *азаюыweath*er co*ndit*io*n
+Birkaç yerde düşmanını- *шашынweath*er co*ndit*io*n
+*Борасын *қарweath*er co*ndit*io*n
+*Сіркіреген *жауынweath*er fo*rec*ast
+*Шаңweath*er co*ndit*io*n
+*Шаң *құйындарweath*er co*ndit*io*n
+*Тұманweath*er fo*rec*ast
+Durakın yanında - *тұманweath*er co*ndit*io*n
+Buz örten *тұманweath*er co*ndit*io*n
+Birkaç yerlerde - *тұманweath*er co*ndit*io*n
+*Сіркіреген buzu *жауынweath*er fo*rec*ast
+Buzu *жаңбырweath*er fo*rec*ast
+*Құйын *бұлтыweath*er co*ndit*io*n
+*Бұршақweath*er co*ndit*io*n
+*Буалдырweath*er fo*rec*ast
+Hızlı #rüzgâr ben *қарweath*er co*ndit*io*n
+Kalın *борасын *қарweath*er co*ndit*io*n
+#CC*ебелеген *жауынweath*er co*ndit*io*n
+Hızlı nohut *шашыныweath*er co*ndit*io*n
+Hızlı yağmur ben *сіркіреме *араласweath*er co*ndit*io*n
+Hızlı yağmur ve kar *шашыны *араласweath*er co*ndit*io*n
+Yağmur *төпейдіweath*er fo*rec*ast
+Hızlı yağmur ben *қарweath*er co*ndit*io*n
+Hızlı *нөсер *жаңбырweath*er co*ndit*io*n
+Kalın kar *жауадыweath*er fo*rec*ast
+Hızlı *түйіршікті *қарweath*er co*ndit*io*n
+Hızlı kar *шашыныweath*er co*ndit*io*n
+Hızlı gün *күркіреуі ben *бұршақweath*er co*ndit*io*n
+Hızlı gün *күркіреуі ben *жаңбырweath*er co*ndit*io*n
+Buz *қристалдарыweath*er fo*rec*ast
+Buz *түйіршіктеріweath*er co*ndit*io*n
+Bulut *қөбеюіweath*er co*ndit*io*n
+#CC*іркіреген *жауынweath*er co*ndit*io*n
+Geçen *көктайғақты *сіркіреген *жауынweath*er co*ndit*io*n
+*Өткінші *көктайғақты *жаңбырweath*er co*ndit*io*n
+*Өткінші *жаңбырweath*er co*ndit*io*n
+*Өткінші *нөсерweath*er co*ndit*io*n
+*Өткінші *қарweath*er co*ndit*io*n
+*Өткінші *түйіршік *қарweath*er co*ndit*io*n
+*Өткінші kar *шашыныweath*er co*ndit*io*n
+*Найзағай *ойнайдыweath*er co*ndit*io*n
+Çoğu gök *ашықweath*er co*ndit*io*n
+Çoğu gün *ашықweath*er co*ndit*io*n
+*Буалдырweath*er co*ndit*io*n
+*Сіркіреме karış *жаңбырweath*er co*ndit*io*n
+Kar karış *нөсерweath*er co*ndit*io*n
+Çoğu *бұлттыweath*er fo*rec*ast
+*Ақпар *жоқweath*er co*ndit*io*n
+Alaca *бұлттыweath*er fo*rec*ast
+*Жаңбырweath*er fo*rec*ast
+Yağmur ben *қарweath*er co*ndit*io*n
+*Нөсерweath*er co*ndit*io*n
+*Жуырда geçen *сіркіремеweath*er co*ndit*io*n
+*Жуырда geçen *шаң ne kum *бораныweath*er co*ndit*io*n
+*Жуырда olduğu *тұманweath*er co*ndit*io*n
+*Жуырда geçen buzu düşmanını- *шашынweath*er co*ndit*io*n
+*Жуырда nohut *соққанweath*er co*ndit*io*n
+*Жуырда yağmur *жауғанweath*er co*ndit*io*n
+*Жуырда kar karış yağmur *жауғанweath*er co*ndit*io*n
+*Жуырда geçen *нөсерweath*er co*ndit*io*n
+*Жуырда kar *жауғанweath*er co*ndit*io*n
+*Жуырда *жауған kar *шашыныweath*er co*ndit*io*n
+*Жуырда gün *күркірегенweath*er co*ndit*io*n
+*Жуырда gün *күркіреген, nohut *соққанweath*er co*ndit*io*n
+*Жуырда gün *күркіреген, güçlü nohut *соққанweath*er co*ndit*io*n
+*Жуырда gün *күркіреген, güçlü yağmur *жауғанweath*er co*ndit*io*n
+*Жуырда gün *күркіреген, yağmur *жауғанweath*er co*ndit*io*n
+*Шаң ne kum *бораныweath*er co*ndit*io*n
+Hızlı kum ne *шаң *бораныweath*er co*ndit*io*n
+*Селдір *тұманweath*er co*ndit*io*n
+*Буалдырweath*er fo*rec*ast
+*Қарweath*er fo*rec*ast
+Kar *кристалдарыweath*er co*ndit*io*n
+Kar *түйіршіктеріweath*er co*ndit*io*n
+Tipiyi *желweath*er co*ndit*io*n
+Gün *ашықweath*er fo*rec*ast
+Gün *күркірейді, nohut *соғадыweath*er co*ndit*io*n
+Gün *күркірейді, yağmur *жауадыweath*er co*ndit*io*n
+Gün *күркірейді, kum ne *шаң *борайдыweath*er co*ndit*io*n
+Düşmanını- #kıl gün *күркіреуіweath*er co*ndit*io*n
+*Торнадо *құйыныweath*er fo*rec*ast
+#Sıvı *бұлтweath*er fo*rec*ast
+*Өткінші kar *жауадыweath*er fo*rec*ast
+#Birkaç süre buzu *түйіршік karış *өткінші kar *жауадыweath*er fo*rec*ast
+#Birkaç süre *өткінші kar ne *нөсерлеп yağmur *жауадыweath*er fo*rec*ast
+#Birkaç *өткінші kar ne gün *күркіреп yağmur *жауадыweath*er fo*rec*ast
+#Birkaç süre yağmur ne *өткінші kar *жауадыweath*er fo*rec*ast
+#Birkaç süre yağmur ne *өткінші *жабысқақ kar *жауадыweath*er fo*rec*ast
+#Birkaç *нөсерлі düşmanını *жауадыweath*er fo*rec*ast
+#Birkaç süre *нөсер ne *сіркіреген düşmanını *жауадыweath*er fo*rec*ast
+#Birkaç süre halis ne gün *күркіреп *нөсерлейдіweath*er fo*rec*ast
+#Birkaç süre *нөсер düşmanını ne gün *күркірейдіweath*er fo*rec*ast
+#Birkaç süre yağmurla gün *күркірейдіweath*er fo*rec*ast
+#Birkaç süre gün *күркірейдіweath*er fo*rec*ast
+#Birkaç süre *өткінші *жабысқақ kar *жауадыweath*er fo*rec*ast
+#Birkaç süre *өткінші *дымқыл kar ne yağmur *жауадыweath*er fo*rec*ast
+*Мезгіллі *бұлтweath*er fo*rec*ast
+*Боранweath*er fo*rec*ast
+*Сіркіреген düşmanını *ықтималweath*er fo*rec*ast
+Yağmurla buz karış *сіркіреме *ықтималweath*er fo*rec*ast
+Halis yağmurla *сіркіреген yağmur karış *жауу *ықтималweath*er fo*rec*ast
+*Сіркіреме ne yağmur *ықтималweath*er fo*rec*ast
+*Өткінші kar *ықтималweath*er fo*rec*ast
+*Өткінші anıyla hızlı kar *жауу *ықтималweath*er fo*rec*ast
+*Өткінші kar, buz *түйіршікпен karış, *жауу *ықтималweath*er fo*rec*ast
+*Өткінші kar ne buz *түйіршігі *жауу *ықтималweath*er fo*rec*ast
+*Өткінші kar ne yağmurlar *ықтималweath*er fo*rec*ast
+*Өткінші kar ne gün *күркіреп yağmur *жауу *ықтималweath*er fo*rec*ast
+Buzu *сіркіреме *ықтималweath*er fo*rec*ast
+Buzu yağmur *ықтималweath*er fo*rec*ast
+Kar karış buzu yağmur *ықтималweath*er fo*rec*ast
+Buzu ne halis yağmur *ықтималweath*er fo*rec*ast
+Buzu yağmur ne kar *жауу *ықтималweath*er fo*rec*ast
+Küçük kar *жауу *ықтималweath*er fo*rec*ast
+Küçük kar *жауу ben *бұрқасын *ықтималweath*er fo*rec*ast
+Buzu *сікіреген yağmur karış *өткінші kar *жауу *ықтималweath*er fo*rec*ast
+*Өткінші buz *түйіршігі karış kar *жауу *ықтималweath*er fo*rec*ast
+*Өткінші kar karış yağmur *жауу *ықтималweath*er fo*rec*ast
+*Өткінші kar ne buzu yağmur *ықтималweath*er fo*rec*ast
+*Өткінші kar ne buz *түйіршігі *жауу *ықтималweath*er fo*rec*ast
+*Өткінші kar ne yağmur *ықтималweath*er fo*rec*ast
+*Өткінші *жабысқақ kar *жауу *ықтималweath*er fo*rec*ast
+Yağmur *жауу *ықтималweath*er fo*rec*ast
+yağmur olması, *кейбірде *нөсерлеп *жауу *ықтималweath*er fo*rec*ast
+Kar karış yağmur *жауу *ықтималweath*er fo*rec*ast
+Halis ne *сіркіреген yağmur olma *ықтималweath*er fo*rec*ast
+Halis ne buzu yağmur *жауу *ықтималweath*er fo*rec*ast
+Yağmur ne kar *жауу *ықтималweath*er fo*rec*ast
+*Нөсер düşmanını ne *өткінші kar *жауу *ықтималweath*er fo*rec*ast
+*Нөсер düşmanını ne *өткінші *жабысқақ kar *жауу *ықтималweath*er fo*rec*ast
+Hızlı gün *күркірейдіweath*er fo*rec*ast
+*Нөсерлер *жауу *ықтималweath*er fo*rec*ast
+*Нөсерлер, *кейбірде hızlı *жауу *ықтималweath*er fo*rec*ast
+*Нөсерлер, *кейбірде gün *күркіреп hızlı *жауу *ықтималweath*er fo*rec*ast
+*Нөсерлер, *кейбірде hızlı *жауу ne gün *күркіреуі *ықтималweath*er fo*rec*ast
+*Нөсерлеп ne *сіркіреп *жауу *ықтималweath*er fo*rec*ast
+Halis ne gün *күркіреп *нөсерлеуі *ықтималweath*er fo*rec*ast
+*Нөсерлер ne gün *күркіреу *ықтималweath*er fo*rec*ast
+Kar *жауу *ықтималweath*er fo*rec*ast
+Kar *бораны *ықтималweath*er fo*rec*ast
+Kar karış *сіркіреген buzu yağmur *жауу *ықтималweath*er fo*rec*ast
+Kar karış buzu yağmur *жауу *ықтималweath*er fo*rec*ast
+Kar karış yağmur *жауу *ықтималweath*er fo*rec*ast
+Kar ne yağmur *жауу *ықтималweath*er fo*rec*ast
+Kar tipisi *ықтималweath*er fo*rec*ast
+Gün *күркіреп *нөсерлеуі *ықтималweath*er fo*rec*ast
+Gün *күркіреуі *ықтималweath*er fo*rec*ast
+Gün *күркіреуі *жане, makul, nohut #üfle *ықтималweath*er fo*rec*ast
+*Өткінші *жабысқақ kar *жауу *ықтималweath*er fo*rec*ast
+*Өткінші *кейбірде hızlı *жабысқақ kar *жауу *ықтималweath*er fo*rec*ast
+*Өткінші *жабысқақ kar ne *нөсерлеп yağmur *жауу *ықтималweath*er fo*rec*ast
+*Жабысқақ kar *жауу *ықтималweath*er fo*rec*ast
+*Жабысқақ kar karış yağmur *жауу *ықтималweath*er fo*rec*ast
+*Жабысқақ kar ne halis yağmur *ықтималweath*er fo*rec*ast
+Gök açılarak *түседіweath*er fo*rec*ast
+Alaca *бұлттыweath*er fo*rec*ast
+Bulutu, *кейбірде gün *ашықweath*er fo*rec*ast
+*Сіркіреген buz karış *жауынweath*er fo*rec*ast
+*Сіркіреген yağmur karış halis *жауынweath*er fo*rec*ast
+*Сіркіреген yağmur ne *сіркіреген buzu *жауынweath*er fo*rec*ast
+*Сіркіреген ne halis *жаңбырweath*er fo*rec*ast
+*Өткінші kar *жауадыweath*er fo*rec*ast
+*Өткінші kar, *кейбірде hızlı *жауадыweath*er fo*rec*ast
+*Өткінші kar, *кейбірде hızlı, ne *нөсерлеп yağmur *жауадыweath*er fo*rec*ast
+*Өткінші buz *түйіршік karış *қарweath*er fo*rec*ast
+*Өткінші kar ne buz nohutu *жауадыweath*er fo*rec*ast
+*Өткінші kar ne *нөсерлі *жаңбырweath*er fo*rec*ast
+*Өткінші kar *жауады ne gün *күркіреп *нөсерлейдіweath*er fo*rec*ast
+Sis *күшейе *түседіweath*er fo*rec*ast
+Sis *сейіледіweath*er fo*rec*ast
+*Кейжерлерде *тұманweath*er fo*rec*ast
+Buz *түйіршігі karış buzu *жаңбырweath*er fo*rec*ast
+Buzu yağmurla halis yağmur *араласweath*er fo*rec*ast
+Buzu yağmurla kar *араласweath*er fo*rec*ast
+Buzu yağmurla buz *түйіршігі *араласweath*er fo*rec*ast
+Buzu yağmur ne halis yağmur *жауадыweath*er fo*rec*ast
+Buzu yağmur ne kar *жауадыweath*er fo*rec*ast
+Buzu *тұманweath*er fo*rec*ast
+Buzu sis *күшейедіweath*er fo*rec*ast
+Buzu sis *сейіледіweath*er fo*rec*ast
+Buz *түйіршігіweath*er fo*rec*ast
+Buz *түйіршігі karış buzu *жаңбырweath*er fo*rec*ast
+Buz *түйіршігі karış kar *жауадыweath*er fo*rec*ast
+Buz *түйіршігі ne buzu yağmur *жауадыweath*er fo*rec*ast
+Buz *түйіршігі ne kar *жауадыweath*er fo*rec*ast
+*Бұлттылық *күшейе *түседіweath*er fo*rec*ast
+Bulutlar *күшейедіweath*er fo*rec*ast
+*Өткінші kar *жауадыweath*er fo*rec*ast
+*Өткінші kar ben *боранweath*er fo*rec*ast
+*Өткінші kar *жауады,. karlı *боранweath*er fo*rec*ast
+*Өткінші kar *жауады, *бұрқасынweath*er fo*rec*ast
+*Сіркіреген buzu yağmur karış *өткінші *қарweath*er fo*rec*ast
+Buzu yağmur karış *өткінші *қарweath*er fo*rec*ast
+Buz *түйіршігі ben *өткінші *қарweath*er fo*rec*ast
+Yağmur karış *өткінші *қарweath*er fo*rec*ast
+*Өткінші kar ne buzu *сіркіреген *жауынweath*er fo*rec*ast
+*Өткінші kar ne buzu *жаңбырweath*er fo*rec*ast
+*Өткінші kar ne buz *түйіршігіweath*er fo*rec*ast
+*Өткінші kar ne *жаңбырweath*er fo*rec*ast
+*Өткінші *жабысқақ *қарweath*er fo*rec*ast
+*Өткінші *жабысқақ kar ne *жаңбырweath*er fo*rec*ast
+Birkaç yerlerde karlı *дауылweath*er fo*rec*ast
+Boran'a *жақынweath*er fo*rec*ast
+*Тұтас *булттыweath*er co*ndit*io*n
+*Кейбірде *сіркіреген düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur karış yağmur *сіркірейдіweath*er fo*rec*ast
+*Кейбірде halis yağmurla karış *сіркіреген yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде halis ne buzu yağmur *сіркірейдіweath*er fo*rec*ast
+*Кейбірде *сіркіреген ne halis düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur *сіркірейдіweath*er fo*rec*ast
+*Кейбірде buzu ne halis yağmur *сіркірейдіweath*er fo*rec*ast
+*Кейбірде *сіркіреген ne halis yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде buz *түйіршігі karış buzu yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде halis yağmur karış buzu yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде kar karış buzu yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur ne buz *түйіршігі *жауадыweath*er fo*rec*ast
+*Кейбірде buzu ne halis yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur ne kar *жауадыweath*er fo*rec*ast
+*Кейбірде buz *түйіршігі *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur karış buz *түйіршігі *жауадыweath*er fo*rec*ast
+*Кейбірде kar karış buz *түйіршігі *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur ne buz *түйіршігі *жауадыweath*er fo*rec*ast
+*Кейбірде buz *түйіршігі ne kar *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші kar *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші kar *жауады, *боранweath*er fo*rec*ast
+*Кейбірде *өткінші kar *жауады, karlı *боранweath*er fo*rec*ast
+*Кейбірде *өткінші kar ben *бұрқасын *боладыweath*er fo*rec*ast
+*Кейбірде *сіркіреген buzu yağmur karış *өткінші kar *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur karış *өткінші kar *жауадыweath*er fo*rec*ast
+*Кейбірде buz *түйііршігі karış *өткінші kar *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur karış *өткінші kar *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші kar ne buzu *сіркіреген düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші kar ne buzu düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші kar ne buz *түйіршігі *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші kar ne düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші *жабысқақ kar *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur karış *өткінші *жабысқақ kar *жауадыweath*er fo*rec*ast
+*Кейбірде *өткінші *жабысқақ kar ne düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur karış halis yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде kar karış yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде halis ne *сіркіреген yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде halis ne buzu yağmur *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur ne kar *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur ne gün *күркіреп *нөсерлейдіweath*er fo*rec*ast
+*Кейбірде yağmur ne gün *күркірейдіweath*er fo*rec*ast
+*Кейбірде kar *жауадыweath*er fo*rec*ast
+*Кейбірде kar *борайдыweath*er fo*rec*ast
+*Кейбірде kar ve karlı *боранweath*er fo*rec*ast
+*Кейбірде kar ben *бұрқасынweath*er fo*rec*ast
+*Кейбірде buzu *сіркіреген yağmur karış kar *жауадыweath*er fo*rec*ast
+*Кейбірде buzu yağmur karış kar *жауадыweath*er fo*rec*ast
+*Кейбірде buz *түйіршігі karış kar *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur karış kar *жауадыweath*er fo*rec*ast
+*Кейбірде kar ne buzu *сіркіреген düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде kar ne buzu düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде kar ne buz *түйіршігі *жауадыweath*er fo*rec*ast
+*Кейбірде kar ne düşmanını *жауадыweath*er fo*rec*ast
+*Кейбірде *жабысқақ kar *жауадыweath*er fo*rec*ast
+*Кейбірде yağmur karış *жабысқақ kar *жауадыweath*er fo*rec*ast
+*Кейбірде *жабысқақ kar ne yağmur *жауадыweath*er fo*rec*ast
+Yağmur, *кейбірде *қаттыweath*er fo*rec*ast
+Yağmur, *кейбірде hızlı, buzu düşmanını *араласweath*er fo*rec*ast
+Yağmur, *кейбірде hızlı, kar *араласweath*er fo*rec*ast
+Yağmur, *кейбірде *нөсерлеп ne *сіркірепweath*er fo*rec*ast
+Yağmur, *кейбірде *нөсерлеп ne buzu yağmura *айналыпweath*er fo*rec*ast
+Yağmur, *кейбірде *нөсерлеп ne kara *айналыпweath*er fo*rec*ast
+Yağmur, *кейбірде *нөсерлеп ne gün *күркірепweath*er fo*rec*ast
+Yağmur, *кейбірде *нөсерлеп ne gün *күркіреуге *айналыпweath*er fo*rec*ast
+Buzu düşmanını ben karış *жаңбырweath*er fo*rec*ast
+Kar karış yağmur *жауадыweath*er fo*rec*ast
+Yağmur ne *сіркіреген *жауынweath*er fo*rec*ast
+Yağmur ne buzu *жаңбырweath*er fo*rec*ast
+Yağmur ne kar *жауадыweath*er fo*rec*ast
+Yağmur ne gün *күркіреп *нөсерлеген *жаңбырweath*er fo*rec*ast
+Yağmur ne gün *күрікіреуіweath*er fo*rec*ast
+Yağmur *нөсерлейді ne *өткінші kar *жауадыweath*er fo*rec*ast
+*Нөсерлеп *жаңбырлайды ne *өткінші kar *жауадыweath*er fo*rec*ast
+*Нөсерлеген *жауындарweath*er fo*rec*ast
+*Нөсерлейді, *кейбірде *қаттыweath*er fo*rec*ast
+*Нөсерлейді, *кейбірде hızlı ne gün *күркірепweath*er fo*rec*ast
+*Нөсерлейді, *кейбірде hızlı ne gün *күркірейдіweath*er fo*rec*ast
+*Нөсерлейді ne *сіркіреп *жауадыweath*er fo*rec*ast
+*Нөсерлейді ne gün *күркіреп *нөсерлейдіweath*er fo*rec*ast
+*Нөсерлейді ne gün *күркірейдіweath*er fo*rec*ast
+Karlı *боранweath*er fo*rec*ast
+Kar, hızlı karlı *боранweath*er fo*rec*ast
+Kar ben *бұрқасынweath*er fo*rec*ast
+Kar *жауады, *кейбірде *қаттыweath*er fo*rec*ast
+Kar, *кейбірде hızlı *жане *борандапweath*er fo*rec*ast
+Kar, *кейбірде hızlı *жане *бұрқасынбенweath*er fo*rec*ast
+Kar, *кейбірде hızlı *жане *сіркіреген düşmanını *араласweath*er fo*rec*ast
+Kar, *кейбірде hızlı *жане buzu düşmanını *араласweath*er fo*rec*ast
+Kar, *кейбірде hızlı *жане buz *түйіршігі *араласweath*er fo*rec*ast
+Kar, *кейбірде hızlı *жане yağmur *араласweath*er fo*rec*ast
+Kar, *кейбірде hızlı ne buzu yağmur *жауадыweath*er fo*rec*ast
+Kar, *кейбірде hızlı ne buz *түйіршіігі *жауадыweath*er fo*rec*ast
+Kar, *кейбірде hızlı ne yağmur *жауадыweath*er fo*rec*ast
+Buzu *сіркіреген yağmur karış kar *жауадыweath*er fo*rec*ast
+Buzu yağmur karış kar *жауадыweath*er fo*rec*ast
+Buz *түйіршігі karış kar *жауадыweath*er fo*rec*ast
+Yağmur karış kar *жауадыweath*er fo*rec*ast
+Kar ne *сіркіреген yağmur *жауадыweath*er fo*rec*ast
+Kar ne buzu yağmur *жауадыweath*er fo*rec*ast
+Kar ne buz *түйіршігі *жауадыweath*er fo*rec*ast
+Kar ne yağmur *жауадыweath*er fo*rec*ast
+Karlı *дауылweath*er fo*rec*ast
+Gün açık, *кейбірде *бұлттыweath*er fo*rec*ast
+Gün *күрікірейдіweath*er fo*rec*ast
+Gün *күркірейді, nohut *жауу *мүмкінweath*er fo*rec*ast
+*Өткінші *жабысқақ *қарweath*er fo*rec*ast
+*Өткінші *жабысқақ kar, *кейбірде hızlı *жауадыweath*er fo*rec*ast
+*Өткінші *жабысқақ kar, *кейбірде hızlı ne *нөсер düşmanını *жауадыweath*er fo*rec*ast
+*Өткінші *жабысқақ kar, ne yağmur *нөсерлейдіweath*er fo*rec*ast
+*Жабысқақ kar *жауадыweath*er fo*rec*ast
+*Жабысқақ kar, *кейбірде hızlı *жауадыweath*er fo*rec*ast
+*Жабысқақ kar, *кейбірде hızlı, yağmur karış *жауадыweath*er fo*rec*ast
+Yağmur karış *жабысқақ kar *жауадыweath*er fo*rec*ast
+*Жабысқақ kar ne yağmur *жауадыweath*er fo*rec*ast
+#Rüzgâr *тұрадыweath*er fo*rec*ast
+*тұрақтыweath*er co*ndit*io*n
+#Sıvı *бұлтweath*er co*ndit*io*n
+#Sıvı bulut, oranlı *желweath*er co*ndit*io*n
+#Sıvı bulut, *желweath*er co*ndit*io*n
+#Sıvı bulut, *буалдырweath*er co*ndit*io*n
+*Шаңды *желweath*er fo*rec*ast
+Kumu *желweath*er fo*rec*ast
+*Төңіректе *бұрқасынweath*er co*ndit*io*n
+Oranlı #rüzgâr *еседіweath*er fo*rec*ast
+Gün açık, oranlı *желweath*er co*ndit*io*n
+Gök açık, *буалдырweath*er co*ndit*io*n
+*Сіркіреген yağmur, *тұманweath*er co*ndit*io*n
+*Сіркіреген düşmanını, sis *буалдырweath*er co*ndit*io*n
+*Сіркіреген düşmanını, buz *түйіршігіweath*er co*ndit*io*n
+*Сіркіреген yağmur, *қарweath*er co*ndit*io*n
+*Құйындалған *шаң *құмweath*er co*ndit*io*n
+*Төңіректе *құйындалған *шаң *құмweath*er co*ndit*io*n
+*Шаң *бораныweath*er co*ndit*io*n
+*Төңіректе *шаң *бораныweath*er co*ndit*io*n
+Gün *ашықweath*er co*ndit*io*n
+Gün açık, oranlı *желweath*er co*ndit*io*n
+Gün açık, *желweath*er co*ndit*io*n
+Gün açık, küçük *буалдырweath*er co*ndit*io*n
+*Төңіректе *тұманweath*er co*ndit*io*n
+Sis *буалдырweath*er co*ndit*io*n
+Buzu *сіркіреген *жауынweath*er fo*rec*ast
+*Төңіректе buzu *сіркіреген *жауынweath*er co*ndit*io*n
+Buzu *сіркірген *жаңбырweath*er co*ndit*io*n
+Buzu *сіркіреген yağmur, *қарweath*er co*ndit*io*n
+Buzu *тұманweath*er fo*rec*ast
+*Төңіректе buzu *тұманweath*er co*ndit*io*n
+Buzu düşmanını *жауадыweath*er fo*rec*ast
+*Төңіректе buzu *жаңбырweath*er co*ndit*io*n
+Buzu yağmur, *жаңбырweath*er co*ndit*io*n
+Buzu yağmur, *қарweath*er co*ndit*io*n
+*Төңіректе *құйын *бұлтыweath*er co*ndit*io*n
+Nohutla *нөсерлеген *жауынweath*er co*ndit*io*n
+Hızlı *сіркіреген yağmur, *тұманweath*er co*ndit*io*n
+Hızlı *сіркіреген düşmanını, sis *буалдырweath*er co*ndit*io*n
+Hızlı *сіркіреген düşmanını, buz *түйіршігіweath*er co*ndit*io*n
+Hızlı *сіркіреген yağmur, *қарweath*er co*ndit*io*n
+Hızlı *шаң *бораныweath*er co*ndit*io*n
+Hızlı *сіркіреген buzu *жауынweath*er co*ndit*io*n
+Hızlı *сіркіреген buzu yağmur, *жаңбырweath*er co*ndit*io*n
+*МҚатты *сіркіреген buzu yağmur, *қарweath*er co*ndit*io*n
+Hızlı buzu *тұманweath*er co*ndit*io*n
+Hızlı buzu *жаңбырweath*er co*ndit*io*n
+Hızlı buzu yağmur, *жаңбырweath*er co*ndit*io*n
+Hızlı buzu düşmanını, *қарweath*er co*ndit*io*n
+Buz *түйіршігі hızlı *жауадыweath*er co*ndit*io*n
+Buz *түйіршігі hızlı *жауады,. *сіркіреген *жауынweath*er co*ndit*io*n
+Buz *түйіршігі hızlı *жауады, *жаңбырweath*er co*ndit*io*n
+*Нөсерлі yağmur, *тұманweath*er co*ndit*io*n
+*Нөсерлі düşmanını, sis *буалдырweath*er co*ndit*io*n
+*Нөсерлі yağmur, *сіркіреген buzu *жауынweath*er co*ndit*io*n
+Hızlı düşmanını, buzu *жаңбырweath*er co*ndit*io*n
+*Нөсерлі yağmur, buz *түйіршігіweath*er co*ndit*io*n
+Hızlı *нөсерлі *жаңбырweath*er co*ndit*io*n
+Hızlı *нөсерлі yağmur, sis *буалдырweath*er co*ndit*io*n
+Hızlı yağmur, *қарweath*er co*ndit*io*n
+Hızlı kumu *боранweath*er co*ndit*io*n
+Hızlı *нөсерлі *жаңбырweath*er co*ndit*io*n
+Hızlı *нөсерлі yağmur, sis, *буалдырweath*er co*ndit*io*n
+Hızlı kar *жауадыweath*er co*ndit*io*n
+Hızlı kar *жауады, *тұманweath*er co*ndit*io*n
+Hızlı kar *жауады, sis *буалдырweath*er co*ndit*io*n
+Küçük nohut buz *түйіршігі hızlı *жауадыweath*er co*ndit*io*n
+Hızlı kar *бораныweath*er co*ndit*io*n
+Hızlı kar *жауады, *тұманweath*er co*ndit*io*n
+Kar hızlı *жауады, sis *буалдырweath*er co*ndit*io*n
+Kar hızlı *жауады, buzu *сіркіреген *жауынweath*er co*ndit*io*n
+Kar hızlı *жауады, buzu *сіркіреген *жаңбырweath*er co*ndit*io*n
+Nohutu kar hızlı *жауадыweath*er co*ndit*io*n
+Hızlı kar *жауады, *борасын *қарweath*er co*ndit*io*n
+Hızlı kar *жауады, *жаңбырweath*er co*ndit*io*n
+Hızlı kar *жауадыweath*er co*ndit*io*n
+Hızlı kar *жауады, *тұманweath*er co*ndit*io*n
+Hızlı kar *жауады, sis *буалдырweath*er co*ndit*io*n
+Hızlı gün *күркірейді, *жаңбырweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, *тұманweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, sis, *желweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, sis *буалдырweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, nohut *жауадыweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, nohut, *тұманweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, nohut, sis *бұршақweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, nohut, *буалдырweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, *буалдырweath*er co*ndit*io*n
+Hızlı gün *күркірейді, yağmur, küçük nohut kar *түйіршігі *жауадыweath*er co*ndit*io*n
+Hızlı gün *күркірейді, kar *жауадыweath*er co*ndit*io*n
+Buz *түйіршігі *сіркіреп *жауадыweath*er co*ndit*io*n
+*Төңіректе buz *түйіршігі *жауадыweath*er co*ndit*io*n
+Buz *түйіршігі, yağmur *жауадыweath*er co*ndit*io*n
+*Өтікінші *сіркіреген yağmur, *тұманweath*er co*ndit*io*n
+*Өтікінші *сіркіреген düşmanını, sis *буалдырweath*er co*ndit*io*n
+*Өтікінші *сіркіреген düşmanını, buz *түйіршігіweath*er co*ndit*io*n
+*Өтікінші *сіркіреген yağmur, *қарweath*er co*ndit*io*n
+*Өтікінші *сіркіреген buzu yağmur, *жаңбырweath*er co*ndit*io*n
+*Өтікінші *сіркіреген buzu yağmur, *қарweath*er co*ndit*io*n
+*Селдір buzu *тұманweath*er co*ndit*io*n
+*Өткінші buzu yağmur, halis *жаңбырweath*er co*ndit*io*n
+*Өткінші buzu yağmur, *қарweath*er co*ndit*io*n
+*Өткінші buz *түйіршігі *жауадыweath*er co*ndit*io*n
+*Өткінші buz *түйіршігі, *сіркіреген *жауынweath*er co*ndit*io*n
+*Өткінші buzu *түйіршігі, yağmur *жауадыweath*er co*ndit*io*n
+*Өткінші yağmur, oranlı *желweath*er co*ndit*io*n
+*Өткінші yağmur, *тұманweath*er co*ndit*io*n
+*Өткінші yağmur, sis *буалдырweath*er co*ndit*io*n
+*Өткінші yağmur, buzu *сіркіреген *жауынweath*er co*ndit*io*n
+*Өткінші yağmur, buzu *жауынweath*er co*ndit*io*n
+*Өткінші yağmur, buz *түйіршігі *жауадыweath*er co*ndit*io*n
+*Өткінші *нөсерлі *жаңбырweath*er co*ndit*io*n
+*Өткінші *нөсерлі yağmur, sis *буалдырweath*er co*ndit*io*n
+*Өткінші yağmur, *қарweath*er co*ndit*io*n
+*Өткінші *нөсерлі *жаңбырweath*er co*ndit*io*n
+*Өткінші *нөсерлі yağmur, sis *буалдырweath*er co*ndit*io*n
+*Өткінші *нөсер, *қарweath*er co*ndit*io*n
+*Өткінші *нөсер, kar, *тұманweath*er co*ndit*io*n
+*Өткінші *нөсер, kar, sis *буалдырweath*er co*ndit*io*n
+Küçük küçük nohut kar *түйіршігі *жауадыweath*er co*ndit*io*n
+Küçük kar *жауады, *бұрқасынweath*er co*ndit*io*n
+Küçük kar *жауады, *бұрқасын, sis *буалдырweath*er co*ndit*io*n
+Küçük kar *сіркірейдіweath*er co*ndit*io*n
+Küçük kar *жауады, *тұманweath*er co*ndit*io*n
+Küçük kar *жауады, sis *буалдырweath*er co*ndit*io*n
+Küçük kar, buzu *сіркіреген *жауынweath*er co*ndit*io*n
+Küçük kar, buzu *жауынweath*er co*ndit*io*n
+Küçük kar *түйіршігі *жауадыweath*er co*ndit*io*n
+Küçük kar *жауады, *борасын *қарweath*er co*ndit*io*n
+Küçük kar, yağmur *жауадыweath*er co*ndit*io*n
+Küçük kar, *нөсерлі *жауынweath*er co*ndit*io*n
+Küçük kar, *нөсерлі yağmur, *тұманweath*er co*ndit*io*n
+Küçük kar, *нөсерлі düşmanını, sis *буалдырweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur *жауадыweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, *тұманweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, sis *буалдырweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, nohut *соғадыweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, nohut #üfle, *тұманweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, nohut #üfle, sis *буалдырweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, nohut #üfle, *буалдырweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, *буалдырweath*er co*ndit*io*n
+Küçük gün *күркірейді, yağmur, küçük nohut kar *түйіршігі *жауадыweath*er co*ndit*io*n
+Küçük gün *күркірейді, kar *жауадыweath*er co*ndit*io*n
+*Борасын *шаңweath*er co*ndit*io*n
+*Борасын *құмweath*er co*ndit*io*n
+*Борасын *қарweath*er co*ndit*io*n
+Çoğu bulutu, oranlı #rüzgâr *тұрадыweath*er co*ndit*io*n
+Çoğu bulutu, #rüzgâr *тұрадыweath*er co*ndit*io*n
+Çoğu bulutu, *буалдырweath*er co*ndit*io*n
+*Тұтас bulutu, oranlı *желweath*er co*ndit*io*n
+*Тұтас *бултты, *желweath*er co*ndit*io*n
+*Тұтас *бұттты, *буалдырweath*er co*ndit*io*n
+Alaca *тұманweath*er co*ndit*io*n
+*Төңіректе alaca *тұманweath*er co*ndit*io*n
+Alaca bulutu, oranlı *желweath*er co*ndit*io*n
+Alaca bulutu, *желweath*er co*ndit*io*n
+Alaca bulutu, *буалдырweath*er co*ndit*io*n
+Birkaç yerde *тұманweath*er co*ndit*io*n
+*Төңіректе birkaç yerde *тұманweath*er co*ndit*io*n
+Yağmur ben *тұманweath*er co*ndit*io*n
+Yağmur ve sis *буалдырweath*er co*ndit*io*n
+Yağmur, *сіркіреген *жауынweath*er co*ndit*io*n
+Yağmur, buzu *жауынweath*er co*ndit*io*n
+Yağmur, buz *түйіршігі *жауадыweath*er co*ndit*io*n
+Yağmur *нөсерлейдіweath*er fo*rec*ast
+*Нөсерлі yağmur, sis *буалдырweath*er co*ndit*io*n
+*Төңіректе *нөсерлі *жаңбырweath*er co*ndit*io*n
+*Төңіректе *нөсерлі yağmur, sis *буалдырweath*er co*ndit*io*n
+Yağmur, kar *жауадыweath*er co*ndit*io*n
+*Құмweath*er co*ndit*io*n
+Kumu *боранweath*er co*ndit*io*n
+*Төңіректе kumu *боранweath*er co*ndit*io*n
+*Төңіректе *селдір *тұманweath*er co*ndit*io*n
+*Нөсерлі yağmur, *бұршақweath*er co*ndit*io*n
+*Нөсерлі düşmanını, buz *түйіршігі *жауадыweath*er co*ndit*io*n
+*Төңіректе *нөсерлі yağmur, *тұманweath*er co*ndit*io*n
+*Төңіректе *нөсерлі yağmur, *қарweath*er co*ndit*io*n
+*Нөсерлі *жауынweath*er co*ndit*io*n
+*Нөсерлі düşmanını, sis *буалдырweath*er co*ndit*io*n
+*Төңіректе *нөсерлі *жауынweath*er co*ndit*io*n
+*Төңіректе *нөсерлі yağmur, sis *буалдырweath*er co*ndit*io*n
+*Төпеген kar *жауадыweath*er co*ndit*io*n
+*Төпеген kar, *тұманweath*er co*ndit*io*n
+*Төпеген kar, sis *буалдырweath*er co*ndit*io*n
+*Үсақ nohut kar *түйіршігі *жауадыweath*er co*ndit*io*n
+Kar, *бұрқасынweath*er co*ndit*io*n
+*Сіркіреген kar *жауадыweath*er co*ndit*io*n
+Kar *жауады, *тұманweath*er co*ndit*io*n
+Kar *жауады, sis *буалдырweath*er co*ndit*io*n
+*Сweath*er co*ndit*io*n
+Kar, buzu yağmur *жауадыweath*er co*ndit*io*n
+Kar *жауады, *борасын *қарweath*er co*ndit*io*n
+Kar, yağmur *жауадыweath*er co*ndit*io*n
+Kar *төпейдіweath*er fo*rec*ast
+*Төпеген kar *жауады, *тұманweath*er co*ndit*io*n
+*Төпеген kar *жауады, sis *буалдырweath*er co*ndit*io*n
+*Төңіректе *төпеген kar *жауадыweath*er co*ndit*io*n
+*Төңіректе *төпеген kar *жауады, *тұманweath*er co*ndit*io*n
+*Төңіректе *төпеген kar *жауады, sis *буалдырweath*er co*ndit*io*n
+Gün *күркірейдіweath*er co*ndit*io*n
+Gün *күркірейді, *тұманweath*er co*ndit*io*n
+Gün *күркірейді, nohut *соғадыweath*er co*ndit*io*n
+Gün *күркірейді, nohut, *тұманweath*er co*ndit*io*n
+Gün *күркірейді, *төңіректе *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, *буалдыр, *төңіректе nohut *соғадыweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауадыweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауады, *тұманweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауады, sis *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауады, nohut *соғадыweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауады, nohut, *тұманweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауады, nohut, sis *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауады, nohut, *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, hızlı yağmur *жауады, *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, buz *түйіршігі *жауадыweath*er co*ndit*io*n
+*Төңіректе gün *күркірейдіweath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, sis *weath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, sis *буалдырweath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, nohut *соғадыweath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, nohut #üfle *буалдырweath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, *буалдырweath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, *өткінші *жаңбырweath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, *өткінші yağmur, *тұманweath*er co*ndit*io*n
+Gün *күркірейді, *өткінші yağmur, sis *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, *өткінші yağmur, nohut *соғадыweath*er co*ndit*io*n
+Gün *күркірейді, *өткінші yağmur, nohut #üfle, *тұманweath*er co*ndit*io*n
+Gün *күркірейді, *өткінші yağmur, nohut #üfle, sis *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, *өткінші yağmur, nohut #üfle, *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, *өткінші yağmur, *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, yağmur *жауадыweath*er co*ndit*io*n
+Gün *күркірейді, yağmur *жауады, sis *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, yağmur, nohut *жауады, sis *буалдырweath*er co*ndit*io*n
+Gün *күркірейді, yağmur, küçük nohut kar *түйіршігі *жауадыweath*er co*ndit*io*n
+*Төңіректе gün *күркірейді, *нөсерлейдіweath*er co*ndit*io*n
+Gün *күркірейді, *нөсерлейді, *төңіректе nohut *сөғадыweath*er co*ndit*io*n
+Gün *күркірейді, küçük nohut kar *түйіршігі *жауадыweath*er co*ndit*io*n
+Gün *күркірейді, kar *жауадыweath*er co*ndit*io*n
+*Торнадо Su *құйыныweath*er co*ndit*io*n
+Volkan külü *себелейдіweath*er fo*rec*ast
+Su *құйыныweath*er fo*rec*ast
+Buzu kılını *жауадыweath*er fo*rec*ast
+*Аязweath*er fo*rec*ast
+Gün *күркіреуі *ықтималweath*er fo*rec*ast
+Gün *күркіреуі pek *мүмкінweath*er fo*rec*ast
+Hızlı *найзағай *ойнайдыweath*er fo*rec*ast
+Kar *жылбысқы kar *жауу *ықтималweath*er fo*rec*ast
+Kar *жылбысқы kar *жауу pek *мүмкінweath*er fo*rec*ast
+Kar *жылбысқы kar *жауадыweath*er fo*rec*ast
+Yağmur *жылбысқы kar *жауу *ықтималweath*er fo*rec*ast
+Yağmur *жылбысқы kar *жауу pek *мүмкінweath*er fo*rec*ast
+Yağmur *жылбысқы kar *жауадыweath*er fo*rec*ast
+Yağmur Buzu yağmuru *ықтималweath*er fo*rec*ast
+Yağmur Buzu yağmuru *мүмкінweath*er fo*rec*ast
+Yağmur Buzu düşmanını *жауадыweath*er fo*rec*ast
+Kar ve yağmur karış *жауадыweath*er fo*rec*ast
+*Сіркіреген düşmanını *ықтималweath*er fo*rec*ast
+Buzu *сіркіреген düşmanını pek *мүмкінweath*er fo*rec*ast
+Buzu yağmuru *ықтималweath*er fo*rec*ast
+Buzu düşmanını pek *мүмкінweath*er fo*rec*ast
+Yağmur Kar *жауу *ықтималweath*er fo*rec*ast
+Yağmur Kar pek *мүмкінweath*er fo*rec*ast
+Yağmur Kar *жауадыweath*er fo*rec*ast
+Kar *жауу *ықтималweath*er fo*rec*ast
+Kar *жауу pek *мүмкінweath*er fo*rec*ast
+*Өткінші kar *жауу *ықтималweath*er fo*rec*ast
+*Өткінші kar *жауу pek *мүмкінweath*er fo*rec*ast
+Kar *төпеуі *ықтималweath*er fo*rec*ast
+*Төпеген kar pek *мүмкінweath*er fo*rec*ast
+*Сіркіреген düşmanını *ықтималweath*er fo*rec*ast
+*Сіркіреген düşmanını pek *мүмкінweath*er fo*rec*ast
+Yağmur *жауу *ықтималweath*er fo*rec*ast
+Yağmur pek *мүмкінweath*er fo*rec*ast
+Yağmur *нөсерлеуі *ықтималweath*er fo*rec*ast
+*Нөсерлі yağmur pek *мүмкінweath*er fo*rec*ast
+*Жылбысқы kar *жауадыweath*er fo*rec*ast
+Buz *тұманыweath*er fo*rec*ast
+Kalın *тұманweath*er fo*rec*ast
+*Ұйытқып #rüzgâr *еседіweath*er fo*rec*ast
+*Суықweath*er fo*rec*ast
+*Ыстықweath*er fo*rec*ast
+Çoğu gün *ашықweath*er fo*rec*ast
+Bulut *қөбейедіweath*er fo*rec*ast
+Bulutlar *көбейе *түседіweath*er fo*rec*ast
+Gök giderek *ашыладыweath*er fo*rec*ast
+Akşam gök *ашыладыweath*er fo*rec*ast
+Bulutlar *азаядыweath*er fo*rec*ast
+Gün *ашыладыweath*er fo*rec*ast
+Çoğu gök *ашықweath*er fo*rec*ast
+Gün *күркіреуі *ықтималдығы *барKelvin, t*emp*eratu*re u*nit
+% % 1 diyerek açma
+% % 1 diyerek geçme
+% % 1 diyerek *жегу
+\@ \@ *act*io*n f*ile *resou*rc*e to *be op*ened f*ro*m *KRu*nner.% 1 *is th*e *name *and% 2 th*e t*yp*e
+% % 1 % 2 diyerek açma
+*Жуырдағы dosya
+*A *web *sho*rtcut, *it*s *name *and *a *desc*ript*io*n
+% % 2 için% 1 diyerek arama
+% % 1 programı sonraki sebeple *қалғу *режіміне yol çıkmıyor:% 2
+#PoPo*werDevil
+*KDE4- *тің *қуаттандыруды yönetme aleti
+#c c 2008 *Dario F*reddi
+*Dario F*reddi
+#Eğit
+Pil *интерфейсі elle atmadı! Sistemin *баптауларын *тексеріңіз
+*Қуаттандыру *адаптері katılıyor
+*Қуаттандыру *адаптері katılıyor
+*Қуаттандыру *адаптері *ажыратылып dur
+Pilin pek *сарқылды, işini *мейілінше hemen koruyalım!
+Pilinin gücü *ескертетін düzeye ulaştı
+Pilinin gücü az
+*Қалғуға *ауысқанда bir hata yer önü:
+*Экран *бұғатталғанInt*errupt*s th*e *su*sp*ensio*n *shut*do*wn p*roc*ess
+% % 1 dediği seçildi, ama #o *профилі yok! Po*werDevil *баптауларын *тексеріңіз.
+*Профилі % 1 diyerek *ауысты
+*Жылдамдылығы
+*Динамикалық istem #boy
+*Динамикалық *консервативтық
+Gücü *үнемдеу
+Kullanıcı yeri
+*Дискіге korunup *қалғу
+*RAM *жадына korunup *қалғу
+Bekleme
+Genel *баптаулары
+*Профильдерді işleme
+Yetenekler
+Hiçbir şey
+*Сөндіру
+#PoPo*werDevil *баптауы
+#PoPo*werDevil *баптаулары
+#cc, 2008 *Dario F*reddi
+Bu *модульде şu hizmeti *баптай alacasız, güç *үнемдеу *профильдерді yapıp işler ve sisteminin yeteneklerini bakar.
+#PoPo*werDevil *баптауы Bu *модуль Po*werDevil- *ді *баптауға yetenek çıkar. Po*werDevil dediği işini *KDE- *нің *сеансы başlatılmağıyla beraber başlatmış #anca sıra eyleyen hizmet. Po*werDevil *баптауы iki düzeye bölünür: #anca praktisyonerdeki genel *баптауы ve *профиль- *негіздеген *баптауы. #Sonra herbir *бөлек koşulda kullanan kaideleri *тағайындауға yetenek çıkar, Sonrakı *қойындысында sisteminin yeteneklerini bakar. Önüyle birinci iki *қойындысындағы *параметрлерін *баптап alın. Böylece dördüncüsüne *ауысып, *профильдеріңізді yapıp #işle. Sonrakı ama önemi iş - üçüncü *қойындысында gerek *профиліңізді *тағайындау. Po*werDevil hizmetini dönmeye #başla zaruret değil - tek Uygulama diyerek *түртсеңіз oldu.
+Başa *қуаттандыру *менеджері farketildi. Başa *қуаттандыру *менеджері eylese Po*werDevil işe katılmaz. Eğer Po*werDevil başlıca *қуаттандыру *менеджері süresinde kullanmayı kursanız, başkasını *кетіріп, Po*werDevil hizmeti gene kat.
+Sisteminde po*wersaved eyledik kılığı. Başa *қуаттандыру *менеджері eylese Po*werDevil işe katılmaz. Eğer Po*werDevil başlıca *қуаттандыру *менеджері süresinde kullanmayı kursanız, po*wersaved- *ті durdurup, Po*werDevil hizmeti gene kat.
+#PoPo*werDevil işini başlatmadığı kılığı. Ya o *әдейі katılmamış, ya *DBu*s- *тың bir meselesi doğuyor. *No*ne
+Yollar hayır
+*Масштабтау yolu bulunmadı. Eğer *процессорыңыз çok eski olmasa, bunun sebebi çekirdekin birkaç *модульдері yükleyerek olması makul. *Масштабтау *модульдер gelenekte cpuf*req_ o*ndemand diyerek aynı çağırılır. *Масштабтау yolu çok faydalı, o çok pil kovalayacak *үнемдейді. *Модульдерді yükleyip görme diyerek *түртіп Po*werDevil- *ді gerek *модульдерді *жүктетіп gör. Eğer kompüterin *масштабтауды korumayanını pek bilseniz, onda bu *ескерту duyursun şimdi *болдырмау için Bu *ескерту *ендігәрі göstersin diyerek *түртіңіз.
+*Модульдерді yükleyip görme
+Bu *ескерту *ендігәрі gösterilmeyeceğini
+*Баптауыңыз mesele *туызған yok.
+Çekirdekin *процесссорды *масштабтау *модульдері bulunmadı. *Бәлкім onlar yapılmamış, daima Po*werDevil onları bulmadı.
+*Модульдер bulunmadı
+Hiçbir şey
+*Экранды *бұғаттау
+Çıkma #diyalog önerme
+% % 1 *процесоры
+% % 1 *процесоры *бұғатталсын
+Simgesi koyulsa,% 1 *процесоры *бұғатталады
+*Energy *St*ar programı ile ilgili #tam bilgi
+Yeni *профиліне çağırma git
+Yeni *профилінің çağırması
+Yaptık *профилінің çağırmasını şurada getir
+*Профильдің çağırmasını getir
+#PoPo*werDevil *профильдерін *импорттау
+#PoPo*werDevil *профильдерін *экспорттау
+Praktisyonerdeki *профиль korunmamış. Korumayı #kur mı?
+*Профильді *сақтауNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+*Профильді yönetme
+Çareleri
+*KWin *құрастырылғанын olsa *болдырмау
+Otomatik *күнгіртеуді katma
+Boş durduğu *дисплейді otomatik türde *күнгірттеу.
+Otomatik türde *күнгіртеу için boş duran aralıkı
+*мин
+Pili biterek bilgileri küçültmeyi ne başka giderlere uğramamak için diyecek anında kompüterini *қалғу ne uyuma *режіміне *ауысатын etmeğe olur. Düş #kan dakika boş olduğunda beliren *режімге *ауысатынын getir.
+Sistem sonrakiden lüzümsüz yere boş #dur sonra
+*Ноутбук dövmeği örterek
+*Ноутбук dövmeği örterek yerine getirilen çare
+*Қуаттандыру düğmesini katarak
+Uyuma düğmesini katarak
+*Экран
+Bu *жүгірткі infakıyla, sistem *сокет yuvasına toplamalı durdukta, parıltısını değişir
+Parıltı
+*Дисплей gücü *үнемдесін
+Bekleme şartına *ауысудың önündeki *дисплейдің *белсенділіксіз durmak vaktini seçin. Bu güç *үнемдеуінің birinci düzeyi.
+Sonrakiden sonra & beklemeye *ауысу
+Sonrakiden sonra uykuya *ауысу
+Sonrakiden sonra & *сөндіру
+*Процессор ben sistem
+Sonraki *процесор *лар *ын *ажырату
+*Процессор *параметрлері sisteminin süratına ve pilinin eyleme mevsimine hızlı etki eder. Burda *профиліңізге kişisel kaidesini seçer
+*Процессордың frekansını *масштабтау kaidesi
+Gücü *үнемдеу *сұлбасы
+*Профильді yükleyerek yerine getirileni
+Yeni *профилі
+*Профильді *өшіру
+*Профильді *импорттау
+*Профильді *экспорттау
+#PoPo*werDevil hatası
+Kaynak *модулі *жегілмеді, bu *бәлкім Po*werDevil hizmetindeki meseleden doğan koşul. #Tam düş oku
+*Баптау meseleler var. Yetenekler yüzünden *егжей- *тегжейін bakın.
+*Параметрлер ben *Профильдер
+*Ойянғанда *экран *бұғатталсын
+*Қалғудан *оянғанда *экран *бұғатталсын
+Uyku *режімінен dönerek *паролі sorulur
+#PoPo*werDevil- *ге *экранның güç *үнемдеуін devretme
+*Қалғуға *ауысудың önünde bekleyen vakit
+Hiçbir şey
+*Профильді *тағайындау
+#Değişken *тоқ *адаптері katarak
+Pilden *қуаттандырғанда
+Pil düzeyi aşağıya olduğunda
+Pil *ескерту düzeyine ulaşarak
+*Құлақтандыруларды *баптау
+Pilin #ek *баптаулары
+Pil pek *сарқылғанда
+Pilin düzeyleri
+Aşağıya düzeyi -
+Pilin aşağıya düzeyi
+Buna ulaşan pil aşağıya düzeyde diyip sanılır
+%%
+*Ескеретін düzeyi -
+Pilin *ескеретін düzeyi
+Buna ulaşan pil *ескететін düzeyde diyip sanılır
+Pek *сарқылған düzeyi -
+Pilin pek *сарқылған düzeyi
+Buna ulaşan pil pek *сарқылған düzeyde diyip sanılır
+*Жүйелік yetenekleri
+*Процессорлар sayı
+Piller sayı
+*Ажыратуға olmuş *процессор
+*Сұлбаларды koruma
+*Масштабтау yeteneki
+Koruyan *процессордың kaideleri
+*Қалғу yolunu koruma
+Koruma bulan *сұлбалар
+*DP*MS koruması
+Simgesi koyulsa, Po*werDevil monitörünün *қуаттандыруын yönetmesini *баптай alır
+*DP*MS koruması
+Şart- yeri
+Çareleri *баптау
+*Дисплейдің güç *үнемдеу *параметрлерін *баптау
+*Процессор ben sistem *параметрлерін *баптау
+Pil çareleri
+#PoPo*werDevil programı *Xss ve *Xext *қолдауысыз yığılmış, ya *XSync genişlemesi elle atmamada. Boş vakti #şüphesiz #makul. Po*werDevil- *ді *кемінде gösterilen bir kalabalığıyla katarak gene yığmasını *қарастырыңыз.
+#PoPo*werDevil programı *Xext *қолдауысыз yığılmış, ya *XSync genişlemesi elle atmamada. *XSync *тиімділік ve süratı artırır, pil ben *процессордың işini *үнемдейді. Po*werDevil- *ді *XSync- *ты katıp kullandığı *абзал.
+*XSync sisteminde var, ama praktisyonerde yok. *XSync *тиімділік ve süratı artırır, onu kullandığı pek *абзал. *XSync- *ті şimdi işe katma için *төмендегі düğmeyi basın.
+*XSync mekanizmasını işe katma
+*XSync genişlemenin koruması
+*XSync dediği genişleme ile sistemin yetenekleri ile ilgili somut bilgiyi almağa olur. Bu elle atsa Po*werDevil ziyadesiyle inançı ve karlı eyler
+*XSync koruması
+*XSc*reensaver koruması
+*XSc*reensaver ile, Po*werDevil hizmeti *XSync elle atmayan koşulda sistemin yetenekleri ile ilgili bilgiyi alır. O tek sisteminde *XSync koruması hayır olduğunda gerek ne. #Iki da sisteminde hayır olsa, Po*werDevil sisteminin boş vaktini tanımlayarak #al
+*XSc*reenSaver koruması
+*XT*est genişlemesini koruma
+*XT*est ile Po*werDevil kullanıcının *белсінділігінің *имитациялап mevsimi *қалғудан *сақтанады. Bu hayır olsa, *мезгіллі *қалғу *режіміне *ауысу yer alır
+*XT*est *колдауы
+Başlıca *құрастырушысы
+*XSync esasında yön olacak
+*Таймер esasında
+*Grabber esasında
+Standartı *құлақтандыруларды lisans etmek
+Standartı olaylar ne *профиль dönüşümü ile ilgili *құлақтандырулар gösterilir
+*Құлақтандырулар olsun
+*Ескерту *құлақтандыруларды lisans etmek
+*Ескерту ne önemi olaylar ile ilgili *құлақтандырулар gösterilir. Lisans ettiği yön olacak.
+*Ескерту *құлақтандырулар olsun
+*Құлақтандыруларды *интерактивті *құптау aralıkı
+Simgesi koyulsa, *автоматы türde *қалғу önünde Po*werDevil seçilen vakte *интерактивті *құлақтандыруын gösterir. Bu *құлақтандыруды *түртсе - sıradaki çare #uygula. *As *in *seco*nds
+*сек
+Çareleri
+*RAM *жадына korunup *қалғуMinut*es
+*мин
+*МәтінТамға
+*КәдімгіP*roc*ess *Nic*eness
+Geçerek aşağıya *артықшылықP*roc*ess *Nic*eness
+Aşağıya *артықшылықP*roc*ess *Nic*eness
+Geçerek yüksek *артықшылықP*roc*ess *Nic*eness
+Yüksek *артықшылықP*rio*rit*y C*lass
+HayırP*rio*rit*y C*lass
+Tam vakitP*rio*rit*y C*lass
+Var gücünü yapmaP*rio*rit*y C*lass
+IşsizP*rio*rit*y C*lass
+*Беймәлімp*roc*ess *st*atu*s
+yerine getirilmedep*roc*ess *st*atu*s
+uykudap*roc*ess *st*atu*s
+*дискіде uykudap*roc*ess *st*atu*s
+*зомбиp*roc*ess *st*atu*s
+durdurulduğup*roc*ess *st*atu*s
+*свопингp*roc*ess *st*atu*s
+*беймәлімSch*edu*ler
+#FF*IFO*Sch*edu*ler
+*Rou*nd *Ro*binSch*edu*ler
+*Batch
+% % 1 % 2 E *Ш gözlemleme
+% % 1 programının P*ID:% 2 kazanç ve doğusu bütün *деескрипторлар *st*din, *st*dout, *st*derr, açık dosya, #rüzgâr *қосылым, T. *б. ile gözlemlemeye alınır. Sürecin yazılan bilgileri kızıl renkle, okuyarak - mavi renkle *боянып gösterilir.
+#& & Kayıt olmak
+*Аялдау
+#& & Sürdürme
+Ayırma
+% % 1 sürecine kayıt olmak olmadı.
+*Аталық sürecine *ауысу
+Şunu onardık sürecine *ауысу
+*Қолданбаның penceresini göstermek
+Kazanç ve doğusunu gözlemleme
+*Аялдатқан süreci sürdürme
+*Аялдату *STOP
+Sürdürme CO*NT
+Durdurup koyu HUP
+*Үзілім *INT
+Bitirme T*ERM
+*Құрту *KILL
+1- kullanıcı U*SR1
+2- kullanıcı U*SR2
+*Шұғыл aramaya tepki verme
+*Сигнал gönderme
+*Аталық sürecine *ауысу % 1
+% % 1 *бағанын *жасыру
+% % 1 *бағанын göstermek
+Birliklerini göstermek
+#Kilobayt *сек
+#Kilobayt
+*Мегабайт *сек
+*Мегабайт
+*Гигабайт *сек
+*Гигабайт
+Oranı
+Ekip\/Ekip yolunun *параметрлерін göstermek
+*Процесорды *жұмсауын *процесорлар *саннына bölme
+Gösterilen bilgi
+Okuyup yazılan *таңбалар
+Okuma Yazma ameliyatlar sayı
+Çın okuyup yazılan #bayt
+*Ишараларын göstermek
+Bu sürecin *артықшылығын değişmeye lisansın hayır ve *root *әкімшісі #ol.% #1 2 *катесі
+Önüyle süreci seçmeye gerek.
+*Процессорды kullanma planını değişmeye yetkin ulaşmaz. Kesilir.
+*Процессордың *артықшылығын değişme için yetkin ulaşmaz. Kesilir.
+HIÇ planını ve *артықшылығын değişme için yetkin ulaşmaz. Kesilir.
+Bu sürecin E *Ш *артықшылығын değişmeye lisansın hayır ve *root *әкімшісі #ol.% #1 2 hatası
+Bu sürecin *поцессорды kullanma planını değişmeye lisansın hayır ve *root *әкімшісі #ol.% #1 2 hatası
+Bu süreci *құртуға lisansın hayır ve *root *әкімшісі #ol.% #1 2 hatası
+*Құрту
+Doğusunu *VT100 ekiplerden\/ekiplerden durur diyip sanma. *Консольде yerine getirilen programlara planlanmış.
+Simgesi koyulsa, *ANSI *эскейп- *тізбектері onaylanıp gösterilmez. *bash- *ты gözlemleme için yatkın.
+*ANSI *эскейп- *тізбектері onaylasın
+Şu süreç başlatan süreçlerinin doğusunu gösterir.
+#fofo*rk ve c*lo*ne *командалаға #eri *еншілес süreçlerini gözlemleme
+*Еншілес süreçlerini gözlemleme
+Süreci ve doğusunu *аялдату
+Sürecin doğusunu okumayı durdurma. Bu süreci *бұғаттап onu *аялдатады. Sürdürme ne *ажырату diyip ne şu #diyalog *жабып süreci sürdürmeye olur.
+Süreci gözlemlemesini durdurma
+Süreci gözlemlemesini durdurup işini sürdürmeye yetenek gitme.
+! *DOCT*YP*E HT*ML PU*BLIC -  *W3C  *DT*D HT*ML 4. 0  *EN http:  *www. *w3. o*rg T*R *REC- ht*ml40 *st*rict. *dt*d  p, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Seçip koyan sürecine *SIGT*ERM *сигналын gönderip *құрту gayreti. *Техникалық bilgi: Gösterilen sürece *SIGT*ERM *сигналы gönderildi. Eğer yetkin ulaşmasa, gelenekte, *пароль sorulur. po*lkit- *kde- *autho*riz*at*io*n dediği programı *жегіп, birkaç ya bütün kullanıcılara an gelen süreci, *паролді sormayıp *құртуға lisans gider.
+Süreci *құрту
+*Шұғыл arama
+Bütün süreçler
+Bütün süreçlerler, *Бұтакты
+*Жүйелік süreçler
+Kullanıcı süreçleri
+Malikaneyi süreçler
+Tek programlar
+Sonrakinin plan *артықшылығын değişme:
+*Процесссор *жоспарлағышы
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Hiçbir özel #istem, süreçler arısında standartı vakti bölme planı.
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; *Кәдімгі plan: Geleneki *Linu*x- *тың vaktini bölme planı *Кәдімгі dediği standartı *Linu*x- *тың vakti bölme planı, hiçbir #spesiyal daimi tam vakti *артықшылық mekanizmaları istem etmiş, bütün süreçlere planlanan plan. *Жегілетін süreç *Кәдімгі ya *Дестелік, kendi arısında *анқталатын, *динамикалық *артықшылықты *негіздеген, süreçler listesinden alınır. *Динамикалық *артықшылық diyerek herbir bölünen ama *жоспалағыш çıkmayan vakit *квант kadar *жоғарлайтын *артықтышылығы. Bu *кәдімгі süreçler arısında *әділ vakit bölmesini *қамтамасыз *етететін kaide.
+*Кәдімгі
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; *Процессорды çok *жұмсайтын *интерактивті değil süreçlere planlanmış. Süreç planlama anında nispeten *кемшілік görür.
+*Дестелік
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Süreç yerine getirilmeye hazır olduğunda #uygula. *Артықшылығы *Кәдімгі ben *Дестеліктерден yüksek. Ama vakit bölmesine itaat eter.
+*Тұйық sıra
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Süreç yerine getirilmeye hazır olduğunda #uygula. *Артықшылығы *Кәдімгі ben *Дестеліктен yüksek. Vakit bölmesine itaat etmez.
+#FF*IFO
+E *Ш *жоспарлағышы
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Sürecin *артықшылығы *процеордың *артықшылығын esası.
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Süreç başa bir *процессбіршама vakit *қатқыл *дискіге *қатынамаған anda *дискіні kullanır.
+Boş
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Süreç *қатқыл *дискіге *қатынау için *Қәдігі diyerek *артықшылығы var.
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; *Best *Effo*rt *Sch*edu*ling *Артықшылығы yüksek süreci *қатқыл *дискіге *қатынауға *артықшылық alır. *Артықшылығы Var gücünü yapma *Кәдімгі benzeri programlar *Тұйық sıra kuralıyla #uygula.
+Var gücünü yapma
+#pp, *li *wh*it*e- *sp*ac*e: p*re- *wrap; Süreç, başkalarına bakmayıp, *қатқыл *дискіге *қатынауға birden yetenek alır.
+Tam vakit
+Aşağıya *артықшылық
+Yüksek *артықшылық
+- Süreç bir işi eyliyor.
+- Süreç birşeyi bekliyor
+- Süreç duruyor. *Дәл şimdi o kullanıcının *ендіргенін tanımaz
+- Süreç bitirilip bitmiş, ama *аталық süreci temizlenmemiş.
+Sürecin çağırması.
+#Süreç *иеленген kullanıcısı.
+Süreç yerine getirdik yönetme terminali.
+Sürece çıkılan *артықшылығы. Kapsamı 19- *дан en aşağısı - 19- *ға dayım\/deyim en #ileri.
+Sürecin şimdiki *процессорды *жұмсауы.
+Sürecin şimdiki *процессорды *жұмсауы.
+Bu süreç *жұмсаған *виртуалды *жад miktarı, şu sırada ortak kalabalık dosyalarılar, *графикалық *жады, *дискідегі dosyalar, ve T. *б.. Bu sayın önemi hayır #de.
+Bu süreç kendisi *жұмсаған çın #bedeni *жад hacimi. Buna *своп *жады da, ortak kalabalıkların *кодының miktarı da girmez. Bu iş yüzündeki programın istem eden *жад miktarının kılavuzu.
+Bu sürecin ortak kalabalıkları *жұмсаған çın #bedeni *жад hacimi. Bu *жад şu kalabalığı kullanan bütün süreçlerine ortak
+Süreci *жеккен ekipi\/ekibi.
+Sürecin bütün *терезеленінің çağırması.
+Sürecin benzersiz *идентификаторы.
+Girme çağırması:% 1
+Bu kullanıcı bir sebeple *таңылмады.
+% % 1
+Girme çağırması:% 1 u*id:% 2
+Oda nosu:% 1
+Iş ahizesi:% 1
+*Эффективті kullanıcısı:% 1
+*Setu*id kullanıcısı:% 1
+Dosya sistem kullanıcısı:% 1
+Takımı:% 1
+*Эффективті takımı:% 1
+*Setu*id takımı:% 1
+Dosya sistem takımı:% *1Sho*rt *desc*ript*io*n of *a p*roc*ess. P*ID, *name, u*ser
+% % 1:% 2, sahibi% 3
+% % 1 *gid:% 2
+% % 1 u*id:% 2
+% % 1 *сtoo*lt*ip. *name, p*id
+Süreci% 1 % 2 onarmakta
+*Init - bütün öbür süreçlerinin *аталығы, bunu *кетіруге olmaz.
+*KTh*readd çekirdekin akışlarını yönetir. *Еншілес süreçleri çekirdek *режімінде #uygula, *қатқыл *дискіге *қатынауды yönetip, ve T. *б. hizmetleri kurup. *name co*lu*mn too*lt*ip. f*irst *it*em *is th*e *name
+% % 1 Sürecin *ID- *і:% 2 *name co*lu*mn too*lt*ip. f*irst *it*em *is th*e *name
+% % 1 Sürecin *ID- *і:% 2 *Аталығы:% 3 *Аталығының *ID- *і:% 4 *name co*lu*mn too*lt*ip. f*irst *it*em *is th*e *name
+% % 1 Sürecin *ID- *і:% 2 *Аталығының *ID- *і:% 3
+Ekipi\/Ekibi:% 1
+Sonrakide *жегілген:% 1
+Bu süreç sonraki ekiple\/ekiple *жегілген:% 1
+Sonrakide *жегілген:% 1
+*Артықшылық düzeyi:% 1 % 2
+*Жоспарлағыш *артықшылығы:% 1
+*Жоспарлағыш:% 1
+E *Ш *артықшылық düzeyi:% 1 % 2
+E *Ш klası:% 1
+Sürecin şart- yeri:% #1 *2Пайдаланушының *процессорды *жұмсауы:% #3 Sistemin *процессорды *жұмсауы:% #4
+*Еншілестерінің sayı:% 1 Kullanıcının *процессорды genel *жұмсауы:% #2 Sistemin *процессорды genel *жұмсауы:% #3 *Процессорды genel *жұмсауы:% #4
+*Процесордың kullanıcıya *жұмсаған vakti:% 1 *сек
+*Процесордың çekirdekte *жұмсаған vakti:% 1 *сек
+*Артықшылық düzeyi:% 1 % 2
+*Жад *жұмсауы:% 1 genel% 2 haciminden % #3
+*Жад *жұмсауы:% 1
+*RSS *жад *жұмсауы:% 1 genel% 2 haciminden % #3
+*RSS *жад *жұмсауы:% 1
+Sisteminde *оқитың bilgi yok kılığı.
+Ortak kalabalığın *жұмсаған *жады:% 1 genel% 2 haciminden % #3
+Ortak kalabalığın *жұмсаған *жады:% 1
+Okunan *таңбалар sayı:% 1 % 2 *KIB *s Yazılan *таңбалар sayı:% 3 % 4 *KIB *s *Жүйелік okuma istemleri:% 5 % 6 *s⁻¹ *Жүйелік yazma istemleri:% 7 % 8 *s⁻¹ #Geneli okunan #bayt:% 9 % 10 *KIB *s #Geneli yazılan #bayt:% 11 % 12 *KIB *s p*roc*ess h*eading
+Çağırmasıp*roc*ess h*eading
+Kullanıcısıp*roc*ess h*eading
+#PP*IDp*roc*ess h*eading
+#TTTT*Yp*roc*ess h*eading
+*Артықшылығыp*roc*ess h*eading
+#CPU% pCPU% p*roc*ess h*eading
+HIÇ okumap*roc*ess h*eading
+HIÇ yazmap*roc*ess h*eading
+*Виртуалды ölçümüp*roc*ess h*eading
+*Жадыp*roc*ess h*eading
+Ortak *жадыp*roc*ess h*eading
+Ekip\/Ekipp*roc*ess h*eading
+Pencere süreceği
+% % 1 *К
+% % 1 *М
+% % 1 #G
+% % #1
+Sürecin *артықшылығын değişme
+Nosu
+*kdesu yerine getiren dosyası bulunmadı.
+*set*sch*edu*ler yerine getiren dosyası bulunmadı. O sistem *бақылауышымен beraber yapılmağı lazımdı.
+Bu sürecin *артықшылығын değişmeye lisansın hayır ve *root *әкімшісі #ol.
+Bu sürecin E *Ш *артықшылығын değişmeye lisansın hayır ve *root *әкімшісі #ol.
+*so*lid- *blu*etooth
+Ekipmanı ekip\/ekip yolundan sorup yöneten *KDE aleti
+*Синтаксис hatası: *Аргументтер ulaşışmaz
+*Синтаксис hatası: *Аргументтері çok çok
+Var ekipleri\/ekipleri *домендер #boy göstermek
+Ekipi\/Ekibi -- co*mmands diyip #siyah
+Ekipin\/Ekibin *аргументтері
+*Синтаксисі:
+## # *Blu*etooth *адаптер *интерфейстер listesini çıkarma
+## # *Blu*etooth geleneki *адаптер *интерфейсін çıkarma
+## # *Шинада uzaktaki *blu*etooth aygıtı yapmağı sorma
+## # *Шинада uzaktaki *blu*etooth aygıtı *өшіруді sorma
+## # *Blu*etooth *адаптерден hasiyetini sorma
+*Синтаксис hatası: % 1 ekipi\/ekibi *беймәлім
+Hata: koruması yok gayret.
+Hata:% 1
+Süreci:% 1
+Bilgi:% 1
+Mekanizma programı yüklendi, ama türü hata, bekleyerek% #1
+% % 1 değil mekanizma bulundu
+% % 1 mekanizmaların #bir da kullanmaya *келмейдіA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*1A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*2A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*3A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*4A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*5A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*6A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*7A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*8A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*9A *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ОрындауA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*АялдауA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Yerine getirme *АялдауA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ТоқтауA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Öne *өтуA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Arkaya *өтуA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Öne *жүгіртуA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Arkaya *жүгіртуA *butto*n o*n *a *Remot*e Co*nt*ro*l
+#Ön *арнаA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Sonraki *арнаA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*Үнділігін *төмендетуA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*Үнділігін *жоғарлатуA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Sesini *өшіруA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*АқпарA *butto*n o*n *a *Remot*e Co*nt*ro*l
+Müthiş- *шығаруA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ҚуатA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ЖоғарыA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ТөменA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*СолғаA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ОңғаA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ТаңдауA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ШегінуA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*МәзірA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*Қосым. *кірісA *butto*n o*n *a *Remot*e Co*nt*ro*l
+#CC*DA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*DVDA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ТВ- *гидіA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ТаңдаулыA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*АнықтамаA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*МекенA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*МузыкаA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*МәтінA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ТВA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*КөкA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ЖасылA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*ҚызылA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*СарыA *butto*n o*n *a *Remot*e Co*nt*ro*l
+*Беймәлім
+*so*lid- h*ardware
+Ekipmanı ekip\/ekip yolundan sorup yöneten *KDE aleti
+*Синтаксис hatası: *Аргументтер ulaşışmaz
+*Синтаксис hatası: *Аргументтері çok çok
+Var ekiplerini\/ekiplerini göstermek
+Ekipi\/Ekibi -- co*mmands diyip #siyah
+Ekipin\/Ekibin *аргументтері
+*Синтаксисі:
+## # Sistemdeki var donatacak listesini çıkarma. # - Eğer *no*npo*rt*ableinfo *параметрі getirilse, aygıtın # hasiyetler listesi *шығарлады farketelim, #bu hasiyetin çağırması # programına has, # - Eğer *det*ails *параметрі getirilse, aygıt *интерфейстері # ben onun hasiyetleri platforma *бейтарап # türünde çıkarılır, # - #Yoksa , tek aygıtın U*DI- teri çıkarılır.
+## # Platformdan bağımsız türünde u*di diyerek *сәйкесті # aygıtın bütün *интерфейстерін ve hasiyetini # göstermek
+## u# u*di diyerek *сәйкесті aygıtın bütün hasiyetlerini göstermek # farketelim, #bu hasiyetin çağırması programına has
+## p# p*redic*at*e diyerek *сәйкесті U*DI- *лер listesini çıkarma. # - Eğer p*arentU*di getirilen olsa, arama göre gelmiş # aygıtın branşıyla *шектеледі. # - #Yoksa , arama bütün *құрылығыларға yapılır.
+## # Eylemeye gelse, u*di diyerek *сәйкесті aygıtı kayıt olmak.
+## # Eylemeye gelse, u*di diyerek *сәйкесті aygıtı kayıt olmaktan çıkarma.
+## # Eylemeye gelse, u*di diyerek *сәйкесті aygıtı müthiş çıkarma.
+*Синтаксис hatası: % 1 ekipi\/ekibi *беймәлім
+Hata:% 1 diyerek *Sto*rageAcc*ess *интерфейсі yok.
+Hata:% 1 diyerek Opt*ic*alDrive *интерфейсі yok.
+Hata:% 1
+Süreci:% 1
+Bilgi:% 1
+*so*lid- *net*wo*rk
+#Rüzgâr *интерфейстерін ekip\/ekip yolundan sorup yöneten *KDE aleti
+*Синтаксис hatası: *Аргументтер ulaşışmaz
+*Синтаксис hatası: *Аргументтері çok çok
+Var ekipleri\/ekipleri *домендер #boy göstermek
+Ekipi\/Ekibi -- co*mmands diyip #siyah
+Ekipin\/Ekibin *аргументтері
+*Синтаксисі:
+## # Var #rüzgâr aygıtlar listesini çıkarma.
+## # Getirilen u*ni aygıtına malum jöleler listesini çıkarma.
+## # Aktif *желілік ayrıcalıklarını sorup #şüphesiz. # - Eğer *st*atu*s *параметрі getirilse, sisteme jöle gayretleri # lisans ederek ile ilgili yanıt *қайтарылады # - Eğer *wireless *параметрі getirilse, sistem telsiz jöleye # katılan - katılmayan ile ilgili yanıt *қайтарылады # - Eğer *int*erf*ac*e *параметрі *келтрілсе, u*ni *сілтеген # #rüzgâr *интерфейсінің hasiyetleri çıkarılır. # - Eğer *net*wo*rk *параметрі getirilse, *devic*e- u*ni dediği # aygıtı katılan *net*wo*rk- u*ni dediği #rüzgâr hasiyetleri çıkarılır.
+## # Şu sisteme jöle gayretlerini lisans etmek ne etmemek.
+## # *devic*e- u*ni aygıtı ile *net*wo*rk- u*ni jöleyi *белсендету. # Kursanız, *оналтылық *key H*ardco*ded anahtarıyla *WEP128, açık- sistemli *шифрлауды kullanın # #Bu *auth*ent*ic*at*io*n dediği *келесінін biri: # *wep h*ex64_*BAR_*asc*ii64_*BAR_h*ex128_*BAR_*asc*ii128_*BAR_p*assph*rase64_*BAR_p*assph*rase128 *key açık_*BAR_ortak # *wp*ap*sk *wp*a_*BAR_*wp*a2 t*kip_*BAR_cc*mp- *aes *паролінің biri # *wp*aeap *SO*LIDSH*ELL- DA UYGULANMADIĞI
+*Синтаксис hatası: % 1 *параметрі *беймәлім
+Uygulanmadığı
+Tanınmayan *WEP türü: % 1
+Tanınmayan *WEP yolu: % 1
+Tanınmayan *WP*A nüshası: % 1
+Tanınmayan *WP*A *шифрлау *протоколы: % 1
+Uygulanmadığı *аутентификация *сұлбасы: % 1
+*Синтаксис hatası: % 1 nesnesi *беймәлім
+*Синтаксис hatası: % 1 ekipi\/ekibi *беймәлім
+#rüzgâr: lisans edilen
+#rüzgâr: lisans edilmeyen
+telsiz: lisans edilen
+telsiz: lisans edilmeyen
+telsiz: lisans edilen
+telsiz: lisans edilmeyen
+Süreci:% 1
+Bilgi:% 1
+*so*lid- po*wermanagement
+*Қуатандыру *параметрлерін ekip\/ekip yolundan sorup yöneten *KDE aleti
+*Синтаксис hatası: *Аргументтер ulaşışmaz
+*Синтаксис hatası: *Аргументтері çok çok
+Var ekiplerini\/ekiplerini göstermek
+Ekipi\/Ekibi -- co*mmands diyip #siyah
+Ekipin\/Ekibin *аргументтері
+*Синтаксисі:
+## # *Қуаттандыруды yönetme ile ilgili bilgiyi çıkarma. # - Eğer *su*sp*end *параметрі getirilse, şu sistemdeki *қалғу # yollarının listesi çıkarılır. # - Eğer *sch*eme *параметрі getirilse, şu sistemin # *қуаттандыруын yönetme *сұлбалар listesi çıkarılır. # - Eğer cpuf*req *параметрі getirilse, sistemdeki *процесорының # frekans siyasetler listesi çıkarılır.
+## # Sistemi *қуаттандыруын yönetme *параметрлерін yapmak. # - Eğer *sch*eme *параметрі getirilse, *қуаттандыру yönetme # *сұлбасы *valu*e diyip yapılır # - Eğer cpuf*req *параметрі getirilse, *процесордың frekans # siyaseti *valu*e diyip yapılır.
+## # Kompüteri getirilen *metho*d yoluyla *қалғыту.
+## # Sistemin parıltı *параметірін yapmak bilmek. # - Eğer *set *параметрі getirilse parıltısı # *valu*e % *мәнніне eşit edip yapılır # - Eğer *get *параметрі getirilse şimdiki # parıltısı % *қайтарылады
+*Синтаксис hatası: % 1 *параметрі *беймәлім
+*Синтаксис hatası: % 1 ekipi\/ekibi *беймәлім
+Koruması hayır *қалғу yolu:% 1
+Hata: koruması yok gayret.
+Hata:% 1
+Koruması hayır *сұлба:% 1
+Koruması hayır *процессор frekans siyaseti:% 1
+Süreci:% 1
+Bilgi:% 1
+*ЕштеңеA *def*au*lt *name fo*r *an *act*io*n *without p*rop*er *label
+*Беймәлім
+Yeni aygıt farketildi. Ne #eyle?
+...
+% % 1 *қатынауға *парольді istem eder. *Паролін getir.
+Sistem *параметрлері
+*KDE- *ні *баптау kökeni
+#c c 2009, *Ben Coo*ksley
+*Ben Coo*ksley
+Eğitici
+*Math*ias *So*eken
+*Құрастырушы
+*Will *St*eph*enso*n
+*Модульдің iç yapımı, iç örneği
+Arama
+*Баптау
+Tanımla
+Aktif *модуль *туралыGeneral co*nf*ig fo*r *Syst*em *Sett*ings
+Genel
+*Баптау programı *бірдебір eşkalını bulamadı, sonra *баптайтын hiçbir şey yok.
+Eşkallar bulunmadı
+*Баптау programı *бірдебір eşkalını bulamadı, sonra gösteren hiçbir şey yok.
+Aktif eşkal ile ilgili
+% % 1 ile ilgili
+% % 1 dediği otomatik türde *жегілген dış program
+% % 1 diyerek dönerek *жегу
+Tüm eklenen dönüşümleri *ысырып bırakıp, #ön şartlarına *қайтару
+Aktif *модулінде korunmayan dönüşümler var. Onlar uygulasın mı, güçte *ысырып bıraksın mı?
+*Баптауларын uygulama
+*Таңбаша eşkalı
+*Баптау *модульдерінің *санаттарға bölünen *таңбашалар eşkalı.
+*Авторы
+*Шолу
+*Перне *тіркесімі:% *1NAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Eşkal tarzı
+*Егжей- *тегжейлі *ишаралар göstersin
+*Егжей- *тегжейлі *ишараларды göstermek- göstermemeğini *ұйғару
+Praktisyonerdeki eşkalın iç çağırması
+Sistem *параметрлері ile ilgili
+Diyalog
+En üste düzeyini birden *тарқатып göstersin
+Budak eşkalı
+*Баптау *модульдерінің klasik budakı eşkalı.
+Sistemini *баптау
+Sistem *параметрлері dediği kompüterini *баптау kökenine hoş geldiniz.
+#c c 2005, *Benj*amin C. *Meyer; c 2007, C*ano*nic*al *Lt*d
+*Benj*amin C. *Meyer
+#JoJo*nath*an *Riddell
+Faiz katıcı
+*Mich*ael *D. *St*emle
+*Simo*n *Edwards
+*Ellen *Reit*mayr
+*Ыңғайлығы
+Arama *панелі Arama şartını getir.
+Korunmayan dönüşümler
+Resimini değişme
+Görüntüyü & *түсіріп almak...
+Kurması #boy
+Görüntüyü yükleyerek hata bulundu.
+Görüntüyü koruyarak hata bulundu:% 1
+#& & Resimin götürmeyeceği gelecekte kullanma için özel *қапшыққа korusun
+Görüntüyü seçme
+#& & *Парольді değişme...
+*Пароль ben kullanıcı ile ilgili bilgi
+#C C 2002, *Braden *Mac*Do*nald, C 2004 *Ravikiran *Raj*agop*al
+#FF*rans *Englich
+#Eğit
+*Ravikiran *Raj*agop*al
+*Mich*ael Häc*kel
+*Braden *Mac*Do*nald
+Resim renkteki 
+*Geert J*ansen
+*Пароль *ауыстырғышы
+*Daniel *Mo*lkent*in
+*Alex Z*ep*eda
+#HH*ans *Karlsso*n
+*Таңбашалар
+#HH*ermann Tho*mas
+Burda özel bilgini getirir. Bu bilgi, mesel için, posta programlarında ne metin *өңдегіштерде gerek olur. *Пароліңізді *Паролді değişme... diyerek basıp değişir.
+Hata: *kdep*asswd dediği iç programı bulunmadı. *Пароль değişilmez.
+*Баптауларын #sağ için *пароліңізді getir:
+Bilgini değişme için *пароліңізді getirme gerek.
+Doğru *парольді getir.
+Bir hatanın sebebinden *пароліңіз değişilmeyip *калған kılığı. Hata duyurmayacağı:% 1
+Sonraki görüntüyü #sağ anında hata bulundu:% 1
+*Әкімшіңіз görüntünü değişmeye yasaklamış.
+% % 1 dediği görüntü dosyası değil benzeri. *Жұрнақтары *мынандай dosyaları seçin:% 2
+Yeni resimi seçin:
+Kurduğu görüntü...
+Sisteme girerek görüntünün ölçümü
+Geleneki görüntü dosyası
+Kullanıcı kurduğu görüntü dosyası
+Kullanıcının sisteme girme andaki görüntüsü
+*Пароль devşirme *жаңғырығы
+Resimini değişme için düğmesini *түртіңіз
+*Парольді değişme...
+Kullanıcının bilgisi
+#& & Adı- yönü:
+Çatı Teşkilat:
+#& & *Эл. posta *адресі:
+#& & *SMTP *сервері:
+Kullanıcının *ID:
+*Парольді çağırmada
+Herbir harfe bir #yıldız
+Herbir harfe üç #yıldız
+Hiçbir şey *көрсетпеуNAME OF T*RANSLATO*RS
+*Сайран *КиккаринEMAIL OF T*RANSLATO*RS
+*sairan\@ co*mput*er. o*rg
+Sizin yanıtların
+Soru
+Yanıtın
+Doğrusu
+Siz% 2 soruya% 1 doğru yanıt gittiniz.
+Doğru yanıt sayı:% 1 % 2
+Onaylama\@ *it*em: *int*able co*lu*mn Qu*est*io*n,% 1 *is c*ap*it*al *name
+% % 1\@ *info: *st*atu*s
+% % 1 gönderi... \@ t*it*le
+% % 1 gönderi\@ t*it*le: *group
+Bu sonraki ülkenin gönderi: \@ opt*io*n: *radio Th*is f*lag *belo*ngs to:
+% % 1 gönderi #boy
+Haritayı & inceleme
+Bu şartta *қартаның an gelen alanında farenin şu düğmesini *түртіп o alan ile ilgili bilgi alır
+#Kendi cıva gör:
+Semtleri & bulmak
+Bu çalışmada, Size sol yönde, *мәзірінен aşağıya alanın çağırması çıkılır, onu haritadan bulup *түртуіңіз gerek
+Semti haritaya & düzenleme
+Bu çalışmada, Size semtin *сұлбасы çıkılır, onun haritadaki yerini bulup düzenleme gerek
+#& & Semtleri kökeni #boy
+Bu çalışmada, merkezi #boy ülke çağırmasını bulmak gerek
+Semtlerin & kökenleri
+Bu çalışmada, ülke çağırması boyunca merkezini bulmak gerek
+Gönderi #boy semt çağırmasını
+Bu çalışmada, gönderi #boy ülke çağırmasını bulmak gerek
+Semtlerin & gönderleri
+Bu çalışmada, çağırılan ülkenin gönderini göstermek gerek
+Haritayı & açma...
+*Ұлғайту *кішірейту
+Kendi ölçümü
+#& & *Автомасштабтау
+#& & *Жылжыту
+*Кепілсіздік
+Haritanın *авторы
+Sonrakı *пайдалынған harita açılmadı.% 1 *талдау hatası:% 2
+Praktisyonerde harita yok
+Sorular sayı
+#Kan soru #kur? 1 başlatıp% 1 dayım\/deyim
+% % 1 alanının & yeri
+% % 1 alanını haritaya & düzenleme
+% % 1 gönderleri
+Praktisyonerdeki harita:% 1
+Haritalar, gönderler, *аударылымдары *әрбірінің *авторы *қамтамасыз ettik kalite derecesinde, demek, *KGeo*graph*y resmi *мағлумат gözü olarak #al.
+Bu% 1 yapan haritası
+Haritanın *авторы
+*KGeo*graph*y
+Coğrafyayı okuma aleti
+#© © 2004- 2005 *Albert *Ast*als C*id
+*Albert *Ast*als C*id
+*Программист ve *құрастыраушысы
+*So*dipo*di gönderler kalabalığı
+Birkaç gönderler şundan alınan\@ *info
+Siz haritada *қателікті buldunuz. *Авторына *қатынап% 1, haritasında% 2,% 3,% 4 renkleriyle bağlı hiçbir şey hayır diyip duyurun. \@ *it*em C*ap*it*al *name *in *map popup
+Sonrakiyi *түртіңіз:% 1\@ t*it*le
+% % 1 alanı haritada
+Kullanan haritayı seçme
+% % 1 diyerek *талдау hatası:% 2
+*Талдау hatası
+*Өлкелерsouth*ko*rea. *kgm
+% % 1 haritasının görüntü dosyası hayır
+% % 1 merkezi #boy\@ t*it*le: *group
+% % 1 & merkezi
+% % 1 gönderinin görüntü dosyası hayır
+% % 1 *тегте #yara özü var
+#Ikisi de biri - ya% 1 tain etilen ya rengi% 2 rengiyle birce alanı var
+Haritanın tarif dosyası% 1 *тегтен başlatılmağı lazım
+% % 1 dediği okumaya açılmadı.
+% % 1 demedi.
+Haritanın tarif dosyasında% 2 diyerek içinde% 1 *тег olmaya lazım
+Haritanın tarif dosyasında% 2 diyerek içinde bir 1 *тег olmaya *тиісaf*gh*anist*an. *kgm
+*Ауғанстанwo*rld. *kgm
+Semtleriz*imbabwe. *kgm
+#zz*imbabwe_ *dist*rict*s. *kgm
+*Иранwo*rld. *kgm
+*Түрікменстанwo*rld. *kgm
+*Өзбекстанwo*rld. *kgm
+*Тәжікстанwo*rld. *kgm
+*Қытайwo*rld. *kgm
+*Пәкістанwo*rld. *kgm
+*Үндістанwo*rld. *kgm
+*Бадахшанaf*gh*anist*an. *kgm
+*Файзабадaf*gh*anist*an. *kgm
+*Бадгисaf*gh*anist*an. *kgm
+*Калаи *Науaf*gh*anist*an. *kgm
+*Бағланaf*gh*anist*an. *kgm
+*Пули *Хумриaf*gh*anist*an. *kgm
+*Балхaf*gh*anist*an. *kgm
+*Мазари- *Шарифaf*gh*anist*an. *kgm
+*Бамианaf*gh*anist*an. *kgm
+*Дайкундиaf*gh*anist*an. *kgm
+*Нилиaf*gh*anist*an. *kgm
+*Жаузжанaf*gh*anist*an. *kgm
+*Шеберғанaf*gh*anist*an. *kgm
+*Фарахaf*gh*anist*an. *kgm
+*Фарябaf*gh*anist*an. *kgm
+*Майманаaf*gh*anist*an. *kgm
+*Ғазниaf*gh*anist*an. *kgm
+*Ғорaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Гелмендaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Гератaf*gh*anist*an. *kgm
+*Кабулwo*rld. *kgm
+*Қандағарaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Хостaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Асадабадaf*gh*anist*an. *kgm
+*Кундузaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Нангархарaf*gh*anist*an. *kgm
+*Жалалабадaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Нұристанaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Пактияaf*gh*anist*an. *kgm
+*Гардезaf*gh*anist*an. *kgm
+*Пактикаaf*gh*anist*an. *kgm
+*Шаранaf*gh*anist*an. *kgm
+*Паншерaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*Саманғанaf*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*gh*anist*an. *kgm
+*af*ric*a. *kgm
+*Африкаwo*rld_ co*nt*inent*s. *kgm
+*Елдерwo*rld. *kgm
+Su\@ t*it*le: *group
+*af*ric*a. *kgm
+*Алжирwo*rld. *kgm
+*wo*rld. *kgm
+*Анголаwo*rld. *kgm
+*Луандаwo*rld. *kgm
+*Бенинwo*rld. *kgm
+*Порто- *Новоaf*ric*a. *kgm
+*Ботсванаwo*rld. *kgm
+*Габорорнеwo*rld. *kgm
+*Буркина- *Фасоwo*rld. *kgm
+*wo*rld. *kgm
+*Бурундиwo*rld. *kgm
+*Бужумбураwo*rld. *kgm
+*Камерунwo*rld. *kgm
+*wo*rld. *kgm
+*Кабо- *Вердеaf*ric*a. *kgm
+*Прайяaf*ric*a. *kgm
+orta Afrika *Республикасыwo*rld. *kgm
+*wo*rld. *kgm
+*Чадwo*rld. *kgm
+*Нджаменаwo*rld. *kgm
+*Комор vicdan- *ыaf*ric*a. *kgm
+*Морониaf*ric*a. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+#zz*aire2006. *kgm
+#zz*aire2006. *kgm
+*Джибутиwo*rld. *kgm
+*Мысырwo*rld. *kgm
+*wo*rld. *kgm
+*Экваториалдық *Гвинеяwo*rld. *kgm
+*wo*rld. *kgm
+*Эритреяwo*rld. *kgm
+*wo*rld. *kgm
+*Эфиопияwo*rld. *kgm
+*wo*rld. *kgm
+*Габонwo*rld. *kgm
+*wo*rld. *kgm
+*Гамбияaf*ric*a. *kgm
+*wo*rld. *kgm
+*Ганаwo*rld. *kgm
+*wo*rld. *kgm
+*Гвинеяwo*rld. *kgm
+*wo*rld. *kgm
+Gine- *Бисауwo*rld. *kgm
+*wo*rld. *kgm
+*Кенияwo*rld. *kgm
+*wo*rld. *kgm
+*Лесотоwo*rld. *kgm
+*wo*rld. *kgm
+*Либерияwo*rld. *kgm
+*wo*rld. *kgm
+*Ливияwo*rld. *kgm
+*wo*rld. *kgm
+*Мадагаскарwo*rld. *kgm
+*wo*rld. *kgm
+*Малавиwo*rld. *kgm
+*wo*rld. *kgm
+*Малиwo*rld. *kgm
+*wo*rld. *kgm
+*Мавританияwo*rld. *kgm
+*wo*rld. *kgm
+*Маврикийaf*ric*a. *kgm
+*af*ric*a. *kgm
+*Мароккоwo*rld. *kgm
+*wo*rld. *kgm
+*Мозамбикwo*rld. *kgm
+*wo*rld. *kgm
+*Намибияwo*rld. *kgm
+*wo*rld. *kgm
+*Нигерwo*rld. *kgm
+*wo*rld. *kgm
+*Нигерияwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Руандаwo*rld. *kgm
+*wo*rld. *kgm
+*Сенегалwo*rld. *kgm
+*wo*rld. *kgm
+*Сейшел vicdan- *ыaf*ric*a. *kgm
+#cc*anada. *kgm
+*Сьерра- *Леонеwo*rld. *kgm
+*wo*rld. *kgm
+*Сомалиwo*rld. *kgm
+*wo*rld. *kgm
+Güney *Африкаwo*rld. *kgm
+*af*ric*a. *kgm
+*Суданwo*rld. *kgm
+*wo*rld. *kgm
+*Свазилендwo*rld. *kgm
+*wo*rld. *kgm
+*af*ric*a. *kgm
+*af*ric*a. *kgm
+*Танзанияwo*rld. *kgm
+*wo*rld. *kgm
+*Тогоwo*rld. *kgm
+*wo*rld. *kgm
+*Тунисwo*rld. *kgm
+*wo*rld. *kgm
+*Угандаwo*rld. *kgm
+*wo*rld. *kgm
+Batı *Сахараwo*rld. *kgm
+*af*ric*a. *kgm
+*Замбияwo*rld. *kgm
+#zz*ambia_ p*ro*vinc*es. *kgm
+Zimbabvez*imbabwe. *kgm
+#zz*imbabwe_ *dist*rict*s. *kgm
+*af*ric*a. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+*af*ric*a. *kgm
+#popo*rtu*gal_ *regio*ns. *kgm
+*af*ric*a. *kgm
+*af*ric*a. *kgm
+*af*ric*a. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+#zz*imbabwe_ *dist*rict*s. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*albania_ *dist*rict*s. *kgm
+*algeria. *kgm
+*albania_ p*ref*ectu*res. *kgm
+#jj*ap*an. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*albania_ p*ref*ectu*res. *kgm
+*wo*rld. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*algeria. *kgm
+*ando*rra. *kgm
+*Андорраwo*rld. *kgm
+#jj*amaic*a. *kgm
+*Испанияwo*rld. *kgm
+*Францияwo*rld. *kgm
+*wo*rld. *kgm
+*ando*rra. *kgm
+*ando*rra. *kgm
+*ando*rra. *kgm
+*ando*rra. *kgm
+*ando*rra. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*ango*la_ p*ro*vinc*es. *kgm
+*Заирango*la_ p*ro*vinc*es. *kgm
+*argent*ina. *kgm
+*Аргентинаwo*rld. *kgm
+*argent*ina. *kgm
+*Буенос- *Айрес kenti *argent*ina. *kgm
+*Буенос- *Айресwo*rld. *kgm
+*Ла- *Платаargent*ina. *kgm
+*Катамаркаargent*ina. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*wat*ers_ *wo*rld- c*lass. *kgm
+*argent*ina. *kgm
+*Кордобаsp*ain_ p*ro*vinc*es. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*Формозаargent*ina. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*Санта- *Розаgu*at*emala. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+*Мендозаargent*ina. *kgm
+#pp*aragu*ay. *kgm
+*Посадасargent*ina. *kgm
+*argent*ina. *kgm
+*Рио- *Негроu*ru*gu*ay. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+#pupu*erto*rico. *kgm
+Say- *Люисargent*ina. *kgm
+*Санта- *Крузph*ilipp*ines. *kgm
+*argent*ina. *kgm
+*Санта- *Феu*sa. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*argent*ina. *kgm
+*armenia. *kgm
+*Арменияwo*rld. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*Әзербайжанwo*rld. *kgm
+*Грузияwo*rld. *kgm
+*Түркияwo*rld. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*armenia. *kgm
+*wo*rld. *kgm
+*wo*rld_ co*nt*inent*s. *kgm
+*Ресейwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Иракwo*rld. *kgm
+*wo*rld. *kgm
+*Израильwo*rld. *kgm
+*wo*rld. *kgm
+*Иорданияwo*rld. *kgm
+*wo*rld. *kgm
+*Кувейтwo*rld. *kgm
+*wo*rld. *kgm
+*Ливанwo*rld. *kgm
+*wo*rld. *kgm
+*Катарwo*rld. *kgm
+*wo*rld. *kgm
+*Сауд *Арабиясыwo*rld. *kgm
+*wo*rld. *kgm
+*Сирияwo*rld. *kgm
+*wo*rld. *kgm
+Birleşen arap\/Arap *Әмірліктеріwo*rld. *kgm
+*wo*rld. *kgm
+*Оманwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Йеменyemen. *kgm
+*wo*rld. *kgm
+*Украинаwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Шри- *Ланкаwo*rld. *kgm
+*wo*rld. *kgm
+*Монғолияwo*rld. *kgm
+*wo*rld. *kgm
+*Қазақстанwo*rld. *kgm
+*wo*rld. *kgm
+*Жапонияwo*rld. *kgm
+*wo*rld. *kgm
+*Мьянмаwo*rld. *kgm
+*wo*rld. *kgm
+*Непалwo*rld. *kgm
+*wo*rld. *kgm
+*Бутанwo*rld. *kgm
+*wo*rld. *kgm
+*Индонезияwo*rld. *kgm
+*wo*rld. *kgm
+*Малайзияwo*rld. *kgm
+*wo*rld. *kgm
+*Бангладешwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Бахрейнwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Қырғызстанwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Лаосwo*rld. *kgm
+*wo*rld. *kgm
+*Камбоджаwo*rld. *kgm
+*wo*rld. *kgm
+*Брунейwo*rld. *kgm
+*wo*rld. *kgm
+*Филиппинwo*rld. *kgm
+*wo*rld. *kgm
+*Тайландwo*rld. *kgm
+*wo*rld. *kgm
+*Вьетнамwo*rld. *kgm
+*wo*rld. *kgm
+*Тайвань vicdan. ch*ina. *kgm
+*wo*rld. *kgm
+*Сингапурwo*rld. *kgm
+Kuzey Kore *КХДР *no*rth_ *ko*rea. *kgm
+*wo*rld. *kgm
+*Корей Cumhuriyetich*ina. *kgm
+*wo*rld. *kgm
+Doğu *Тиморwo*rld. *kgm
+*wo*rld. *kgm
+*Папуа - Yeni *Гвинеяwo*rld. *kgm
+*Австралияwo*rld. *kgm
+*Кипрwo*rld. *kgm
+*venezu*ela. *kgm
+*au*st*ralia. *kgm
+#uu*sa. *kgm
+*au*st*ralia. *kgm
+*wo*rld. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ralia. *kgm
+*au*st*ria. *kgm
+*Австрияwo*rld. *kgm
+*au*st*ria. *kgm
+*wo*rld. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*slo*venia_ t*radit*io*nal. *kgm
+*au*st*ria. *kgm
+*slo*venia_ t*radit*io*nal. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*au*st*ria. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*az*erbaij*an. *kgm
+*bangladesh. *kgm
+*bangladesh. *kgm
+*bangladesh. *kgm
+*bangladesh. *kgm
+*bangladesh. *kgm
+*bangladesh. *kgm
+*bangladesh. *kgm
+*belaru*s. *kgm
+*Белоруссияwo*rld. *kgm
+*belaru*s. *kgm
+*belaru*s. *kgm
+*belaru*s. *kgm
+*belaru*s. *kgm
+*belaru*s. *kgm
+*belaru*s. *kgm
+*belaru*s. *kgm
+*belgiu*m. *kgm
+*Бельгияwo*rld. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*wo*rld. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*neth*erlands. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*belgiu*m. *kgm
+*Люксембургwo*rld. *kgm
+*belgiu*m. *kgm
+*beliz*e. *kgm
+*Белизwo*rld. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*beliz*e. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bhut*an. *kgm
+*bo*livia. *kgm
+*Боливияwo*rld. *kgm
+#uu*ru*gu*ay. *kgm
+*bo*livia. *kgm
+*bo*livia. *kgm
+#uu*ru*gu*ay. *kgm
+*bo*livia. *kgm
+*venezu*ela. *kgm
+*bo*livia. *kgm
+*wo*rld. *kgm
+*bo*livia. *kgm
+*bo*livia. *kgm
+*bo*livia. *kgm
+*bo*livia. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*switz*erland. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*wo*rld. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bo*snia- h*erz*ego*vina. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+#zz*ambia_ p*ro*vinc*es. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+*bot*swana. *kgm
+#zz*ambia_ p*ro*vinc*es. *kgm
+*braz*il. *kgm
+*Бразилияwo*rld. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*su*riname. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*mexico_ *st*at*es. *kgm
+*wo*rld. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*wat*ers_ *wo*rld- c*lass. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*venezu*ela. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*wat*ers_ *wo*rld- c*lass. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*braz*il. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+*south*ko*rea. *kgm
+*Болгарияwo*rld. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+#uu*sa. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*lgaria. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*Монbu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+*bu*rma. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#popo*rtu*gal_ *regio*ns. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*anada. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ *dep*art*ment*s. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#hh*ait*i. *kgm
+Doğuc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+Kuzeyc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+Güneyc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+#cc*ameroo*n_ p*ro*vinc*es. *kgm
+Batıc*ameroo*n_ p*ro*vinc*es. *kgm
+*Канадаwo*rld. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*anada. *kgm
+#cc*aribbean. *kgm
+*Кариб vicdan- *ыc*aribbean. *kgm
+#cc*aribbean. *kgm
+*Багам vicdan- *ыc*aribbean. *kgm
+*wo*rld. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+*Кубаwo*rld. *kgm
+*wo*rld. *kgm
+*Гаитиwo*rld. *kgm
+*wo*rld. *kgm
+*Доминикан *Республикасыdo*minic*an_ *repu*blic. *kgm
+*wo*rld. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+*Антигуа ve *Барбудаwo*rld. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+*Доминикаwo*rld. *kgm
+*wo*rld. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+*Сент- *Люсияc*aribbean. *kgm
+#cc*aribbean. *kgm
+*Барбадосwo*rld. *kgm
+*wo*rld. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+Grenadac*aribbean. *kgm
+#cc*aribbean. *kgm
+*Тринидад ve *Тобагоwo*rld. *kgm
+*wo*rld. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+#cc*aribbean. *kgm
+*Ямайкаwo*rld. *kgm
+*wo*rld. *kgm
+#cc*aribbean. *kgm
+*malaysia. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+*venezu*ela. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#cc*at*alo*nia_ co*marqu*es. *kgm
+#chch*ile. *kgm
+*Чилиwo*rld. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#pp*aragu*ay. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+#chch*ile. *kgm
+*wo*rld. *kgm
+*bo*livia. *kgm
+Bolivyach*ile. *kgm
+*af*ric*a. *kgm
+Afrikach*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+#chch*ina. *kgm
+*Сянган Hong Kong ch*ina. *kgm
+*Аомынь Makao co*lo*mbia. *kgm
+*Колумбияwo*rld. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+*Боливарco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+*venezu*ela. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#phph*ilipp*ines. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+*wat*ers_ *wo*rld- c*lass. *kgm
+#coco*lo*mbia. *kgm
+*Метаco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+#coco*lo*mbia. *kgm
+*Шекараwest*bengal. *kgm
+#coco*st*a_ *ric*a. *kgm
+*Коста- *Рикаwo*rld. *kgm
+#coco*st*a_ *ric*a. *kgm
+#coco*st*a_ *ric*a. *kgm
+#coco*st*a_ *ric*a. *kgm
+#coco*st*a_ *ric*a. *kgm
+#coco*st*a_ *ric*a. *kgm
+#coco*st*a_ *ric*a. *kgm
+#coco*st*a_ *ric*a. *kgm
+*wo*rld. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cucu*ba. *kgm
+#cc*yp*ru*s. *kgm
+#cc*yp*ru*s. *kgm
+#cc*yp*ru*s. *kgm
+#cc*yp*ru*s. *kgm
+#cc*yp*ru*s. *kgm
+#cc*yp*ru*s. *kgm
+#cc*yp*ru*s. *kgm
+*wo*rld. *kgm
+*Чех *Республикасыwo*rld. *kgm
+#czcz*ech. *kgm
+*wo*rld. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+#czcz*ech. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*sweden. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*denmark_ cou*nt*ies. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+#pupu*erto*rico. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*venezu*ela. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*do*minic*an_ *repu*blic. *kgm
+*ecu*ado*r. *kgm
+*Эквадорwo*rld. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+*venezu*ela. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*wo*rld. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*ecu*ado*r. *kgm
+*sp*ain_ p*ro*vinc*es. *kgm
+*yemen. *kgm
+*egypt. *kgm
+*ro*mania. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*su*dan. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*egypt. *kgm
+*el_ *salvado*r. *kgm
+*Сальвадорwo*rld. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+#pp*eru. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*wo*rld. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*el_ *salvado*r. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*emirat*es. *kgm
+*esto*nia. *kgm
+*Эстонияwo*rld. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*wo*rld. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*esto*nia. *kgm
+*eu*rop*e. *kgm
+*Еуропаwo*rld_ co*nt*inent*s. *kgm
+*Албанияwo*rld. *kgm
+*wo*rld. *kgm
+*Босния ve *Герцоговинаwo*rld. *kgm
+*wo*rld. *kgm
+*Хорватияwo*rld. *kgm
+*wo*rld. *kgm
+*Данияwo*rld. *kgm
+*wo*rld. *kgm
+*Финляндияwo*rld. *kgm
+*wo*rld. *kgm
+*Македонияwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Германияwo*rld. *kgm
+*wo*rld. *kgm
+*Грекияwo*rld. *kgm
+*wo*rld. *kgm
+*Венгрияwo*rld. *kgm
+*wo*rld. *kgm
+*Исландияwo*rld. *kgm
+*wo*rld. *kgm
+*Ирландияwo*rld. *kgm
+*wo*rld. *kgm
+*Италияwo*rld. *kgm
+*wo*rld. *kgm
+*Латвияwo*rld. *kgm
+*wo*rld. *kgm
+*Лихтенштейнwo*rld. *kgm
+*wo*rld. *kgm
+*Литваwo*rld. *kgm
+*wo*rld. *kgm
+*Молдоваwo*rld. *kgm
+*wo*rld. *kgm
+*Монакоwo*rld. *kgm
+*Нидерландыwo*rld. *kgm
+*wo*rld. *kgm
+*Норвегияwo*rld. *kgm
+*wo*rld. *kgm
+*Польшаwo*rld. *kgm
+*wo*rld. *kgm
+*Португалияwo*rld. *kgm
+*wo*rld. *kgm
+*Румынияwo*rld. *kgm
+*wo*rld. *kgm
+Say- *Мариноwo*rld. *kgm
+*Сербияwo*rld. *kgm
+*wo*rld. *kgm
+*Черногорияwo*rld. *kgm
+*wo*rld. *kgm
+*Словакияwo*rld. *kgm
+*wo*rld. *kgm
+*Словенияwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Швецияwo*rld. *kgm
+*wo*rld. *kgm
+*Швейцарияwo*rld. *kgm
+*wo*rld. *kgm
+*wo*rld. *kgm
+*Ұлыбританияwo*rld. *kgm
+*wo*rld. *kgm
+*Ватиканwo*rld. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*inland_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+*switz*erland. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+*wat*ers_ *wo*rld- c*lass. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+*wat*ers_ *wo*rld- c*lass. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#hh*ait*i. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e. *kgm
+*geo*rgia. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+#ff*ranc*e_ *regio*ns. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*geo*rgia. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+#jj*amaic*a. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*germany. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+#uu*sa. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+#uu*sa. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*great- *brit*ain_ cou*nt*ies. *kgm
+*greec*e. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e. *kgm
+*greec*e. *kgm
+*greec*e. *kgm
+*greec*e. *kgm
+*greec*e. *kgm
+*greec*e. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e. *kgm
+*gu*at*emala. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*eriph*eries. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*greec*e_ p*ref*ectu*res. *kgm
+*Гватемалаwo*rld. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+#uu*ru*gu*ay. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*at*emala. *kgm
+*gu*yana. *kgm
+*Гайанаwo*rld. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+*gu*yana. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hh*ait*i. *kgm
+#hoho*ndu*ras. *kgm
+*Гондурасwo*rld. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#pp*anama. *kgm
+*venezu*ela. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+*wo*rld. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+*Лемпираho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#hoho*ndu*ras. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary. *kgm
+*ic*eland_ *regio*ns. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+#huhu*ngary_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*ic*eland_ *regio*ns. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*Гоаindia. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*eu*rop*e. *kgm
+#ococ*eania. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+#pp*akist*an. *kgm
+*india. *kgm
+*india. *kgm
+*eu*rop*e. *kgm
+*slo*vakia. *kgm
+*india. *kgm
+*india. *kgm
+*eu*rop*e. *kgm
+#tutu*rkey. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*west*bengal. *kgm
+*west*bengal. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*india. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*indo*nesia. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iran. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*iraq. *kgm
+*ireland_ p*ro*vinc*es. *kgm
+*ireland_ p*ro*vinc*es. *kgm
+*ireland_ p*ro*vinc*es. *kgm
+*ireland_ p*ro*vinc*es. *kgm
+*ireland_ p*ro*vinc*es. *kgm
+*repu*blic_ of_ *ireland. *kgm
+*ireland_ p*ro*vinc*es. *kgm
+*repu*blic_ of_ *ireland. *kgm
+*ireland_ p*ro*vinc*es. *kgm
+*israel. *kgm
+*israel. *kgm
+#zz*ambia_ p*ro*vinc*es. *kgm
+*israel. *kgm
+*israel. *kgm
+*israel. *kgm
+*israel. *kgm
+*israel. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*aly. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+*it*alyp*ro*vinc*e. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*amaic*a. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+#jj*ap*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kaz*akh*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*kyrgyz*st*an. *kgm
+*lat*via. *kgm
+*MO*DE kapsam
+*MO*DE 12; 14; 12; 15 *қайтаратыны 12
+Sınavdan geçmeme sayı
+Sınavdan geçme sayı
+Geçme *ықтималдығы
+*NEGBINO*MDIST  işlevi olumsuz *биномдық *үлестірімін *қайтарады.
+*NEGBINO*MDIST geçmeme; geçme; geçme_ *ықтим
+*NEGBINO*MDIST 2; 5; 0, 55 *қайтаратыны 0, 152872629
+*Үлестіремінің *сызықты ortası
+*Үлестірімінің standartı *ауытқуы
+*NO*RMDIST  işlevi kalıpı yığılan *үлестірімін *қайтарады.
+Kalıpı *үлестірімі oranlanacak say.
+*ОМ dediği *үлестірімінің *сызықты ortası.
+*СТД - *үлестірімінің standartı *ауытқуы.
+*К = 0 olsa yoğunluk işlevi; *К = 1 olsa *үлестірімі oranlanır.
+*NO*RMDIST Say; *ОМ; *СТД; *К
+*NO*RMDIST 0, 859; 0, 6; 0, 258; 0 neticesi 0, 934236
+*NO*RMDIST 0, 859; 0, 6; 0, 258; 1 neticesi 0, 842281
+Kalıpı *үлестіріміндегі orta özü
+Kalıpı *үлестірімінің standartı *ауытқуы
+*NO*RMINV  işlevi dişisi kalıpı yığılan *үлестірімін *қайтарады. Devretecek sayı 0 ben 1 arısında fişleri girmeyip ve *СТД diyerek sağ say olmaya lazım.
+*NO*RMINV sayı; *ОМ; *СТД
+*NO*RMINV 0, 9; 63; 5 neticesi 69, 41
+Standartı kalıpı *үлестірімі oranlanacak say
+*NO*RMSDIST  işlevi standartı kalıpı *үлестірімін *қайтарады.
+*NO*RMSDIST Sayı
+*NO*RMSDIST 1 neticesi 0, 84
+*NO*RMSINV  işlevi standartı yığılan dişisi *үлестірімін *қайтарады. Devretecek sayı 0 ben 1 arısında fişleri girmeye lazım.
+*NO*RMSINV Sayı
+*NO*RMSINV 0, 908789 *қайтаратыны 1, 3333
+#PP*EARSO*N  işlevi iki *ұяшық alanı arısındaki *корелляциясын oranlar. Bu işlev CO*RREL işleviyle bir.
+#PP*EARSO*N *ауқым1; *ауқым2
+#PP*EARSO*N *A1: *A3; *B1: *B3
+Yer *алмастырымалы elementler sayı
+#PP*ERMUT  işlevi yer *алмастырымдар sayını oranlar. Birinci *параметрі elementler sayı, ikinci *параметрі - yer #permütasyon başvurmuş elementler sayı.
+#PP*ERMUT genel; yer_ *алм
+#PP*ERMUT 8; 5 neticesi 6720
+#PP*ERMUT 1; 1 neticesi 1
+Şu say için standartı kalıpı *үлестірімі oranlanır
+#PHPH*I  işlevi standartı kalıpı *үлестірім işlevinin özünü *қайтарады.
+#PHPH*I öz
+#PHPH*I 0, 25 neticesi 0, 386668
+*Лямбда *параметрі orta öz
+#POPO*ISSO*N  işlevi *Пуассон *үлестірімін *қайтарады.
+Devretecek say ben *лямбда *параметрі sağ saylar olmaya lazım.
+#POPO*ISSO*N say; *лямбда; yığma
+#POPO*ISSO*N 60; 50; 0 neticesi 0, 020105
+#POPO*ISSO*N 60; 50; 1 neticesi 0, 927840
+Derekler *жиым
+Almış yeri
+*RANK  işlevi gösterilen sayın listesinde büyük- *кішілігін #tersine almış yerini *қайтарады.
+*RANK 2; 1; 2; 3 neticesi 2
+Malum *Y *жиымы
+Malum *X *жиымы
+*SKEW  işlevi *үлестірімнің *ассиметриясын takdir etir
+*SKEW say; *сан2;...
+*SKEW kapsam
+*SKEW 11, 4; 17, 3; 21, 3; 25, 9; 40, 1 *қайтаратыны 0, 9768
+*SKEWP  işlevi sonucu #boy *үлестірімінің *ассиметриясын oranlar
+*SKEWP say; *сан2;...
+*SKEWP kapsam
+*SKEWP 11, 4; 17, 3; 21, 3; 25, 9; 40, 1 *қайтаратыны 0, 6552
+*SLOP*E  işlevi *сызықты *регрессия yaratmasının *көлбеулігін oranlar.
+*SLOP*E *y; *x
+Yeri aşağısından başlatıp
+*SMALL  işlevi kapsamından *k- *ші en aşağı özünü bulur.
+*SMALL kapsam; *k
+*A1: 3, *A2: 1, *A3: 5 =  *SMALL *A1: *A3; 1 *қайтаратыны 1
+*Нормалайтын say
+*Үлестірімінің ortası
+Standartı *ауытқу
+*ST*ANDARDIZ*E  işlevi *нормаланған özünü oranlar.
+*ST*ANDARDIZ*E *x; orta, *ст_ *ауыт
+*ST*ANDARDIZ*E 4; 3; 7 *қайтаратыны 0, 1429
+*ST*DEV  işlevi *таңдаманың standartı *ауытқуын takdir etir. Standartı *ауытқу dediği özler ortasından hangi oranda *шашылғанының ölçümü.
+*ST*DEV öz; öz;...
+*ST*DEV 6; 7; 8 neticesi 1
+*ST*DEVA  işlevi *таңдаманың standartı *ауытқуын takdir etir. Standartı *ауытқу dediği özler ortasından hangi oranda *шашылғанын ölçümü. *Таңдаманың arısında metin ne *логикалық F*ALSE özü *кезессе, o 0 diyip oranlanır, *логикалық T*RU*E *кезессе, 1 diyip oranlanır.
+*ST*DEVA öz; öz;...
+*ST*DEVA 6; 7; *A1; 8, eğer *A1 boş olsa, neticesi 1,
+*ST*DEVA 6; 7; *A1; 8, eğer *A1 *ұяшығында T*RU*E olsa, neticesi 3, 109
+*ST*DEVP  işlevi tam sonucunun standartı *ауытқуын takdir etir
+*ST*DEVP öz; öz;...
+*ST*DEVP 6; 7; 8 neticesi 0, 816497...
+*ST*DEVP*A  işlevi tam sonucunun standartı *ауытқуын takdir etir. Standartı *ауытқу dediği özler ortasından hangi oranda *шашылғанының ölçümü. Sonucunun arısında metin ne *логикалық F*ALSE özü *кезессе, o 0 diyip oranlanır, *логикалық T*RU*E *кезессе, 1 diyip oranlanır.
+*ST*DEVP*A öz; öz;...
+*ST*DEVP*A 6; 7; *A1; 8, eğer *A1 boş olsa, neticesi 0, 816497
+*ST*DEVP*A 6; 7; *A1; 8, eğer *A1 *ұяшығында T*RU*E olsa, neticesi 2, 69
+*ST*DEVP*A 6; 7; *A1; 8, eğer *A1 *ұяшығында F*ALSE olsa, neticesi 3, 11
+*ST*EYX  işlevi herbir *x- *ке *сәйкесті *y - *регрессиясы #boy *болжаған özün standartı hatasını oranlar.
+*Жиым
+*SU*MP*RO*DUCT  işlevi *SU*M *X* *Y devretildiği özlerinin bir- birine artma neticelerinin *қосындысын oranlar. Iki *жиымының uzunlukları birce olmaya lazım. #Yoksa , hata simgesi *қайтарылады.
+*SU*MP*RO*DUCT *жиым1; *жиым2
+*SU*MP*RO*DUCT *A1: *A2; *B1: *B2, *егерде *A1=2, *A2=5, *B1=3, *B2=5 olsa, *қайтаратыны 31
+*SU*MX2P*Y2  işlevi *SU*M *X2+*Y2 devretildiği özlerinin karelerinin *қосындысын oranlar. Iki *жиымының uzunlukları birce olmaya lazım. #Yoksa , hata simgesi *қайтарылады.
+*SU*MX2P*Y2 *жиым1; *жиым2
+*SU*MX2P*Y2 *A1: *A2; *B1: *B2, *егерде *A1=2, *A2=5, *B1=3, *B2=5 olsa, *қайтаратыны 63
+*SU*MX2MY2  işlevi *SU*M *X2- *Y2 devretildiği özlerinin karelerinin *айырымын oranlar. Iki *жиымының uzunlukları birce olmaya lazım. #Yoksa , hata simgesi *қайтарылады.
+*SU*MX2MY2 *жиым1; *жиым2
+*SU*MX2MY2 *A1: *A2; *B1: *B2, *егерде *A1=2, *A2=5, *B1=3, *B2=5 olsa, *қайтаратыны - 5
+*Протоколы:
+*Тізбекті limanı
+Süratı:
+Aygıtı:
+*IRDA
+Aygıtı:
+Bekleme vakti:
+*Тізбекті limanı
+Çağırması:
+Katıldı
+% % 1 yol
+*Контакттар
+Olaylar
+Planlayacak
+*Жазбалар
+Takımı:
+Takımı
+Genel takımın *баптаулары
+% % 1 üyesini katma hatası% 2 Türü:% 3
+*Қадамдастыру takımını *баптау
+Üyeyi katma...
+Şimdi *қадамдастыру
+Hazır
+Takımı:% 1
+Sonrakı *қадамдастырылған anı:% 1
+Hâlâ eylenmeyen
+Hatası:% 1
+Katıldı
+#PP*IM *қадамдастыруы
+Okunan bilgiler
+Yazılan bilgiler
+*Ажыратылды
+*Қадамдастыру *жаңылысы
+*Қадамдастыру anı #safra
+#Ön *қадамдастыру *жаңылған
+Çelişkiler çözüldü
+Dönüşümler okundu
+Dönüşümler yazıldı
+*Қадамдастыру *жаңылысы
+*Ажыратылды
+Hatası:% 1
+*Kitch*enSync
+*KDE- *нің *қадамдастыру kullanmayacağı
+#c c 2005, *KDE P*IM takımı
+Şimdiki #eğit
+*Қадамдастыру
+Doldu katma...
+Doldu *өшіру...
+Doldu işleme...
+*Қадамдастыру takımını yapmak
+Yeni *қадамдастыру takımının çağırması.
+% % 1 *қадамдастыру takımı *өшірілсін mı?
+#PP*IM *қадамдастыруы
+Alçakgönüllü
+#PP*alm
+*KDE P*IM
+Uzaktaki dosya
+Cep ahizesi
+*Evo*lut*io*n
+Cep aygıt
+*LDAP
+*Goo*gle C*alendar
+*Su*nbird C*alendar
+*Беймәлім
+Katıldı
+*Өшірілді
+Değişildi
+Değişilmeyen
+Çelişki bulundu, #kendi #çöz.
+Seçilen alsın
+*Қосарлансын
+Çelişkiyi tanımama
+Üye türünü seçme
+#& & Yoğunlayacak
+*НегізгіNAME OF T*RANSLATO*RS
+Kullanıcısı: *EMAIL OF T*RANSLATO*RS
+Yazma kullansın
+#OpOp*enSync kaynak şartına getirme hatası.% 1
+#PP*IM *қадамдастыруы
+Bu üye *плагин *модулінде *баптауы yok.
+Takvim:
+*Қапшығы:
+Bütün iç *қапшықтары adım- eleştiri
+Kullanıcı:
+Şimdi *паролі *плагин *модулінің *баптау dosyasında *кәдімгі metinde yazılıp *сақталағанын *ескеріңіз
+Takvimin U*RL- *і:
+Örneği:
+*Қосылымы:
+*Инфрақызыл limanı
+#TCPTCP
+#UU*SB *no*kia_ *dku2
+#UU*SB *libu*sb
+*Тізбекті limanı *DAU9P *кабелі
+*Тізбекті limanı *DLR3P *кабелі
+#TT*ekram *Ir- *Do*ngle
+*Тізбекті limanı *M2BU*S *протоколы
+Yerli
+*SSH
+Bağlantı *режімі:
+*ИнфраҚызыл *ИҚ
+*Кабель
+*Қосылымы
+*Қосылымыңыздың türünü seçin.
+Erişimleri
+#OO*BEX UU*ID *IRMC- *SYNC gönderilmeyeceğini
+Katarak O*BEX UU*ID göndermeme. Bunu eski *IRMC *негіздеген cep ahizeler zaruret eder.
+#UU*RL- *і:
+Tamamıyla
+Bir
+Iç
+*Шифрлау kullansın
+*LDAP- bil bilgiler yüklesin
+*LDAP- *қа bilgiler korusun
+Anahtar *атрибуті:
+Arama alanı:
+Aygıtı:
+*Құрылығының *IP:
+*Құрылығының türü:
+#FTPFTP
+*сек
+Kullanıcı
+Kullanıcısı göre gelmese ne eyleme gerek
+Şunda da *қадамдастыру
+Ne eyleme gerek diyip sorma
+Kesme
+*Қадамдастыру *құлақтандыруы
+Gereksiniminde çıkmış *қалқымалы penceresi
+*Goo*gle C*alendar
+*Goo*gle C*alendar
+Yeri
+*Контакттар
+*Su*nbird C*alendar
+Derekler mülkleri
+*Контакттар:
+Takvim:
+*Жазбалар:
+Kullanıcısı:
+Yollar tablosu kullansın
+Tek yazmaları *алмастырылсын
+Kullanıcısı:
+Onaylama fişi:
+*Макс. nesne ölçümü
+*Sync*ML nüshası:
+1. 0
+1. 1
+1. 2
+*WAP *бинарлы *XML
+*Бағдарламалық yapma:
+*Blu*etooth *адресі:
+Aygıt çağırması:
+*Тізбекті nosu:
+Aygıt üreticisi:
+*So*nyEric*sso*n *Eric*sso*n
+*Siemens
+% % 1 *плагин *модулінің *баптауы okunmadı:% 2
+% % 1 *баптаулары işsizlik.
+#OpOp*enSync kaynak şartına getirme hatası.% 1
+Bitti
+Bitmedi
+#& & Önemi:
+*Ескертпе:
+#Bu liman yok.
+#Bu aygıt yok.
+Bu P*ilot aygıtını açmaya lisansın yok.
+#PP*ilot yolunu ve lisanslarını *тексеріңіз.
+*беймәлім
+Cep aygıtında vakti yapmak
+*Тексеру.
+*Қадамдастыру bitirildi.
+*Қадамдастыру
+Tam *қадамдастыру
+Kompüterden cep aygıtına
+Cep aygıttan kompütere
+*Сақтық götürmeyeceği
+*Сақтық götürmeyeceğinden kalıpına getirme
+Sonraki *қадамдастыру
+*Қад- *струдың gereksinimi yok
+Soru
+Soru & şimdi koysun
+Bu aygıttan bilgiler beklenmede
+#PP*ilot- ve #баğla *сокеті yapılmadı
+bağlantı yapılan
+#PP*ilot- bil *жүйелік bilgi okunmadı
+Sonrakı *ДК- *ны *тексеру...
+#PP*ilot- bil kullanıcı bilgisi okunmadı. *Бәлкім aygıtta *пароль yapılmış ?
+#PP*ilot aygıtı hâlâ *бапталмаған.
+#PP*ilot aygıtı hâlâ *бапталмаған.
+*Қадамдастыру bitirildi
+Bölge semti:
+Tüm *күндік olay
+Bitirilme vakti:
+dakika
+saat
+gün% 1 *is th*e *du*rat*io*n,% 2 *is th*e t*ime u*nit
+gün
+hafta
+ay
+yıl
+Mutlak *қайталану
+Olmuş anları:.
