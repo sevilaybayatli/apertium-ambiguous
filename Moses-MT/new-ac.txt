@@ -1,0 +1,6300 @@
+Dikey Olarak Ayna Görüntüsü Verilmiş 
+Dikey Olarak Ayna Görüntüsü Verilmiş 
+Dikey Olarak Ayna Görüntüsü Verilmiş 
+bilinmeyen doğrultu 
+değişiklikleri Doğrula 
+yapılandırma al 
+önceki yapılandırma қайтарылсын 
+Экраннің Ayarları сұралғандарына değiştirildi. Yeni параметірлеге көшетіңізді құптаңыз, aksi 15 saniye sonra İlk ayarlarınıza gönderilir. 
+üst Burgaç кеңейтулерінің% 1.% 2 sürümü 
+ekran yeniden Boyutlandır ve Çevir Ayarları 
+seçilirse, sistem çekmecesi апплетімен kurulu Seçenekler сақталып, sonraki сеанстарында қолданылады, әйтпесе, açılışta bu oturum аяғына дейін. 
+ekran seçenekleri: 
+Ayarları өзгертілетін ekran bu alandan, seçilecek. 
+ekran boyutu: 
+Экраныңыздың өлшемі, Bu айырымдылығы, bu alandan, seçilecek. 
+güncelleme Yoğunluğu: 
+ekran güncelleme sıklığı bu alandan, seçilecek. 
+Экраныңызды Burgaç ayarlar. 
+yön градус, saat Yönünün Tersinde 
+Bu kurulu ekran Boyutu ve yön KDE sonraki oturum басталғада kullanılır. 
+Өзгертулер KDE sonraki бастауында kullan 
+sistem çekmecesi апплетімен орнатылғандар Kaydet 
+çıktıyı Yapılandır 
+Boyut: 
+Жаңарту: 
+Yönelim: Position of the screen 
+konumu: 
+ekran Ayarları X11- için kesin өзгертуі, бұрауы, ve шағылысуы 
+Шығыстарын анықтауNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+ekran yeniden Boyutlandır ve Çevir 
+# KDE sistemi құрған,% 1 # # GTK i KDE sistemi құрғанын қаламасаңыз # Kontrol Merkezindeki Görünüm - Renk modülü adı # KDE- hesabın olmayan uygulamaları içerisinde bu renk kullan # İşaretini ve # # 
+KReadConfig 
+KConfig girdiyi okuma - kabuk betikleri için 
+C 2001 Red Hat, Inc. 
+Bernhard Rosenkraenzer 
+genel Yapılandırma yerine file kullan 
+içerisinde arama топ. Ішіндегі gruplar için yeniden kullanın. 
+Кілті 
+Bu seçeneği öntanımlı değer 
+Айнымалының tipi 
+Ayarlar 
+% 1:% 2 
+Eylemleri 
+arama tipi. 
+Жүктеу... 
+0, yok. 
+% 2 
+otomatik Çık 
+Жүйеден шықпай, oturumda Kal için тірілшілік етіңіз - ile қимылдаңыз veya tuşuna basılı Arkaplan 
+Geri kalan süre: 
+krunner oturum бұғаттауышы 
+oturum kapatılmaya pasifleştir 
+sadece ekran Koruyucu Başlat 
+sadece boş ekran koruyucu kullan 
+yapılandırmanızı ашыық плазмамен başlat 
+бұғаты шешілмейтіндіктен oturum бұғатталмайды: 
+kcheckpass başlatılamıyor. 
+kcheckpass her izin changes root SetUID орнатылмағаны olabilir. 
+gerekli сәлемдесу Modülü yapılandırılmamış. 
+oturum pasif 
+Сеансты% 1 бұғаттаған 
+& Бұғатты Aç 
+Пайдаланушыны & ауыстыру... 
+Бұғатты açma Başarısız 
+Uyarı: Caps Lock tekrar var 
+doğrulama sistemi жаңылысынан ekran бұғаты шешілмеді; krunner_ lock процесін pid% 1 elle құрту gereklidir. 
+& Başlat 
+İlk oturum жалғастырудың орнына, yeni бастауды kapatıldığı Bu oturum жасырылып, yeni giriş penceresi açılacak. Her oturum İçin bir F- tuşu арналады, genellikle ilk oturum İçin F% 1 пернесі, bazı - F% 2 tuşu ve diğerleri Oturum біреуіне geçmek için Ctrl, alt tuşlarına basarak тұрып, bir oturum İçin ile F- tuşuna basın. Соған ve KDE çubuğu ve masaüstü мәзірлерінде oturum араларында geçiş амалдарын bulabilirsiniz. 
+& bir daha sorma 
+oturum 
+Орыныsession 
+& Белсендету 
+& Başlat 
+komut Çalıştır 
+komut Çalıştır KDE arayüzü 
+komut Çalıştır arayüzü 
+C 2006, Aaron Seigo 
+Aaron J. Seigo 
+yazar ve желілдіруші 
+Плагиндер 
+kullanıcı arayüzü 
+kullanılabilir servisler Özellikleri 
+Командаға бағытталған 
+Тапсырмаға бағытталған 
+önceden қарауNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+sadece ekran Koruyucu Başlat 
+sadece boş ekran koruyucu kullan 
+sistem белсенділігі 
+farklı буферіндегі komut Çalıştır 
+sistem белсенділігін göster 
+Пайдаланушыны Değiştir 
+oturum pasifleştir 
+oturum sonu 
+oturum құптаусыз bitiş 
+doğrulama сұрамай Durdur 
+doğrulama сұрамай yeniden бастауRun krunner restricting the search only to runner% 1 
+oturum düzgün аяқтауға келмей тұр. Oturum yöneticisi yanıt vermiyor. Ctrl+Alt+Backspace bir kısayolu klasörün аяқтауға makul бірақ, бұлай kapatılmaya bittiğinde oturum durum kaydedilemedi. 
+krunner Ayarları 
+krunner бұғаттауышы 
+Çalıştır командасы:% 1 setup args Rastgele ekran Koruyucu жегеді. Tüm - setup - u diğer argümanlar ekran сақтаушысына тапсырылады. 
+Rastgele KDE ekran koruyucu başlat 
+Rastgele ekran koruyucu 
+ekran koruyucusunu Yapılandır 
+bir XWindow- de başlat 
+Түбірлі XWindow- de başlat 
+Rastgele әкран koruyucusunu Yapılandır 
+OpenGL Ekran сақтаушылар kullan 
+Экранмен манипуляциялар alarm için сақтаушысылар kullan 
+% 1 ev dizini bulunamadı. 
+% 1 kullanıcı yok. 
+% 1 dosyası ve dizin bulunamadı. 
+& ShortURLs 
+X11R6 standart oturum Yönetimi bağlantı XSMP kullanılacak güvenilir KDE oturum менеджері. 
+KDE oturum yöneticisi 
+C 2000, KDE geliştiricileri 
+Matthias Ettrich 
+Luboš Luňák 
+Жетелдірушісі 
+izin ise kullanıcı kaydedilmiş oturumunu geri 
+bir pencere yöneticisi 3% yoksa wm Yöneticisini bu ekle. olarak kwin belirler 
+Қашық bağlantılara de izin етілсінNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+% 1 шыгуды Tarafından İptal Edildi 
+Жүйден çık 
+bilgisayarı & Kapat 
+& Zaman Kipi 
+bellek Kaydetmeyi bir askıya alma 
+& Дискіне Kaydetmeyi bir askıya alma 
+bilgisayarı yeniden жегуdefault option in boot loader 
+İptal 
+қолданудағы 
+Yeni Temalar Al... 
+Yeni temalar indir 
+bu olabilir. için İnternet etkin olmalıdır. Керсетілетін pencerede http: www. kde. org web сайтындағы bir tema listesi çıkacak. Қалаған нақышқа için düğmeye temayı bir Yakalama seçebilirsiniz. 
+tema Dosyası Kur... 
+Өзіңізде zaten arşiv dosyasından bir temayı Ayarla 
+Өзіңізде temanın arşiv dosyası mevcut ise bu düğme onu тарқатып, KDE uygulamaları içerisinde kullanılabilir yuvarladığını 
+temayı Sil 
+seçilen temayı diskten sil 
+seçilen temayı diskten sil. 
+temayı Ekle 
+seçilen temayı öğrenebilirsiniz. Çık 
+seçilen temayı öğrenebilirsiniz. edildi. 
+% 1 dizinidir, мазмұнымен ve silinsin mi? 
+Sil 
+% 1 tema Sil 
+tema yüklenemedi Unknown name 
+bilinmeyen 
+атауы:% 1Unknown description 
+Açıklama:% 1Unknown version 
+sürüm:% 1Unknown a 
+Yazar:% 1Unknown homepage 
+ev парағы:% 1 
+bu нақышқа% 1 деген, sisteminizde орнатылмаған, eklentisi gereklidir. 
+temanın yapılandırma dosyası yüklenemedi. 
+Көруге kapatıldı. 
+KSplash tema Dosyaları 
+temayı Ekle 
+Бейнеперде ekran Testi başarıyla gönderilemedi. 
+& Нақыштарды Ayarla 
+KDE бейнеперде ekran tema Yöneticisi 
+C 2003, KDE Geliştiricileri 
+Ravikiran Rajagopal 
+Brian Ledbetter 
+asıl KSplash ML yazar 
+KDE tema Yöneticisi yazar 
+Орнатқыштың kodlar 
+Hans Karlsson 
+Бейнеперде ekran tema yöneticisi Бейнеперде ekran tema Görünüm ve ayarlar. NAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+KStart 
+Қолданбаларды özel özellik таңбашаға түйілген, büyük жайылған, bir sanal үстелде, özel безендіруімен vs. терезелі olarak başlat утилитасы. 
+C 1997- 2000, Matthias Ettrich ettrich@ kde. org 
+Matthias Ettrich 
+David Faure 
+Richard J. Moore 
+çalıştırılacak komut 
+pencere yukarı düzenli ifade 
+bu pencereyi gösteren masaüstü 
+uygulama girişte назарда Tel үстелінде penceresini göster 
+pencere tüm Masaüstlerinde göster 
+pencere таңбашаға түйіп koyu 
+pencere Büyüt 
+pencere Yatay büyütülmüş 
+pencere Dikey Büyüt 
+pencere tam ekrana Genişlet 
+pencere türleri: Roll Widget Masaüstü Desktop, Ендірілген Dock, Araç Toollbar, Menü Menu, Pencere Dialog, Menü Çubuğu TopMenu veya Üzerine yazdırılma üzerine Yaz 
+diğer sanal masaüstü başlatılan bile pencereler git 
+pencere sayfa önce ұстауға тырысу 
+pencere артында ұстауға тырысу 
+penceresi görev çubuğunda көрсетілмейді 
+penceresi masaüstü Listeleyicide көрсетілмейді 
+penceresi панельдегі ipucunda gösterilecek 
+komut келтірілмегенNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+değiştirildi 
+web Açık parçacık biçiminin Modülü 
+Жолдардың genişliği артығрақ göster 
+Құрал çubuğu элементтердің Sil göster 
+Үшбұрышты ağaç тарқатушысы 
+kaydırma çubuğu жебелерін renklendirme 
+İlerleme көрсеткіштерді анимациялау 
+Файл% 1 açılamadı. 
+% 1 geçersiz XML dosyası 
+% 1 dosyası KSysGuardWorkSheet bir belge tipi ait Göster alanı geçerli girdisi yok. 
+% 1 değerler Göster alanı boyutu geçersiz. 
+% 1 kaydedilemedi 
+farklı буферінде geçerli ekran açıklama yok. 
+ekran tipi Seç 
+& Doğrusal grafik 
+dijital ekran 
+& Жолақты Çizelge 
+Günlüğü dosyaya yazma 
+ekranı & Sil 
+ekranı & Sil 
+Жай% 1 is a host name 
+% 1 хосттан bir хабар:% 2 
+% 1 servis бағларламасы başlatılamadı. 
+% 1 servis бағларламаның başarısız. 
+bir değişiklik 
+Денгейі 
+процессордың жүктелісі 
+boş тұруы 
+öncelik 
+kullanıcı жүктелісі@ item sensor description 
+olabilirsiniz. Sistem şöyle жүктелісі 
+Zaman 
+genel жүктелісі 
+bellek 
+Fiziksel Bellek 
+takas bellek 
+Кэштелген bellek 
+Буферлік bellek 
+Қолданудағы bellek 
+uygulama bellek 
+boş bellek 
+etkin bellek 
+Белсендіксіз bellek 
+kurulu bellek 
+çalışma sayfasının 
+dosya sayfasının 
+Процесстер sayısı 
+Процесстерді Yönetimi 
+Дискінің белсендігіCPU Load 
+жүктелісі 
+tüm eylemleri 
+okuma Eylemleri 
+girdi Eylemleri 
+оқылғаны 
+Жазылғаны 
+okuma zamanları, İnternet bağlantıları ms 
+yazma zamanları, İnternet bağlantıları ms 
+ve Bu Ekle Kaldır 
+girdi sayfa 
+yazdırma sayfa 
+Контексті ауыстырушылар 
+ağ 
+интерфейстер 
+alıcı 
+Бергіш 
+Денгейі 
+Сығылған Paket 
+Тастаған Paket 
+Қателер 
+Кезектің ın aydınlanma kesri 
+Кадр Hataları 
+Мультикаст 
+Дестелер@ item sensor description carrier is a type of network signal 
+Тасушы 
+Қайшылықтар 
+veritabanı 
+Сығылған Paket 
+Тастаған Paket 
+Қателер 
+Кезектің ın aydınlanma kesri 
+Кадр Hataları 
+Мультикаст 
+Дестелер@ item sensor description carrier is a type of network signal 
+Тасушы 
+Сокеттер 
+Sayısı 
+Tablo 
+güç Yönetimi APM 
+ACPI 
+Қызу аймағы 
+Температура 
+Желдеткіш 
+durum 
+батарея 
+батарея ın aydınlanma kesri 
+Pilinizin жұмсалғаны 
+Geri kalan zaman 
+Үзілімдер 
+orta жүктелісі 1 dakika 
+orta жүктелісі 5 dakika 
+orta жүктелісі 15 dakika 
+Zamanlayıcı Hızı 
+donanım сенсорлары 
+Бөлімдер қолдануы 
+Жұмсалған konum 
+boşluk 
+ın Seviye 
+sistem 
+Тірілік zamanı 
+Linux Soft Raid md 
+Процессорлар 
+Өзектер 
+дисплейлер sayısı: 
+Sayısı 
+дисплейлер sayısı: 
+дисплейлер sayısı: 
+İşlemci% 1 
+Диск% 1 
+Желдеткіш% 1 
+Sıcaklık% 1 
+tümü 
+Int% 1the unit 1 per second 
+1 s 
+КБайтthe unit minutes 
+минthe frequency unit 
+МГцa percentage 
+% 
+Бүтін sayı 
+tüm nokta aralıklarına 
+% 1 қосылымынан İptal iptal edildi 
+% 1 Sağlayıcı bulunamadı 
+% 1 хостында ağ hatası örneğin ağ кабелі yanlışlıkla суырылып kaldı. 
+% 1 makine hata:% 2 
+Zamanlayıcı Ayarları 
+Göster alan Ölç arasındaki kullan 
+Ölç aralığı: 
+sn 
+tüm дисплейлер bir аралықпен өлшеулерді olacaktır. 
+makineye bağlantı 
+Хост: 
+Қосылатын makine girin. 
+Қосылым tipi 
+SSH 
+bu uzak makineye güvenli SSH protokolü ile bağlantı için seçin. 
+rsh 
+bu uzak makineye rsh protokolü ile bağlantı için seçin. 
+servis 
+Қосылатын yerel bilgisayardan kimliklerinizden талаптарын ksysguard servisi erişim için 
+diğer komut 
+uzak комьютерде ksysguard servisi aşağıdaki komutu çalıştırılırken için 
+Port: 
+ksysguard servisi hangi port ile bağlantılara күтетінін girin. 
+Örneğin, 3112 
+Команда: 
+бақылауын özel makinede ksysguard servisi tarafından komutu girin. 
+ve SSH - l root remote. host. org ksysguardd 
+% 1 alanı 
+% 1 bu kaydedilmemiş veritabanı içeriyor. Сақтағыңыз istiyor musunuz? 
+*. sgrd_BAR_Сенсор dosyası *. sgrd 
+Импорттайтын sekme Dosyası Seç 
+Dosyasına Kaydet: sekmesi yok. 
+sekmeyi Aktar 
+Өшірілетін sekmesi yok. 
+Жүйені gözlem 
+Жолақты Çizelge ayarlarını değiştir 
+Ауқымы 
+İsim 
+buradan ekranın girin. 
+ekran Aralığı 
+alt sayısı: 
+alt Sınırı Eğer мәндердін durumunda her ikisini de al@ info: tooltip 0 ise, Aralık otomatik olarak seçilmesini 
+üst sayısı: 
+üst Sınırı Eğer мәндердін durumunda her ikisini de al@ info: tooltip 0 ise, Aralık otomatik olarak seçilmesini 
+дабыл 
+alt шетке жеткендегі дабыл 
+дабылды etkinleştir 
+alt шетке жетті bir дабылды Unutmayın, 
+alt деңгейдің sayısı: 
+üst шетке жеткендегі дабыл 
+üst шетке жетті bir дабылды Unutmayın, 
+üst деңгейдің sayısı: @ title: tab Appearance of the bar graph 
+Görünüm 
+sütun normal rengi: 
+Шектен Çıkıldığındaki rengi: 
+Arkaplan rengi: 
+yazı tipi boyutu: 
+Buradan sütun bulunan жарлығында kullanılacak yazıtipi boyutu yapılandırmanızı Eğer metin çok büyük ise Boyut автоматтытүрде кішірейеді, olarak buradan yazı кішірегін konumunu 
+сенсорлары 
+Düzenle... 
+Жарлықты için bu düğmeye tıklayın. 
+Sil 
+Сенсорды için basın. 
+Диаграмманың etiketi 
+Yeni жарлығы: 
+Графикті Yapılandır 
+genel 
+adı: 
+Cetveller 
+dikey odak 
+bu ekran alanı gösterilecek мәндерге бейімделіп kalacaktır. Қойылмаса, aşağıda belirt аумағында şehir sağlar. 
+buradan ekranın girin. 
+Yatay odak 
+piksel zaman 
+Izgara 
+çizgiler 
+dikey çizgiler 
+Görünüm үлкендігі yeterli ise dikey satırlarını için bu seçeneği işaretleyin. 
+aralığı: 
+iki dikey сызықтардың arasındaki girin. 
+dikey kaydırma satırlarını 
+жатық çizgiler 
+Görünüm үлкендігі yeterli ise жатық satırlarını için bu seçeneği işaretleyin. 
+Мәтіні 
+Осьтердің Kutuları göster 
+жатық сызықтардың için değeri için bu seçeneği işaretleyin. 
+renk Seç... 
+Диаграммадағы сенсор rengini için basın. 
+Ağağı 
+Төменге 
+сенсор Günlüğü 
+Tamam 
+hata 
+Özellikleri 
+ekranı & Sil 
+bu сенсордың дисплейі. algılayıcı displayname yapılandırma için fareyi ekranın аумағына veya қоршауына меңзеп, sağ düğmesine қалып, ve açılır menü Davranış bir yol seçin. Дисплейді Göster adreslere Sil için Дисплейді Sil düğmesine seçin. 1 Largest axis title 
+99999 XXXXunits 
+% 
+% 1:% 1 and% 2 are sensor s last and maximum value 
+% 1 % 2units 
+units 
+units 
+units 
+units 
+units 
+units 
+units 
+a percentage 
+% Arguments are formatted byte sizes used total 
+Günlük 
+Zamanlayıcı aralığı 
+сенсор adı 
+makine adı 
+Günlük dosyası 
+Сенсорды Sil 
+& Сенсорды Düzenle... 
+Жүрналдауды & bitiş 
+Журналдауды başlat 
+makine 
+сенсор 
+Өлшем Birim 
+durum 
+Жарлық 
+Günlük dosyası Ayarları 
+boyama rengi: Multimeter is a sensor display that mimics digital multimeter aparatus 
+Мултиметрды Yapılandır 
+Düzen Görünümünü Yapılandır 
+сенсор kayıt Yapılandır 
+Сенсорды buradan sürükleyip 
+bu Göster alanı boş орыны. Сенсорды сенсор шолғышынан sürükleyip buraya әкеліңіз. Lütfen bu hatayı nasıl Tel сенсордің uygulamanın ve өлшегенін бақылап отыруға sağlar. 
+& Dosya 
+& Dosya 
+Ayarlar 
+ana Araç ÇubuğuNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+dosya 
+дабылды izin ver 
+дабылды & etkinleştir 
+adı: 
+Өлшем büyüklüğün ekran yukarı gösterir. 
+& Бірлікгін göster 
+Aşağı@ action: button деңгейдің sayısı: 
+& Жоғарғы деңгейдің sayısı: 
+Цифрлардың normal rengi: 
+дабыл цифрларының rengi: 
+Renk 
+Yazı rengi: 
+Тордың rengi: 
+дабыл rengi: 
+& Metin 
+adı: 
+Filtreleme 
+& Ekle 
+Sil 
+& düzenlemek 
+Процесстер tablosu 
+процессордың Günlüğü 
+bellek ve takas Günlüğü 
+ağ Günlüğü 
+Қойындының касиеттері 
+Özellikleri 
+Жолдар: 
+Бағандар: 
+Göster alanı satır sayısını girin. 
+Göster alanı sütun sayısını girin. 
+Göster alanı başlığını giriniz. 
+сенсор tarayıcı 
+Сенсорларды Göster alanı boş ұяшықтарына veya Çubuğu апплетіне sürükleyip апарыңыз. 
+KDE бақылауышы 
+Жүйені gözlem 
+& Yeni қойынды... 
+Sekmeyi & Dosyadan Al... 
+Sekmeyi & Farklı Kaydet... 
+Sekmeyi Kapat 
+Қашықтағыны & бақылау... 
+& Sekmeleri İndir... 
+& Sekmeleri İndir... 
+Қойындының Özellikleri 
+Процессор:% 1 Arguments are formatted byte sizes used total 
+takas konum yok Arguments are formatted byte sizes used total 
+Своп:% 1 % 2 
+C 1996- 2008 KDE бақылауыштың geliştiricileri 
+John Tapsell 
+Geliştirici 
+Chris Schlaeger 
+İlk yazar 
+Greg Martyn 
+Tobias Koenig 
+Nicolas Leclercq 
+Alex Sanda 
+Bernd Johannes Wuebben 
+Ralf Mueller 
+Hamish Rodda 
+Torsten Kasch 
+Solaris desteği Коды William LeFebvre yazdığınız top komutu sunos5 modülü ile izin göre geçici алынған. 
+ek Göster alanlar dosyaları yükleniyor 
+yazıtipi: 
+Izgara сызықтар: 
+Аясы: 
+bu ekran кетіруіңіз istediğinizden emin misiniz? 
+ekranı Sil 
+Düzenle 
+Шектерді otomatik орнатуa percentage 
+bu çalışma орныңыз. Buradan қойындыларыңыз yerleştirecektir. Сенсоларды sürükleyip әкелудің önce bir Dosya Yeni sekmeyi Eğer 
+bağlantı% 1 Kaybedildi. 
+& Başlık Çubuğu 
+Жүйені gözlem апплетін Yapılandır 
+Өлшемдер арақатынасы: Number suffix in spinbox 
+& Sistem бақылауышты Başlat 
+% 1 ifadesi bir pencere yok ve komut de belirtilmedi. 
+KSysTrayCmd: K3ShellProcess kabuğu dikkate табалмады. 
+ksystraycmd 
+& Gizle 
+Yükle 
+& Сөреден Yükselt 
+Çık 
+tüm uygulamaların sistem çekmecesinde орналасуды etkinleştir 
+C 2001- 2002 Richard Moore rich@ kde. org 
+Richard Moore 
+çalıştırılacak komut 
+pencere yukarı сайкес düzenli ifade Üzerine келтірмесе, ilk yüzünden penceresi okunacak - ancak онша geçersiz olarak kabul edilir. 
+Мақсатты pencere numarasını Қолданатын pencere numarası Eğer келтірілгені 0x olarak басталса, bu bir sayı olarak kabul edilir. 
+Бастағанда pencereyi çekmecesinde Gizle 
+komut орындаудың önce тезезені görünür e zaman 
+paneli simge başlangıç ишарасын Ayarla 
+paneli simgesinin programı her аяқтаған sonra de kaydet. startonshow belirtilen ise bu ештеңеге bağlanabileceği, daha 
+Жүелік çekmecesinde pencere simgesi yerine ksystraycmd ksystraycmd simge kullan -- icon anahtarına belirtilen simgesini kullan 
+pencere sayfa önce ұстауға тырысу 
+тезезені gizliDevice information item is visible ile istemci programım de аяқталады. startonshow belirtilirse, bundan ve keeprunning için әсерлері yok. 
+komut veya pencere келтірілмегенNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Yeni tema 
+KDE tema Yöneticisi 
+bu Modülü KDE İçin tema орнату, Sil ve құрастырумен айналысады. 
+C 2003, 2004 Lukáš Tinkl 
+tema Dosyası 
+tema Dosyası Seç 
+% 1 temasını silmek istiyor musunuz? 
+temayı Sil 
+Менің нақышым 
+% 1 tema mevcut.% 1, is theme archive name 
+% 1 нақышыңыз başarıyla oluşturuldu. 
+tema oluşturuldu 
+Нақышыңызды Oluştur bir hata oluştu. 
+tema oluşturulma yok 
+bu temanın önceden қарауы yok. 
+Yazar:% 1 E- пошта:% 2 sürüm:% 3 Ev парағы:% 4 
+KDE İçin нақышңызды seçin: 
+Yeni Temalar İndir... 
+KDE tema Web Sitesine Çık 
+temayı Sil 
+& Жана temayı Oluştur... 
+Жана temayı & Ayarla... 
+tema 
+Нақышыңызды düzenle: 
+Үстелдің arkaplan Düzenle 
+Arkaplan 
+Түстерді Düzenle 
+Renk 
+Грфикалық arayüzü бөлшектердің Biçimi 
+biçim 
+Simge temasını Düzenle 
+Simgeler 
+yazıtipi temasını Düzenle 
+Қаріптер 
+ekran koruyucusunu Düzenle 
+ekran сақтаушы 
+& tema adı: 
+Yazar: 
+& E- posta: 
+& ev sayfası: 
+Açıklama: 
+& Нұсқасы: NAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+KTraderClient 
+KDE трейдер için bir Ekle коменда satırı aracı 
+mime tipi 
+Қызметтің türü, KParts ReadOnlyPart veya KMyApp Plugin gibi 
+трейдер сұрақтар тіліндегі сойлем құрлымы 
+% 1 % 2 өңдірілген кезі% 3 
+% 1 % 2 өңдірілді 
+% 1 өңдірілген% 2 s жылдамдығымен 
+% 1 өңдірілді 
+Duraklat 
+İptal 
+Devam 
+Бұларды diğer mevcut taşı. 
+Бұларды sil 
+tüm görevler listede gösterir. 
+tüm görevler бұтақта gösterir. 
+özel pencereleri gösterir. 
+Біткен görev 
+Бұларды diğer mevcut Taşı 
+Бұларды Sil 
+Görünüm 
+tüm görevler listede göster 
+tüm görevler бұтақта göster 
+özel pencereleri көрсетуNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Yapılandır... 
+arama 
+çalışıyor 
+Біткен görev 
+Тәртібі 
+İlerleme Yöneticisi 
+KDE işlem bilgilerini интерфейсінін Sunucusu 
+C 2000- 2008, KDE Takımı 
+Rafael Fernández López 
+Geliştirici 
+David Faure 
+İlk yazar 
+Matej Koss 
+Geliştirici 
+İsim 
+Eğer 
+Hiçbiri 
+Bu kontrol modülü web Eğer e özelleştirebilirsiniz. Web Eğer bir Интернетте sözcük hakkında hızlı arama салуға sağlar. Örneğin Google motorunun KDE bağlantısı için arama için düz sadece gg: KDE veya google: KDE olarak жазсаңыз geldi. Öntanımlı arama motorunu seçin. işaretlemek, Konqueror gibi bu özelliği Gömülebilir ilgili uygulamalar süzerek düz arama normal olarak iki sözcük теріп, arama сала seçebilirsiniz. 
+arama & Süzgeçleri 
+Eğer İnternet izin bu arama Örneğin, gg: KDE bir Google TM arama motoru içinde aratılacaktır. 
+web Kısayollarını Etkinleştir 
+arama motorunu ekle. 
+Yeni... 
+arama motorunu düzenle. 
+Değiştir... 
+seçilen arama motorunu sil. 
+Sil 
+normal kelime veya cümle girdiğinizde otomatik arama yapılacak arama motorunu seçin. Bu özelliği için listeden u seçin. 
+Öntanımlı arama motoru: 
+Қысқарманы arama Anahtar sözcükten veya kelimeyi ayıracak olan ayracı seçin. 
+& Anahtar kelime ayracı: 
+sütun 
+boşluk 
+Buradan arama motorunun adını buraya yazın. 
+& Arama motoru ismi arat: 
+& URI Ara: 
+Buradan girilen kısayollar KDE kullanılır. Örnek olarak av zamanda av: arama satırım olarak kullanılır. 
+& URI kısayolları: 
+Сұраныста kullanılacak karakter kümesini girin 
+& Karakter Kümesi: 
+arama işleminde kullanılacak karakter kümesini girin. 
+Öntanımlı 
+arama Motorunu Düzenle 
+Yeni Arama Motoru 
+Сұраныстың URI өрнегінде ... olarak biçimleme, alan басатыны yok. Соңдықтан, bir сөзге қарамастан, bu sorgu bir ana sayfaya edileceği 
+Қалсын 
+arama motorlarını ve kısayollarını gösterir. 
+% 1 penceresi etkinleştir аударуды istedi. 
+Композициялау çok yavaş takip аялдатылады. Композициялаудың ek параметрлерде істейтінің denetimini бұғаттай seçebilirsiniz. 
+Композициялау çok yavaş takip аялдатылады. Егерде bu geçici sadece bir sorun - % 1 тіркесіммен ve Shift+F3 Композициялаудың ek параметрлерде істейтінің denetimini бұғаттай seçebilirsiniz. 
+Қажетті X eklentileri XComposite ve XDamage yok. 
+istemci OpenGL bulunamadı. sadece OpenGL қолдауымен derlendi. 
+XRender XFixes кеңейтулер bulunamadı. sadece XRender қолдауымен derlendi. 
+istemci OpenGL ve XRender XFixes yok. 
+Композициялау компиляция bir кіргізілмеген. bir Xorg tasarım Başlıklar seçilmedi. 
+sistem 
+Gezinme 
+pencereler Arasında Gezin 
+pencereler Arasında Gezin Ters 
+pencereler Arasında Gezin 
+pencereler Arasında Gezin Ters 
+pencereler Arasında Gezin Ters 
+pencereler Arasında Gezin Ters 
+tüm Arasında Gezin 
+Үстелідерді Arasında Gezin Ters 
+Үстелдерінің listesi göre Arasında Gezin 
+Үстелдерінің listesi göre Arasında Gezin Ters 
+pencereler 
+pencere İşlemler Menüsü 
+pencereyi Kapat 
+pencere Büyüt 
+pencere Yatay büyütülmüş 
+pencere Yatay Büyüt 
+pencereyi küçült 
+pencere айдарға küçült 
+pencere Taşı 
+pencere Boyutlandır 
+pencere Yükselt 
+pencere Alçalt 
+pencere ileri geri Değiştir 
+pencere tam ekran ayarla 
+pencere Sınırı Gizle 
+pencere Diğerlerinin Üstünde Tut 
+pencere артында Tut 
+Назарды сұраған pencereye geçiş 
+pencere için kısayolları Yapılandır 
+pencere sağ тіреу 
+pencereyi sol тіреу 
+pencere yukarı sürükle, тіреу 
+pencere aşağı sürükle, тіреу 
+pencere sağ tıklayın. созу 
+pencere aşağı tıklayın. созу 
+pencere sağ tıklayın. toplam 
+pencere aşağı tıklayın. toplam 
+pencereyi sol тіреу 
+pencere sağ тіреу 
+0 экранына git 
+önceki Masaüstüne Geç 
+pencere sağ тіреу 
+pencereyi sol тіреу 
+ve masaüstü 
+pencere Tüm Masaüstlerinde göster 
+pencere 1 Masaüstüne Değiştir 
+pencere 2. Masaüstüne Değiştir 
+pencere 3. Masaüstüne Değiştir 
+pencere 4. Masaüstüne Değiştir 
+pencere 5. Masaüstüne ауыстыр 
+pencere 6. Masaüstüne Değiştir 
+pencere 7. Masaüstüne Değiştir 
+pencere 8. Masaüstüne Değiştir 
+pencere 9. Masaüstüne Değiştir 
+pencere 10. Masaüstüne Değiştir 
+pencere 11. Masaüstüne Değiştir 
+pencere 12. Masaüstüne Değiştir 
+pencere 13. Masaüstüne Değiştir 
+pencere 14. Masaüstüne Değiştir 
+pencere 15. Masaüstüne Değiştir 
+pencere 16. Masaüstüne Değiştir 
+pencere 17. Masaüstüne Değiştir 
+pencere 18. Masaüstüne Değiştir 
+pencere 19. Masaüstüne Değiştir 
+pencere 20. Masaüstüne Değiştir 
+pencere sonraki Masaüstüne Değiştir 
+pencere önceki Masaüstüne Değiştir 
+pencere sağdaki Masaüstüne Değiştir 
+bir Soldaki Masaüstüne Değiştir 
+pencere yukarı taraftan Masaüstüne Değiştir 
+pencere aşağı taraftan Masaüstüne Değiştir 
+pencere 0 экранына 
+pencere 1 экранына 
+pencere 2. экранына 
+pencere 3. экранына 
+pencere 4. экранына 
+pencere 5. экранына 
+pencere 6. экранына 
+pencere 7. экранына 
+pencere sonraki экранына 
+masaüstü Izgara göster 
+Masaüstüne Geç 
+1. Masaüstüne Geç 
+2. Masaüstüne Geç 
+3. Masaüstüne Geç 
+4. Masaüstüne Geç 
+5. Masaüstüne Geç 
+6. Masaüstüne Geç 
+7. Masaüstüne Geç 
+8. Masaüstüne Geç 
+9. Masaüstüne Geç 
+10. Masaüstüne Geç 
+11. Masaüstüne Geç 
+12. Masaüstüne Geç 
+13. Masaüstüne Geç 
+14. Masaüstüne Geç 
+15. Masaüstüne Geç 
+16. Masaüstüne Geç 
+17. Masaüstüne Geç 
+18. Masaüstüne Geç 
+19. Masaüstüne Geç 
+20. Masaüstüne Geç 
+sonraki Masaüstüne Geç 
+önceki Masaüstüne Geç 
+sağdaki Masaüstüne Geç 
+Soldaki Masaüstüne Geç 
+üst taraftan Masaüstüne Geç 
+alt taraftan Masaüstüne Geç 
+0 экранына git 
+1 экранына git 
+2. экранына git 
+3. экранына git 
+4. экранына git 
+5. экранына git 
+6. экранына git 
+7. экранына git 
+sonraki экранына git 
+çeşitli 
+fareyi эмуляциялау 
+pencere құрту 
+pencere алм. буферіне yakalar 
+Masaüstü алм. буферіне yakalar 
+genel kısayolları pasifleştir 
+Композициялауды Askıya Al 
+kwin: әлдебір pencere yöneticisi орындалуда. kwin başlatılamıyor. 
+KWin doğru істемей тұр. fazla kere қираған gibi diğer pencereler меенеджерін kurabilirsiniz: 
+kwin: yöneticisi emin алмады; bir pencere yöneticisi çalışıyor yeni Değiştir için -- REPLACE anahtarına kullanmayı көріңіз 
+KDE Pencere Yöneticisi 
+KWin 
+C 1999- 2008, KDE Geliştiricileri 
+Matthias Ettrich 
+Cristian Tibirna 
+Daniel M. Duley 
+Luboš Luňák 
+Жетілдіруші 
+ayarları pasifleştir 
+ne bir ICCCM2. 0 gibi pencere Yöneticisini Değiştir 
+KWin gelindiğinde o n kez қирағанын belirler 
+KWin: 
+KWin şimdi аяқтайды... NAME OF TRANSLATORS 
+Görkem ÇetinEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+ez İsimsiz kullanıcıya ait bütün & Üstünde Tut 
+ez İsimsiz kullanıcıya ait bütün артында Tut 
+& Tam Ekran 
+sınırı & yok 
+& Uç тіркесімі... 
+pencere özel Uygulamasını Yapılandır... 
+uygulama özel Uygulamasını Yapılandır... 
+& Matlık 
+& Taşı 
+kesin Düzenle 
+& Küçült 
+& Қең Genişlet 
+& Gölgele 
+Gelişmiş 
+pencere davranışlarını Yapılandır... 
+& Kapat 
+0 экранына git 
+pencere Taşı 
+hangi & masaüstü 
+& Tüm Masaüstleri 
+pencere белсендету % 1 
+% 1 masaüstü 
+pencere Sınırı saat ұйғардыңыз. Kenar жоқта fare ile yeniden Sınırı gösteren gösterecek алмайсыз. Оның орнына% 1 tuş тіркесімімен шақырылатын pencere Yönetimi menüsünü kullanabilirsiniz. 
+Терезеңізді tam ekran ise ұйғардыңыз. kullanabilirsiniz. Eğer uygulama kendi толықэкранды kipten İptal Motoru yok ise fare ile bu kipten düzeni алмайсыз. Оның орнына% 1 tuş тіркесімімен шақырылатын pencere Yönetimi menüsünü kullanabilirsiniz. 
+KWin yardımcı uygulaması 
+Доғаратын uygulamanın Süreç kodu 
+uygulama çalışan makine adı 
+Доғарылатын pencere başlık 
+Доғарылатын uygulamanın adı 
+bu uygulama paylaşımı Kimliği 
+Durdur çünkü амалының zamanını ayarlar. 
+doğrudan çağrılamaz. 
+% 2 isimli pencere yanıt бермей жатыр. bu терезе% 1 PID=% 3. хост=% 4 uygulamanın жатады. kutusuyla. her доғарасыз mi? Сақталмаған Veri tümü silecektir. @ title: window 
+% 1 Göster 
+Menü 
+Балық үстелдерге değil 
+Yapışkan 
+Yardım 
+küçült 
+geri 
+Büyüt 
+kapat 
+sayfa önce ұстамау 
+Diğerlerinin Üstünde Tut 
+Diğerlerinin Altında ұстамау 
+Diğerlerinin Altında Tut 
+Başlıktan Genişlet 
+gölge 
+pencere Dekorasyon модулінің Koleksiyon bulunamadı. 
+Bu seçeneği öntanımlı Dekorasyon Modülü зақымдалып, yüklenemedi. 
+% 1 Koleksiyon dosyası KWin Modülü değil. 
+*** Pencere yok *** 
+pencereler Arasında Gezin 
+pencereler Arasında Gezin Ters 
+kwin: bağlanmasına bir жаңылысқа ұшырап, доғаруда 
+Доғарылсын 
+mı 
+masaüstü текшесі@ title: tab Basic Settings 
+Gelişmiş 
+gösterilecek pencereyi Değiştir Güncel masaüstü 
+gösterilecek pencereyi Değiştir Tüm Masaüstleri 
+Bir Karlı efekti kapat 
+Бейнежазуды başlangıç Durdur 
+pencere Kutusu başlık Rengi ile yap 
+bu pencere sınırı айдарымен temalı makul әйтпесе, normal kenarlık kendi Rengi ile боялады. 
+boyutunu değiştirmek için бұрыштар göster 
+bu kesin için pencere sağdaki alt köşeye ұстайтын бұрыштама seçebilirsiniz. 
+bu geçerli Başlıklar virgül satır эффектімен бейнеленеді. 
+Әрекеттерді Yapılandır 
+Menü батырмасындағы çubuğuna çift tıklama: 
+öge етпейді 
+pencere түйеді 
+pencere айдарға түйеді 
+pencere жабады 
+Menü Sadece çift шертім жасағанда olacak eylem seçin. Күмәндәнсаңыз, Öge етпейтін күйінде bırakın. 
+Menü 
+tüm үстелдерінде değil 
+tüm үстелдерінде 
+küçült 
+Büyüt 
+kapat 
+Yardım 
+Başlıktan Genişlet 
+gölge 
+Boyutlandır 
+B II Başlığa şablonu 
+& келтіруHelp button label, one character 
+? 
+web 
+Айдарда virgül & satır efektlerini салынсын 
+bu geçerli Başlıklar virgül satır эффектімен бейнеленеді. 
+pencerelerin астында ұстайтын çubuğunu göster 
+bu pencerenin астында ұстайтын çubuğunu бейнеленеді. 
+& Gradyanlar бейнеленсін 
+bu pencereyi безендіруде, çok renk дисплейлерінде градиенттер kullanılır. 
+KDE 2 
+Keramik Başlığa şablonu 
+Diğerlerinin Üstünde Tut 
+Diğerlerinin Altında Tut 
+Redmond 
+KWMTheme 
+not 
+not değil 
+KWM temasını ayarlar 
+temayı yapılandırma dosyasının 
+tüm үстелдерінде 
+kapat 
+ноутбук 
+outline window title 
+draw separator 
+Sol- 
+Ортаға 
+Онға 
+küçük 
+büyük 
+büyük 
+Boyutlandır 
+& Gradyanlar бейнеленсін 
+Oxygen 
+tüm үстелдерінде 
+gölge батырмасыNAME OF TRANSLATORS 
+EMAIL OF TRANSLATORS 
+Keramik 
+& Айдарының томпағында pencere simge бейнеленсін 
+başlık томпағында, жазумен Ayrıca pencere simge бейнеленсін istiyorsanız bu seçeneği işaretleyin. 
+etkin pencerenin başlık томпағы & küçük göster 
+etkin pencerenin başlık томпағы, etkin olmayan pencerenin başlık томпағынан аспасын istiyorsanız bu seçeneği işaretleyin. Bu ноутбук veya çözünürlük düşük дисплейлерде, pencere içeriği için alır. dokunmanıza boşluk босатуыкерек için 
+pencerelerin астында ұстайтын жолақтар göster 
+pencerelerin астында ұстайтын çubuğunu göster istiyorsanız işaretleyin. Eğer yoksa ve burada sadece iyi sadece жиек бейнеленеді. 
+& Metin көлеңкелі göster 
+Айдардың metni, артында көлеңкесі zaten üç kesin olarak göster istiyorsanız bu seçeneği işaretleyin. 
+& Айдардың kayıt ығысуы 
+& Sol 
+Ортаға 
+& Онға 
+pencere түйеді 
+Айдардың rengi pencere içeriğini Rengi ile yap 
+pencere түйеді 
+pencere түйеді 
+Ортаға 
+& Айдардың kayıt ығысуы 
+pencere түйеді 
+Айдардың rengi pencere içeriğini Rengi ile yap 
+gölge 
+pencere түйеді 
+geri 
+KWM temasını ayarlar 
+KWM temasını ayarlar 
+pencere 
+bu pencere sınırı айдарымен temalı makul әйтпесе, arkaplan Rengi ile боялады. 
+pencere Sınırı boya 
+Düğmeler fare işaretçisinin тигенде, rengi өзгеріп, imleç ettirdiğinizde isim etiketi rengi İlk tipi қайтсын istiyorsanız bu seçeneği 
+Düğmeler canlandır 
+Microsoft Windows daha gibi menü Sadece çift шертім жасағанда pencere Kapat istiyorsanız bu seçeneği 
+Menü düğmesine çift tıklandığındaki pencere Kapat 
+bu pencere безендіруінің sınırı айдарымен temalı makul әйтпесе, normal kenarlık kendi Rengi ile боялады. 
+çok iyi Quartz 
+başlık çok iyi Кварц bir Dekorasyon tipi. 
+Quartz 
+pencere түйеді 
+pencere түйеді 
+boyutunu değiştirmek için бұрыштар göster 
+bu kesin için tüm pencerelerde sağdaki alt köşeye ұстайтын бұрыштама bu pencere yeniden değişmesini жеңілдетеді, özellikle ноутбуктердегі трекболдар ve diğer fareyi değiştirilecek құрылғылармен істегенде. 
+Buradan pencere Boyutlandır için бұрыштаманың yeniden ayarlayabilirsiniz. 
+orta 
+Modern System 
+Plastik 
+pencere түйеді 
+pencere Kutusu başlık Rengi ile yap 
+masaüstü текшесі 
+masaüstü цилиндрі 
+masaüstü сферасы@ title: tab Basic Settings 
+Temel@ title: tab Advanced Settings 
+Gelişmiş 
+Kas 
+masaüstü Karlı жаууын göster 
+yukarıdan Aşağıya ауыстырғышын kapat Güncel masaüstü 
+yukarıdan Aşağıya ауыстырғышын kapat Tüm Masaüstleri 
+fare іздерін Temizle 
+fare son yol Sil 
+fare tüm іздерін Temizle 
+Бейнені yazma жазбау aç kapat 
+Бейнені Kaydet dizini 
+geçerli pencere azaltır. ауыстыру@ action Enables Disables an EFFECT that makes windows more sharp 
+Keskinleştir efekti kapat 
+fare bakacağınızdan için Ctrl+Meta tuşlarına basarak bekleyiniz. 
+kapat efekti kapat 
+Терезедегіні kapat efekti болдыру Sil 
+masaüstü örgüsünü göster 
+pasifleştirilmiş 
+Жоғардан 
+üst Sağ 
+Sağdan 
+alt Sağ 
+Aşağıdan 
+alt сал haricindekilerde 
+Soldan 
+üst Sol 
+rastgele 
+1. Sekme 
+Arkaplan 
+Arkaplan rengi: 
+Түсқағазы: 
+белсендету 
+Görünüm 
+masaüstü adını göster 
+Yansıt 
+Burgaç ұзақтығы: Duration of rotation 
+Öntanımlı 
+pencereler küp üzerine göster 
+Буалдырлығы 
+% 
+şeffaf 
+Işık geçirmeyen 
+pencerelerin şeffaf еместігі өзгертілмесін 
+2. Sekme 
+Үсті- Altı қырлары 
+Үсті- Altı қырлары göster 
+Қырының rengi: 
+Үсті- Altı қырларында resmi göster 
+odak 
+Büyüt 
+küçült 
+bu болсын... 
+Gelişmiş Seçenekler 
+Efekt бұғатталса, küpte тыішқанмен бұрағаннан sonra bu белсендіктен айырылады, aksi etkin ve şehir reklâm 
+fare тартқаннан sonra Kapat 
+bu эффектті Eğer gezgin için kullanın 
+İmleç tuşlarına kapat 
+fare tuşlarını kapat 
+Сфераның төбесін майыстыру 
+Küre 
+Жазықтық 
+Барлыық Masaüstlerinde pencereleri анамацияланбасын 
+MS 
+Çubukları анимацияланбасын 
+Ақтарғыштың biçimi анимациялауға kullan 
+Karlı қылаулар sayısı: 
+Қылаудын en кішісі: 
+Қылаудын en үлкені: 
+& Dikey жылдамдылығының üst sayısı: 
+& Yatay жылдамдылығының üst sayısı: 
+Karlı & артында 
+Төңкеруді анимациялау ұзақтығы: Duration of flip animation 
+Бұрышы: 
+° 
+sayfa жағының Yatay konumu: 
+sayfa жағының Dikey konumu: 
+& adı göster 
+Genişlik: 
+& Renk: 
+Shift+Meta tuşlarına basılı fareyi жылжытып сызыңыз. 
+Dikey 
+Yatay 
+Ұзақтығы 
+Топтасқандырғанда сырғанасын 
+Sekmeyi сырғанатып Değiştir 
+& Енінің sayısı: 
+& Аралығы: 
+& Şeffaf еместігі: 
+Қандай қашықтықта pencereler gerektiğine анықтаңыз bir 
+Анимация 
+geçiş canlandır 
+Sekmeyi ашуы canlandır 
+Sekmeyi жабуы canlandır 
+Анимацияның ұзақтығы: 
+küçük Çubuğu 
+daha küçük çubuğunu göster 
+pencereler sayısı белгілегеннен büyük - küçük Çubuğu sadece göster 
+Devingen Kipi 
+pencereler sayısı: 
+Шағылысулар 
+Арт sol rengi 
+Алдының rengi 
+Қатаңдығы: 
+Sürükle: 
+& Жылжу көбейткіші: 
+& Бұлғалақтап жылжысын 
+yeniden boyutlandırırken бұлғалақталсын 
+Қеңейтілген kipi etkinleştir 
+& Бұлғалақтау 
+Азайсын 
+Үлғайсын 
+& Радиусы: 
+Metni 
+kayıt konumu: 
+boyutlandırma: içine 
+Ешқайда 
+sol- üstüne 
+sağ жоғарында 
+İmleç altında 
+sağ altında 
+kayıt yazıtipi: 
+kayıt rengi: 
+kayıt альфасы: 
+Arkaplan penceresinin & Matlık: 
+seçili pencere Sayfa & göster 
+pencereler & Arasında Gezin canlandır 
+Ölçekle ұзақтығы: Duration of zoom 
+& Жиегінің қалыңдығы: 
+masaüstü adı туралауы: 
+& Орналасу düzeni: 
+Ақтарғыш 
+otomatik 
+Келтірілгендей 
+& Sütunlar sayısı: 
+Boyut 
+px 
+Yükseklik: 
+& X- Kaydır 
+& Y- Kaydır 
+% 
+& Шашырауы: 
+& Өлшемі: 
+& Etkin pencerelerde көлеңкесі қалыңдау göster 
+Efekt & çubuklara kullan 
+Efekt & Masaüstüne kullan 
+Efekt & gruplara kullan 
+& Sertlik: 
+Табиғи için Ayarları 
+& Аралары толтырылсын 
+Тезірек 
+Әсемрек 
+pencereler 
+sol батырма: 
+arkaplan Yok 
+pencere белсендету 
+bitiş efektlerini 
+pencereyi geçerli Masaüstüne ve Bırak 
+pencere Yapışkan Yapıştır 
+pencereyi küçült Genişlet 
+pencereyi Kapat 
+orta батырма: 
+sağ батырма: 
+masaüstü 
+Masaüstü göster 
+Yapıştır düzeni: 
+& Pencere таңбашлары göster 
+pencereler arasında geçiş yapmanıza kullan 
+& Түйіп şablonlar pencereleri Yoksay 
+& Панелдер göster 
+Табиғи 
+Izgaraya 
+Икемді Izgaraya 
+şeffaflık 
+genel şeffaflık Ayarları 
+Безендіруі: 
+etkin olmayan pencereleri 
+Жылжымалы терезелер: 
+Диалогтар 
+tüm açılır тізімдер: 
+мәзірлер: 
+bir şekilde posta ұзақтығы: Duration of fading 
+Мәзірлерінің şeffaflığı жекелеп Ayarla 
+açılır мәзірлер: 
+tüm мәзірлер: 
+Тармақты мәзірллер: 
+pencereler aç kapat tüm pencere 
+pencereler aç kapat незардағы pencere 
+pencereler aç kapat pencere sınıfı için 
+Сүзгісі:% 1 
+yeniden реттеуDuration of rearrangement 
+% 1 Göster 
+Menü 
+Yapışkan değil 
+Yapışkan 
+Yardım 
+küçült 
+geri 
+Genişlet 
+kapat 
+sayfa önce ұстамау 
+Diğerlerinin Üstünde Tut 
+артында ұстамау 
+артында Tut 
+Başlıktan Genişlet 
+gölge 
+pencere Dekorasyon модульдің Koleksiyon bulunamadı. 
+Öntanımlı Dekorasyon Modülü зақымдалып yüklenmeycek. 
+% 1 Koleksiyon dosyası KWin eklentisi değil. 
+KDE metin düzenleyici bileşeni bulunamadı; lütfen KDE kurulumunuzu kontrol edin. 
+geçerli belgeyi kapat 
+Yeni belgeyi oluşturma komutu 
+bir belgeyi düzenlemek için aç komutu 
+yeniden bu en son açtığınız dosyaları listesi. 
+& Yeni Pencere 
+çalışılan belgeyi yeni bir görünümde açar 
+çalışılan belge görünümünü kapat 
+görünümün durum çubuğunu göster gizle komutu 
+yolu Göster 
+belgenin tam yolunu pencere başlığında göster 
+uygulama kısayol atamalarını yapılandırın. 
+Araç çubuklarında hangi ögelerin gösterileceğini yapılandırın. 
+Düzenleyici Bileşeni Bilgileri@ info: status Statusbar label for cursor line and column position 
+Satır:% 1 Sütun:% 2 
+Ekle @ info: status Statusbar label for line selection mode 
+satır 
+dosyalar 
+verilen dosya okunamadı, dosyanın var olup olmadığını ve kullanıcınız tarafınızdan okunup okunamayacağını kontrol edin. @ info: status Statusbar label for block selection mode 
+БЛОК 
+İsimsiz 
+KWrite 
+KWrite - Metin Düzenleyici 
+C 2000- 2009 Kate Yazarları 
+Christoph Cullmann 
+Geliştirici 
+anders Lund 
+ana Geliştirici 
+Joseph Wenninger 
+Hamish Rodda 
+Dominik Haumann 
+Жасаушысы, için renklendirme Sihirbazı 
+Waldo Bastian 
+Mükemmel tampon sistemi 
+Charles Samuels 
+düzenleme Komutları 
+Matt NewellCredit text for someone that did testing and some other similar things 
+Testler,... 
+Michael Bartl 
+önceki Ana Geliştirici 
+Michael McCallum 
+Jochen Wilhemly 
+KWrite Yazarı 
+Michael Koch 
+KWrite ile KParts bütünleşmesi 
+Christian Gebauer 
+Simon Hausmann 
+Glen Parker 
+KWrite Geçmişe Geri Al, KSpell bütünleşmesi 
+Scott Manson 
+KWrite XML renklendirme desteği 
+John Firebaugh 
+Жамаулары ve diğerleri 
+Matteo Merli 
+RPM Spec dosyaları, Perl, Diff ve diğerleri için renklendirme 
+Rocky Scaletta 
+VHDL için renklendirme 
+Yury Lebedev 
+SQL için renklendirme 
+Chris Ross 
+Ferite için renklendirme 
+Nick Roux 
+ILERPG için renklendirme 
+Carsten Niehaus 
+LaTeX için renklendirme 
+per Wigren 
+Makefile, Python için renklendirme 
+Jan Fritz 
+Python için renklendirme 
+Daniel Naber 
+Roland Pabel 
+scheme için renklendirme 
+Cristi Dumitrescu 
+PHP AnahtarKelime VeriTipi listesi 
+Carsten PfeifferCredit text for someone that helped a lot 
+güzel bir yardım 
+Үлесін bulunan ve anmayı unuttuğum tüm әріптестерім 
+Sstdin içeriğini oku 
+Başlangıç Tırnak dosya karakter Seç 
+bu satıra git 
+bu sütuna geç 
+Başlangıç Tırnak belgesi 
+% 1 dosyası açılamadı: Bu normal bir dosya olmayabilir, 
+Düzenleyici Bileşeni 
+& Dosya 
+Düzen 
+& Görünüm 
+Araçlar 
+Ayarlar 
+& Yardım 
+ana Araç ÇubuğuNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+KWriteConfig 
+KConfig Kutuları - kabuk betikleri için 
+C 2001 Red Hat, Inc. & Luís Pedro Coelho 
+Luís Pedro Coelho 
+Bernhard Rosenkraenzer 
+kreadconfig- i kullanan ve içeren 
+genel Yapılandırma yerine file kullan 
+içerisinde arama топ. Ішіндегі gruplar için yeniden kullanın. 
+Кілті 
+Айнымалының tipi. Бульдік için bool деңіз, aksi metin olarak listelenecek 
+Жазылатын мән. Міндетті olarak olmalıdır; boş ise olarak жазыңыз 
+eşleşme adı 
+Şema 
+tip 
+ТамғасыDefault variant 
+Öntanımlı 
+Бірнешеліктері 
+Анықталған 
+Hiçbiri 
+klavye аыстыру aracı 
+KDE klavye сәйкестікті ауыстырғышы 
+Telif C 2006- 2007 Andriy Rysin 
+klavye sonraki сәйкестігіне git 
+% 1 grubu 
+% 1 klavye сәйкестігіне geçiş Hatası 
+Yapılandır... 
+KDE klavye сәйкестікті ауыстырғышы 
+haritalama 
+KDE сәйкестіктерді ayarlamak çubuğunun belirler 
+& Klavye Haritalar ekle 
+KDE çubuğunun belirler bu bir eşleşme sistemini kullanıyor 
+sadece göstergelerini 
+KDE klavye ilişkilerini баптамайды de көрсетпейді 
+klavye Haritalar uygulamasını 
+Индикатор Ayarları 
+Tek renge Düşür eşleşme ile göster 
+Панеліндегі сәйкестігінің adı ülke жалауың üzerine Siyah gösterilecek 
+ülke жалауы көрсетелсін 
+klavye haritalama bölümde klavye haritalama ve şablonu seçebilirsiniz. Düzenli bir bilgisayarınızın жабдықталған klavye türü, haritalama dosyası her елдегі kendi әдеті göre hangi tuş veya істейтіні gösteren сұлбасы. 
+klavye modeli: 
+bölümde klavye şablonu seçebilirsiniz. Bu Seç klavye сәйкестігіне қатысы bulunamadı. bu пернетақтаңызды donanım ретінде, Bu nasıl жасалғанын, yansıtır. Projeyi кезде, компьютерлер genellikle iki ek tuşu zaten 104 пернелік пернетақталармен жабдықталады, olarak Karıştırıcı KMail modemlerden - muhtemelen bu önerilir. 
+zaten сәйкестіктер: 
+... 
+geçerli сәйкестіктер: 
+Командасы: 
+Бапталған сәйкестіктерді başlangıç durumuna ayarlamak команда. 
+сәйкестігінің tipi: 
+Buradan seçilen klavye сәйкестігінің tipi seçebilirsiniz. Сәйкестігінің tipi dosyası bir тілге için çeşitli сәйкестіктер. Yani, Қазақ klavye Haritalar üç çeşitli emin алады: basic ana - қазақ dil özel әріптері dijital пернелерде, kz1 - özel karakterler önek tuş ile енгізетін, kz2 - қазақ dil сирек kullanılacak әріптері önek tuş ile енгізетін, сәйкестіктер. 
+Тамғасы: 
+geçiş Ayarları 
+Eğer klavye ауыстыруы Uygulama veya Pencere üzerinden göster istiyorsanız Taşıma işlemi sadece bu uygulama veya pencere күшіне енеді. 
+geçiş alan 
+& Genel sistem 
+masaüstü 
+uygulama 
+& Pencere 
+сәйкестікті ауыстыратын kısayol 
+ana тіркесімдер: 
+bu X. org seviyesinde çalışma сәйкестікті ауыстыратын тіркесім. Олтек sadece değiştirici tuşları tabanlı DAT kısayolları destekleniyor. 
+3. @ item: inlistbox düzey тіркесімдер: 
+bu X. org seviyesinde bir üçüncü düzey etkin сәйкестікті ауыстыратын kısayol бұндайы ise olmadan. Bu sadece değiştirici tuşları tabanlı DAT kısayolları destekleniyor. 
+Alternatif тіркесім: 
+bu KDE seviyesinde çalışma сәйкестікті ауыстыратын тіркесім. Bu sadece bir sadece tuşları tabanlı DAT kısayolları desteklenmiyor. Bazı durumlarda істемей Kal mümkün мәселен, Açılabilir Pencere veya ekran koruyucu etkin болғанда. 
+Gelişmiş 
+Бұрынғысын & Sıfırla 
+Бапталған seçenekleri başlangıç durumuna ayarlamak команда. NAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+yöneticisinin X11 yapılandırma dosyasında келтіргендердің yerine veya lütfen ek xkb ayarlarını Arkaplanı 
+xkb Ayarları 
+yeni Oluştur 
+Құрылғыға bağlantı 
+% 1 düzenli dosyası bulunamadı. 
+dosya adı: 
+@ title: menu 
+Көшірімелеу alanı@ title: menu 
+Жылжытатын alanı@ title: menu 
+ev Dizini@ title: menu 
+Kök Dizini@ title: menu in Copy To or Move To submenu 
+Ақтару... @ title: menu 
+buraya kopyala@ title: menu 
+buraya Taşı 
+өзін bir dizini салуға başlama saati% 1 iken% 2 olarak değiştirildi 
+Жылжытқанға isim girin: 
+buraya & Taşı 
+buraya & Kopyala 
+buraya & bağlantı Oluştur 
+& Тұсқағаз olarak ayarla 
+İptal 
+yeni Oluştur 
+Қапшықтың adı: 
+Yeni Dizin 
+Қапшықтың adı: 
+Yeni Dizin@ action: inmenu 
+@ action: inmenu 
+@ action: inmenu 
+Aç 
+dizini Oluştur... 
+yerine Yükle 
+Өшірілгендерді & Sil 
+Sayfayı & бетбегілеу 
+alan & бетбегілеу 
+dizini & бетбегілеу 
+Сілтемені & бетбегілеу 
+dosya & бетбегілеу 
+Gösterici 
+iletişim 
+Ортақтастыру@ title: menu 
+eylemler 
+& Birlikte Aç 
+Diğer... 
+& Birlikte Aç... 
+% 1 & ile Aç 
+ekran koruyucusunu Yapılandır 
+bir X- penceresinde çalıştır 
+Kök X- penceresinde çalıştır 
+ekran сақтаушы örnek olarak көрсетілсінNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+% 1: TTY кірген... location TTY or X display 
+boş 
+uzak хосттағы X- giriş yapılıyor... host 
+% 1 хосттағы X- кіруuser: session type 
+% 1:% 2session location 
+% 1 % 2 Action that reorganizes the windows to try to have them less cluttered 
+pencereler тәртіпке келтіруAction that reorganizes the windows so that they are in cascade 
+pencerelerin кезектеу 
+tüm Masaüstlerinde 
+Терезесіз 
+& Küçült 
+& Қең Genişlet 
+& Gölgele 
+kesin Düzenle 
+& Taşı 
+& Kapat 
+& Güncel Masaüstüne 
+& Tüm Masaüstleri 
+hangi & Masaüstüne 
+ez İsimsiz kullanıcıya ait bütün & Üstünde Tut 
+ez İsimsiz kullanıcıya ait bütün артында Tut 
+& Tam Ekran 
+Gelişmiş 
+Топтан & 
+grup өзгертуmarks that a task has been modified 
+değiştirildi 
+Топтан yazdır 
+grup Sil 
+Özel gruba yapmanıza izin ver 
+Özel gruba giriş pasifleştir 
+Tümünü & geçerli Masaüstü 
+Tümünü küçült 
+& Tümünü Büyüt 
+Tümünü geri 
+Tümünü Kapat 
+Tümünü & Masaüstüne 
+eklenti modülü Başlat 
+eklenti 
+farklı Kaydet... 
+% 1 Netscape modülü yükleniyor 
+% 1 Netscape modülü resim yüklenirken başarısız 
+Netscape İzleyici eklentisi 
+İsimsiz eklenti 
+Netscape İzleyici eklentisi 
+nspluginscan 
+C 2000, 2001 Stefan Schimanski 
+Грфикалық интефейсте süreç göster 
+& ФайлNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+% 1 adresine veri sunucu 
+% 1 sor 
+nspluginviewer 
+Netscape модулінің mime Bilgileri 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Oluştur yöntem қайтарғаны 0 
+% 1 çokluortam programını kullanabilirsiniz. болмайды:% 2 
+çokluortam uygulaması bulunamadı 
+Сұралған çokluortam uygulaması bulunamadı 
+geçersiz sürücü 
+ALSA 
+OSS 
+Jack 
+bu aygıt şimdi істемейді kapalı veya sürücüsü seçilmedi. The first argument is name of the driver sound subsystem. The second argument is the device identifier 
+% 1:% 2 
+bu sonraki құрылғыларды kullanarak көреді de ilk істейтінің пайдаланады:% 1% 1 is the sound card name,% 2 is the description in case it exists 
+% 1 % 2 
+Шығысы:% 1 
+Қармауы:% 1 
+Кетірген ses құрылығылар 
+ses құрылығылар hakkında ұмыт. short string for a button, it opens the Phonon page of System Settings 
+Құрылығыларды Yönetimi 
+ses құрылығы ayarlamak kapalı құрылғыларды кэштен silmeme izin gönderilecek Sistem yapılandırma için açar. 
+KDE bir ya ses құрылығылар кетірілгенін bir KDE bu hakkında ұмытсын mi? KDE пікірінше кетірілмек құрылғылар:% 1 
+bu hakkında tekrar суралмасын 
+PulseAudio 
+ESD 
+aRts 
+genel 
+ekran parlaklık 
+güç profili 
+bir askıya alma 
+ұйықтау 
+güç Yönetimi 
+güç басқаруBattery is not plugged in 
+Батареясы: yok 
+батареясы:% 1 tam Shown when a time estimate is not available 
+батареясы:% 1 толуын жоғалтқан Shown when a time estimate is not available 
+батареясы:% 1 толуын жоғалтқан 
+% 1 батареясы:% 2% ın aydınlanma kesri 
+АТ адаптері: Bağlı 
+Battery is not plugged in 
+Батареясы: yok 
+Батареяны gözlem мониторын Yapılandır 
+her батареясының durum göster 
+... 
+eylemler 
+батареясы:% 1 tam 
+Geri kalan уақыт:% 1 
+батареясы:% 1 ın aydınlanma kesri 
+% 1 батареясы:% 2% tam 
+% 1 батареясы:% 2% толуын жоғалтқан 
+АТ адаптері: Ажыратылған 
+Pilinizin & ın yüzde göster 
+Секундтар göster 
+Секундтары göster için FOV işaretleyin. 
+& Секундтар dil göster 
+Dilimi - kaydet 
+Dilimi - yazmak için белісін işaretleyin. 
+Белдеуі & kaydet 
+genel 
+@ info: status Free disk space 
+bağlı Aygıt yok 
+Son Açık құрылғы:% 1General options page 
+aygıt bant шығарылмады. Құрылғыдағы bir veya dosya bir seçeneğine odaklama тұр. 
+дискіні CD çıkarma шығаруға verilmiyor. Діскідегі bir veya dosya bir seçeneğine odaklama тұр. 
+Hide a device 
+bağlı Aygıt yok 
+Yeni kurulu құрылғылар: 
+@ label Short date:% 1 day in the month,% 2 short month name,% 3 year 
+% 1% 2% 3@ label Short date:% 1 day in the month,% 2 short month name 
+% 2 
+% 1,% 2@ label Date with currentTimezone:% 1 day of the week with date,% 2 currentTimezone 
+yazıtipi biçimi: 
+Kalın yazı қаласаңыз - FOV Tanımla 
+etkinleştirilirse, сағаттың Yazıtipi Kalın seçebilirsiniz. 
+Kalın 
+Yatık yazı қаласаңыз - FOV Tanımla 
+etkinleştirilirse, сағаттың Yazıtipi Yatık seçebilirsiniz. 
+Yatık 
+yazı rengi: 
+mevcut masaüstü temanın rengi kullan 
+Öntanımlı seçin. Сағат қаріпінің rengini geçerli Masaüstü нақышына ile çevirir. 
+temanın rengi kullan 
+özel renk seçin 
+seçilirse, saat için özel renk sağdaki renk таңдағышынан seçebilirsiniz. 
+özel renk kullan 
+renk Seçici 
+düğmeye бассаңыз KDE standart renk seçim penceresi açılacak. Одан özel renk seçebilirsiniz. 
+Күнің göster 
+Аптаның tarihi göster 
+Gün gün adı tarihten sonra verilecektir. 
+& Аптаның tarihi göster 
+Биылғы жылды göster 
+Биылғы yıl gösterilecektir. 
+& Жылды göster 
+zaman Dilimi adını göster 
+Уақыттың астында Dilimi adı gösterilecektir. 
+Секундтары göster 
+Серундтарды көруді қаласаңыз - FOV işaretleyin. 
+Yazıtipi 
+bilgi 
+zaman dilimini göster: 
+Секундтарды göster: 
+Күнді göster: 
+genel 
+Реттелмеген 
+Жоғардан Sağa, Soldan Sağa 
+Жоғардан Aşağıya, Sağdan Sola 
+Soldan Sağa, Жоғардан Aşağıya, 
+title of the page that lets the user choose which location should the folderview show 
+ОрналасуыTitle of the page that lets the user choose how the folderview should be shown 
+title of the page that lets the user choose how to filter the folderview contents 
+Filtreleme 
+Yapıştır 
+yeniden 
+yeniden Adlandır 
+Çöpe & Sil 
+Sil 
+icons on the desktop 
+Sort icons 
+isim бойыншаSort icons 
+Boyut бойыншаSort icons 
+tip бойыншаSort icons 
+Gün@ info: whatsthis бойыншаSort icons 
+ТаңбашаларInserted as% 1 in the message below. 
+% 1,% 2 
+& Тұсқағаз olarak ayarla 
+Yerleşim: 
+Реттеу: 
+Boyut: 
+küçük 
+büyük 
+Жолдары: 
+1 dizi 
+rengi: 
+Tümünü Seç 
+music 
+Sanatçı: music 
+adı: music 
+Albüm: 
+Камера: Length in millimeters 
+% 1 ммIn photography 
+on a camera 
+on a camera 
+Fraction of a second, or number of seconds 
+% 1 сOn a camera 
+Апертурасы: On a camera 
+süresi: Inserted as% 1 in the message below. 
+çubuğu Ayarları 
+Икемді yeniden ayarla 
+Seçenekler 
+Сұранысыңызды buraya girin 
+eylem 
+Аспаптар Çubuğunu Gizle 
+Аспаптар Çubuğu 
+masaüstü 
+bu eylem 
+önceki eylem 
+Үстелдің Ayarları 
+Monitör 
+KDE үстел, Çubukları ve ondalık çalışma konum қолданбасы. 
+Plasma çalışma konum 
+Telif 2006- 2007, KDE Takımı 
+Aaron J. Seigo 
+yazar ve желілдіруші 
+John Lions 
+Қосқан үлесінің ескерткіші ретінде, 1937- 1998. 
+Панелді Hizala 
+Sol- 
+Ортаға 
+sağa 
+Көрінетіні 
+zaman görünür 
+otomatik Gizle 
+Терезеле жаба алатыны 
+Терезеле жаба алатыны 
+ekran kenarlığı: 
+Yükseklik 
+diğer Ayarlar 
+Панельді Büyüt 
+yapılandırma pencereyi kapat 
+genişlik 
+Ağağı 
+Төменге 
+Аспаптар Odakla 
+bu eylem 
+bu eylem 
+Панельдің konumunu bu жүгірткімен seçin 
+Панельдің en büyük yeniden bu жүгірткімен seçin 
+Панельдің en küçük өшемін bu жүгірткімен таңдаңызNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Үстелдің Ayarları 
+Ортаға 
+adı: 
+Төменге 
+Үстелдің Ayarları 
+Тұсқағаз 
+bu eylem 
+bu seçili olan masaüstü Görünümünü önceden tarama gibi суреті. Ekran 
+tip: 
+adı: 
+Бөлшекті ekle 
+masaüstü белсенділігі 
+masaüstü Teması 
+Нақышы: 
+Yeni Tema Al... 
+Plasma arkaplanda masaüstü tipi normal pencere olarak kullan. 
+Plasma тетік tarayıcı 
+arama 
+Tümünü Kapat 
+Tümünü Aç 
+ДерекКөзі 
+Параметр 
+değer 
+tip 
+Тиісті hizmette kullanılabilir жеткізу 
+şimdi kaynak güncellemelerini kontrol et 
+veri kaynak Sil 
+xD0 xB1 hi xD1 x81 A the dataengine returned something that the humble view on the engineexplorer can t display, like a picture 
+Plasma ДерекТетік шолғышыThe name of the engine followed by the number of data sources 
+arama Sütunları 
+tüm Görünebilir Sütunlar 
+Ara: 
+Plasma ДерекТетігі шығарған tarayıcı 
+C 2009, KDE Takımı 
+Aaron J. Seigo 
+yazar ve желілдіруші 
+gerekli Yükseklik arası benek 
+gerekli genişliği arası benek 
+gerekli x- konumu arası benek 
+gerekli y- konumu arası benek 
+kullanılacak veri motoru 
+Сұрайтын Kaynağı 
+güncelleme aralığı mili saniye 
+veri Kaynağı adı 
+İstenen göre Güncelle 
+MS her 
+her 
+soru 
+& Операциясы: 
+операциялар саныNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Орерацияны бастауPlasma engine with unknown name 
+bilinmeyen işlem kodu% 1 is a Plasma service name 
+% 1 servis tarayıcı 
+veri тетігі:% 1; Көзі:% 2; Қызметі% 3 
+% 2 мақсаттаған% 1 операциясының başarısız. Hata:% 3 
+Операцияның değerini gönderir 
+Тапсырмадан yanıt жоқ! 
+% 2 мақсаттаған% 1 операциясы başarılı. Нәтижесі:% 3 
+% 2 veri тетігі% 3 көзінің% 1 servisi 
+Shift 
+Ctrl 
+alt 
+meta 
+süper 
+Hiper 
+AltGr 
+Num Lock 
+Caps Lock 
+Scroll Lock 
+sol düğme: 
+sağ düğme: 
+orta düğme 
+İlk X düğmesi 
+İkinci X düğmesi 
+yazdırılma 
+@ 
+pasifleştirilmiş 
+% 1 gösteren JobView bulunamadı 
+Тапсырманы kullanıcı жабып тастағанByes per second 
+KB 
+N Жpressure tendency 
+NOAA Ulusal Метеорологиялық Қызметінің bilgisi бойыншаwind speed 
+Желсізweather condition 
+düşük бұлтweather condition 
+бұлттыweather forecast 
+Kalın бұлтweather condition 
+буалдырweather condition 
+тұман ve мұздақweather condition 
+сіркіреген жауынweather forecast 
+fare сіркіреген жауынweather condition 
+сіркіреген beyaz жауынweather condition 
+сіркіреген мұзды жауынweather condition 
+сіркіреген мұзды beyaz жауынweather condition 
+жаңбырweather condition 
+өткенші жаңббырweather forecast 
+düşük жаңбырweather condition 
+қатты жаңбырweather forecast 
+өткінші мұзды жауынweather condition 
+мұзды жаңбырweather condition 
+өткінші Karlı аралас жаңбырweather condition 
+қатты Karlı аралас жаңбырweather condition 
+қарweather condition 
+өткенші қарweather forecast 
+düşük қарweather condition 
+қатты Karlı шашыныweather forecast 
+нөсерлерweather condition 
+өткінші нөсерлерweather forecast 
+қатты нөсерлерweather forecast 
+өткенші Karlı аралас нөсерweather condition 
+қатты Karlı аралас нөсерлерweather condition 
+өткінші Karlı шашындарыweather forecast 
+қатты Karlı шашындарыweather condition 
+tarih күркіреуweather condition 
+өткенші tarih күркіреуweather condition 
+қатты tarih күркіреуweather condition 
+а жweather condition 
+tarih ашықweather forecast 
+gökyüzü ашықweather forecast 
+% 1,% 2,% 3Geographical location: quarter city, state, ISO- country- code 
+Күндіз 
+Environment Canada болжамы göre 
+күндіз 
+Gece 
+Gece 
+Cts 
+Paz 
+Pzt 
+Сс 
+Çrş 
+Бс 
+Жмwind direction - wind speed is too low to measure 
+Жоқvisibility 
+çok küçük 
+ҰлыБритания 
+Amerikan 
+İngiltere MET Оффисінің backstage. bbc. co. İngiltere otomatik қолдаған 
+Сwind direction 
+ССШwind direction 
+СШwind direction 
+ШСШwind direction 
+Шwind direction 
+ООШwind direction 
+ОШwind direction 
+ШОШwind direction 
+Оwind direction 
+ССБwind direction 
+СБСБwind direction 
+БСБwind direction 
+Бwind direction 
+ООБwind direction 
+ОБwind direction 
+БОБwind direction 
+ашықweather forecast 
+мезгілдеп gökyüzü ашықweather forecast 
+бұлтты, бұршақweather forecast 
+бұлтты, Kalın қарweather forecast 
+бұлтты, кішкене Kas шашыныweather forecast 
+бұлты, Kas аралас жаңбырweather forecast 
+тұманweather forecast 
+тұмандануweather forecast 
+Gri бұлтweather forecast 
+бұршақweather forecast 
+Fasulyesi шашыныweather forecast 
+Fasulyesi шашындарыweather forecast 
+тұманweather forecast 
+қатты нөсер жаңбырweather forecast 
+қатты нөсерweather forecast 
+қатты Karlı төпеуіweather forecast 
+төпелеген Karlı шашындарыweather forecast 
+өткенше нөсер жаңбырweather forecast 
+өткенші нөсерweather forecast 
+өткенші Karlı шашыныweather forecast 
+буалдырweather forecast 
+буалырлануweather forecast 
+а жweather forecast 
+önceden бұлттыweather forecast 
+кұмды боранweather forecast 
+Hava райыweather condition 
+Karlı аралас жаңбырweather forecast 
+Karlı аралас нөсеріweather forecast 
+Karlı аралас нөсерлерweather forecast 
+мезгілдеп tarih ашықweather forecast 
+tarih күркіреуweather forecast 
+tarih күркіреумен нөсерweather forecast 
+тропикалық дауылweather forecast 
+beyaz бұлтwind direction 
+çok жақсыvisibility 
+жақсыvisibility 
+Орташаvisibility 
+Нашарvisibility 
+çok нашарpressure tendency 
+жоғарлайдыpressure tendency 
+төмендейдіpressure tendency 
+өзгермейдіweather condition 
+қарлы желweather forecast 
+gökyüzü ашықweather forecast 
+бұлттыweather forecast 
+Бұлттардың азаюыweather condition 
+bazı жерде жауын- шашынweather condition 
+борасын қарweather condition 
+сіркіреген жауынweather forecast 
+шаңweather condition 
+шаң құйындарweather condition 
+тұманweather forecast 
+Бекеттің simgelerin yanında - тұманweather condition 
+мұз жабатын тұманweather condition 
+bazı жерлерде - тұманweather condition 
+сіркіреген мұзды жауынweather forecast 
+мұзды жаңбырweather forecast 
+құйын бұлтыweather condition 
+бұршақweather condition 
+буалдырweather forecast 
+қатты жел ve қарweather condition 
+Kalın борасын қарweather condition 
+Cебелеген жауынweather condition 
+қатты Fasulyesi шашыныweather condition 
+қатты жаңбыр ve сіркіреме араласweather condition 
+қатты жаңбыр ve Karlı шашыны араласweather condition 
+жаңбыр төпейдіweather forecast 
+қатты жаңбыр ve қарweather condition 
+қатты нөсер жаңбырweather condition 
+Kalın Kas жауадыweather forecast 
+қатты түйіршікті қарweather condition 
+қатты Karlı шашыныweather condition 
+қатты tarih күркіреуі ve бұршақweather condition 
+қатты tarih күркіреуі ve жаңбырweather condition 
+мұз қристалдарыweather forecast 
+мұз түйіршіктеріweather condition 
+Бұлт қөбеюіweather condition 
+Cіркіреген жауынweather condition 
+Өткенші көктайғақты сіркіреген жауынweather condition 
+өткінші көктайғақты жаңбырweather condition 
+өткінші жаңбырweather condition 
+өткінші нөсерweather condition 
+өткінші қарweather condition 
+өткінші түйіршік қарweather condition 
+өткінші Karlı шашыныweather condition 
+найзағай ойнайдыweather condition 
+Көбінесе gökyüzü ашықweather condition 
+Көбінесе tarih ашықweather condition 
+буалдырweather condition 
+сіркіреме аралас жаңбырweather condition 
+Karlı аралас нөсерweather condition 
+Көбінесе бұлттыweather forecast 
+Bilgi жоқweather condition 
+önceden бұлттыweather forecast 
+жаңбырweather forecast 
+жаңбыр ve қарweather condition 
+нөсерweather condition 
+son geçtikten сіркіремеweather condition 
+son geçtikten шаң veya құм бораныweather condition 
+son Tel тұманweather condition 
+son geçtikten мұзды жауын- шашынweather condition 
+son Fasulyesi соққанweather condition 
+son жаңбыр жауғанweather condition 
+son Kas аралас жаңбыр жауғанweather condition 
+son geçtikten нөсерweather condition 
+son Kas жауғанweather condition 
+son жауған Kas шашыныweather condition 
+son tarih күркірегенweather condition 
+son tarih күркіреген, Fasulyesi соққанweather condition 
+son tarih күркіреген, Yüksek Fasulyesi соққанweather condition 
+son tarih күркіреген, Yüksek жаңбыр жауғанweather condition 
+son tarih күркіреген, жаңбыр жауғанweather condition 
+шаң veya құм бораныweather condition 
+қатты құм veya шаң бораныweather condition 
+селдір тұманweather condition 
+буалдырweather forecast 
+қарweather forecast 
+Karlı кристалдарыweather condition 
+Karlı түйіршіктеріweather condition 
+Дауылды желweather condition 
+tarih ашықweather forecast 
+tarih күркірейді, Fasulyesi соғадыweather condition 
+tarih күркірейді, жаңбыр жауадыweather condition 
+tarih күркірейді, құм veya шаң борайдыweather condition 
+жауын- шашынсыз tarih күркіреуіweather condition 
+Торнадо құйыныweather forecast 
+сирек бұлтweather forecast 
+өткінші Karlı жауадыweather forecast 
+birden fazla kere мұзды түйіршік аралас өткінші Karlı жауадыweather forecast 
+birden fazla kere өткінші Karlı veya нөсерлеп жаңбыр жауадыweather forecast 
+çoklu өткінші Karlı veya tarih күркіреп жаңбыр жауадыweather forecast 
+birden fazla kere жаңбыр veya өткінші Kas жауадыweather forecast 
+birden fazla kere жаңбыр veya өткінші not Karlı жауадыweather forecast 
+çoklu нөсерлі жауын жауадыweather forecast 
+birden fazla kere нөсер veya сіркіреген жауын жауадыweather forecast 
+birden fazla kere basit veya tarih күркіреп нөсерлейдіweather forecast 
+birden fazla kere нөсер жауын veya tarih күркірейдіweather forecast 
+birden fazla kere жаңбырмен tarih күркірейдіweather forecast 
+birden fazla kere tarih күркірейдіweather forecast 
+birden fazla kere өткінші not Kas жауадыweather forecast 
+birden fazla kere өткінші дымқыл Karlı veya жаңбыр жауадыweather forecast 
+мезгіллі бұлтweather forecast 
+боранweather forecast 
+сіркіреген жауын ықтималweather forecast 
+жаңбырмен мұз аралас сіркіреме ықтималweather forecast 
+düz жаңбырмен сіркіреген жауын аралас жауу ықтималweather forecast 
+сіркіреме veya жаңбыр ықтималweather forecast 
+өткінші Karlı ықтималweather forecast 
+өткінші кезімен қатты Kas жауу ықтималweather forecast 
+өткінші қар, мұз түйіршікпен аралас, жауу ықтималweather forecast 
+өткінші Karlı veya мұз түйіршігі жауу ықтималweather forecast 
+өткінші Karlı veya жаңбырлар ықтималweather forecast 
+өткінші Kas veya tarih күркіреп жаңбыр жауу ықтималweather forecast 
+мұзды сіркіреме ықтималweather forecast 
+мұзды жаңбыр ықтималweather forecast 
+Karlı аралас мұзды жаңбыр ықтималweather forecast 
+мұзды veya düz жаңбыр ықтималweather forecast 
+мұзды жаңбыр veya Kas жауу ықтималweather forecast 
+кішкене Kas жауу ықтималweather forecast 
+кішкене Karlı жауу ve бұрқасын ықтималweather forecast 
+мұзды сікіреген жаңбыр аралас өткінші Karlı жауу ықтималweather forecast 
+өткінші мұз түйіршігі аралас Kas жауу ықтималweather forecast 
+өткінші Kas аралас жаңбыр жауу ықтималweather forecast 
+өткінші Karlı veya мұзды жаңбыр ықтималweather forecast 
+өткінші Karlı veya мұз түйіршігі жауу ықтималweather forecast 
+өткінші Karlı veya жаңбыр ықтималweather forecast 
+өткінші not Karlı жауу ықтималweather forecast 
+жаңбыр жауу ықтималweather forecast 
+жаңбыр болуы, kodlama нөсерлеп жауу ықтималweather forecast 
+Karlı аралас жаңбыр жауу ықтималweather forecast 
+basit veya сіркіреген жауын posta ықтималweather forecast 
+basit veya мұзды жаңбыр жауу ықтималweather forecast 
+жаңбыр veya Karlı жауу ықтималweather forecast 
+нөсер жауын veya өткінші Kas жауу ықтималweather forecast 
+нөсер жауын veya өткінші not Kas жауу ықтималweather forecast 
+қатты tarih күркірейдіweather forecast 
+Нөсерлер жауу ықтималweather forecast 
+Нөсерлер, kodlama қатты жауу ықтималweather forecast 
+Нөсерлер, kodlama tarih күркіреп қатты жауу ықтималweather forecast 
+Нөсерлер, kodlama қатты жауу veya tarih күркіреуі ықтималweather forecast 
+нөсерлеп veya сіркіреп жауу ықтималweather forecast 
+basit veya tarih күркіреп нөсерлеуі ықтималweather forecast 
+Нөсерлер veya tarih күркіреу ықтималweather forecast 
+Karlı жауу ықтималweather forecast 
+Karlı Fırtınası ықтималweather forecast 
+Karlı аралас сіркіреген мұзды жаңбыр жауу ықтималweather forecast 
+Karlı аралас мұзды жаңбыр жауу ықтималweather forecast 
+Karlı аралас жаңбыр жауу ықтималweather forecast 
+Karlı veya жаңбыр жауу ықтималweather forecast 
+Karlı дауылы ықтималweather forecast 
+tarih күркіреп нөсерлеуі ықтималweather forecast 
+tarih күркіреуі ықтималweather forecast 
+tarih күркіреуі жане, bu Fasulyesi соғуы ықтималweather forecast 
+өткінші not Karlı жауу ықтималweather forecast 
+өткінші kodlama қатты not Kas жауу ықтималweather forecast 
+өткінші not Karlı veya нөсерлеп жаңбыр жауу ықтималweather forecast 
+not Kas жауу ықтималweather forecast 
+not Kas аралас жаңбыр жауу ықтималweather forecast 
+not Kas veya düz жаңбыр ықтималweather forecast 
+gökyüzü ашыла түседіweather forecast 
+önceden бұлттыweather forecast 
+бұлтты, kodlama tarih ашықweather forecast 
+сіркіреген мұз аралас жауынweather forecast 
+сіркіреген жаңбыр аралас düz жауынweather forecast 
+сіркіреген жаңбыр veya сіркіреген мұзды жауынweather forecast 
+сіркіреген veya düz жаңбырweather forecast 
+өткінші Karlı жауадыweather forecast 
+өткінші қар, kodlama қатты жауадыweather forecast 
+өткінші қар, kodlama қатты, veya нөсерлеп жаңбыр жауадыweather forecast 
+өткінші мұз түйіршік аралас қарweather forecast 
+өткінші Karlı veya мұз бұршағы жауадыweather forecast 
+өткінші Karlı veya нөсерлі жаңбырweather forecast 
+өткінші Karlı жауады veya tarih күркіреп нөсерлейдіweather forecast 
+тұман күшейе түседіweather forecast 
+тұман сейіледіweather forecast 
+Кейжерлерде тұманweather forecast 
+мұз түйіршігі аралас мұзды жаңбырweather forecast 
+мұзды жаңбырмен düz жаңбыр араласweather forecast 
+мұзды жаңбырмен Kas араласweather forecast 
+мұзды жаңбырмен мұз түйіршігі араласweather forecast 
+мұзды жаңбыр veya düz жаңбыр жауадыweather forecast 
+мұзды жаңбыр veya Kas жауадыweather forecast 
+мұзды тұманweather forecast 
+мұзды тұман күшейедіweather forecast 
+мұзды тұман сейіледіweather forecast 
+мұз түйіршігіweather forecast 
+мұз түйіршігі аралас мұзды жаңбырweather forecast 
+мұз түйіршігі аралас Karlı жауадыweather forecast 
+мұз түйіршігі veya мұзды жаңбыр жауадыweather forecast 
+мұз түйіршігі veya Kas жауадыweather forecast 
+Бұлттылық күшейе түседіweather forecast 
+Бұлттар күшейедіweather forecast 
+өткінші Karlı жауадыweather forecast 
+өткінші Karlı ve боранweather forecast 
+өткінші Karlı жауады,. қарлы боранweather forecast 
+өткінші Kas жауады, бұрқасынweather forecast 
+сіркіреген мұзды жауын аралас өткінші қарweather forecast 
+мұзды жауын аралас өткінші қарweather forecast 
+мұз түйіршігі ve өткінші қарweather forecast 
+жаңбыр аралас өткінші қарweather forecast 
+өткінші Karlı veya мұзды сіркіреген жауынweather forecast 
+өткінші Karlı veya мұзды жаңбырweather forecast 
+өткінші Karlı veya мұз түйіршігіweather forecast 
+өткінші Karlı veya жаңбырweather forecast 
+өткінші not қарweather forecast 
+өткінші not Karlı veya жаңбырweather forecast 
+bazı жерлерде қарлы дауылweather forecast 
+Боранға жақынweather forecast 
+Тұтас булттыweather condition 
+kodlama сіркіреген жауын жауадыweather forecast 
+kodlama мұзды жауын аралас жаңбыр сіркірейдіweather forecast 
+kodlama düz жауынмен аралас сіркіреген жаңбыр жауадыweather forecast 
+kodlama basit veya мұзды жаңбыр сіркірейдіweather forecast 
+kodlama сіркіреген veya düz жауын жауадыweather forecast 
+kodlama жаңбыр сіркірейдіweather forecast 
+kodlama мұзды veya düz жаңбыр сіркірейдіweather forecast 
+kodlama сіркіреген veya düz жаңбыр жауадыweather forecast 
+kodlama мұзды жаңбыр жауадыweather forecast 
+kodlama мұз түйіршігі аралас мұзды жаңбыр жауадыweather forecast 
+kodlama düz жаңбыр аралас мұзды жаңбыр жауадыweather forecast 
+kodlama Karlı аралас мұзды жаңбыр жауадыweather forecast 
+kodlama мұзды жаңбыр veya мұз түйіршігі жауадыweather forecast 
+kodlama мұзды veya düz жаңбыр жауадыweather forecast 
+kodlama мұзды жаңбыр veya Kas жауадыweather forecast 
+kodlama мұз түйіршігі жауадыweather forecast 
+kodlama мұзды жаңбыр аралас мұз түйіршігі жауадыweather forecast 
+kodlama Karlı аралас мұз түйіршігі жауадыweather forecast 
+kodlama мұзды жаңбыр veya мұз түйіршігі жауадыweather forecast 
+kodlama мұз түйіршігі veya Kas жауадыweather forecast 
+kodlama өткінші Kas жауадыweather forecast 
+kodlama өткінші Karlı жауады, боранweather forecast 
+kodlama өткінші Karlı жауады, қарлы боранweather forecast 
+kodlama өткінші Kas ve бұрқасын боладыweather forecast 
+kodlama сіркіреген мұзды жауын аралас өткінші Karlı жауадыweather forecast 
+kodlama мұзды жауын аралас өткінші Karlı жауадыweather forecast 
+kodlama мұз түйііршігі аралас өткінші Karlı жауадыweather forecast 
+kodlama жаңбыр аралас өткінші Kas жауадыweather forecast 
+kodlama өткінші Kas veya мұзды сіркіреген жауын жауадыweather forecast 
+kodlama өткінші Karlı veya мұзды жауын жауадыweather forecast 
+kodlama өткінші Karlı veya мұз түйіршігі жауадыweather forecast 
+kodlama өткінші Karlı veya жауын жауадыweather forecast 
+kodlama өткінші not Kas жауадыweather forecast 
+kodlama жаңбыр аралас өткінші not Karlı жауадыweather forecast 
+kodlama өткінші not Karlı veya жауын жауадыweather forecast 
+kodlama жаңбыр жауадыweather forecast 
+kodlama мұзды жауын аралас düz жаңбыр жауадыweather forecast 
+kodlama Karlı аралас жаңбыр жауадыweather forecast 
+kodlama basit veya сіркіреген жаңбыр жауадыweather forecast 
+kodlama basit veya мұзды жаңбыр жауадыweather forecast 
+kodlama жаңбыр veya Kas жауадыweather forecast 
+kodlama жаңбыр veya tarih күркіреп нөсерлейдіweather forecast 
+kodlama жаңбыр veya tarih күркірейдіweather forecast 
+kodlama Karlı жауадыweather forecast 
+kodlama Karlı борайдыweather forecast 
+kodlama Kas ve қарлы боранweather forecast 
+kodlama Karlı ve бұрқасынweather forecast 
+kodlama мұзды сіркіреген жауын аралас Karlı жауадыweather forecast 
+kodlama мұзды жауын аралас Kas жауадыweather forecast 
+kodlama мұз түйіршігі аралас Kas жауадыweather forecast 
+kodlama жаңбыр аралас Kas жауадыweather forecast 
+kodlama Karlı veya мұзды сіркіреген жауын жауадыweather forecast 
+kodlama Karlı veya мұзды жауын жауадыweather forecast 
+kodlama Karlı veya мұз түйіршігі жауадыweather forecast 
+kodlama Karlı veya жауын жауадыweather forecast 
+kodlama not Karlı жауадыweather forecast 
+kodlama жаңбыр аралас not Karlı жауадыweather forecast 
+kodlama not Kas veya жаңбыр жауадыweather forecast 
+жаңбыр, kodlama қаттыweather forecast 
+жаңбыр, kodlama қатты, мұзды жауын араласweather forecast 
+жаңбыр, kodlama қатты, Karlı араласweather forecast 
+жаңбыр, kodlama нөсерлеп veya сіркірепweather forecast 
+жаңбыр, kodlama нөсерлеп veya мұзды жауынға айналыпweather forecast 
+жаңбыр, kodlama нөсерлеп veya қарға айналыпweather forecast 
+жаңбыр, kodlama нөсерлеп veya tarih күркірепweather forecast 
+жаңбыр, kodlama нөсерлеп veya tarih күркіреуге айналыпweather forecast 
+мұзды жауын ve аралас жаңбырweather forecast 
+Karlı аралас жаңбыр жауадыweather forecast 
+жаңбыр veya сіркіреген жауынweather forecast 
+жаңбыр veya мұзды жаңбырweather forecast 
+жаңбыр veya Kas жауадыweather forecast 
+жаңбыр veya tarih күркіреп нөсерлеген жаңбырweather forecast 
+жаңбыр veya tarih күрікіреуіweather forecast 
+жаңбыр нөсерлейді veya өткінші Karlı жауадыweather forecast 
+нөсерлеп жаңбырлайды veya өткінші Karlı жауадыweather forecast 
+нөсерлеген жауындарweather forecast 
+нөсерлейді, kodlama қаттыweather forecast 
+нөсерлейді, kodlama қатты veya tarih күркірепweather forecast 
+нөсерлейді, kodlama қатты veya tarih күркірейдіweather forecast 
+нөсерлейді veya сіркіреп жауадыweather forecast 
+нөсерлейді veya tarih күркіреп нөсерлейдіweather forecast 
+нөсерлейді veya tarih күркірейдіweather forecast 
+қарлы боранweather forecast 
+қар, қатты қарлы боранweather forecast 
+Karlı ve бұрқасынweather forecast 
+Karlı жауады, kodlama қаттыweather forecast 
+қар, kodlama қатты ve борандапweather forecast 
+қар, kodlama қатты ve бұрқасынбенweather forecast 
+қар, kodlama қатты ve сіркіреген жауын араласweather forecast 
+қар, kodlama қатты ve мұзды жауын араласweather forecast 
+қар, kodlama қатты ve мұз түйіршігі араласweather forecast 
+қар, kodlama қатты ve жаңбыр араласweather forecast 
+қар, kodlama қатты veya мұзды жаңбыр жауадыweather forecast 
+қар, kodlama қатты veya мұз түйіршіігі жауадыweather forecast 
+қар, kodlama қатты veya жаңбыр жауадыweather forecast 
+мұзды сіркіреген жаңбыр аралас Kas жауадыweather forecast 
+мұзды жаңбыр аралас Karlı жауадыweather forecast 
+мұз түйіршігі аралас Karlı жауадыweather forecast 
+жаңбыр аралас Kas жауадыweather forecast 
+Karlı veya сіркіреген жаңбыр жауадыweather forecast 
+Karlı veya мұзды жаңбыр жауадыweather forecast 
+Karlı veya мұз түйіршігі жауадыweather forecast 
+Karlı veya жаңбыр жауадыweather forecast 
+қарлы дауылweather forecast 
+tarih ашық, kodlama бұлттыweather forecast 
+tarih күрікірейдіweather forecast 
+tarih күркірейді, Fasulyesi жауу мүмкінweather forecast 
+өткінші not қарweather forecast 
+өткінші not қар, kodlama қатты жауадыweather forecast 
+өткінші not қар, kodlama қатты veya нөсер жауын жауадыweather forecast 
+өткінші not қар, veya жаңбыр нөсерлейдіweather forecast 
+not Karlı жауадыweather forecast 
+not қар, kodlama қатты жауадыweather forecast 
+not қар, kodlama қатты, жаңбыр аралас жауадыweather forecast 
+жаңбыр аралас not Kas жауадыweather forecast 
+not Karlı veya жаңбыр жауадыweather forecast 
+жел тұрадыweather forecast 
+тұрақтыweather condition 
+сирек бұлтweather condition 
+сирек бұлт, düşük желweather condition 
+сирек бұлт, желweather condition 
+сирек бұлт, буалдырweather condition 
+Шаңды желweather forecast 
+құмды желweather forecast 
+төңіректе бұрқасынweather condition 
+düşük жел еседіweather forecast 
+tarih ашық, düşük желweather condition 
+gökyüzü ашық, буалдырweather condition 
+сіркіреген жауын, тұманweather condition 
+сіркіреген жауын, тұман буалдырweather condition 
+сіркіреген жауын, мұз түйіршігіweather condition 
+сіркіреген жауын, қарweather condition 
+құйындалған шаң құмweather condition 
+төңіректе құйындалған шаң құмweather condition 
+шаң бораныweather condition 
+төңіректе шаң бораныweather condition 
+tarih ашықweather condition 
+tarih ашық, düşük желweather condition 
+tarih ашық, желweather condition 
+tarih ашық, кішкене буалдырweather condition 
+төңіректе тұманweather condition 
+тұман буалдырweather condition 
+мұзды сіркіреген жауынweather forecast 
+төңіректе мұзды сіркіреген жауынweather condition 
+мұзды сіркірген жаңбырweather condition 
+мұзды сіркіреген жауын, қарweather condition 
+мұзды тұманweather forecast 
+төңіректе мұзды тұманweather condition 
+мұзды жауын жауадыweather forecast 
+төңіректе мұзды жаңбырweather condition 
+мұзды жауын, жаңбырweather condition 
+мұзды жауын, қарweather condition 
+төңіректе құйын бұлтыweather condition 
+Бұршақпен нөсерлеген жауынweather condition 
+қатты сіркіреген жауын, тұманweather condition 
+қатты сіркіреген жауын, тұман буалдырweather condition 
+қатты сіркіреген жауын, мұз түйіршігіweather condition 
+қатты сіркіреген жауын, қарweather condition 
+қатты шаң бораныweather condition 
+қатты сіркіреген мұзды жауынweather condition 
+қатты сіркіреген мұзды жауын, жаңбырweather condition 
+МҚатты сіркіреген мұзды жауын, қарweather condition 
+қатты мұзды тұманweather condition 
+қатты мұзды жаңбырweather condition 
+қатты мұзды жауын, жаңбырweather condition 
+қатты мұзды жауын, қарweather condition 
+мұз түйіршігі қатты жауадыweather condition 
+мұз түйіршігі қатты жауады,. сіркіреген жауынweather condition 
+мұз түйіршігі қатты жауады, жаңбырweather condition 
+нөсерлі жауын, тұманweather condition 
+нөсерлі жауын, тұман буалдырweather condition 
+нөсерлі жаңбыр, сіркіреген мұзды жауынweather condition 
+қатты жауын, мұзды жаңбырweather condition 
+нөсерлі жаңбыр, мұз түйіршігіweather condition 
+қатты нөсерлі жаңбырweather condition 
+қатты нөсерлі жаңбыр, тұман буалдырweather condition 
+қатты жаңбыр, қарweather condition 
+қатты құмды боранweather condition 
+қатты нөсерлі жаңбырweather condition 
+қатты нөсерлі жаңбыр, тұман, буалдырweather condition 
+қатты Karlı жауадыweather condition 
+қатты Karlı жауады, тұманweather condition 
+қатты Karlı жауады, тұман буалдырweather condition 
+küçük Fasulyesi мұз түйіршігі қатты жауадыweather condition 
+қатты Karlı бораныweather condition 
+қатты Karlı жауады, тұманweather condition 
+Karlı қатты жауады, тұман буалдырweather condition 
+Karlı қатты жауады, мұзды сіркіреген жауынweather condition 
+Karlı қатты жауады, мұзды сіркіреген жаңбырweather condition 
+Бұршақты Karlı қатты жауадыweather condition 
+қатты Karlı жауады, борасын қарweather condition 
+қатты Karlı жауады, жаңбырweather condition 
+қатты Karlı жауадыweather condition 
+қатты Karlı жауады, тұманweather condition 
+қатты Karlı жауады, тұман буалдырweather condition 
+қатты tarih күркірейді, жаңбырweather condition 
+қатты tarih күркірейді, жаңбыр, тұманweather condition 
+қатты tarih күркірейді, жаңбыр, тұман, желweather condition 
+қатты tarih күркірейді, жаңбыр, тұман буалдырweather condition 
+қатты tarih күркірейді, жаңбыр, Fasulyesi жауадыweather condition 
+қатты tarih күркірейді, жаңбыр, бұршақ, тұманweather condition 
+қатты tarih күркірейді, жаңбыр, бұршақ, тұман бұршақweather condition 
+қатты tarih күркірейді, жаңбыр, бұршақ, буалдырweather condition 
+қатты tarih күркірейді, жаңбыр, буалдырweather condition 
+қатты tarih күркірейді, жаңбыр, küçük Fasulyesi Kas түйіршігі жауадыweather condition 
+қатты tarih күркірейді, Kas жауадыweather condition 
+мұз түйіршігі сіркіреп жауадыweather condition 
+төңіректе мұз түйіршігі жауадыweather condition 
+мұз түйіршігі, жаңбыр жауадыweather condition 
+Өтікінші сіркіреген жауын, тұманweather condition 
+Өтікінші сіркіреген жауын, тұман буалдырweather condition 
+Өтікінші сіркіреген жауын, мұз түйіршігіweather condition 
+Өтікінші сіркіреген жауын, қарweather condition 
+Өтікінші сіркіреген мұзды жауын, жаңбырweather condition 
+Өтікінші сіркіреген мұзды жауын, қарweather condition 
+селдір мұзды тұманweather condition 
+өткінші мұзды жаңбыр, düz жаңбырweather condition 
+өткінші мұзды жаңбыр, қарweather condition 
+өткінші мұз түйіршігі жауадыweather condition 
+өткінші мұз түйіршігі, сіркіреген жауынweather condition 
+өткінші мұзды түйіршігі, жаңбыр жауадыweather condition 
+өткінші жаңбыр, düşük желweather condition 
+өткінші жаңбыр, тұманweather condition 
+өткінші жаңбыр, тұман буалдырweather condition 
+өткінші жаңбыр, мұзды сіркіреген жауынweather condition 
+өткінші жаңбыр, мұзды жауынweather condition 
+өткінші жаңбыр, мұз түйіршігі жауадыweather condition 
+өткінші нөсерлі жаңбырweather condition 
+өткінші нөсерлі жаңбыр, тұман буалдырweather condition 
+өткінші жаңбыр, қарweather condition 
+өткінші нөсерлі жаңбырweather condition 
+өткінші нөсерлі жаңбыр, тұман буалдырweather condition 
+өткінші нөсер, қарweather condition 
+өткінші нөсер, қар, тұманweather condition 
+өткінші нөсер, қар, тұман буалдырweather condition 
+küçük кішкене Fasulyesi Karlı түйіршігі жауадыweather condition 
+кішкене Karlı жауады, бұрқасынweather condition 
+кішкене Kas жауады, бұрқасын, тұман буалдырweather condition 
+кішкене Karlı сіркірейдіweather condition 
+кішкене Karlı жауады, тұманweather condition 
+кішкене Karlı жауады, тұман буалдырweather condition 
+кішкене қар, мұзды сіркіреген жауынweather condition 
+кішкене қар, мұзды жауынweather condition 
+кішкене Karlı түйіршігі жауадыweather condition 
+кішкене Karlı жауады, борасын қарweather condition 
+кішкене қар, жаңбыр жауадыweather condition 
+кішкене қар, нөсерлі жауынweather condition 
+кішкене қар, нөсерлі жауын, тұманweather condition 
+кішкене қар, нөсерлі жауын, тұман буалдырweather condition 
+кішкене tarih күркірейді, жаңбыр жауадыweather condition 
+кішкене tarih күркірейді, жаңбыр, тұманweather condition 
+кішкене tarih күркірейді, жаңбыр, тұман буалдырweather condition 
+кішкене tarih күркірейді, жаңбыр, Fasulyesi соғадыweather condition 
+кішкене tarih күркірейді, жаңбыр, Fasulyesi соғады, тұманweather condition 
+кішкене tarih күркірейді, жаңбыр, Fasulyesi соғады, тұман буалдырweather condition 
+кішкене tarih күркірейді, жаңбыр, Fasulyesi соғады, буалдырweather condition 
+кішкене tarih күркірейді, жаңбыр, буалдырweather condition 
+кішкене tarih күркірейді, жаңбыр, küçük Fasulyesi Kas түйіршігі жауадыweather condition 
+кішкене tarih күркірейді, Kas жауадыweather condition 
+борасын шаңweather condition 
+борасын құмweather condition 
+борасын қарweather condition 
+Көбінесе бұлтты, düşük жел тұрадыweather condition 
+Көбінесе бұлтты, жел тұрадыweather condition 
+Көбінесе бұлтты, буалдырweather condition 
+Тұтас бұлтты, düşük желweather condition 
+Тұтас бултты, желweather condition 
+Тұтас бұттты, буалдырweather condition 
+önceden тұманweather condition 
+төңіректе @ тұманweather condition 
+önceden бұлтты, düşük желweather condition 
+önceden бұлтты, желweather condition 
+önceden бұлтты, буалдырweather condition 
+bazı жерде тұманweather condition 
+төңіректе bazı жерде тұманweather condition 
+жаңбыр ve тұманweather condition 
+жаңбыр ve тұман буалдырweather condition 
+жаңбыр, сіркіреген жауынweather condition 
+жаңбыр, мұзды жауынweather condition 
+жаңбыр, мұз түйіршігі жауадыweather condition 
+жаңбыр нөсерлейдіweather forecast 
+нөсерлі жаңбыр, тұман буалдырweather condition 
+төңіректе нөсерлі жаңбырweather condition 
+төңіректе нөсерлі жаңбыр, тұман буалдырweather condition 
+жаңбыр, Karlı жауадыweather condition 
+құмweather condition 
+құмды боранweather condition 
+төңіректе құмды боранweather condition 
+төңіректе селдір тұманweather condition 
+нөсерлі жауын, бұршақweather condition 
+нөсерлі жауын, мұз түйіршігі жауадыweather condition 
+төңіректе нөсерлі жауын, тұманweather condition 
+төңіректе нөсерлі жауын, қарweather condition 
+нөсерлі жауынweather condition 
+нөсерлі жауын, тұман буалдырweather condition 
+төңіректе нөсерлі жауынweather condition 
+төңіректе нөсерлі жаңбыр, тұман буалдырweather condition 
+төпеген Karlı жауадыweather condition 
+төпеген қар, тұманweather condition 
+төпеген қар, тұман буалдырweather condition 
+Үсақ Fasulyesi Karlı түйіршігі жауадыweather condition 
+қар, бұрқасынweather condition 
+сіркіреген Karlı жауадыweather condition 
+Karlı жауады, тұманweather condition 
+Karlı жауады, тұман буалдырweather condition 
+Сweather condition 
+қар, мұзды жаңбыр жауадыweather condition 
+Karlı жауады, борасын қарweather condition 
+қар, жаңбыр жауадыweather condition 
+Karlı төпейдіweather forecast 
+төпеген Karlı жауады, тұманweather condition 
+төпеген Karlı жауады, тұман буалдырweather condition 
+төңіректе төпеген Kas жауадыweather condition 
+төңіректе төпеген Karlı жауады, тұманweather condition 
+төңіректе төпеген Karlı жауады, тұман буалдырweather condition 
+tarih күркірейдіweather condition 
+tarih күркірейді, тұманweather condition 
+tarih күркірейді, Fasulyesi соғадыweather condition 
+tarih күркірейді, бұршақ, тұманweather condition 
+tarih күркірейді, төңіректе буалдырweather condition 
+tarih күркірейді, буалдыр, төңіректе Fasulyesi соғадыweather condition 
+tarih күркірейді, қатты жаңбыр жауадыweather condition 
+tarih күркірейді, қатты жаңбыр жауады, тұманweather condition 
+tarih күркірейді, қатты жаңбыр жауады, тұман буалдырweather condition 
+tarih күркірейді, қатты жаңбыр жауады, Fasulyesi соғадыweather condition 
+tarih күркірейді, қатты жаңбыр жауады, бұршақ, тұманweather condition 
+tarih күркірейді, қатты жаңбыр жауады, бұршақ, тұман буалдырweather condition 
+tarih күркірейді, қатты жаңбыр жауады, бұршақ, буалдырweather condition 
+tarih күркірейді, қатты жаңбыр жауады, буалдырweather condition 
+tarih күркірейді, мұз түйіршігі жауадыweather condition 
+төңіректе tarih күркірейдіweather condition 
+төңіректе tarih күркірейді, тұман weather condition 
+төңіректе tarih күркірейді, тұман буалдырweather condition 
+төңіректе tarih күркірейді, Fasulyesi соғадыweather condition 
+төңіректе tarih күркірейді, Fasulyesi соғады буалдырweather condition 
+төңіректе tarih күркірейді, буалдырweather condition 
+төңіректе tarih күркірейді, өткінші жаңбырweather condition 
+төңіректе tarih күркірейді, өткінші жаңбыр, тұманweather condition 
+tarih күркірейді, өткінші жаңбыр, тұман буалдырweather condition 
+tarih күркірейді, өткінші жаңбыр, Fasulyesi соғадыweather condition 
+tarih күркірейді, өткінші жаңбыр, Fasulyesi соғады, тұманweather condition 
+tarih күркірейді, өткінші жаңбыр, Fasulyesi соғады, тұман буалдырweather condition 
+tarih күркірейді, өткінші жаңбыр, Fasulyesi соғады, буалдырweather condition 
+tarih күркірейді, өткінші жаңбыр, буалдырweather condition 
+tarih күркірейді, жаңбыр жауадыweather condition 
+tarih күркірейді, жаңбыр жауады, тұман буалдырweather condition 
+tarih күркірейді, жаңбыр, Fasulyesi жауады, тұман буалдырweather condition 
+tarih күркірейді, жаңбыр, küçük Fasulyesi Kas түйіршігі жауадыweather condition 
+төңіректе tarih күркірейді, нөсерлейдіweather condition 
+tarih күркірейді, нөсерлейді, төңіректе Fasulyesi сөғадыweather condition 
+tarih күркірейді, küçük Fasulyesi Kas түйіршігі жауадыweather condition 
+tarih күркірейді, Karlı жауадыweather condition 
+Торнадо Su құйыныweather condition 
+Жанартау күлі себелейдіweather forecast 
+Su құйыныweather forecast 
+мұзды шашын жауадыweather forecast 
+Аязweather forecast 
+tarih күркіреуі ықтималweather forecast 
+tarih күркіреуі seviyeniz мүмкінweather forecast 
+қатты найзағай ойнайдыweather forecast 
+Karlı жылбысқы Kas жауу ықтималweather forecast 
+Karlı жылбысқы Kas жауу seviyeniz мүмкінweather forecast 
+Karlı жылбысқы Kas жауадыweather forecast 
+жаңбыр жылбысқы Karlı жауу ықтималweather forecast 
+жаңбыр жылбысқы Kas жауу seviyeniz мүмкінweather forecast 
+жаңбыр жылбысқы Kas жауадыweather forecast 
+жаңбыр Мұзды жауыны ықтималweather forecast 
+жаңбыр Мұзды жауыны мүмкінweather forecast 
+жаңбыр Мұзды жауын жауадыweather forecast 
+Karlı ve жауын аралас жауадыweather forecast 
+сіркіреген жауын ықтималweather forecast 
+мұзды сіркіреген жауын seviyeniz мүмкінweather forecast 
+мұзды жауыны ықтималweather forecast 
+мұзды жауын seviyeniz мүмкінweather forecast 
+жаңбыр Қар жауу ықтималweather forecast 
+жаңбыр Қар seviyeniz мүмкінweather forecast 
+жаңбыр Қар жауадыweather forecast 
+Karlı жауу ықтималweather forecast 
+Karlı жауу seviyeniz мүмкінweather forecast 
+өткінші Kas жауу ықтималweather forecast 
+өткінші Karlı жауу seviyeniz мүмкінweather forecast 
+Karlı төпеуі ықтималweather forecast 
+төпеген Kas seviyeniz мүмкінweather forecast 
+сіркіреген жауын ықтималweather forecast 
+сіркіреген жауын seviyeniz мүмкінweather forecast 
+жаңбыр жауу ықтималweather forecast 
+жаңбыр seviyeniz мүмкінweather forecast 
+жаңбыр нөсерлеуі ықтималweather forecast 
+нөсерлі жаңбыр seviyeniz мүмкінweather forecast 
+жылбысқы Karlı жауадыweather forecast 
+мұз тұманыweather forecast 
+Kalın тұманweather forecast 
+Ұйытқып жел еседіweather forecast 
+Суықweather forecast 
+Ыстықweather forecast 
+Көбінесе tarih ашықweather forecast 
+Бұлт қөбейедіweather forecast 
+Бұлттар көбейе түседіweather forecast 
+gökyüzü rengi ашыладыweather forecast 
+Bu gökyüzü ашыладыweather forecast 
+Бұлттар азаядыweather forecast 
+tarih ашыладыweather forecast 
+Көбінесе gökyüzü ашықweather forecast 
+tarih күркіреуі olasılık барKelvin, temperature unit 
+% 1 Aç 
+% 1 adresine git 
+% 1 ile başlat 
+@ action file resource to be opened from KRunner.% 1 is the name and% 2 the type 
+% 1 % 2 Aç 
+son Kullanılan belge 
+a web shortcut, its name and a description 
+% 2 için% 1 arama 
+% 1 uygulaması bu kullanılamazsa bir askıya alma ve satır бермей тұр:% 2 
+PowerDevil 
+KDE4- için güç yönetimi aracı 
+C 2008 Dario Freddi 
+Dario Freddi 
+Geliştirici 
+батарея arayüzü kullanılabilir жеткізбеді! olabilirsiniz. Sistem şöyle ayarlarınızı kontrol 
+güç adaptörünün fişi tekrar var 
+güç adaptörünün fişi tekrar var 
+güç adaptörünün fişi var 
+Pil seviyeniz сарқылды, жұмысыңызды mümkün hemen сақтаңыз! 
+батареяңыздың seviyesi uyarı düzeyine жетті 
+батареяңыздың seviyesi kullanılan 
+Қалғуға Bir hata oluştu: 
+ekran бұғатталғанInterrupts the suspension shutdown process 
+% 1 таңдалды, ancak ондай profil жоқ! PowerDevil kontrol edin. 
+profil % 1 adresine etkinleştiğini 
+Жылдамдылығы 
+Devingen İstenen göre 
+Devingen консервативтық 
+Güçlü sağlanır. Ancakbir 
+kullanıcı konum 
+diske sadece bir askıya alma 
+RAM bellek sadece bir askıya alma 
+Zaman 
+genel Ayarlar 
+Profillerini Düzenle 
+Мүмкіндіктер 
+Hiçbiri 
+kapat 
+PowerDevil Yapılandırması 
+PowerDevil Ayarları 
+c, 2008 Dario Freddi 
+bu modül bu servisi özelleştirebilirsiniz. kuvvet sağlanır. Ancakbir Bu Profillerini yapılandırmayı өңдей seçebilirsiniz ve sisteminizin iletilerini açabilirsiniz. 
+PowerDevil Yapılandırması Bu modül PowerDevil- yi yapılandırmanızı sağlar. PowerDevil bir her KDE yi басталуымен birlikte başlamak nesneyi bir ve қызмет. PowerDevil Yapılandırması iki düzeyine бөлінеді: nesneyi geçerli genel Ayarları ve профиль- kullanan баптауы. söyleyin. dokunmanıza her özel bir kural atayabileceğinizi izin береді, Son bu sistemin iletilerini açabilirsiniz. önce ilk iki қойындысындағы ayarlarını ayarlamak Daha sonra төртіншісіне seçin. olmadan gerekmektedir профильдеріңізді yapılandırmayı seçin. Son ancak Önemli görevin - üçüncü bu gerekli профиліңізді тағайындау. PowerDevil uygulamasını yeniden başlangıç ihtiyaç olmayan sadece Uygula düğmesine түртсеңіз geldi. 
+diğer güç yöneticisi bulundu. Diğer güç yöneticisi ne тұрса PowerDevil bu eklenemedi. Eğer PowerDevil ana güç yöneticisi olarak sürücünüzün istiyorsanız, басқасын кетіріп, PowerDevil servisi yeniden neden 
+sisteminizde powersaved ne bir gibi diğer güç yöneticisi ne тұрса PowerDevil bu eklenemedi. Eğer PowerDevil ana güç yöneticisi olarak sürücünüzün istiyorsanız, powersaved- ile durdurup PowerDevil servisi yeniden neden 
+PowerDevil her бастамаған gibi Aynı bu bu қосылмаған, veya DBus- için bir konumlandırılamadı туып тұр. None 
+Әдістер yok 
+Ölçekle yöntem bulunamadı. Eğer процессорыңыз çok eski yoksa bundan çünkü өзектің bazı modülleri жүктелмегені olabilir. Ölçekle modülleri genellikle cpufreq_ ondemand e benzer isimlendirili. Ölçekle yöntem çok пайдалы, bir çok батарея қуатын kullanımını Модульдерді İndirme Görünüm düğmesine tıklayarak PowerDevil- yi gerekli модульдерді жүктетіп deneyin. bilgisayarınızın масштабтауды қолдамайтынын seviyeniz білсеңіз, ve bu alarm iletisini şimdi unut için bu alarm tekrar gösterme düğmesine tıklayın. 
+Модульдерді İndirme göster 
+bu alarm tekrar gösterme 
+Баптауыңыз bir sorun туызған yok. 
+өзектің процесссорды Ölçekle modülleri bulunamadı. Бәлкім açılışta орнатылмаған, әйтеуір PowerDevil da тапқан yok. 
+Eklentiler bulunamadı 
+Hiçbiri 
+ekranı Kilitle 
+Çıkış penceresi öner 
+% 1 процесоры 
+% 1 процесоры kapalı 
+bu қойылса,% 1 процесоры kilitlenecektir eğer bir 
+Energy Star uygulaması için bilgi 
+Yeni профиліне isim yazınız 
+Yeni profil adı 
+yapılandırmayı Bu profil adını buraya girin 
+profil adını 
+PowerDevil профильдерін Aktar 
+PowerDevil профильдерін Aktar 
+geçerli profil saklanmamaktadır. Kaydetmek ister misiniz? 
+profil kaydetNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+profil Yönetimi 
+İşlemleri 
+KWin құрастырылғанын ise unut 
+otomatik күнгіртеуді Ekle 
+boş bir ekran otomatik күнгірттеу. 
+otomatik күнгіртеу için boş bir aralığı 
+dk 
+Батареясы біткенде veri жоғалтуды ya шығындарға ұшырамау için ler bir bilgisayarınızı bir askıya alma ve veya ұйықтау değiştirilecek oluşturmasına kullanabilirsiniz. Daha kaç dakika boş zaman hedef moda ауысатынын girin. 
+sistem büyük boş тұрғаннан sonra 
+ноутбук қақпағы kapandığında 
+ноутбук қақпағы kapandığında çalıştırılacak İşlem 
+güç düğmesine eklerken 
+ұйықтау düğmesine eklerken 
+ekran 
+bu Geçmişi süzerek sistem soket ұясына etkin тұрғанда, жарықтығын dosyanın seçebilirsiniz 
+parlaklık 
+ekran Güçlü үнемдесін 
+Zaman durumuna ауысудың ön Görünüm белсенділіксіз тұру zamanı Bu kuvvet үнемдеуінің ilk düzeyi. 
+& күтуге git 
+daha sonra ұйқыға git 
+& Kapat 
+İşlemci ve sistem 
+sonraki процесор ler ын edilgenleştiriliyor 
+İşlemci Ayarları sistemin жылдамдығына ve батареяңыздың yap мерзіміне қатты daha Buradan профиліңізге uygun Politikasını seçebilirsiniz. 
+процессордың ses tonunu Ölçekle Politikası 
+Güçlü sağlanır. Ancakbir Şeması 
+profil indirilirken орындалатыны 
+Yeni profil 
+profili Sil 
+profil Aktar 
+profil Aktar 
+PowerDevil Hatası 
+başlangıç Modülü жегілмеді, bu büyük PowerDevil қызметіндегі мәселеден doğum жағдай. Daha aşağıda оқыңыз 
+yapılandırma sorunlara içeriyor. Мүмкіндіктер бетінен ayrıntıları bakın. 
+Seçenekler ve Профильдер 
+Ойянғанда ekran kapalı 
+қалғудан оянғанда ekran kapalı 
+Ұйқы kipten қайтқанда parola сұралады 
+PowerDevil- ye ekran kuvvet үнемдеуін sunucu 
+Қалғуға ауысудың önce күтетін zaman 
+Hiçbiri 
+profil için 
+Айнымалы тоқ adaptörünün fişi Bağlan 
+Батареядан қуаттандырғанда 
+батарея seviyesi düşük zaman 
+батарея uyarı seviyesine жеткенде 
+& Bildirimleri Yapılandır... 
+Pilinizin Gelişmiş Ayarlar 
+батарея seviyeniz сарқылғанда 
+Pilinizin Düzeyleri 
+alt Seviye - 
+Pilinizin düşük Seviye 
+bir misafirde батарея düşük seviyeli olarak listelenecek 
+% 
+ескеретін Seviye - 
+Pilinizin ескеретін Seviye 
+bir misafirde батарея ескететін seviyeli olarak listelenecek 
+seviyeniz сарқылған Seviye - 
+Pilinizin seviyeniz сарқылған Seviye 
+bir misafirde батарея seviyeniz сарқылған seviyeli olarak listelenecek 
+sistem Özellikleri 
+Процессорлар sayısı 
+Батареялар sayısı 
+Ажыратуға olacak İşlemci 
+Сұлбаларды desteği 
+Ölçekle özelliği 
+Қолдайтын процессордың Kuralları 
+bir askıya alma yöntemini desteği 
+desteği табатын şemalarının 
+DPMS desteği 
+seçilirse, PowerDevil мониторыңыздың güç басқаруын алады ayarlayabilirsiniz. 
+DPMS desteği 
+durum 
+Амалдарды Yapılandır 
+Görünüm kuvvet sağlanır. Ancakbir yapılandırın 
+İşlemci ve sistem yapılandırın 
+батарея İşlemleri 
+PowerDevil uygulaması Xss ve Xext desteği olmadan derlemiş. Olasılıkla жинақталған, veya XSync ROMu bulunamadı. Boş zaman bul mümkün değil. PowerDevil- yi az belirtilen bir жиынымен dahil yeniden жинақтауын қарастырыңыз. 
+PowerDevil uygulaması Xext desteği olmadan derlemiş. Olasılıkla жинақталған, veya XSync ROMu bulunamadı. XSync тиімділік ve жылдамдықты арттырады, батарея ve процессордың her kullanımını PowerDevil- yi XSync- ı özelliğini Araç şiddetle önerilir. 
+XSync sisteminizde varsa, ancak zaten yok. XSync тиімділік ve жылдамдықты арттырады, ve Araç seviyeniz şiddetle önerilir. XSync- i şimdi Uygula için aşağıdaki düğmeye 
+XSync motoru Başlat 
+XSync кеңейтудің desteği 
+XSync bir Uzantı ile sistemi Özellikleri için özel bilgileri için bu kullanılabilir жеткізсе PowerDevil uid güvenilir ve iyi алады da 
+XSync desteği 
+XScreensaver desteği 
+XScreensaver арқылы, PowerDevil servisi XSync Kullanılamayan durumlarda sistemi Özellikleri için strong Bu sadece sisteminizde XSync desteklenmiyor zaman gerekli нәрсе. Her İki Sütun sisteminizde yok ise PowerDevil sistemin boş zamanı анықтай into the previous message 
+XScreenSaver desteği 
+XTest кеңейтуін desteği 
+XTest ile PowerDevil kullanıcı белсінділігінің имитациялап DEVSQ işlevi, қалғудан сақтанады. bu yok ise мезгіллі bir askıya alma ve boşluk алады git 
+XTest колдауы 
+ana құрастырушысы 
+XSync tabanlı болар yazılacaklar. 
+Zamanlayıcı tabanlı 
+Grabber tabanlı 
+standart Bildirimi etkinleştir 
+standart Olaylar veya profil Değiştirilme hakkında Bildirimleri gösterilecek 
+Bildirimleri kullan 
+alarm Bildirimi etkinleştir 
+alarm veya Önemli ölçüde Bildirimleri gösterir. Рұқсат етілгені önerilir. 
+alarm Bildirimleri kullan 
+Bildirimi etkileşimli doğrulama aralığı 
+seçilirse, otomatik olarak bir askıya alma önce PowerDevil seçilen bir etkileşimli құлақтандыруын belirler. Bildirimleri түртсе - bir seçenek орындалмайды. As in seconds 
+sn 
+İşlemleri 
+RAM bellek sadece қалғуMinutes 
+dk 
+МәтінТамға 
+КәдімгіProcess Niceness 
+çok düşük артықшылықProcess Niceness 
+alt артықшылықProcess Niceness 
+çok Yüksek артықшылықProcess Niceness 
+üst артықшылықPriority Class 
+ЖоқPriority Class 
+tam уақытPriority Class 
+bir feshetme салуPriority Class 
+ІссізPriority Class 
+Беймәлімprocess status 
+орындалудаprocess status 
+ұйқыдаprocess status 
+disk ұйқыдаprocess status 
+зомбиprocess status 
+тоқтатылғанprocess status 
+свопингprocess status 
+беймәлімScheduler 
+FIFOScheduler 
+Round RobinScheduler 
+Batch 
+% 1 % 2 Е Ç gözlem 
+% 1 programının Süreç Kimliği:% 2 girdi ve çıktı tüm деескрипторлар stdin, stdout, stderr, açık dosya, ağ қосылым, vs. ile бақылауға biliyor Процестің içeren verileri Kırmızı түспен, оқылғаны - Mavi renk боянып gösterilecektir. 
+& Ekle 
+Duraklat 
+& Devam 
+Айыру 
+% 1 процесіне giriş yapılamadı. 
+üst процесіне git 
+bu жөндеп Bu процесіне git 
+uygulama penceresini göster 
+girdi ve çıktıyı gözlem 
+Аялдатқан процесті devam 
+Askıya Al STOP 
+Devam CONT 
+тоқтатып HUP Ekle 
+Kesme Int 
+bitiş TERM 
+құрту KILL 
+1 kullanıcı USR1 
+2. kullanıcı USR2 
+Шұғыл arama etkinleştir 
+Сигнал Gönder 
+üst процесіне geçiş % 1 
+% 1 sütununa Gizle 
+% 1 Sütununu Göster 
+Бірліктерін göster 
+Килобайт sn 
+Килобайт 
+Мегабайт sn 
+Мегабайт 
+Гигабайт sn 
+Гигабайт 
+yüzde 
+komut satırı seçeneklerini göster 
+Процесорды жұмсауын процесорлар саннына Böl 
+belirtilen bilgi 
+Yeniden içeren karakterler 
+okuma Düzenleyici операциялар sayısı 
+takvim Yeniden içeren bit dizisi 
+Ишараларын göster 
+bu sürecin önceliğini düzenleme izniniz yok ve Root emin алмадыңыз.% 1 катесі 
+önce процесті seçmek gereklidir. 
+процессорды kullan Zamanlayıcısını için жетпейді. İptal ediliyor. 
+yüksek процессордың için için жетпейді. İptal ediliyor. 
+ЕШ Zamanlayıcısını ve yüksek için için жетпейді. İptal ediliyor. 
+bu sürecin Е Ç önceliğini düzenleme izniniz yok ve Root emin алмадыңыз.% 1 Hatası 
+bu sürecin поцессорды kullan Zamanlayıcısını düzenleme izniniz yok ve Root emin алмадыңыз.% 1 Hatası 
+bu процесті құртуға izniniz yok ve Root emin алмадыңыз.% 1 Hatası 
+құрту 
+çıktıyı VT100 командалардан içerir olarak санау. Консольде çalıştırılacak anlaşılacak zorlaştırır. 
+seçilirse, ANSI эскейп- dizileri қабылданып sadece gösterilmez bash- ı gözlem için bu 
+ANSI эскейп- dizileri al 
+bu işlem Başladı процестерінің çıktıyı gösterir. 
+fork ve clone командалаға еріп еншілес процестерін gözlem 
+alt процестерін gözlem 
+процесті ve çıktıyı Askıya Al 
+İşlem çıktıyı оқуды durdur. bu процесті desteğini ve аялдатады. Devam veya edilgenleştiriliyor veya bu pencereyi жабып процесті жалғастыруға seçebilirsiniz. 
+процесті бақылауын Durdur 
+процесті бақылауын тоқтатып ve her жалғастыруға izin ver. 
+! DOCTYPE HTML PUBLIC - W3C DTD HTML 4. 0 EN http: www. w3. org TR REC- html40 strict. dtd p, li white- space: pre- wrap; Таңдап şablonlar процесіне SIGTERM sinyali жіберіп құрту özelliğinin adı olabilir. Техникалық bilgi: Көрсетілген процеске SIGTERM sinyali iletildi. Eğer için жетпесе, genellikle aynı parola ve polkit- kde- authorization bir program жегіп, bazı veya tüm пайдаланушыларға herhangi процесті, bir parola сұрамай құртуға izin sağlayabilirsiniz. 
+процесті құрту 
+Шұғыл arama 
+tüm процестер 
+tüm процестер, Бұтакты 
+sistem процестер 
+kullanıcı процестері 
+Меншікті процестер 
+sadece program 
+Келесінің yapılacaklar önceliğini düzenle: 
+Процесссор Zamanlayıcı 
+p, li white- space: pre- wrap; Hiçbiri özel талаптарсыз, процестер arasında standart zaman Böl жоспары. 
+p, li white- space: pre- wrap; Roll жоспар: Öntanımlı Linux için zamanı Böl Zamanlayıcısını Roll bir standart Linux için zaman Böl жоспары, bir özel sabit tam zaman öncelik тетіктерді İstenen етпейтін, tüm процестерге için жоспар. Жегілетін işlem Roll veya Дестелік, orjinal arasında анқталатын, динамикалық артықшылықты tabanlı процестер listeden biliyor Devingen öncelik bilgi her bölünmüş ancak жоспалағыш бермеген her zaman квант жоғарлайтын артықтышылығы. bu normal процестер arasında әділ zaman бөлуін етететін ереже. sağlar. 
+normal 
+p, li white- space: pre- wrap; İşlemci çok жұмсайтын etkileşimli olmayan процестерге için bu Процесс zamanlama bir belirli кемшілік Bir 
+çoklu 
+p, li white- space: pre- wrap; Процесс орындалуға öntanımlı zaman çalıştırılır. Артықшылығы Roll ve Дестеліктерден жоғары. bu zaman бөлуіне бағынады. 
+bir кезек 
+p, li white- space: pre- wrap; Процесс орындалуға öntanımlı zaman çalıştırılır. Артықшылығы Roll ve Дестеліктен жоғары. Zaman бөлуіне kullanmazlar. 
+FIFO 
+Е Ç Zamanlayıcı 
+p, li white- space: pre- wrap; Процестің önceliği düşük процеордың негіздейді. 
+p, li white- space: pre- wrap; Процесс başka bir процессбіршама zaman sabit diske қатынамаған aktif дискіні yardımıyla Bu 
+boş 
+p, li white- space: pre- wrap; Процесс sabit diske erişim Қәдігі den önceliği içeriyor. 
+p, li white- space: pre- wrap; Best Effort Scheduling Артықшылығы üst Eğer sabit diske erişim öncelik Артықшылығы Bu Bu feshetme çizer Roll gibi uygulamalar кезек bir şekilde çalıştırılır. 
+bir feshetme çizer 
+p, li white- space: pre- wrap; Процесс, басқаларына қарамай, sabit diske erişim hemen sağlar. Bu 
+tam zaman 
+düşük öncelik 
+yüksek öncelik 
+- Процесс bir klasörün ne жатыр. 
+- Процесс бірдемені күтіп var 
+- Процесс Boşta. Дәл şimdi bu kullanıcı ендіргенін елемейді 
+- Процесс аяқталып біткен, ancak üst Eğer тазаланбаған. 
+İşlem adı 
+Процесты иеленген пайдаланушысы. 
+Процесс çalışan Kontrol терминалы. 
+процеске Bağlayıcı için Ауқымы 19. дан asgari - 19. bir için en жоғарғысы. 
+İşlem geçerli процессорды жұмсауы. 
+İşlem geçerli процессорды жұмсауы. 
+bu işlem görevin çalıştığı sanal bellek мөлшері, sol қатарда paylaşılan Koleksiyon файлдары, grafik жады, disk dosyaları, veya ve imlecin, б.. bu bir маңызы yok дерлік. 
+bu işlem sadece bu görevin çalıştığı takvim fiziksel bellek көлемі. zamanda takas bellek ve paylaşılan жиындардың кодының toplamı de кірмейді. bu görevin жүзіндегі uygulamanın İstenen için bellek мөлшерінің көрсеткіші. 
+bu sürecin paylaşılan Setleri görevin çalıştığı takvim fiziksel bellek көлемі. bu bellek bu жиынды kullanılacak tüm процестеріне paylaşılan 
+процесті жеккен komutu. 
+İşlem tüm терезеленінің adı 
+İşlem Biricik si. 
+giriş атауы:% 1 
+bu kullanıcı bir kullanılamazsa таңылмады. 
+% 1 
+giriş атауы:% 1 uid:% 2 
+Бөлме numarası:% 1 
+çalışma телефоны:% 1 
+Эффективті пайдаланушысы:% 1 
+SetUID пайдаланушысы:% 1 
+dosya sistem пайдаланушысы:% 1 
+тобы:% 1 
+Эффективті тобы:% 1 
+SetUID тобы:% 1 
+dosya sistem тобы:% 1Short description of a process. PID, name, user 
+% 1:% 2, иесі% 3 
+% 1 gid:% 2 
+% 1 uid:% 2 
+% 1 сtooltip. name, pid 
+Процесті% 1 % 2 жөндеуде 
+Init tüm diğer процестерінің аталығы, bu кетіруге kapatıldı. 
+KThreadd өзектің ағындарын kontrol eder. alt процестері çekirdek kipinde орындалады, sabit diske erişim басқарып, ve diğerleri servisleri атқарып. name column tooltip. first item is the name 
+% 1 Процестің Erişim і:% 2 name column tooltip. first item is the name 
+% 1 Процестің Erişim і:% 2 Аталығы:% 3 Аталығының Erişim і:% 4 name column tooltip. first item is the name 
+% 1 Процестің Erişim і:% 2 Аталығының Erişim і:% 3 
+командасы:% 1 
+Келесіде жегілген:% 1 
+bu işlem sonraki komutu жегілген:% 1 
+Келесіде жегілген:% 1 
+öncelik деңгейі:% 1 % 2 
+Жоспарлағыш артықшылығы:% 1 
+Жоспарлағыш:% 1 
+Е Ç öncelik деңгейі:% 1 % 2 
+Е Ç класы:% 1 
+İşlem Durumu:% 1 2Пайдаланушының процессорды жұмсауы:% 3% olabilirsiniz. Sistem şöyle процессорды жұмсауы:% 4% 
+Еншілестерінің sayısı:% 1 Kullanıcı процессорды genel жұмсауы:% 2% olabilirsiniz. Sistem şöyle процессорды genel жұмсауы:% 3% İşlemci genel жұмсауы:% 4% 
+процесордың olan görevin çalıştığı Zamanı:% 1 sn 
+процесордың өзекте görevin çalıştığı Zamanı:% 1 sn 
+öncelik деңгейі:% 1 % 2 
+bellek жұмсауы:% 1 % 2 көлемінен % 3% 
+bellek жұмсауы:% 1 
+KDE bellek жұмсауы:% 1 % 2 көлемінен % 3% 
+KDE bellek жұмсауы:% 1 
+sisteminizde оқитың bilgiler yok olabilir. 
+paylaşılan kitaplık görevin çalıştığı жады:% 1 % 2 көлемінен % 3% 
+paylaşılan kitaplık görevin çalıştığı жады:% 1 
+okunmuş karakter sayısı:% 1 % 2 KB s Жазылған karakter sayısı:% 3 % 4 KB s Sistem okuma талаптары:% 5 % 6 s⁻¹ Sistem yazma талаптары:% 7 % 8 s⁻¹ Genel okunmuş байттар:% 9 % 10 KB s Genel içeren байттар:% 11 % 12 KB s process heading 
+Атауыprocess heading 
+Пайдаланушысыprocess heading 
+PIDprocess heading 
+TTYprocess heading 
+Артықшылығыprocess heading 
+CPU% process heading 
+ЕШ оқуprocess heading 
+ЕШ жазуprocess heading 
+sanal өлшеміprocess heading 
+жадыprocess heading 
+paylaşılan жадыprocess heading 
+Командаprocess heading 
+pencere başlığı 
+% 1 К 
+% 1 М 
+% 1 Г 
+% 1 
+sürecin önceliğini Düzenle 
+Нөмірі 
+kdesu çalıştırılacak bulunamadı. 
+setscheduler çalıştırılacak bulunamadı. Bu sistem бақылауышымен birlikte орнатылуы alınan еді. 
+bu sürecin önceliğini düzenleme izniniz yok ve Root emin алмадыңыз. 
+bu sürecin Е Ç önceliğini düzenleme izniniz yok ve Root emin алмадыңыз. 
+solid- bluetooth 
+Жабдықтарды komut satırından сұрап yönetimi için KDE aracı 
+Синтаксис Hatası: Yeterli argüman yok 
+Синтаксис Dizimi Аргументтері çok fazla 
+kullanılabilir komutları adresler göre göster 
+komutu -- commands 
+Команданың argümanlar 
+Синтаксисі: 
+# Bluetooth Adaptör интерфейстер listesini yazdır 
+# Bluetooth öntanımlı Adaptör arayüz yazdır 
+# Шинада uzak bluetooth aygıtı oluşturmak sor 
+# Шинада uzak bluetooth aygıtı silmeyi sor 
+# Bluetooth адаптерден özellik sor 
+Синтаксис Dizimi bilinmeyen komut: % 1 
+Қате: desteklenmiyor әрекет. 
+Hata:% 1 
+Барысы:% 1 
+Мәлімет:% 1 
+тетік uygulaması жүктелді, ancak tipi қате, күткені% 1 vClanedar biçimi 
+% 1 olmayan тетік belirlendi 
+% 1 тетіктердің biri kullanabilirsiniz. келмейдіA button on a Remote Control 
+1A button on a Remote Control 
+2A button on a Remote Control 
+3A button on a Remote Control 
+4A button on a Remote Control 
+5A button on a Remote Control 
+6A button on a Remote Control 
+7A button on a Remote Control 
+8A button on a Remote Control 
+9A button on a Remote Control 
+ОрындауA button on a Remote Control 
+АялдауA button on a Remote Control 
+çalışma АялдауA button on a Remote Control 
+ТоқтауA button on a Remote Control 
+İleri өтуA button on a Remote Control 
+geri өтуA button on a Remote Control 
+İleri жүгіртуA button on a Remote Control 
+geri жүгіртуA button on a Remote Control 
+önceki арнаA button on a Remote Control 
+sonraki арнаA button on a Remote Control 
+Үнділігін төмендетуA button on a Remote Control 
+Үнділігін жоғарлатуA button on a Remote Control 
+Дыбысын өшіруA button on a Remote Control 
+АқпарA button on a Remote Control 
+CD çıkarma YazdırA button on a Remote Control 
+ҚуатA button on a Remote Control 
+ЖоғарыA button on a Remote Control 
+ТөменA button on a Remote Control 
+СолғаA button on a Remote Control 
+ОңғаA button on a Remote Control 
+ТаңдауA button on a Remote Control 
+ШегінуA button on a Remote Control 
+МәзірA button on a Remote Control 
+Aux. кірісA button on a Remote Control 
+CDA button on a Remote Control 
+DVDA button on a Remote Control 
+ТВ- гидіA button on a Remote Control 
+ТаңдаулыA button on a Remote Control 
+АнықтамаA button on a Remote Control 
+МекенA button on a Remote Control 
+МузыкаA button on a Remote Control 
+МәтінA button on a Remote Control 
+ТВA button on a Remote Control 
+КөкA button on a Remote Control 
+ЖасылA button on a Remote Control 
+ҚызылA button on a Remote Control 
+СарыA button on a Remote Control 
+bilinmeyen 
+solid- hardware 
+Жабдықтарды komut satırından сұрап yönetimi için KDE aracı 
+Синтаксис Hatası: Yeterli argüman yok 
+Синтаксис Dizimi Аргументтері çok fazla 
+kullanılabilir komutları göster 
+komutu -- commands 
+Команданың argümanlar 
+Синтаксисі: 
+# Lütfen zaten жабдықтар listesini göster. # - Eğer nonportableinfo parametre келтірілсе, aygıt # iletişim arayüzünün listesi шығарлады değerler True değeri taşıyorsa olumlu True қасиеттің adı # ye тәуелді, # - Eğer details parametre келтірілсе, aygıt Arayüzleri # ve ve Özellikleri платформаға Tarafsız # olarak шығарылады, # - Aksi sadece aygıt UDI- тері sadece çıkart. 
+# Платформадан bağımsızlık olarak udi e için # aygıt tüm интерфейстерін ve davranışlarını # göster 
+# udi e için aygıt tüm davranışlarını Göster # arayüzünün değerler True değeri taşıyorsa olumlu True қасиеттің adı ye yazabileceğini 
+# predicate e için UDI- ler listesini göster. # - Eğer parentUdi belirtilirse, arama bir # aygıt саласымен шектеледі. # - Aksi arama tüm құрылығыларға салынады. 
+# Істеуге istiyorsanız udi e için aygıtı тіркеу. 
+# Істеуге istiyorsanız udi e için aygıtı bant göster. 
+# Істеуге istiyorsanız udi e için aygıtı ve göster. 
+Синтаксис Dizimi bilinmeyen komut: % 1 
+Hata:% 1 StorageAccess arayüzü yok. 
+Hata:% 1 OpticalDrive arayüzü yok. 
+Hata:% 1 
+Барысы:% 1 
+Мәлімет:% 1 
+solid- network 
+ağ интерфейстерін komut satırından сұрап yönetimi için KDE aracı 
+Синтаксис Hatası: Yeterli argüman yok 
+Синтаксис Dizimi Аргументтері çok fazla 
+kullanılabilir komutları adresler göre göster 
+komutu -- commands 
+Команданың argümanlar 
+Синтаксисі: 
+# Bu ağ aygıtı listesini göster. 
+# Girilen uni aygıtına bilinen желілер listesini göster. 
+# Etkin ağ ерекшеліктерін сұрап ayarla. # - Eğer status parametre келтірілсе, giriş ağ Eylemleri # izin етілгені hakkında yanıt döndür # - Eğer wireless parametre келтірілсе, sistem сымсыз çevrimiçi # Açık - eklenmedi hakkında yanıt döndür # - Eğer interface parametre келтрілсе, uni hedef # ağ arayüzünün Özellikleri çıkart. # - Eğer network parametre келтірілсе, device- uni bir # aygıtının bağlı network- uni bir ağ Özellikleri çıkart. 
+# Bu giriş ağ eylemleri etkinleştir veya етпеу. 
+# device- uni aygıtı ile network- uni ağ белсендету. # Қаласаңыз, bir key Hardcoded ile WEP128, ашық- makinelerde şifreleme пайдаланыңыз # her authentication bir келесінін бірі: # wep hex64_BAR_ascii64_BAR_hex128_BAR_ascii128_BAR_passphrase64_BAR_passphrase128 key ашық_BAR_ортақ # wpapsk wpa_BAR_wpa2 tkip_BAR_ccmp- aes parola бірі # wpaeap SOLIDSHELL- ДЕ ІСКЕ АСЫРЫЛМАҒАН 
+Синтаксис Dizimi % 1 parametre bilinmeyen 
+desteklenmemektedir 
+Tanınmayan WEP tipi: % 1 
+Tanınmayan WEP yöntemi: % 1 
+Tanınmayan WPA aktarım % 1 
+Tanınmayan WPA şifreleme iletişim kuralı: % 1 
+desteklenmemektedir doğrulama сұлбасы: % 1 
+Синтаксис Dizimi % 1 nesnesi bilinmeyen 
+Синтаксис Dizimi bilinmeyen komut: % 1 
+желі: etkin 
+желі: Reddet 
+сымсыз: etkin 
+сымсыз: Reddet 
+сымсыз: etkin 
+сымсыз: Reddet 
+Барысы:% 1 
+Мәлімет:% 1 
+solid- powermanagement 
+Қуатандыру ayarlarını komut satırından сұрап yönetimi için KDE aracı 
+Синтаксис Hatası: Yeterli argüman yok 
+Синтаксис Dizimi Аргументтері çok fazla 
+kullanılabilir komutları göster 
+komutu -- commands 
+Команданың argümanlar 
+Синтаксисі: 
+# Қуаттандыруды Kontrol için göster. # - Eğer suspend parametre келтірілсе, bu sistem bir askıya alma # әдістерінің listesi çıkart. # - Eğer scheme parametre келтірілсе, bu sistemi # güç Yönetimi şemalarının listesi çıkart. # - Eğer cpufreq parametre келтірілсе, sistem İşlemci # жиілік саясаттар listesi çıkart. 
+# Жүйені güç Yönetimi ayarlarını ayarlar. # - Eğer scheme parametre келтірілсе, güç Yönetimi # Şeması value olarak yapılır. # - Eğer cpufreq parametre келтірілсе, процесордың жиілік # Politikası value olarak uygulamasının 
+# bilgisayarı bir method yöntemi қалғыту. 
+# olabilirsiniz. Sistem şöyle Işık seçeneğini Ayarla білу. # - Eğer set parametre kullanılmışsa parlaklık # value % мәнніне eşit olarak yapılır. # - Eğer get parametre kullanılmışsa кәзіргі # parlaklık % döndür 
+Синтаксис Dizimi % 1 parametre bilinmeyen 
+Синтаксис Dizimi bilinmeyen komut: % 1 
+desteklenmeyen bir askıya alma әдісі:% 1 
+Қате: desteklenmiyor әрекет. 
+Hata:% 1 
+desteklenmeyen сұлба:% 1 
+desteklenmeyen İşlemci жиілік саясаты:% 1 
+Барысы:% 1 
+Мәлімет:% 1 
+ЕштеңеA default name for an action without proper label 
+bilinmeyen 
+Yeni aygıt bulundu. Не істемексіз? 
+... 
+% 1 erişim parola söyler. Паролін girin. 
+sistem Ayarları 
+KDE yi yapılandırma Merkezi 
+C 2009, Ben Cooksley 
+Ben Cooksley 
+Жетілдіруші 
+Mathias Soeken 
+Құрастырушы 
+Will Stephenson 
+модульдің alt құрылысы, alt şablonu 
+arama 
+yapılandırma 
+Yardım 
+etkin modül туралыGeneral config for System Settings 
+genel 
+yapılandırma programı бірдебір Görünümünü bulunamadı. алмады, olarak yapılandırmak için birşey yok. 
+Көріністер bulunamadı 
+yapılandırma programı бірдебір Görünümünü bulunamadı. алмады, olarak gösteren birşey yok. 
+etkin Görünüm hakkında 
+% 1 Hakkında 
+% 1 otomatik çalışan harici program 
+% 1 yeniden başlat 
+tüm girilen değişiklikleri göz ardı ederek önceki күйлеріне Yükle 
+etkin kontrol modülü kaydedilmemiş değişiklikler var. Bu çiftler değişiklikleri istiyor musunuz? 
+i Uygula 
+Simge Ekle 
+yapılandırma модульдерінің санаттарға bölünmüş Simgeler - Görünüm 
+yazar 
+gözat 
+kısayol тіркесімі:% 1NAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Görünüm Biçimi 
+ayrıntılı İpuçları göster 
+ayrıntılı ишараларды eklenmesini aç ұйғару 
+şimdiki görünümün alt adı 
+sistem Ayarları hakkında 
+Pencere 
+üst seviyesini hemen тарқатып göster 
+ağaç Görünümü 
+yapılandırma модульдерінің klasik ağaç - Görünüm 
+Sisteminizi Yapılandır 
+sistem Ayarları bir bilgisayarınızı yapılandırma орталығына a келдіңіз. 
+C 2005 Benjamin C. Meyer; c 2007, Canonical Ltd 
+C. Benjamin Meyer 
+Jonathan Riddell 
+Pasta қосушы 
+Michael D. Stemle 
+Simon Edwards 
+Ellen Reitmayr 
+Ыңғайлығы 
+arama Çubuğu Ara sözcük girin. 
+kaydedilmemiş değişiklikler 
+Суретіңізді Değiştir 
+resmi & Yakalama alınıyor... 
+Қалауы göre 
+resim yüklenirken hata oluştu. 
+resim kaydedilirken hata oluştu:% 1 
+& boyutlandırma: kopya болашақта için özel dizine Kaydet 
+resmi Seç 
+& Parola ауыстыру... 
+parola ve bilgiler 
+C 2002, Braden MacDonald, C 2004 Ravikiran Rajagopal 
+Frans Englich 
+Geliştirici 
+Ravikiran Rajagopal 
+Michael Häckel 
+Braden MacDonald 
+resim Düzenleyici 
+Geert Jansen 
+parola ауыстырғышы 
+Daniel Molkentin 
+Alex Zepeda 
+Hans Karlsson 
+Simgeler 
+Hermann Thomas 
+Buradan bir arama Bu мәлімет, örnek için posta бағдарламаларында veya metin өңдегіштерде gerekli seçebilirsiniz. Пароліңізді Паролді ауыстыру... düğmesine tıklayarak ауыстыра seçebilirsiniz. 
+Қате: kdepasswd bir alt uygulaması bulunamadı. Parola ауыстырылмайды. 
+i için parolanızı girin: 
+arama için parolanızı belirtmelisiniz. 
+geçerli parolayı girin. 
+bir bir себебінен parolanız ауыстырылмай калған gibi Hata iletisi:% 1 
+resim kaydedilirken hata oluştu:% 1 
+Әкімшіңіз кескініңізді üzerine Veto vermiyor. 
+% 1 resim dosyası yok. girilen Жұрнақтары dosyaları таңдаңыз:% 2 
+Yeni bir seçin: 
+özel кескін... 
+giriş кіргендегі resim Boyutu 
+Öntanımlı resim dosyası 
+kullanıcı özel resim dosyası 
+kullanıcı giriş кездегі resmi 
+parola ara жаңғырығы 
+Суретіңізді için düğmesine tıklayın 
+parola ауыстыру... 
+kullanıcı Bilgileri 
+& adınızı жөні: 
+Ұйым Мекеме: 
+& E- posta adresi: 
+& Freedb sunucusu: 
+kullanıcı kimliği 
+parola шақыруда 
+her әріпке bir yıldız 
+her әріпке üç yıldız 
+öge көрсетпеуNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+sizin жауаптарыңыз 
+soru 
+Жауабыңыз 
+Дұрысы 
+% 2 сұраққа% 1 geçerli yanıt бердіңіз. 
+geçerli yanıt sayısı:% 1 % 2 
+Қабылдау@ item: intable column Question,% 1 is capital name 
+% 1@ info: status 
+% 1 жалауы... @ title 
+% 1 жалауы@ title: group 
+bu sonraki ülke жалауы: @ option: radio This flag belongs to: 
+% 1 жалауы göre 
+harita & зерттеу 
+bu kipte қартаның herhangi аумағында sol düğmesine tıklayarak bu Alan bilgilerini @ seçebilirsiniz 
+Өзіңізді mmHg yeniden deneyin: 
+Өлкелерді & Bul 
+bu жаттығуда, ve sol жақта, da alt аумақтың adı беріледі, ve картадан bul ve түртуіңіз bir 
+Өлкені картаға & Yapıştır 
+bu жаттығуда, ve vilayet Şeması беріледі, ve картадағы konumunu bul ve Yapıştır bir 
+& Өлкелерді Merkezi göre 
+bu жаттығуда, göre ülke adı Bul bir ülkesinin başkentiitalyprovince. kgm 
+Өлкелердің & noktalarını 
+bu жаттығуда, ülke adı göre астанасын Bul bir 
+жалауы göre bölge adı 
+bu жаттығуда, жалауы göre ülke adı Bul bir 
+Өлкелердің & жалаулары 
+bu жаттығуда, bu ülke жалауын Göster bir 
+harita & Aç... 
+Ұлғайту küçült 
+orjinal Boyutu 
+& Otomaik Ölçeklendirme 
+& Taşı 
+Кепілсіздік 
+Картаның yazar 
+Son пайдалынған harita ашылмады.% 1 ayrıştırma hatası:% 2 
+zaten harita yok 
+сұрақтар sayısı 
+kaç soru istiyorsunuz? 1 бастап% 1 
+% 1 аумағының & konum 
+% 1 Alan картаға & Yapıştır 
+% 1 жалаулары 
+geçerli карта:% 1 
+Карталар, жалаулар, аударылымдары әрбірінің yazar sağlar. ете алған quality дәрежесінде, демек, KGeography için resmi IAU мағлумат Kaynağı olamaz. 
+% 1 ile açılış resmini oluşturan Haritası 
+Картаның yazar 
+KGeography 
+Географияны Okuyucu 
+© 2004- 2005 Albert Astals Cid 
+Albert Astals Cid 
+Программист ve құрастыраушысы 
+Sodipodi жалаулар ayarları 
+bazı жалаулар yol алынған@ info 
+bu haritada қателікті таптыңыз. Yazara elektronik қатынап% 1. картасында% 2,% 3,% 4 түстерімен bağlı Öge Yok olarak bu @ item Capital name in map görevmenüsü 
+Sonraki түртіңіз:% 1@ title 
+% 1 alanı haritada 
+kullanılacak harita Seç 
+% 1 ayrıştırma hatası:% 2 
+ayrıştırma hatası 
+Өлкелерsouthkorea. kgm 
+% 1 Kartı resim yok 
+% 1 ülkesinin başkentiitalyprovince. kgm Göre@ title: group 
+% 1 & ülkesinin başkentiitalyprovince. kgm 
+% 1 жалауының resim yok 
+% 1 тегте geçersiz değer bir 
+Екеуінің бірі - немесе% 1 isimli veya түсі% 2 Rengi ile aynı Alanı zaten 
+Картаның tanımlama dosyası% 1 тегтен başlayabilirler 
+% 1 okuma açılamadı. 
+% 1 bulunamadı. 
+Картаның tanımlama dosyasında% 2 için ішінде% 1 тег gösterilsin 
+Картаның tanımlama dosyasında% 2 için içerisinde bir ғана% 1 тег EMPTY тиісafghanistan. kgm 
+Ауғанстанworld. kgm 
+Өлкелеріzimbabwe. kgm 
+Gutuzimbabwe_ districts. kgm 
+Иранworld. kgm 
+Түрікменстанworld. kgm 
+Өзбекстанworld. kgm 
+Тәжікстанworld. kgm 
+Қытайworld. kgm 
+Пәкістанworld. kgm 
+Үндістанworld. kgm 
+Бадахшанafghanistan. kgm 
+Файзабадafghanistan. kgm 
+Бадгисafghanistan. kgm 
+Калаи Науafghanistan. kgm 
+Бағланafghanistan. kgm 
+Пули Хумриafghanistan. kgm 
+Балхafghanistan. kgm 
+Мазари- Шарифafghanistan. kgm 
+Бамианafghanistan. kgm 
+Дайкундиafghanistan. kgm 
+Нилиafghanistan. kgm 
+Жаузжанafghanistan. kgm 
+Шеберғанafghanistan. kgm 
+Фарахafghanistan. kgm 
+Фарябafghanistan. kgm 
+Майманаafghanistan. kgm 
+Ғазниafghanistan. kgm 
+Ғорafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Гелмендafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Гератafghanistan. kgm 
+Кабулworld. kgm 
+Қандағарafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Хостafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Асадабадafghanistan. kgm 
+Кундузafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Нангархарafghanistan. kgm 
+Жалалабадafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Нұристанafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Пактияafghanistan. kgm 
+Гардезafghanistan. kgm 
+Пактикаafghanistan. kgm 
+Шаранafghanistan. kgm 
+Паншерafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Саманғанafghanistan. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+Güney Sikkimsikkim. kgm 
+africa. kgm 
+Африкаworld_ continents. kgm 
+Елдерworld. kgm 
+Су@ title: group 
+africa. kgm 
+Алжирworld. kgm 
+Asunciónworld. kgm 
+Анголаworld. kgm 
+Луандаworld. kgm 
+Бенинworld. kgm 
+Porto Новоafrica. kgm 
+Ботсванаworld. kgm 
+Габорорнеworld. kgm 
+Burkina Фасоworld. kgm 
+Asunciónworld. kgm 
+Бурундиworld. kgm 
+Бужумбураworld. kgm 
+Камерунworld. kgm 
+Asunciónworld. kgm 
+Cape Вердеafrica. kgm 
+Прайяafrica. kgm 
+Center Afrika Республикасыworld. kgm 
+Asunciónworld. kgm 
+Чадworld. kgm 
+Нджаменаworld. kgm 
+Komoro ар- ыafrica. kgm 
+Морониafrica. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Lomamizaire2006. kgm 
+Lomamizaire2006. kgm 
+Джибутиworld. kgm 
+Мысырworld. kgm 
+Asunciónworld. kgm 
+ekvator Гвинеяworld. kgm 
+Asunciónworld. kgm 
+Эритреяworld. kgm 
+Asunciónworld. kgm 
+Эфиопияworld. kgm 
+Asunciónworld. kgm 
+Габонworld. kgm 
+Asunciónworld. kgm 
+Гамбияafrica. kgm 
+Asunciónworld. kgm 
+Ганаworld. kgm 
+Asunciónworld. kgm 
+Гвинеяworld. kgm 
+Asunciónworld. kgm 
+Gine- Бисауworld. kgm 
+Asunciónworld. kgm 
+Кенияworld. kgm 
+Asunciónworld. kgm 
+Лесотоworld. kgm 
+Asunciónworld. kgm 
+Либерияworld. kgm 
+Asunciónworld. kgm 
+Ливияworld. kgm 
+Asunciónworld. kgm 
+Мадагаскарworld. kgm 
+Asunciónworld. kgm 
+Малавиworld. kgm 
+Asunciónworld. kgm 
+Малиworld. kgm 
+Asunciónworld. kgm 
+Мавританияworld. kgm 
+Asunciónworld. kgm 
+Маврикийafrica. kgm 
+africa. kgm 
+Мароккоworld. kgm 
+Asunciónworld. kgm 
+Мозамбикworld. kgm 
+Asunciónworld. kgm 
+Намибияworld. kgm 
+Asunciónworld. kgm 
+Нигерworld. kgm 
+Asunciónworld. kgm 
+Нигерияworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Руандаworld. kgm 
+Asunciónworld. kgm 
+Сенегалworld. kgm 
+Asunciónworld. kgm 
+Şeyseller ар- ыafrica. kgm 
+canada. kgm 
+Sierra Леонеworld. kgm 
+Asunciónworld. kgm 
+Сомалиworld. kgm 
+Asunciónworld. kgm 
+Güney Африкаworld. kgm 
+africa. kgm 
+Суданworld. kgm 
+Asunciónworld. kgm 
+Свазилендworld. kgm 
+Asunciónworld. kgm 
+africa. kgm 
+africa. kgm 
+Танзанияworld. kgm 
+Asunciónworld. kgm 
+Тогоworld. kgm 
+Asunciónworld. kgm 
+Тунисworld. kgm 
+Asunciónworld. kgm 
+Угандаworld. kgm 
+Asunciónworld. kgm 
+Batı Сахараworld. kgm 
+africa. kgm 
+Замбияworld. kgm 
+Solwezizambia_ provinces. kgm 
+Зимбабвеzimbabwe. kgm 
+Gutuzimbabwe_ districts. kgm 
+africa. kgm 
+Tenerifespain_ provinces. kgm 
+africa. kgm 
+Alentejoportugal_ regions. kgm 
+africa. kgm 
+africa. kgm 
+africa. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+Gutuzimbabwe_ districts. kgm 
+albania_ prefectures. kgm 
+albania_ prefectures. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ prefectures. kgm 
+albania_ districts. kgm 
+albania_ prefectures. kgm 
+albania_ prefectures. kgm 
+albania_ prefectures. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ prefectures. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ prefectures. kgm 
+albania_ districts. kgm 
+albania_ prefectures. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ prefectures. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+albania_ districts. kgm 
+algeria. kgm 
+albania_ prefectures. kgm 
+japan. kgm 
+albania_ prefectures. kgm 
+albania_ prefectures. kgm 
+Asunciónworld. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+algeria. kgm 
+Tamenglongmanipur. kgm 
+Андорраworld. kgm 
+jamaica. kgm 
+Испанияworld. kgm 
+Францияworld. kgm 
+Asunciónworld. kgm 
+Tamenglongmanipur. kgm 
+Tamenglongmanipur. kgm 
+Tamenglongmanipur. kgm 
+Tamenglongmanipur. kgm 
+Tamenglongmanipur. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+angola_ provinces. kgm 
+Заирangola_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Аргентинаworld. kgm 
+Ribatejoportugal_ provinces. kgm 
+Buenos Aires шаһары Ribatejoportugal_ provinces. kgm 
+Buenos Айресworld. kgm 
+La_ Платаargentina. kgm 
+Катамаркаargentina. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Coloradowaters_ world- class. kgm 
+Ribatejoportugal_ provinces. kgm 
+Кордобаspain_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Формозаargentina. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Santa Розаguatemala. kgm 
+Tenerifespain_ provinces. kgm 
+Мендозаargentina. kgm 
+Guairáparaguay. kgm 
+Посадасargentina. kgm 
+Ribatejoportugal_ provinces. kgm 
+Rio Негроuruguay. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Guayamapuertorico. kgm 
+San Люисargentina. kgm 
+Santa Крузphilippines. kgm 
+Ribatejoportugal_ provinces. kgm 
+Santa Феusa. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+Ribatejoportugal_ provinces. kgm 
+armenia. kgm 
+Арменияworld. kgm 
+armenia. kgm 
+armenia. kgm 
+Әзербайжанworld. kgm 
+Грузияworld. kgm 
+Түркияworld. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+armenia. kgm 
+Asunciónworld. kgm 
+world_ continents. kgm 
+Ресейworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Иракworld. kgm 
+Asunciónworld. kgm 
+Израильworld. kgm 
+Asunciónworld. kgm 
+Иорданияworld. kgm 
+Asunciónworld. kgm 
+Кувейтworld. kgm 
+Asunciónworld. kgm 
+Ливанworld. kgm 
+Asunciónworld. kgm 
+Катарworld. kgm 
+Asunciónworld. kgm 
+Suudi Арабиясыworld. kgm 
+Asunciónworld. kgm 
+Сирияworld. kgm 
+Asunciónworld. kgm 
+Біріккен Arap Әмірліктеріworld. kgm 
+Asunciónworld. kgm 
+Оманworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Йеменyemen. kgm 
+Asunciónworld. kgm 
+Украинаworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Sri Ланкаworld. kgm 
+Asunciónworld. kgm 
+Монғолияworld. kgm 
+Asunciónworld. kgm 
+Қазақстанworld. kgm 
+Asunciónworld. kgm 
+Жапонияworld. kgm 
+Asunciónworld. kgm 
+Мьянмаworld. kgm 
+Asunciónworld. kgm 
+Непалworld. kgm 
+Asunciónworld. kgm 
+Бутанworld. kgm 
+Asunciónworld. kgm 
+Индонезияworld. kgm 
+Asunciónworld. kgm 
+Малайзияworld. kgm 
+Asunciónworld. kgm 
+Бангладешworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Бахрейнworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Қырғызстанworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Лаосworld. kgm 
+Asunciónworld. kgm 
+Камбоджаworld. kgm 
+Asunciónworld. kgm 
+Брунейworld. kgm 
+Asunciónworld. kgm 
+Филиппинworld. kgm 
+Asunciónworld. kgm 
+Тайландworld. kgm 
+Asunciónworld. kgm 
+Вьетнамworld. kgm 
+Asunciónworld. kgm 
+Tayvan ар. china. kgm 
+Asunciónworld. kgm 
+Сингапурworld. kgm 
+Kuzey Kore Chagangnorth_ korea. kgm 
+Asunciónworld. kgm 
+Güney Республикасыchina. kgm 
+Asunciónworld. kgm 
+Doğu Тиморworld. kgm 
+Asunciónworld. kgm 
+Papua Yeni Гвинеяworld. kgm 
+Австралияworld. kgm 
+Кипрworld. kgm 
+Apurevenezuela. kgm 
+australia. kgm 
+Virginiausa. kgm 
+australia. kgm 
+Asunciónworld. kgm 
+australia. kgm 
+australia. kgm 
+australia. kgm 
+australia. kgm 
+australia. kgm 
+australia. kgm 
+australia. kgm 
+australia. kgm 
+great- britain_ counties. kgm 
+australia. kgm 
+australia. kgm 
+australia. kgm 
+austria. kgm 
+Австрияworld. kgm 
+austria. kgm 
+Asunciónworld. kgm 
+austria. kgm 
+austria. kgm 
+Prekmurjeslovenia_ traditional. kgm 
+austria. kgm 
+Prekmurjeslovenia_ traditional. kgm 
+austria. kgm 
+austria. kgm 
+austria. kgm 
+austria. kgm 
+austria. kgm 
+austria. kgm 
+austria. kgm 
+austria. kgm 
+austria. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+azerbaijan. kgm 
+bangladesh. kgm 
+bangladesh. kgm 
+bangladesh. kgm 
+bangladesh. kgm 
+bangladesh. kgm 
+bangladesh. kgm 
+bangladesh. kgm 
+belarus. kgm 
+Белоруссияworld. kgm 
+belarus. kgm 
+belarus. kgm 
+belarus. kgm 
+belarus. kgm 
+belarus. kgm 
+belarus. kgm 
+belarus. kgm 
+belgium. kgm 
+Бельгияworld. kgm 
+belgium. kgm 
+belgium. kgm 
+Asunciónworld. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+Hollandanetherlands. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+belgium. kgm 
+Люксембургworld. kgm 
+belgium. kgm 
+belize. kgm 
+Белизworld. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+belize. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bhutan. kgm 
+bolivia. kgm 
+Боливияworld. kgm 
+Mercedesuruguay. kgm 
+bolivia. kgm 
+bolivia. kgm 
+Mercedesuruguay. kgm 
+bolivia. kgm 
+Apurevenezuela. kgm 
+bolivia. kgm 
+Asunciónworld. kgm 
+bolivia. kgm 
+bolivia. kgm 
+bolivia. kgm 
+bolivia. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+Fribourgswitzerland. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+Asunciónworld. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+bosnia- herzegovina. kgm 
+botswana. kgm 
+botswana. kgm 
+Solwezizambia_ provinces. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+botswana. kgm 
+Solwezizambia_ provinces. kgm 
+brazil. kgm 
+Бразилияworld. kgm 
+brazil. kgm 
+brazil. kgm 
+Nickeriesuriname. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+Querétaromexico_ states. kgm 
+Asunciónworld. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+Coloradowaters_ world- class. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+Apurevenezuela. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+Coloradowaters_ world- class. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+brazil. kgm 
+Tenerifespain_ provinces. kgm 
+Busansouthkorea. kgm 
+Болгарияworld. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+Virginiausa. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+bulgaria. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+Монburma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+burma. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+Alentejoportugal_ regions. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+canada. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ departments. kgm 
+cameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+haiti. kgm 
+Шығысcameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+Солтүстікcameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+Оңтүстікcameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+cameroon_ provinces. kgm 
+Батысcameroon_ provinces. kgm 
+Канадаworld. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+canada. kgm 
+caribbean. kgm 
+Кариб ар- ыcaribbean. kgm 
+caribbean. kgm 
+Bahama ар- ыcaribbean. kgm 
+Asunciónworld. kgm 
+caribbean. kgm 
+caribbean. kgm 
+Кубаworld. kgm 
+Asunciónworld. kgm 
+Гаитиworld. kgm 
+Asunciónworld. kgm 
+Dominik Республикасыdominican_ republic. kgm 
+Asunciónworld. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+Antigua ve Барбудаworld. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+Доминикаworld. kgm 
+Asunciónworld. kgm 
+caribbean. kgm 
+caribbean. kgm 
+St. Люсияcaribbean. kgm 
+caribbean. kgm 
+Барбадосworld. kgm 
+Asunciónworld. kgm 
+caribbean. kgm 
+caribbean. kgm 
+Гренадаcaribbean. kgm 
+caribbean. kgm 
+Trinidad ve Тобагоworld. kgm 
+Asunciónworld. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+caribbean. kgm 
+Ямайкаworld. kgm 
+Asunciónworld. kgm 
+caribbean. kgm 
+Penangmalaysia. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+Apurevenezuela. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+Tenerifespain_ provinces. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+Tenerifespain_ provinces. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+catalonia_ comarques. kgm 
+chile. kgm 
+Чилиworld. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+Guairáparaguay. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+chile. kgm 
+Asunciónworld. kgm 
+bolivia. kgm 
+Боливияchile. kgm 
+africa. kgm 
+Африкаchina. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+china. kgm 
+Hong Kong china. kgm 
+Macau Espanhaportugal_ provinces. kgm 
+Колумбияworld. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Боливарcolombia. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Apurevenezuela. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Samarphilippines. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Coloradowaters_ world- class. kgm 
+Espanhaportugal_ provinces. kgm 
+Метаcolombia. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Tenerifespain_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Espanhaportugal_ provinces. kgm 
+Шекараwestbengal. kgm 
+costa_ rica. kgm 
+Kosta Рикаworld. kgm 
+costa_ rica. kgm 
+costa_ rica. kgm 
+costa_ rica. kgm 
+costa_ rica. kgm 
+costa_ rica. kgm 
+costa_ rica. kgm 
+costa_ rica. kgm 
+Asunciónworld. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cuba. kgm 
+cyprus. kgm 
+cyprus. kgm 
+cyprus. kgm 
+cyprus. kgm 
+cyprus. kgm 
+cyprus. kgm 
+cyprus. kgm 
+Asunciónworld. kgm 
+çek Республикасыworld. kgm 
+czech. kgm 
+Asunciónworld. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+czech. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+Sipaliwinisweden. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+denmark_ counties. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+Guayamapuertorico. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+Apurevenezuela. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+dominican_ republic. kgm 
+ecuador. kgm 
+Эквадорworld. kgm 
+ecuador. kgm 
+ecuador. kgm 
+Tenerifespain_ provinces. kgm 
+Apurevenezuela. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+Asunciónworld. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+ecuador. kgm 
+Tenerifespain_ provinces. kgm 
+Dhamaryemen. kgm 
+egypt. kgm 
+Vâlcearomania. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+Warabsudan. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+egypt. kgm 
+el_ salvador. kgm 
+Сальвадорworld. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+Pascoperu. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+Asunciónworld. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+el_ salvador. kgm 
+emirates. kgm 
+emirates. kgm 
+emirates. kgm 
+emirates. kgm 
+emirates. kgm 
+emirates. kgm 
+emirates. kgm 
+emirates. kgm 
+emirates. kgm 
+estonia. kgm 
+Эстонияworld. kgm 
+estonia. kgm 
+estonia. kgm 
+Asunciónworld. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+estonia. kgm 
+Salekhardsan- marino. kgm 
+Еуропаworld_ continents. kgm 
+Албанияworld. kgm 
+Asunciónworld. kgm 
+Bosna ve Герцоговинаworld. kgm 
+Asunciónworld. kgm 
+Хорватияworld. kgm 
+Asunciónworld. kgm 
+Данияworld. kgm 
+Asunciónworld. kgm 
+Финляндияworld. kgm 
+Asunciónworld. kgm 
+Македонияworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Германияworld. kgm 
+Asunciónworld. kgm 
+Грекияworld. kgm 
+Asunciónworld. kgm 
+Венгрияworld. kgm 
+Asunciónworld. kgm 
+Исландияworld. kgm 
+Asunciónworld. kgm 
+Ирландияworld. kgm 
+Asunciónworld. kgm 
+Италияworld. kgm 
+Asunciónworld. kgm 
+Латвияworld. kgm 
+Asunciónworld. kgm 
+Лихтенштейнworld. kgm 
+Asunciónworld. kgm 
+Литваworld. kgm 
+Asunciónworld. kgm 
+Молдоваworld. kgm 
+Asunciónworld. kgm 
+Монакоworld. kgm 
+Нидерландыworld. kgm 
+Asunciónworld. kgm 
+Норвегияworld. kgm 
+Asunciónworld. kgm 
+Польшаworld. kgm 
+Asunciónworld. kgm 
+Португалияworld. kgm 
+Asunciónworld. kgm 
+Румынияworld. kgm 
+Asunciónworld. kgm 
+San Мариноworld. kgm 
+Сербияworld. kgm 
+Asunciónworld. kgm 
+Черногорияworld. kgm 
+Asunciónworld. kgm 
+Словакияworld. kgm 
+Asunciónworld. kgm 
+Словенияworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Швецияworld. kgm 
+Asunciónworld. kgm 
+Швейцарияworld. kgm 
+Asunciónworld. kgm 
+Asunciónworld. kgm 
+Ұлыбританияworld. kgm 
+Asunciónworld. kgm 
+Ватиканworld. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+finland_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+Fribourgswitzerland. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+Coloradowaters_ world- class. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+Coloradowaters_ world- class. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+haiti. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france. kgm 
+georgia. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+france_ regions. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+georgia. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+jamaica. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+germany. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+Virginiausa. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+Virginiausa. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+great- britain_ counties. kgm 
+greece. kgm 
+greece_ peripheries. kgm 
+greece. kgm 
+greece. kgm 
+greece. kgm 
+greece. kgm 
+greece. kgm 
+greece. kgm 
+greece_ peripheries. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece. kgm 
+guatemala. kgm 
+greece_ peripheries. kgm 
+greece_ peripheries. kgm 
+greece_ peripheries. kgm 
+greece_ peripheries. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+greece_ prefectures. kgm 
+Гватемалаworld. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+Mercedesuruguay. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guatemala. kgm 
+guyana. kgm 
+Гайанаworld. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+guyana. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+haiti. kgm 
+honduras. kgm 
+Гондурасworld. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+Veraguaspanama. kgm 
+Apurevenezuela. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+Asunciónworld. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+Лемпираhonduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+honduras. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary_ regions. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary_ regions. kgm 
+hungary. kgm 
+iceland_ regions. kgm 
+hungary. kgm 
+hungary_ regions. kgm 
+hungary. kgm 
+hungary_ regions. kgm 
+hungary. kgm 
+hungary_ regions. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+hungary_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+iceland_ regions. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+Гоаindia. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+Salekhardsan- marino. kgm 
+oceania. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+Sindhpakistan. kgm 
+india. kgm 
+india. kgm 
+Salekhardsan- marino. kgm 
+Žilinaslovakia. kgm 
+india. kgm 
+india. kgm 
+Salekhardsan- marino. kgm 
+Gaziantepturkey. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+Howrahwestbengal. kgm 
+Howrahwestbengal. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+india. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+indonesia. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iran. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+iraq. kgm 
+ireland_ provinces. kgm 
+ireland_ provinces. kgm 
+ireland_ provinces. kgm 
+ireland_ provinces. kgm 
+ireland_ provinces. kgm 
+Kildarerepublic_ of_ ireland. kgm 
+ireland_ provinces. kgm 
+Kildarerepublic_ of_ ireland. kgm 
+ireland_ provinces. kgm 
+israel. kgm 
+israel. kgm 
+Solwezizambia_ provinces. kgm 
+israel. kgm 
+israel. kgm 
+israel. kgm 
+israel. kgm 
+israel. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italy. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+italyprovince. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+jamaica. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+japan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kazakhstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+kyrgyzstan. kgm 
+Jēkabpilslatvia. kgm 
+mode Aralık 
+mode 12; 14; 12; 15 12 değerini gönderir 
+Сынақтан өтпеу sayısı 
+Сынақтан git sayısı 
+git olasılık 
+NEGBINOMDIST işlevi, radyan биномдық dağılımını gönderir. 
+NEGBINOMDIST өтпеу; өту; өту_ ықтим 
+NEGBINOMDIST 2; 5; 0. 55, 0. 152872629 
+Үлестіремінің doğrusal ortalama 
+dağılımın ölçünlü standart sapması 
+NORMDIST işlevi, normal dağılımını gönderir. 
+normal dağılımın есептелетін in 
+ОМ bir dağılımın doğrusal орташасы. 
+STD - dağılımın ölçünlü standart ауытқуы. 
+К = 0 yoğunluk функциясы; К = 1 ise dağılımın hesaplar. 
+NORMDIST Сан; MV; СТД; К 
+NORMDIST 0. 859; 0. 6; 0. 5; 0, 0. 934236 
+NORMDIST 0. 859; 0. 6; 0. 5; 1, 0. 842281 
+normal үлестіріміндегі orta değeri 
+normal dağılımın ölçünlü standart sapması 
+NORMINV fonksiyonu normal dağılımını gönderir. Тапсыратын sayısı 0 ile 1 arasında Sınırları кірмей ve STD bilgi pozitif olmalı. 
+NORMINV sayı; MV; STD 
+NORMINV 0. 9; 63; 5 69, 41 değerini gönderir 
+standart normal dağılımın есептелетін sayı 
+NORMSDIST standart normal dağılımını gönderir. 
+NORMSDIST Саны 
+NORMSDIST 1 0. 84 
+NORMSINV standart toplam Ters dağılımını gönderir. Тапсыратын sayısı 0 ile 1 arasında Sınırları кірмей olmalı. 
+NORMSINV Саны 
+NORMSINV 0. 908789 1. 3333 
+PEARSON işlevi, iki hücre aralığının yakınlık katsayısını hesaplar. fonksiyon CORREL функциясымен бірдей. 
+PEARSON ауқым1; ауқым2 
+PEARSON A1: A3; B1: B3 
+konum алмастырымалы parçacık sayısı 
+PERMUT işlevi, konum алмастырымдар sayısını hesaplar. İlk değer parçacık sayısı, ikinci değer konum алмастыруға işlem yapılacak parçacık değer 
+PERMUT toplam; орын_ алм 
+PERMUT 8; 5 6720 
+PERMUT 1; 1, 1 
+ölçünlü normal dağılımın sayısı. 
+PHI standart normal dağılım fonksiyonu değerini gönderir. 
+PHI değer 
+PHI 0. 25, 0. 386668 
+Lambda parametresi orta değer 
+POISSON işlevi, Пуассон dağılımını gönderir. 
+Тапсыратын sayı ve Lambda parametresi sağ sayı olmalı. 
+POISSON sayı; lambda; genel 
+POISSON 60; 50; 0, 0. 020105 
+POISSON 60; 50; 1 0. 927840 
+veritabanı dizi 
+gereken konum 
+RANK işlevi, bir Listesinde Düzeni салыстырғанда gereken konumunu verir. 
+RANK 2; 1; 2; 3 değerini 2 
+bilinen Y жиымы 
+bilinen X жиымы 
+SKEW işlevi, үлестірімнің ассиметриясын бағалап reklâm 
+SKEW sayı; сан2;... 
+SKEW Aralık 
+SKEW 11. 4; 17. 3; 21. 3; 25. 9; 40. 1, 0. 9768 
+SKEWP fonksiyonu topluluk için dağılımın ассиметриясын sayısını reklâm 
+SKEWP sayı; сан2;... 
+SKEWP Aralık 
+SKEWP 11. 4; 17. 3; 21. 3; 25. 9; 40. 1, 0. 6552 
+SLOPE işlevi, doğrusal регрессия түзуінің көлбеулігін hesaplar. 
+SLOPE y; x 
+konum кішісінен itibaren 
+SMALL işlevi, bir veri takımındaki k ıncı sıradaki en küçük değeri gönderir. 
+SMALL aralık; k 
+A1: 3, A2: 1, A3: 5 = SMALL A1: A3; 1 1 
+Нормалайтын sayı 
+dağılımın ortalama 
+standart sapma 
+STANDARDIZE işlevi, нормаланған değerini hesaplar. 
+STANDARDIZE sayı; орта, stdev 
+STANDARDIZE 4; 3; 7 0. 1429 
+STDEV işlevi, örnek standart ауытқуын бағалап verir. standart sapma bir değerler орташасынан hangi шамада шашылғанының өлшемі. 
+STDEV değer; değer;... 
+STDEV 6; 7; 8, 1 
+STDEVA işlevi, örnek standart ауытқуын бағалап verir. standart sapma bir değerler орташасынан hangi шамада шашылғанын өлшемі. Таңдаманың arasında veya FALSE boolean değeri var ise bunlar 0 olarak hesaplanır, eğer aradaki değer TRUE ise 1 olarak hesaplanır. 
+STDEVA değer; değer;... 
+STDEVA 6; 7; A1; 8. eğer A1 boş ise 1. 
+STDEVA 6; 7; A1; 8. eğer A1 teki değer TRUE ise eşittir 3. 109 
+STDEVP işlevi, tam seçimdeki yaklaşık standart ауытқуын бағалап reklâm 
+STDEVP değer; değer;... 
+STDEVP 6; 7; 8, 0. 816497... 
+STDEVPA işlevi, tam seçimdeki yaklaşık standart ауытқуын бағалап verir. standart sapma bir değerler орташасынан hangi шамада шашылғанының өлшемі. Жиынтығының arasında veya FALSE boolean değeri var ise bunlar 0 olarak hesaplanır, eğer aradaki değer TRUE ise 1 olarak hesaplanır. 
+STDEVPA değer; değer;... 
+STDEVPA 6; 7; A1; 8. eğer A1 boş ise 0. 816497 
+STDEVPA 6; 7; A1; 8. eğer A1 teki değer TRUE ise 2. 69 
+STDEVPA 6; 7; A1; 8. eğer A1 teki değer FALSE ise eşittir 3. 11 
+STEYX işlevi, her x- e için y - регрессиясы göre болжаған мәннің standart қатесін hesaplar. 
+dizi 
+SUMPRODUCT işlevi, SUM X* Y değerlerin deÄ? erlerin нәтижелерінің toplamını hesaplar. Tümünü жиымының ұзындықтары aynı olmalı. Aksi dizgi 
+SUMPRODUCT dizi1; dizi2 
+SUMPRODUCT A1: A2; B1: B2, A1=2, A2=5, B1=3 B1=3, B2=5 ise değerini gönderir 
+SUMX2PY2 işlevi, SUM X^2+Y^2 değerlerin karelerinin toplamını hesaplar. Tümünü жиымының ұзындықтары aynı olmalı. Aksi dizgi 
+SUMX2PY2 dizi1; dizi2 
+SUMX2PY2 A1: A2; B1: B2, A1=2, A2=5, B1=3 B1=3, B2=5 olması 63 
+SUMX2MY2 işlevi, SUM X^2- Y^2 değerlerin karelerinin айырымын hesaplar. Tümünü жиымының ұзындықтары aynı olmalı. Aksi dizgi 
+SUMX2MY2 dizi1; dizi2 
+SUMX2MY2 A1: A2; B1: B2, A1=2, A2=5, B1=3 B1=3, B2=5 ise - 5 
+iletişim kuralı: 
+Тізбекті portu 
+Hız: 
+Құрылғысы: 
+IrDA 
+Құрылғысы: 
+Zaman aşımı: 
+Тізбекті portu 
+adı: 
+Қосылды 
+satır% 1 
+Контакттар 
+Olaylar 
+Жоспарлар 
+Жазбалар 
+Grup: 
+grup 
+genel grup Ayarları 
+% 1 Yöneticisi Ekle hata% 2 Türü:% 3 
+eşzamanlama Grubu Yapılandır 
+Мүшені Ekle... 
+şimdi eşzamanla 
+öntanımlı 
+тобы:% 1 
+Son қадамдастырылған zamanı:% 1 
+henüz істелмеген 
+hatası:% 1 
+Қосылды 
+PIM қадамдастыруы 
+okunmuş veritabanı 
+içeren bir 
+Ажыратылды 
+eşzamanlama başarısız 
+eşzamanlama onaylandı 
+önceki eşzamanlama жаңылған 
+Қайшылықтар шешілді 
+değişiklikler okunmuş 
+değişiklikler eklendi 
+eşzamanlama başarısız 
+Ажыратылды 
+hatası:% 1 
+eşzamanlama için aygıt grubu oluştur 
+KDE Senkronizasyon uygulaması 
+C 2005 KDE PIM Takımı 
+Geliştirici 
+eşzamanlama 
+Grup Ekle... 
+grup siliniyor... 
+Grubu Düzenle... 
+eşzamanlama Grubu Oluştur 
+Yeni eşzamanlama grubunun adı 
+% 1 eşzamanlama Grubu silinsin mi? 
+PIM қадамдастыруы 
+Düz 
+Palm 
+KDE PIM 
+dosya 
+қалта Telefonu 
+Evolution 
+қалта aygıt 
+LDAP 
+Google Calendar 
+Sunbird Calendar 
+bilinmeyen 
+Қосылды 
+Өшірілді 
+Өзгертілді 
+Өзгертілмеген 
+Қайшылық oluştu; ki açılıp seçiniz. 
+seçili kullan 
+Қосарлансын 
+çakışma Yoksay 
+мүше tipi Seç 
+& Gruplar 
+НегізгіNAME OF TRANSLATORS 
+Kullanıcı adı: EMAIL OF TRANSLATORS 
+yazma kullan 
+OpenSync başlatılıyor... girmeniz қатесі.% 1 
+PIM қадамдастыруы 
+bu мүше eklenti zilinin Yapılandırması yok. 
+Takvim: 
+Қапшығы: 
+tüm alt dizinleri қадам- сын 
+Kullanıcı: 
+şimdi parola eklenti yapılandırma dosyasında notu düz metin olarak жазылып сақталағанын ескеріңіз 
+Күнтізбенің Adres: 
+Model: 
+Қосылымы: 
+Инфрақызыл portu 
+TCP 
+USB nokia_ dku2 
+USB libusb 
+Тізбекті port DAU9P кабелі 
+Тізбекті port DLR3P кабелі 
+Tekram Ir- Dongle 
+Тізбекті port M2BUS protokolü 
+Bu 
+SSH 
+Байланыс kipi: 
+ИнфраҚызыл uzaktan 
+Кабель 
+İstemcisi 
+bağlantınızın tipini seçin. 
+Қатынастары 
+OBEX UUID IRMC- SYNC gönderme 
+bağlandığında OBEX UUID жібермеу. Bu eski IrMC kullanan қалта телефондар ihtiyaç duyuyor. 
+Adres: 
+Негізі 
+bir 
+alt 
+şifreleme kullan 
+gruplar u veritabanı yükle 
+gruplar a veritabanı Kaydet 
+Кілт атрибуті: 
+arama alanı: 
+Құрылғысы: 
+Құрылығының IP: 
+Құрылығының tipi: 
+FTP 
+sn 
+kullanıcı 
+bekleyen kullanıcı ile ne 
+yine de eşzamanlama 
+ne olarak sor 
+Durdur 
+eşzamanlama için bildirimleri 
+Керегінде шығатын Açılır 
+Google Calendar 
+Google Calendar 
+Орыны 
+Контакттар 
+Sunbird Calendar 
+veritabanı 
+Контакттар: 
+Takvim: 
+Notlar: 
+Kullanıcı adı: 
+Dizgi kağıdını kullan 
+sadece Kutuları değiştirme 
+Kullanıcı adı: 
+Hedef sayısı: 
+Макс. nesne Boyutu 
+SyncML sürümü: 
+1. 0 
+1. 1 
+1. 2 
+WAP Sekizli XML 
+Yazılım tabanlı жасау: 
+Bluetooth adresi: 
+aygıt adı: 
+Тізбекті numarası: 
+aygıt өндірушісі: 
+SonyEricsson Ericsson 
+Siemens 
+% 1 eklenti Yapılandırması getirilirken hata:% 2 
+% 1 Ayarları boş. 
+OpenSync başlatılıyor... girmeniz қатесі.% 1 
+Bitir 
+Біткен yok 
+& Öncelik: 
+Notlar: 
+alıcının port yok. 
+alıcının aygıt bulunamadı. 
+bu Pilot sürücüsünü ашуға için 
+Pilot yolu ve üzerindeki kontrol 
+bilinmeyen 
+қалта bilgisayarı üzerindeki saat ayarlandı 
+Тексеру. 
+eşzamanlama Tamamlandı. 
+eşzamanlama 
+eşzamanlama Kipi 
+Компьютерден қалта aygıtına 
+қалта құрылғыдан bilgisayara 
+Сақтық kopya 
+Сақтық көшірмесінен geri 
+sonraki eşzamanlama 
+Senkronizasyon Yok 
+soru 
+soru & şimdi қойылмасын 
+bu құрылғыдан veritabanı күтілуде 
+Pilot ve iletişim kur soket oluşturulamıyor. 
+bağlantı geçersiz. 
+Pilot Bilgisayara sistem bilgi okunamadı 
+Son PC arkaplanda denetleniyor... 
+Pilot Bilgisayara kullanıcı bilgisi okunamadı. Бәлкім aygıt üzerinden parola kurulu шығар? 
+Pilot aygıtı henüz yapılandırılmamış. 
+Pilot aygıtı henüz yapılandırılmamış. 
+Senkronizasyon tamamlandı 
+Durum: 
+tüm Günlük@ item: inlistbox recur weekly olay 
+Аяқталу süresi: 
+dakika 
+saat 
+күн% 1 is the duration,% 2 is the time unit 
+tarih 
+Hafta 
+ay 
+yıl 
+Шексіз tekrar 
+Болмайтын кездері: 

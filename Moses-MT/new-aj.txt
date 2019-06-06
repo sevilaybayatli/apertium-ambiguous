@@ -1,0 +1,6192 @@
+Cisco - Koşan адамStencils 
+Cisco - Кабелдік модемStencils 
+Cisco - Жерсеріктік табақшасыStencils 
+Cisco - TDM routerStencils 
+Cisco - Көпқабатты коммутаторыStencils 
+Cisco - ҚұлыпStencils 
+Cisco - PC aygıtlarını тақшасыStencils 
+Cisco - 7507Stencils 
+Cisco - БұлтStencils 
+Cisco - IPTCStencils 
+Cisco - ATM Tag kilitleme routerStencils 
+Cisco - STPStencils 
+Cisco - Bu бағыттауышыStencils 
+Cisco - 6701Stencils 
+Cisco - NetSonarStencils 
+Cisco - Catalyst erişim шлюзіStencils 
+Cisco - Noktadan Noktaya нүктеStencils 
+Cisco - Belge шкафыStencils 
+Cisco - Бағдарламалық серверіStencils 
+Cisco - Желіаралық қалқанStencils 
+Cisco - СуперкомпьютерStencils 
+Cisco - VIPStencils 
+Cisco - Отырған әйелStencils 
+Cisco - BTS 10200Stencils 
+Cisco - CSU DSUStencils 
+Cisco - ATM 3800Stencils 
+Cisco - ASIC процесорыStencils 
+Cisco - OctelStencils 
+Cisco - MAS шлюзіStencils 
+Cisco - BBSMStencils 
+Cisco - Маршрут kilitleme процесорыStencils 
+Cisco - Vokal қосқышыStencils 
+Cisco - Тұрған адамStencils 
+Cisco - Маршруттауыш duvarı қалқаныменStencils 
+Cisco - Еркек BayanStencils 
+Cisco - 10700Stencils 
+Cisco - CDDI- FDDIStencils 
+Cisco - Cisco хабыStencils 
+Cisco - PADStencils 
+Cisco - Dosya серверіStencils 
+Cisco - DSLAMStencils 
+Cisco - MGX 8220Stencils 
+Cisco - aktif kilitleme denetleyici VSC 3000 AyarlarStencils 
+Cisco - IP телефонStencils 
+Cisco - Үлестірілген бағыттауышStencils 
+Cisco - Дыбыстық kilitleme 2Stencils 
+Cisco - IBM мейнфрейміStencils 
+Cisco - Бағдарламалық телефонStencils 
+Cisco - IAD маршруттаушыStencils 
+Cisco - FDDI сақинасыStencils 
+Cisco - Genel Yazılım қосқышStencils 
+Cisco - Жұсыс grup қосқышыStencils 
+Cisco - UPSStencils 
+Cisco - Avuçiçi құрылғысыStencils 
+Cisco - Ağ басқаруыStencils 
+Cisco - Önceki процессорStencils 
+Cisco - 3X74 Katman кластер контроллеріStencils 
+Cisco - Жинақтауыш маршрутизаторыStencils 
+Cisco - ФаксStencils 0 
+Cisco - Сымсыз құрылғыStencils 
+Cisco - CTE мазмұның değiştirici arka uç AyarlarStencils 
+Cisco - ХабStencils 
+Cisco - Оптикалық күшейткішіStencils 
+Cisco - IPTV мазмұн менеджеріStencils 
+Cisco - ITPStencils 
+Cisco - Vokal bağlantı серверіStencils 
+Cisco - PXFStencils 
+Cisco - Толқын маршрутизаторыStencils 
+Cisco - ФаксStencils 
+Cisco - İçindekiler servisi қосқышы 1100Stencils 
+Cisco - cep TelefonuStencils 
+Cisco - БейнекамераStencils 
+Cisco - ONS15500Stencils 
+Cisco - MUXStencils 
+Cisco - УниверситетStencils 
+Cisco - МикрофонStencils 
+Cisco - Сымсыз бриджStencils 
+Cisco - CiscoSecurityStencils 
+Cisco - Класы 4 5 қосқышStencils 
+Cisco - ДискетаStencils 
+Cisco - IOS duvarı қалқанStencils 
+Cisco - ПланшетStencils 
+Cisco - Үкіметтік мекемеStencils 
+Cisco - MGX 8240Stencils 
+Cisco - ТелефонStencils 
+Cisco - Протокол аударғышыStencils 
+Cisco - IPStencils 
+Cisco - Байланс серверіStencils 
+Cisco - 100BaseT хабыStencils 
+Cisco - Жұсыс grup бағыттауышыStencils 
+Cisco - Sistem контроллеріStencils 
+Cisco - Жинатауыш жиымыStencils 
+Cisco - Mac- Makineye әйелStencils 
+Cisco - Çalışma станциясыStencils 
+Cisco - Үйдегі компьютерStencils 
+Cisco - SVX son кеңсесімен ауыстырылатын AyarlarStencils 
+Cisco - FC жинақтауышыStencils 
+Cisco - Mini VAXStencils 
+Cisco - Metro 1500Stencils 
+Cisco - ISDN қосқышыStencils 
+Cisco - TerminalStencils 
+Cisco - SC2200 sinyal denetleyici AyarlarStencils 
+Cisco - WWW серверіStencils 
+Cisco - IP телефония routerStencils 
+Cisco - IPTV кеңтаралым серверіStencils 
+Cisco - DWDM сүзгісіStencils 
+Cisco - БриджStencils 
+Cisco - ICSStencils 
+Cisco - TranspathStencils 
+Cisco - BBFW тасушысыStencils 
+Cisco - SIP Vekil серверіStencils 
+Cisco - Біріктіретін серверStencils 
+Cisco - IP DSLStencils 
+Cisco - LongReach CPEStencils 
+Cisco - ПринтерStencils 
+Cisco - PDAStencils 
+Cisco - Әмбебап шлюзіStencils 
+Cisco - ЖерсерікStencils 
+Cisco - Оптикалық тасымалStencils 
+Cisco - Ғимараттағы маршруттауышStencils 
+Cisco - ПультStencils 
+Cisco - 3174 masaüstü кластер контроллеріStencils 
+Cisco - Sunucu bilgisayar маршруттауышыменStencils 
+Cisco - Каталог серверіStencils 
+Cisco - Genel процессорStencils 
+Cisco - RPSStencils 
+Cisco - Workgroup 5500Stencils 
+Cisco - IBM TowerStencils 
+Cisco - ATAStencils 
+Cisco - 15200Stencils 
+Cisco - PC бейнеStencils 
+Cisco - MGX 8260Stencils 
+Cisco - MoH Music on Hold серверіStencils 
+Cisco - Үйіндегі қызметкерStencils 
+Cisco - МодемStencils 
+Cisco - ICMStencils 
+Cisco - TokenRingStencils 
+Cisco - SUN çalışma станциясыStencils 
+Cisco - ЛаптопStencils 
+Cisco - İçindekiler arka uç & Önbellek kontrol AyarlarStencils 
+Cisco - Son ofis binasıStencils 
+Cisco - ҚайталауышStencils 
+Cisco - Cisco CAStencils 
+Cisco - МаршруттауышStencils 
+Cisco - Genel шлюзіStencils 
+Cisco - SC2200 VSC3000 хостыStencils 
+Cisco - MDUStencils 
+Cisco - HP MiniStencils 
+Cisco - DPTStencils 
+Cisco - PIX duvarı қалқанStencils 
+Cisco - ADMStencils 
+Cisco - ДинамикStencils 
+Cisco - ATM routerStencils 
+Cisco - 6705Stencils 
+Cisco - Сымсыз тасымалStencils 
+Cisco - TuşStencils 
+Cisco - PBXStencils 
+Cisco - ATM Tag Sw гигабиттіік routerStencils 
+Cisco - KamyonStencils 
+Cisco - Workgroup 5000Stencils 
+Cisco - PAD X. 28Stencils 
+Cisco - Cisco 1000Stencils 
+Cisco - PC маршруттауыш тақшасыStencils 
+Cisco - СканерStencils 
+Cisco - Жеңіл машинаStencils 
+Cisco - BBFWStencils 
+Cisco - İçindekiler servis routerStencils 
+Cisco - uBR910Stencils 
+Cisco - Erişim NoktasıStencils 
+Cisco - MicroWebserverStencils 
+Cisco - ДКStencils 
+Cisco - 7505Stencils 
+Cisco - CiscoWorks çalışma станциясыStencils 
+Cisco - CDM Мазмұнды Dağıt Yöneticisi AyarlarStencils 
+Cisco - Филиал ofis binasıStencils 
+Cisco - Үйдегі bilgisayar маршруттауышStencils 
+Cisco - ATM қосқышыStencils 
+Cisco - Реляциялық VeritabanıStencils 
+Cisco - PBX қосқышыStencils 
+Cisco - İçindekiler kilitleme модуліStencils 
+Cisco - Centri duvarı қалқанStencils 
+Cisco - RateMUXStencils 
+Cisco - Көпқосқыш құрылғысыStencils 
+Cisco - MAUStencils 
+Cisco - İçindekiler қосқышыStencils 
+Cisco - bilgisayar için адамStencils 
+Cisco - NetFlow routerStencils 
+Cisco - РадиомұнараStencils 
+Cisco - Küçük harf хабStencils 
+Cisco - 7500ARS 7513 AyarlarStencils 
+Cisco - LAN - LANStencils 
+Cisco - Küçük іскерлікStencils 
+Cisco - Жылдам гигабиттік ATM EtherswitchStencils 
+Cisco - Layer 3 қосқышыStencils 
+Cisco - Оптикалық servisler routerStencils 
+Cisco - TVStencils 
+Cisco - MacintoshStencils 
+Cisco - ҒимаратStencils 
+Cisco - NetRangerStencils 
+Cisco - Web кластеріStencils 
+Cisco - Сылдырлаған телефонStencils 
+Cisco - Бағдарламалық IP телефоныStencils 
+Cisco - Гигабиттік kilitleme маршруттауышы ATM Tag AyarlarStencils 
+Cisco - Маршруттауыш Silicon қосқышыменStencils 
+Cisco - H. 323Stencils 
+Cisco - Web шолғышыStencils 
+Cisco - ME 1100Stencils 
+Cisco - ATM қосқышыStencils Дыбыстық 
+Cisco - VPN шоғырлауышыStencils 
+Cisco - Дыбыстық routerStencils 
+Cisco - Түйістіргіштер блогіStencils 
+Cisco - Қоңырау менеджеріStencils Görüşmesiincidence category 
+Cisco - Бағдарламаулы қосқышStencils 
+Cisco - Genel құралStencils 
+Cisco - Workgroup 5002Stencils 
+Cisco - VPN шлюзіStencils 
+Genel - Yatay клапаныStencils 
+Genel - ОңғаStencils 
+Genel - Yatay сызығыStencils Dönüştür 
+Genel - Қайтар ағын басқышыStencils 
+Genel - Yatay компрессорStencils 
+Genel - РезервуарStencils 
+Genel - Yatay сорғыStencils 
+Genel - Dikey сызығыStencils Dönüştür 
+Genel - Жиілік аударғышыStencils 
+Genel - Сілтеу сызығыStencils 
+Genel - Dikey пропеллерStencils 
+Genel - Dikey компрессорStencils 
+Genel - Dikey сорғыStencils 
+Genel - МоторStencils 
+Genel - Алдын- Kısmen бакStencils Temizle 
+Genel - Газ баллоныStencils 
+Genel - Su деңгейіStencils 
+Genel - Екі gerçek қалдығыStencils dikey 
+Genel - Yatay қалдығыStencils 
+Genel - ТопырақStencils 
+Genel - ЖоғарғаStencils 
+Genel - АэраторStencils 
+Genel - son тұндырғышStencils 
+Genel - КонтейнерStencils 
+Genel - Dikey қалдығыStencils 
+Genel - РоторStencils 
+Қиық - ooio_ бөлігіStencils 
+Қиық - iooo_ бөлігіStencils 
+Қиық - iiio_ бөлігіStencils 
+Қиық - ooii_ бөлігіStencils 
+Қиық - oioo_ бөлігіStencils 
+Қиық - iooi_ бөлігіStencils 
+Қиық - iiii_ бөлігіStencils 
+Қиық - oioi_ бөлігіStencils 
+Қиық - ioio_ бөлігіStencils 
+Қиық - oooo_ бөлігіStencils 
+Қиық - oiio_ бөлігіStencils 
+Қиық - ioii_ бөлігіStencils 
+Қиық - iioo_ бөлігіStencils 
+Қиық - oooi_ бөлігіStencils 
+Қиық - oiii_ бөлігіStencils 
+Қиық - iioi_ бөлігіStencils 
+Sybase - Репликациялау серверіStencils 
+Sybase - İlk 
+Sybase - Репликациялау sunucu менеджеріStencils 
+Sybase - Журн. тасым. менедж. Репл. агентіStencils 
+Sybase - Veri серверіStencils 
+Sybase - Kalıcı кезекStencils 
+renk - Yatay güç kaynak Еуопалық AyarlarStencils 
+renk - Dikey güç kaynak Еуопалық AyarlarStencils 
+renk - Лампа Еуропалық AyarlarStencils 
+renk - Dikey конденсаторStencils 
+renk - NMOS- транзисторы Еуропалық AyarlarStencils 
+renk - Yatay конденсаторStencils 
+renk - Yatay индуктор Еуропалық AyarlarStencils 
+renk - Жерге қосуStencils 
+renk - Yatay диодStencils 
+renk - Динамик Еуропалық AyarlarStencils 
+renk - npn- транзисторыStencils 
+renk - Yatay стабилитронStencils 
+renk - Yatay сәуледиод Еуропалық AyarlarStencils 
+renk - Dikey диодStencils 
+renk - Yatay жалғастырғышStencils 
+renk - Dikey стабилитронStencils 
+renk - Dikey резистор Еуропалық AyarlarStencils 
+renk - Yatay резистор Еуропалық AyarlarStencils 
+renk - Dikey резисторStencils 
+renk - Yatay резисторStencils 
+renk - PMOS транзисторы Еуропалық AyarlarStencils 
+renk - pnp- транзисторыStencils 
+renk - Dikey резистор Еуропалық AyarlarStencils 
+renk - Dikey сақтандырғышы Еуропалық AyarlarStencils 
+renk - Dikey сәуледиод Еуропалық AyarlarStencils 
+renk - Dikey индукторStencils 
+renk - Yatay индукторStencils 
+renk - Операц. күшейткішіStencils 
+renk - Dikey сақтандырғышы Еуропалық AyarlarStencils 
+renk - Mikrofon Еуропалық AyarlarStencils 
+LADDER - outsStencils 
+Контакт - лампаStencils 
+Контакт - қосStencils 
+LADDER - soutStencils 
+LADDER - ifnotStencils 
+Контакт - ажырStencils 
+Контакт - релеStencils 
+LADDER - outnotStencils 
+LADDER - soutrStencils 
+LADDER - outjStencils 
+LADDER - outStencils 
+LADDER - ifStencils 
+LADDER - soutnotStencils 
+LADDER - soutsStencils 
+LADDER - outrStencils 
+LADDER - outrcepStencils 
+Пневм. - presshyStencils 
+Пневм. - commuscStencils 
+Пневм. - dist32Stencils 
+Пневм. - SEIJackStencils 
+Пневм. - DEJackStencils 
+Пневм. - connpointStencils 
+Пневм. - dist52Stencils 
+Пневм. - pressStencils 
+Пневм. - compbStencils 
+Пневм. - presspnStencils 
+Пневм. - comsprStencils 
+Пневм. - compilhStencils 
+Пневм. - dist22Stencils 
+Пневм. - drainStencils 
+Пневм. - SEOJackStencils 
+Пневм. - compilpStencils 
+Пневм. - compushStencils 
+Пневм. - dist42Stencils 
+Пневм. - comelec1Stencils 
+Пневм. - comelec2Stencils 
+Геометриялық - Testere сегізбұрышты жұлдызStencils 
+Геометриялық - ЖоғарғаStencils 
+Геометриялық - Тікбұрышты үшбұрышStencils 
+Геометриялық - sağ sol ЖоғарғаStencils 
+Геометриялық - Төртбұрышты жұлдызStencils 
+Геометриялық - Теңбүйірлі үшбұрышStencils 
+Геометриялық - konumu ve ОңғаStencils 
+Геометриялық - ОңғаStencils 
+Геометриялық - СолғаStencils 
+Геометриялық - ШаршыStencils 
+Геометриялық - olduğu айырқұйрық жебесіStencils 
+Геометриялық - ТрапецияStencils 
+Геометриялық - ТөменгеStencils 
+Геометриялық - Бесбұрышты жұлдызStencils 
+Геометриялық - Швейцарлық айқышStencils 
+Геометриялық - ЖетібұрышStencils 
+Геометриялық - Мальталық айқышStencils 
+Геометриялық - БесбұрышStencils 
+Геометриялық - АлтыбұрышStencils 
+Геометриялық - Төртжақты жебеStencils 
+Геометриялық - Алтыбұрышты жұлдызStencils 
+Геометриялық - Ойыс сегізбұрышты жұлдызStencils 
+çeşitli - Güneş көзіStencils 
+Геометриялық - Ойыс azami dikdörtgen жұлдызStencils 
+Блок жебесі - ШевронStencils 
+Геометриялық - АлмасStencils 
+Геометриялық - Жетібұрышты жұлдызStencils 
+Геометриялық - Yatay паралелограммStencils 
+Геометриялық - Жоғарға- Төмен- СолғаStencils 
+Геометриялық - nota секторыStencils 
+çeşitli - ЖүрекStencils 
+Геометриялық - Сегізбұрышты жұлдызStencils 
+Блок жебесі - БесбұрышStencils 
+Геометриялық - Dikey паралелограммStencils 
+Геометриялық - ШеңберStencils 
+çeşitli - konumu ve ЖоғарғаStencils 
+Геометриялық - konumu айырқұйрық жебесіStencils 
+Геометриялық - СегізбұрышStencils 
+Геометриялық - Жоғарға ve ТөменStencils 
+çeşitli - nota айStencils 
+Электрикалық - контакт_ аStencils 
+Электрикалық - қиылыс_ қStencils 
+Электрикалық - қос_ нүктеStencils 
+Электрикалық - релеStencils 
+Электрикалық - қиылыс_ аStencils 
+Электрикалық - командаStencils 
+Электрикалық - контакт_ қStencils 
+Электрикалық - лампаStencils 
+ağ - Желіаралық қалқанStencils 
+ağ - АнтеннаStencils 
+ağ - ЖинақтауышStencils 
+ağ - ХабStencils 
+ağ - ТелефонStencils 
+ağ - Küçük- корпустағы ДКStencils 
+ağ - ATM kilitleme белгісіStencils 
+ağ - Модульді қосқышStencils 
+ağ - ДискетаStencils 
+ağ - ПлоттерStencils 
+ağ - Цифрлау тақтасыStencils 
+ağ - Çalışma станциясыStencils 
+ağ - КомпьютерStencils 
+ağ - riskini DAT дискжетегіStencils 
+ağ - БұлтStencils 
+ağ - Маршруттауыш белгісіStencils 
+ağ - Қосқыш белгісіStencils 
+ağ - RJ45 қабырға түйістіргішіStencils 
+ağ - Çalışma станциясының мониторыStencils 
+ağ - ПринтерStencils 
+ağ - МониторStencils 
+ağ - Paronayak динамикStencils 
+ağ - МодемStencils 
+ağ - ZIP DiskStencils 
+ağ - ДинамикStencils 
+ağ - scEAD қабырға түйістіргішіStencils 
+ağ - WAN қосылымыStencils 
+ağ - Bir Masaüstündeki ДКStencils 
+ağ - Мобилді телефонStencils 
+ağ - Küçük- корпустағы ДКStencils 
+ağ - Биік корпустағы Bilgisayar 
+KOffice için renk ve Diyagramı Aracı 
+Kivio 
+c 2000- 2008, Kivio Takımı 
+Peter Simonsson 
+projeyi Yürüten 
+CMYK 8- bit tam Kanal 
+bir turkuaz 
+Маджента 
+Sarı 
+siyah 
+Альфа 
+CMYK 16- bit tam Kanal 
+Gri Tonlama 16- bit tam Kanal 
+Gri 
+CMYK 16- bit tam Kanal 
+Gri Tonlama 8- bit tam Kanal 
+CMYK 8- bit tam Kanal 
+CMYK8 гистограмма 
+GRAY Alpha16 гистограма 
+GRAY Alpha8 гистограмма 
+CMYK16 гистограмма 
+CMYK8 гистограмма 
+CMYK16 гистограмма 
+KOConverter 
+KOffice belge түрлендіргіші 
+c 2001- 2004 KOffice Geliştiricileri 
+David Faure 
+Nicolas Goutte 
+girdi dosyası 
+çıktı dosyası 
+Мақсатты dosya yedekleme dosyası oluştur 
+Paket kipi: Kutusu görünmesin 
+Интерактивті kipi: Kutusu gösterilecek öntanımlı 
+çıktı dosyasının MIME 
+% 1 çıktı dosyasının MIME türü yok. Lütfen 
+% 1 MIME bulunamadı 
+MIME türü bulunamadı. - mimetype özelliğini kullanın 
+*** Değiştirici жаңылысы! *** 
+İki argüman керекNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Dosyasına Kaydet: Ucu bulunamadı 
+% 1 bulunamadı 
+ana құжатта% 1 жолында,% 2. özelliklerinde ayrıştırılırken bir hata mesajı:% 3 
+iso A3 
+iso A4 
+iso A5 
+US Mektup 
+US Legal 
+Güç 
+diğer 
+iso B5 
+US Executive 
+iso A0 
+iso A1 
+iso A2 
+iso A6 
+iso A7 
+iso A8 
+iso A9 
+iso B0 
+iso B1 
+iso B10 
+iso gönderir 
+iso B3 
+iso B4 
+iso siyah ve 
+iso 5 
+US Common 10 
+iso Zarf 
+US Folio 
+US Ledger 
+US Tabloid 
+sürüm 
+tarih ve Saat 
+Сақтаған 
+açıklama 
+Ekle 
+Sil 
+Düzenle 
+& Aç 
+yeni bir sürüm қосылмайды 
+Tarih:% 1 
+Бағыттауыштарын göster 
+Бағыттауыштарын Gizle 
+Бағыттауыштарын göster gizle 
+bu belge ашуFile modification date and time.% 1 is date time 
+Өзгертілген:% 1 File access date and time.% 1 is date time 
+Ашылған:% 1 
+% 1 
+Evet 
+Hiçbiri 
+dosya экспорталмайды. 
+aktarma süzgeci yok 
+% 1 türünde dosya импортталмайды 
+Alma süzgeci yok 
+& Görünüm 
+belge Aç 
+Süzgeç Seçin 
+belge bilgi 
+Genel 
+yazar 
+; karakter kullanın Ör: Office; KDE; KOffice 
+belge Şifresi шешілмек 
+Шифрын шешпеу 
+belge şifrelenmiş 
+& Unscramble 
+belge шифрланбақ. 
+Шифрламау 
+belge şifrelenmemiş 
+& Şifrele 
+belge şifrelenmemiş 
+Шифрдың шешуін Onayla 
+Unscramble 
+belgeyi Kaydet 
+bilinmeyen dosya tipi 
+dosya Tipini Değiştir 
+Düzenle 
+bu Үлгіні kullan 
+% 1 Sayfa басылуда 
+yazdırma шығарылды 
+kapat 
+Тоқтап var 
+Durdur 
+Өлшеу бірлігі: 
+belge bilgi 
+Автосақтау... 
+normal Oluştur 
+& Торды göster 
+& Торды göster 
+Торға kullan 
+& Arkaplan rengi: 
+Жабысу 
+& Yatay 
+& Dikey 
+sadece yazdırma Çık 
+Şablondan Yeni belge Aç 
+Дисплейдің айырымдылығын yazdırma Taşı 
+sadece yazdırma Çık 
+KOffice 
+sonraki için bir şablon bulunamadı:% 1 
+sonraki için dosyaları çok көп:% 1 
+% 1 şablonu yüklenemedi. 
+& Торды göster 
+Бағыттауыштарын Gizle 
+Бағыттауыштарын göster gizle 
+yedekleme kopyasını üretiliyor... 
+Kaydet... 
+% 1 belgesi kaydedildi 
+Автосақтау... 
+Автосақтау gerçekleştirmeye қате! Дискі толы? 
+için dosya oluşturulamadı 
+% 1 yazılamadı. Дискі толы? 
+% 1 yazmak aktarmaya çalışan bir Дискі толы? 
+% 1 İsimsiz belge автосақталған dosyası var. Жасалған Tarih% 2 olarak Ашып denensin mi? 
+bozuk URL% 1 
+bu belge автосақтталған dosyası var. Мынаның yerine соны adı denensin mi? 
+% 1 dosyası bulunamadı. 
+oluşturma hatası 
+dosya bulunamadı 
+Жинақтау oluşturulamadı 
+MIME geçersiz 
+Gömülü құжатта bir 
+Танылмайтын arka 
+henüz hazırlanmadı 
+ayrıştırma hatası 
+belge cümelenizle güvenli 
+İç hata 
+Жад Yetersiz 
+bilinmeyen hata 
+% 1 açılamadı. Sebep:% 1 
+% 1 belgesi жүктелді 
+% 1 дегеннің% 2. жолында,% 3. özelliklerinde ayrıştırılırken bir hata mesajı:% 4 
+% 1 dosya değil. 
+dosya okumak için açılamadı okuma izni edin. 
+dosyanın başlangıcı okunamadı. 
+ana құжаттың% 1 жолында,% 2. özelliklerinde ayrıştırılırken bir hata mesajı:% 3 
+geçerli bir KOffice dosyası imza:% 1 
+geçersiz құжат: maindoc. xml dosyası bulunamadı. 
+bu belge birden sürüm içeriyor. Ескі uzantısını açmak için bir Veri git - Нұсқалары e ı 
+İsimsiz 
+% 1 belgesi өзгерілген. Kaydetmek istiyor musunuz? 
+alt Dizimi saveXML desteklenmemektedir 
+% 1 kaydedilemedi 
+% 1 kaydedilemedi Neden:% 2 
+% 1 açılamadı 
+% 1 açılamadı. Sebep:% 2 
+metin Düzenle 
+hesap bir 
+Sunum 
+grafik 
+resim 
+Gömülü nesne 
+şablon Oluştur 
+İsim: 
+grubu: 
+grup Ekle... 
+resim 
+öntanımlı 
+& Seç... 
+Нобайы: 
+yeni şablonu öntanımlı olarak 
+Әрбірде% 1 başlangıçta yeni şablonu kullan 
+Шынымен % 1 şablon üzerine yazmak ister misiniz? 
+grup Ekle 
+Топтың adı: 
+alıcının isim zaten var. 
+Шынымен bu grup құртпақсыз mi? 
+grubu Kaldır 
+Шынымен bu şablona silmek 
+şablon Sil 
+& Sil 
+resim yüklenemiyor. 
+resim yok. 
+bilinmeyen KOffice Mime түрі% 1. Kurulumunuzu gözden geçirin. 
+İlk satır шегінісі 
+sol шегінісі 
+sağ шегінісі 
+Мәнзаралау aracı 
+% 1 kaydedilmemiş belge % 2 
+PDF Aktar... 
+yeniden 
+Нұсқалар... 
+İçe Aktarılıyor... 
+Экспоттау... 
+tüm kalitesini Kapat 
+Көрністі & 
+& Görünümü Sil 
+tam Ekran kip 
+Böl & Yön 
+& Yatay 
+& Dikey 
+yazma güvenli 
+% 1 olarak Kaydet 
+Kaydet 
+kaydetmeyi Onayla 
+экспорттауды Onayla 
+Dışarıya Aktar 
+belgeyi Farklı Kaydet 
+belgeyi Farklı Aktar 
+farklı bir belge zaten var. Üzerine yazmak istiyor musunuz? 
+Ескерту 
+belgeyi Al 
+PDF i Yaz 
+% 1 Araç Çubuğunu Göster 
+% 1 Araç Çubuğunu Gizle 
+belge 
+belge -% 1 
+önceki kaydetmenizden bu yana yaptığınız tüm dizin жоғалтасыз Devam etmek istiyor musunuz? 
+son Kullanılan belge 
+Өзіндік belge 
+% 1 Сығылмаған XML Dosyaları 
+% 1 Қарапайым XML dosyası 
+% 1 Şifrelenmiş 
+% 1 % 2 uyumlu 
+bilinmeyen 
+Araç Seçenekleri 
+сүрлеуді çizer 
+Бұрыш konumu 
+Жазық konumu 
+Симметриялы nokta 
+Қисықтың konumu ayarla 
+Түзудің konumu ayarla 
+Sonuncu Ekle 
+Sonuncu Sil 
+Нүктелерді Birleştir 
+Сүрлеуге 
+Түзу Kıvrım 
+Жабысу 
+Sonuncu taşımak için sürükleyin. 
+model нүктеде Kes için B- yi tıklayın. 
+Ұлғайту Küçült 
+Мәнзаралау 
+Nesne Oluştur 
+сүрлеуді düzenleme aracı 
+Etkin құрал:% 1 
+% 1 Seçenekleri 
+Қарапайым сүрлеу қалыпы 
+Қарапайым сүрлеу қалыпы 
+қалыптарды Ayrıştır 
+Параметрді Düzenle 
+Қалыптардің yeniden 
+қалыптарды Grupla 
+қалыптарды Eğ 
+Сүрлеулерді Birleştir 
+қалыптарды Sırala 
+Байланысын Düzenle 
+Сүрлеуге Döndür 
+Нүктенің Tipini Ayarla 
+Көлеңкесін Ayarla 
+қалыптарды Hizala 
+Sonuncu Taşı 
+Matlık 
+normal Oluştur 
+Нүктелерді Sil 
+alt сүрлеуін Sil 
+arkaplan Ayarla 
+Сүрлеудерді Böl 
+kenarlık Düzeni Ayarla 
+normal Sil 
+қалыптарды Sil 
+alt сүрлеуді тұйықтау 
+alt сүрлеулерін Birleştir 
+alt сүрлеуін нүктеде Kes 
+қалыптарды Dağıt 
+қалыптарды pasifleştir 
+Нүктелерді Taşı 
+kare қатынасын Kaydet 
+қалыптарды Taşı 
+Шегін Ayarla 
+alt сүрлеуін Kes 
+Сүрлеулерді Tersine Çevir 
+standart 
+çizgiler 
+Түзу 
+Kıvrım 
+Hizalama 
+қалыптарды ekle 
+Каталог kipi Uzak yer desteklemiyor. 
+KOffice жинақтауы 
+bu dosyayı açmak için parolayı girin. 
+bir şifreleme için parolayı girin. 
+parolayı kaydetmek istiyor musunuz? 
+betik Dosyası Çalıştır... 
+betik 
+betik Yöneticisi 
+betik Dosyası Çalıştır 
+betik paketinin Ayarla 
+% 1 paketi okunamadı. 
+% 1 paketi geçerli bir install. rc dosyası içermiyor. 
+% 1 paketi install. rc dosyasının ayrıştırıcı başarısız oldu. 
+Değiştir 
+betik Yöneticisi 
+betik dosyası ekle 
+Жинақтау Dizini Ekle 
+betik Paket dosyasını ayarla 
+betik paketinin çevrimiçi Ayarla 
+Ekle 
+betik dosyası 
+betik 
+arşiv 
+Миллиметр mm 
+Сантиметр cm 
+Дециметр дм 
+Дюйм Paper 
+Пика PI 
+Цицеро цц 
+Пойнт nokta 
+Пиксел px 
+қате! 
+metin 
+Kalın 
+Yatık 
+Altı çizili 
+üzeri Çizili 
+Yatay Hizala 
+Dikey Hizalama 
+Шегінуін azalması 
+Шегінуін Büyüt 
+yazıtipi Boyutunu Küçült 
+yazıtipi Boyutunu Büyüt 
+Нүктенің Tipini Ayarla 
+Нүктенің Tipini Ayarla 
+arkaplan Ayarla 
+karakter biçimi ayarla 
+Paragraf biçimi ayarla 
+öntanımlı пішімді olarak 
+Аяктау simgesi ekle 
+İndeks Ekle 
+Seçileni Ekle 
+Sil 
+Seçileni Ekle 
+Durma bir 
+Пішімі 
+Іздегені bulunamadı Ештеңе алмастырылмады 
+% 2 tarafından% 1 алмастырсын mi? 
+metin Adres 
+ӘдеттіUnderline Style 
+Hiçbiri 
+tek қабаттыUnderline Style 
+İki Katmanı 
+Сәйкестік ayrıştırma bilgisi yokNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+& Dosya 
+& Ayarlar 
+dosya 
+Yol: 
+İsim: 
+Konu: 
+anahtar сөздері: 
+Түсініктемелері: 
+tip: 
+Құрылған tarihi: 
+Өзгертілген: 
+son Basıldı tarihi: 
+Genel düzenleme süresi: 
+& Sıfırla 
+Жетілдірімі: 
+Шифрлау: 
+Инициалдары: 
+Мансабы: 
+Firma: 
+e- posta: 
+Тел. үй: 
+Тел. жұмыс: 
+Факсы: 
+Көшесі: 
+posta kodu: 
+Şehir: 
+Ülke: 
+& Konum defterinden Kopyala 
+Дербес veri Sil 
+DetailsPaneBase 
+başlatılırken her zaman bu şablonu kullan 
+Her Zaman bu şablonu kullan 
+Түйіндер 
+пкс 
+Ортогоналды 
+Бағыттауыш çizgileri 
+... 
+Сүрлеуге Döndür 
+Ұлғайту 
+Küçült 
+Эллипс қалыпы 
+Көлеңкесін göster 
+Көлеңкенің yönü: 
+Көлеңкенің yerleşimi: 
+Көлеңкенің rengi: 
+Sil 
+Paletini Aç 
+Paletini Kaydet 
+veri 
+& Kodlama: 
+İlk satır - Başlıklar 
+İlk sütun - Başlıklar 
+Бөлгіші 
+Үтір 
+Noktalı virgül 
+diğer 
+üçgen 
+boşluk 
+& Тырнақшадағы metin: 
+ondalık ondalık simgesi: 
+Мыңдық simgesi: 
+Қайталанатын бөлгішті yoksay 
+& Biçim: 
+Ауқымдары 
+Güncelle 
+aktarılacak Sütunlar 
+aktarılacak Satır: 
+- 
+Өлшеу бірлігі: 
+Boyut: 
+Genişlik: 
+Yükseklik: 
+Yönelim: 
+Dikey 
+көлденеңнен 
+ашылымы: Sayfalar 
+tek yönlü 
+ашылымы Sayfalar 
+girdi yönü: 
+otomatik 
+солдан sağ 
+Оңдан Sola 
+Жиектер 
+Sayfa Kenarlığı 
+Түбтеу шеті: 
+alt: 
+Üst: 
+Bu arkaplan resmi Ayarla... 
+Үлгілі Arkaplanı etkinleştir 
+Kaldır 
+Firma: 
+normal 
+azalması 
+Альфа maskesi 
+CCSGraph 
+c 2007 Cyrille Berger 
+kullanılabilir düğme grafikleri listesi ağın 
+çıktıyı girin ps ya da нүкте, genellikle ps 
+çıktı dosyasının adı 
+RGB 8- bit tam sayı Kanal 
+Қызыл 
+Yeşil 
+Mavi 
+Альфа 
+Temizle 
+Альфа maskesi 
+RGB 16- bit tam sayı Kanal 
+L* a* b * 16- bit tam Kanal 
+Ашықтық 
+a * 
+b * 
+ana RGB гистограммасы 
+r 
+g 
+b 
+L* a* b * гистограммасы 
+l * 
+Genel 
+otomatik 
+rengi 
+Қызыл Yeşil Mavi 
+XYZ 
+l a * b * 
+bir turkuaz Маджента Сары Қара 
+Gri Ton 
+Gri Tonlama мөлдірліксіз 
+YCbCr 
+8 Bit 
+16 Bit 
+16 Bit açılır HDR 
+32 Bit açılır HDR 
+ana RGB гистограммасы 
+Реңк 
+Қанықтық 
+değer parlaklık 
+bir turkuaz 
+Маджента 
+Sarı 
+siyah 
+Жасылды маджентаға 
+Көкті сарыға 
+matlığı: 
+Matlık 
+% 1 
+Жақтар Oranı пикселдердегідей Erişimi 
+Тандағанды ұғайту 
+Tümünü ұғайту 
+arşiv 
+Konuma 
+Sayfa 
+belge üzerine kullan 
+veri импорттауDescriptive encoding name 
+Жөн olarak табылатыны % 1 Descriptive encoding name 
+yerel benimsemek % 1 Descriptive encoding name 
+diğer % 1 
+ana 
+tarih 
+Para 
+Kodlama bulunamadı:% 1 
+Жуырдағысы: 
+Контрастығы kötü renk gizle 
+renkleri Ekle Sil... 
+Alma 
+Süzgeç Seçin 
+Sayfanın Genişliğe Sığdır 
+Бетке Sığdır 
+piksel cinsinden istenilen жүзіндегі değişmez. 
+Палитраға renk Ekle 
+Түстің adı: 
+% 1 палитра dosyasına yazılamıyor. bir salt- oku olmayabilir. 
+палитра 
+renkleri Ekle Kaldır 
+sol шеті: 
+sağ шеті: 
+Түбтеу шеті: 
+Sayfa шеті: 
+ашылымы: Sayfalar 
+Орналасуы: 
+Слайдтың düzenli tasarımı seç: 
+düzenli слайды 
+Sayfa düzenli tasarımı seç: 
+düzenli Sayfa 
+kaydetmeyi Onayla 
+Bu arkaplan resmi Düzenle 
+arkaplan düzenleme aracı 
+Arkaplan aracı 
+yeni слайдты ya da katman ekle 
+yeni bir sayfa ya da katman ekle 
+слайд 
+қабаты 
+seçili nesneleri sil 
+seçili nesneleri Yükselt 
+seçili nesneleri alçalt 
+Ықшам Görünüm 
+detaylı Görünüm 
+Küçük Görünüm 
+Göster kipi 
+yeni Katman 
+yeni katmanın adı: 
+yeni Katman 
+Katmanı Oluştur 
+Katmanı Sil 
+tüm қабаттарды verilmiyor. Кемінде bir katman gereklidir. 
+katmanlar silinirken hata 
+yeni слайдты ya da katman ekle 
+diğer 
+tarih 
+слайдты Ekle 
+Seçileni Ekle 
+düzenli пішіндерін göster 
+düzenli пішіндерін Gizle 
+Konuma 
+düzenli слайдты Düzenle 
+düzenli sayfayı değiştir 
+düzenli arkaplanını göster 
+Слайдтың arkaplanını göster 
+Sayfa arkaplanını göster 
+Sil 
+Торға kullan 
+düzenli беттерін göster 
+өлшегіштерін göster 
+görünümün өлшегіштерін göster gizle 
+Seçileni Ekle 
+Назардағынан sonra bir sayfa ekle 
+sayfayı Kopyala 
+geçerli sayfayı Kopyala 
+sayfayı İptal 
+geçerli sayfayı sil 
+düzenli бет... 
+Konuma 
+Айнымалы 
+belgeyi Al 
+aktarılacak Satır: 
+% 1 açılamadı 
+Параметрді Düzenle 
+% 1 слайд 
+% 1 Sayfa 
+grup 
+Қалып 
+Көрінетін 
+Pasif 
+қалыптарды tekrar bağlantılandır 
+Мәнзаралау aracı 
+қалыптарды Oluştur 
+Arkaplan aracı 
+Ekle 
+Genel 
+değer 
+diğer 
+Durma bir 
+Ekle 
+Бетбелгіні Ekle 
+renk seçici 
+karakter Seç 
+& Ekle 
+seçili karakter metine Ekle 
+Yatay Hizala 
+Eğer kelimeyi olduğu bitiş etkinleştir 
+Ekle... 
+Ұсыныстар listesine yeni Sözcükler otomatik olarak ekle 
+Автоаяқтау Ayarları 
+boşluk bağla 
+öntanımlı olarak 
+diğer 
+& Ендіретіні: 
+Paragraf Arkaplan Rengi 
+bu 
+& Genişlik: 
+& Renk: 
+& Biçim: 
+Сан: 
+Жол: 
+Логикалық: 
+doğru 
+yanlış 
+tarih: 
+Yapıştırdelete this incidence 
+Бағыттауыш doğrusal Ekle 
+Yönelim 
+Yatay 
+Dikey 
+& Орны: 
+Бағыттауыш bir 
+& Орны... 
+Бағыттауыш çizgileri 
+% 1 için işleyicisi bulunamadı 
+құжатта uzak bir belgeye dış bağ içeriyor% 1 
+onaylama Gerekli 
+Жүктеп Kopyala 
+Өткізіп Gönder 
+sonraki gömülü nesne жүктелмейді:% 1 
+% 1 dış belgesi yüklenemedi:% 2 
+Gömülü belge kaydedilirken hata oluştu 
+& İsim: 
+Konum 
+& Yükseklik: 
+Üst: 
+sol & жақ: 
+İçerik yardım 
+Барлығы% 1 өлшемінде берілген. 
+Sayfa Boyutu 
+Boyut: 
+& Көлденеңнен 
+Sayfa өлшемдер ilgili 
+слайдты Sil 
+sayfayı Sil 
+Nesne Ekle 
+nesne 
+Sütunlar 
+Бағандар aralığı: 
+Yazı Соңғылық Adres 
+Yazı bağlantı ve ana мәтіндерінің aralığı: 
+dipnot 
+çift ve тақ беттердегі alt колонтитулдары ayrı 
+İlk sayfadaki Dipnotu ayrı 
+dipnot ve ana metin aralığı: 
+Başlığı 
+Başlığı ve ana metin aralığı: 
+çift ve тақ беттердегі üst колонтитулдары ayrı 
+İlk sayfadaki Başlığı ayrı 
+Алдын- yaratılıyor 
+Sayfa Boyutu ve & Profesyonel 
+& Колонтитулдары 
+Başlığı 
+sol жақта: 
+Ортада: 
+sağ жақта: 
+dipnot 
+metine birden etiket енгізе аласыз: 
+lt; sheetgt; Sayfa adı lt; pagegt; Güncel sayfa lt; pagesgt; Toplam sayfa sayısı lt; namegt; Dosya veya URL bağlantısına lt; filegt; Tam yol dosya adı veya URL bağlantısına 
+lt; timegt; Mevcut zaman lt; dategt; Günün tarih lt; authorgt; Tam Lütfen adınızı lt; orggt; Мекеме kurum lt; emailgt; E- posta adresi 
+Satıların 
+Döndür 
+x göre eğiliyor, 
+y göre eğiliyor, 
+Büyüt 
+Büyüt 
+Түрлендірулерін Sıfırla 
+Dikey 
+Yatay 
+қалыптарды Grupla 
+İleri yazdır 
+Yükselt 
+aşağı 
+geri & тығу 
+sola Hizala 
+Dikey ortala 
+sağa Hizala 
+Yukarıya Hizala 
+Dikey ortala 
+alt 
+grup 
+Ayrıştır 
+Бағыттау çizgisini taşımak için іліп yi sürükleyin. 
+Таңдалғанды Eğ için іліп yi sürükleyin. 
+Таңдалғанды Eğ için іліп yi sürükleyin. 
+Таңдалғанды taşımak için іліп yi sürükleyin. 
+görev yeniden için іліп yi sürükleyin. 
+қалыптарды Grupla 
+қалыптарды Ayrıştır 
+birleşiklik 
+Геометрия 
+Жабысу 
+öntanımlı Araç 
+Büyüt 
+yeniden 
+ортадан yeniden için CTRL- Uygulamasını tıklayın. 
+45 градустан Çevirme için ALT- i tıklayın. 
+Eğ 
+Бағыттамаларды Düzenle 
+öntanımlı Araç 
+Бағыттамаларды Düzenle 
+Aç... 
+Кітапті Kaydet... 
+yeni Dizin... 
+Büyüt 
+Küçült 
+dizini Sil 
+Biçimler 
+dosyaları 
+Пішіннің Özellikleri 
+Пішінді Ekle 
+Gelişmiş 
+Пішін imlerini Aç 
+Formları imi Sil 
+öntanımlı 
+Геометрия 
+Жебелер 
+Күлкілі 
+Жиын Hatası 
+Formları bu жинақта жоқ!% 1 
+oluşturma hatası 
+dosya bulunamadı 
+Жинақтау oluşturulamadı 
+MIME geçersiz 
+Gömülü құжатта bir 
+Танылмайтын arka 
+henüz hazırlanmadı 
+ayrıştırma hatası 
+belge cümelenizle güvenli 
+İç hata 
+Жад Yetersiz 
+bilinmeyen hata 
+% 1 açılamadı. Sebep:% 1 
+dosya İçeriye başarısız:% 1 
+geçerli bir KOffice dosyası imza:% 1 
+Көлеңкенің Özellikleri 
+Biçim: 
+no stroke or fill 
+Solid color stroke or fill 
+Biçim: 
+Genişlik: 
+кескінге Dışarıya Aktar 
+veri program жаңылыс. 
+Aktarma Hatası 
+geçersiz XML дерегі. 
+KWord- a RTF aktarma süzgeci 
+İsimsiz belge 
+KWord- u HTML aktarımı сүзгісіDescriptive encoding name 
+Ұсынылғаны % 1 Descriptive encoding name 
+yerel benimsemek 1 
+Табылмаған кодтама:% 1 
+QXml 
+KWord dosyası ayrıştırılırken bir hata табылды.% 1 жолда,% 2. sütun hata mesajı:% 3 
+KWord- için Aktarma filtreler kümesi 
+KWord- a Düz Metin Alma сүзгісіDescriptive encoding name 
+diğer % 1 
+KWord- u Düz Metin Aktarma süzgeci 
+Latex Aktarma Filtre Parametreleri 
+dosya Biçimi 
+Latex Biçimi 
+KWord Biçimi 
+Тілі 
+Юникод 
+Latin1 
+belge Türü 
+yeni belge 
+gömülü belge 
+% 1 кестесіObject name 
+% 1 суретFrameset name 
+çift беттердің Başlığı 
+тақ беттердің Başlığı 
+çift беттердің Dipnotu 
+тақ беттердің Dipnotu 
+İlk sayfa Başlığı 
+İlk sayfa Dipnotu 
+KWord- a MS Write Aktarma сүзгісіFrameset name 
+% 1 Yazı сілтемесіTable_ Name Cell row, column 
+% 3. кесте,% 1 жол,% 2. Sütun 
+AbiWord dosyası ayrıştırılırken sırasında bir hata табылды.% 1 жолда,% 2. sütun hata mesajı:% 3 
+AbiWord Alma сүзгісіFrameset name 
+ana Metin çerçeve жинағы 
+AbiWord dosyası yüklenirken çalışılırken bir hata oluştu:% 1 
+belge Bilgisi kaydedilemedi. 
+ana belge kaydedilemedi. Object name 
+% 1 кестесінің фрейміPseudo- author for annotations 
+KWord 1. 3 
+Başlığı 
+dipnot 
+bu için OpenOffice. org 1 - sürüm belgesi. Bu filtre 1. 0 sürüm için dosya yüklenirken оғаш жағдай, çökme veya veri geçerli gösterme oluştu. Аударуды devam edilmesini istiyor musunuz? 
+Танымайтын belge sürümü 
+dosyası okunamadı. 
+KWord dosyası ayrıştırılırken bir hata табылды.% 1 жолда,% 2. sütun hata mesajı:% 3 
+dosyası okunamadı. 
+Alma 
+metin 
+değer 
+Para 
+tarih 
+Hiçbiri 
+SHEETNAME 
+Ұсынылғаны: UTF- 8 
+yerel стандарты 1 
+yüksek 
+Tanınmayan dosya пішімі. 
+dosyası okunamadı. 
+Kimliği 
+dosya bozulmuş görünüyor. Кестесі өткізіледі. 
+tablo өткізіледі. 
+EPS экспорты 
+Seçenekler 
+PostScript 1 seviyesi 
+PostScript 2. seviyesi 
+PostScript 3. seviyesi 
+png Dışarıya Aktarma Seçenekleri 
+SVG Aktarma Hatası 
+dosya yazmak hata 
+% 1 Dışarıya Aktarma Hatası 
+Слайдтың adı 
+Беті: 
+tüm Kimliği 
+sayfadaki nesneler Alanı 
+aktarılacak alanı: 
+Өзгеше boyutu пикселде: 
+Yükseklik: 
+Genişlik: 
+Aralık: 
+HTML Aktarma Penceresi 
+& Kodlama: 
+& HTML 4. 01 
+HTML 4. 01 eski HTML kullanıcı için 
+& XHTML 1. 0 
+XHTML 1. 0 
+durum 
+düz Metin Aktarma Penceresi 
+Жолды sonu 
+& UNIX стилі, sadece satır Besleme Karakteri Yaz 
+& Windows стилі, күймешені Yükle ve satır sonu İşaretleri 
+& MacOS стилі, sadece күймешені return Karakteri 
+düz Metin Alma Penceresi 
+Абзацты sonu 
+& Bu sözdizimi: satır sonu 
+& Сөйлем: satır sonu - bir cümleye sonu ise 
+Баяғы & тәсіл: Boş satır veya uzunluk 40 karakter аспаса 
+Latex Aktarma filtre Ayarları 
+belge 
+özel belge 
+ek belge 
+belge sınıfı: 
+Kalite: 
+öntanımlı yazı tipi boyutu: 
+son 
+Алдын- Kısmen Projesi 
+Суреттер 
+Суреттері geri Al 
+Суреттер dizini: 
+Кодтамасы 
+Sil 
+Ekle 
+İçindekiler 
+yazar bilgi aktar 
+İçindekiler tablosu ekle 
+Жазбалар 
+Экспорттамау 
+Notları түсініктемелер olarak aktar 
+& Yardım 
+F1 
+& Tamam 
+İptal 
+MS Write Aktarma Penceresi 
+karakter & Kümesi 
+Write Belge için seçin. Білмесеңіз Öntanımlı Kodlamayı CP 1252 için deneyin. 
+& кодтама: 
+öntanımlı karakter CP 1252 
+Write құжаттарының çıkaran bu bazen windows- 1252 olarak gösterilir. kullan Білмесеңіз bunu için deneyin. 
+Gelişmiş 
+bu gelişmiş seçenekler biçimlendirme мәліметтерін экспорттауды жете sağlar. Олар KWord ve MS Write arasındaki айырмашылықтың салдарын, ek түпнұсқада yok biçimlendirme шаралар ile азайтып, içeriye belge katı түпнұсқасына bir sayısına тырысады. Білмесеңіз - öntanımlı tuşunun қалтыра seçiniz. 
+& Satır aralığının айырмашылықтар түзелсін 
+Write satır аралығына bir olarak her Paragrafların алдына boş gün, ekle. 
+& Resim yer дәлелдеу 
+Кескіндерді yapıştır için Paragraf шегінісін kullan. 
+Sayfalar 
+kullanılabilir Sayfalar 
+******** SHEETNAME ******** 
+ұяшықтар 
+Бөлгіші 
+Үтір 
+Noktalı virgül 
+üçgen 
+boşluk 
+Diğer: 
+Тырнақшалары: 
+Таңдалғанды sadece aktar 
+Genel 
+diğer 
+Қайталанатын бөлгішті yoksay 
+& Тырнақшадағы metin: 
+& Biçim: 
+Ауқымдары 
+- 
+aktarılacak Satır: 
+aktarılacak Sütunlar 
+Güncelle 
+Şifreleme: 
+sayfayı Seç 
+& Бүкілін Seç 
+Таңдаудан & Seçme 
+her кестеге & dosya арналсын 
+biçim 
+öntanımlı biçim kullan 
+bir dış biçim кестесі: 
+Konuma 
+& Шектері kullan 
+hücre аралықтағы & piksel cinsinden istenilen sayısı: 
+Boyut пикселде 
+Кескіннің genişliği: 
+Кескіннің Yükseklik: 
+Boyut бірліктермен 
+Tiplerini Bu DPI 
+бірлігі: 
+Bu arkaplan rengi 
+rengi 
+Matlık 
+xslt Aktarma Seçenekleri 
+Genel xslt Dosyaları 
+Дербес xslt Dosyaları 
+Seç... 
+Aktarma сүзгісінің паметрлері 
+Oranı koru 
+genişlik %: 
+yükseklik %: 
+png Aktarma Hatası 
+belge Aç 
+xslt Alma Ayarları 
+png Dışarıya сүзгісінің Ayarları 
+yükseklik 
+genişlik 
+yükseklik % 
+genişlik % 
+LaTeX Aktarma Hatası 
+KFormula İçeriye Hatası 
+KFormula1. 3 İçeriye süzgeci 
+PDF İçeriye Ayarları 
+% 1 Sayfa 
+EXR Dışarıya Aktarma Seçenekleri 
+PDFImportWidget 
+Sayfalar 
+Gelişmiş 
+Пішімдер: 
+Кескіндерді Aktar 
+Kullanıcı: 
+Пішімі 
+Sans Serif Biçimi 
+geçerli metin Yazıtipi Sans Serif biçimi ayarla 
+Serif Biçimi 
+geçerli metin için Serif biçimi simge olarak 
+қолжазба Biçimi 
+geçerli metin Yazıtipi қолжазба biçimi ayarla 
+... 
+Boyut ve Түсі 
+Туралауы 
+tip 
+biçim 
+İsim 
+değer 
+Өзгерістеріен қайтуNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. orgGeneral Ayarla 
+Genel 
+Evet 
+Hiçbiri 
+жоқMouse Cursor Shape 
+İmleci жоқMouse Cursor Shape 
+OkMouse Cursor Shape 
+yukarı okuMouse Cursor Shape 
+ÇaprazMouse Cursor Shape 
+BekleniyorMouse Cursor Shape 
+metin меңзеріMouse Cursor Shape 
+Dikey өлшемі=Mouse Cursor Shape 
+Yatay boyutMouse Cursor Shape 
+Bölü boyutMouse Cursor Shape 
+Tersbölü boyutMouse Cursor Shape 
+tüm өлшемMouse Cursor Shape 
+Dikey olarak bölMouse Cursor Shape 
+Yatay olarak bölMouse Cursor Shape 
+Меңзеген қолMouse Cursor Shape 
+ТыйымдыMouse Cursor Shape 
+bu nedir? Mouse Cursor Shape 
+Lütfen тұрыңызMouse Cursor Shape 
+Genel қолMouse Cursor Shape 
+Жұдырық 
+Символды таңдауFont sample for property editor item, typically Abc 
+% 1 
+Кескінін önizleme için түртіңізThree dots for Insert image from file button 
+... 
+dosyadan resim ekle 
+dosyadan Resim Ekle % 1 özelliği için 
+x 
+y 
+genişlik 
+БиіктігіSize Policy 
+SabitSize Policy 
+МинимумSize Policy 
+МаксимумSize Policy 
+БасымдыSize Policy 
+кеңейтуSize Policy 
+en Küçük кеңейтуSize Policy 
+yoksay Koru 
+ögeler Listesini Düzenle 
+% 1 içeriği 
+Символды Seç 
+yazıtipini değiştir 
+yazıtipini değiştir 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+KoUnavail KOffice uygulaması 
+KoUnavail 
+c 2001, David Faure 
+David Faure 
+Жоспарланбаған 
+belgeyi Ekle 
+geçersiz құжат. MIME Tipi belirtilmedi. 
+dosya biçimi келіспеуі 
+Devam 
+% 1 yazılamadı. Дискі толы? 
+Kaydet... 
+Құжаттан düzenli & üretiliyor... 
+seçim penceresini göster 
+ana Projeyi Düzenle... 
+Ekle 
+KPlate баптауы... 
+Düzenle... 
+Барысы... 
+görevi Sil 
+görevin çalınacağı 
+görev шегіндіру 
+görev шегінуден Yükle 
+görev yukarı 
+görev taşı 
+çalışma kurulu 
+Ресурсын Düzenle... 
+тәуелдігін Düzenle... 
+тәуелдігін Sil 
+Өңдегіштер 
+Көріністері 
+çalışma ve демалыс 
+kaynaklar 
+Görevler 
+Тәуілдіктері grafik 
+görev тәуілдіктерін Düzenle 
+Тәуілдіктері listesi 
+Жоспарлары 
+Жобаның tamamlanma Grafiği 
+Жобаның durum bilgi 
+görevin durum 
+görevin durum bilgi 
+çalışma kurulu 
+görevin durum bilgi 
+Gantt Grafiği 
+Gantt диаграммасын göster 
+kaynak бөлінуі 
+kaynak бөлінуін göster 
+kaynak бөлінуі 
+kaynak бөлінуін göster 
+Görevler tamamlanma Grafiği 
+görevler için tamamlanma durum değiştirilecektir. bilgi 
+% 1: Есептеу... 
+% 1 hesapla 
+% 1: Есептеліп oluştu 
+% 1 planı ekle 
+% 1 planı Sil 
+Küçük görev Ekle 
+görev Ekle 
+görevin öntanımlı Ayarları 
+çalışma kurulu 
+Тапсырмаларды Sil 
+қатынасын Ayarla 
+қатынасын yok olarak 
+görevin тәуелдігін yok olarak 
+Ресурсын Ekle 
+Ресурсын sil 
+paylaşım grubunu sil 
+kaynak nesneleri sil 
+yeniden Boyutlandır 
+Жоспарланбаған 
+Geçerlilik süresi sınırı dosya açma işlemi başarısız 
+Geçerlilik süresi sınırı dosyaya kaydetmek başarısız:% 1 
+çalışma дестесі:% 11=project name, 2=task name 
+çalışma дестесі:% 1@ info: whatsthis 
+yeniden Adlandır 
+Yapılandır... 
+Sil 
+Ekle 
+Görünümü Ekle 
+kaynak Düzenleyici 
+görev Düzenleyici 
+çalışma ve демалыс Düzenleyici 
+Есептер Düzenleyici 
+Тәуелдік Düzenleyici grafik 
+Тәуелдік Düzenleyici Liste 
+görev Görünümü 
+Gantt grafik Göster 
+yüksek 
+Görünümü Yapılandır... 
+KPlate Ayarları 
+Görünümü Seç 
+Başlangıç Tırnak dosya 
+& Dosya 
+Düzenle 
+& Görünüm 
+& Proje 
+Araçlar 
+& Ayarlar 
+Görünüm 
+Proje 
+Шектеулер 
+Шектеулер 
+Есеп tabanı: 
+Оптимистік: 
+Пессимистік: 
+görevin çalınacağı 
+verileri otomatik olarak 
+hesapla 
+Қолмен 
+Шектеулер 
+Жауаптысы: 
+adres кітапшаңыздан адамды Seçiniz 
+adres кітапшаңыздан адамды seçin. 
+Seç... 
+en hızlı 
+en кеш 
+Бастайтын zamanı 
+Аяқтайтын zamanı 
+Dünya zaman 
+Шектеулер 
+Шектеулер 
+Шектеулер 
+Есеп tabanı: 
+çalışma Boyut 
+Жұмсалған zaman 
+Есеп tabanı: 
+Оптимистік: 
+% 1 
+Пессимистік: 
+belgeyi Ekle 
+Kategori: 
+sonra 
+görünümün tipi: 
+İsim: 
+Ишара: 
+Sözcükler 
+Сөйлемдер 
+Буындар 
+satır 
+karakter boş ор. dahil 
+karakter boş or сыз 
+okuma жеңілдігі Flesch göre 
+... 
+Yazı ve соңғылық сілтемелердің metni yükle 
+verileri otomatik olarak 
+name OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+KPlatoKDE 4 tag line, see http: kde. org img kde40. png 
+1=datetime 
+1=datetime 
+KPlate KDE gönderiliyor aracı 
+c 1998- 2008, KPlate Takımı 
+Thomas Zander 
+Bo Thorsen 
+Dag Andersen 
+Raphael Langerhorst 
+Nuno Pinheiro ve Danny Allen 
+Бағдарламаның simge 
+görev тәуілдіктерін Düzenle 
+standart Çalışma zamanı Düzenle... 
+Yeni 
+Genel 
+belge 
+Көрініс... 
+Düzenle 
+Барысы... 
+belgeyi Sil 
+öntanımlı тапсыманы Düzenle 
+saat 
+жоспары: 
+Ресурстар Listesi 
+Жобаның adı: 
+Жобаның менеджері: 
+kaynak grubu: 
+Аты 
+e- posta 
+şimdi Bar жоғы 
+мөлшерлемесі 
+çalışma aşımından olmayan sırasında 
+Беті: 
+Görevler Listesi 
+бағасы 
+başlangıç 
+Proje басшысы: 
+Жауаптысы 
+Күнтізбесін Düzenle... 
+есептерін Düzenle... 
+Ресурстарын Düzenle... 
+Gantt Çizelge Ayarları 
+kaynak görünümün Ayarları 
+Есептер görünümün Ayarları 
+görev Ekle... 
+Küçük görev Ekle... 
+Кезеңін İşaretle... 
+görevi Sil 
+görev шегіндіру 
+görev шегінуден Yükle 
+yukarı Taşı 
+aşağı 
+Gönder 
+gönderme zamanı 
+Hiçbiri 
+Genel 
+Genel Ayarlar 
+yapılacak çalışma göstergesi ОЖБК ЖЖБК 
+grafik 
+Çizelge Ayarları 
+takvimi Düzenle 
+görev Düzenle 
+çalışma paketinin Yönetimi 
+Proje Ayarları 
+belgenin durumu değiştiriliyor 
+Колонтитулдар1=page number, 2=last page number 
+% 1 % 2 
+Беті: 
+Жоба: 
+Yapıştırdelete this incidence 
+менеджері: 
+Görünümü Yapılandır... 
+Görünümü бөлуден Al 
+Görünümü Böl 
+kaynak Ayarları 
+Ресурсын Düzenle 
+kaynak 
+bu Hafta 
+bu аптадағы çalışma Boyut 
+tarih 
+% Tamamlandı 
+Орындалған çalışma Boyut 
+Geri kalan çalışma Boyut 
+Жоспарланған çalışma Boyut 
+görevin тәуелдігін yok olarak 
+Жұмыс... 
+çalışma істемейтін 
+Анықталмаған 
+haftanın gün aç Değiştir@ info: whatsthis 
+takvim Ekle 
+Küçük takvim Ekle 
+seçili takvim Sil 
+takvimi Düzenle 
+çalışma 
+Материалы 
+başlamadıthe to- do is completed 
+başlatıldı 
+Biten 
+Proje Ayarları 
+ana Projeyi Düzenle... 
+bir резерві göster 
+negatif ek zaman 
+Қарым- қатынасты Ekle 
+қатынасын Ayarla 
+Қарым- қатынасын Düzenle 
+Sil 
+қатынасын Düzenle 
+yapılacak Ekle 
+Таңдағанды Sil 
+hesapla 
+yapılacak Ekle 
+değerini gönderir 
+Шешуші тізбек 
+görev Ayarları 
+& Genel 
+& Ресурстар 
+belge 
+& Баға 
+Сипаттамасы 
+Ayarlar 
+görev İşlemi 
+görev geri Düzenle 
+kaynak Böl Görünüm Ayarları@ info: whatsthis 
+kaynak Grubu Ekle... 
+ögesini Ekle... 
+seçili nesneleri sil 
+Gantt диаграммасының Ayarları 
+Seçenekler 
+Görünüm Seçenekleri 
+ağaç Görünümü 
+ağaç görünümün Sütun Yapılandırması 
+ana Görünüm 
+ana görünümün Sütun Yapılandırması 
+Қосалқы görünümün sütun баптауыInterval start time 
+Басталуы 
+uzunluk 
+Düzenle... 
+Көрініс... 
+belge тіркемелеу 
+URL sini Düzenle 
+adres adresi өзертілмейді 
+Құжаттарды Düzenle 
+belgeyi Sil 
+görevin бітіруін өзгертуWeek number year 
+% 1 Hafta % 2 Week number 
+% 1 Hafta 
+görev Ekle 
+Küçük görev Ekle 
+seçili есептерін Sil 
+görevin бітіруін Düzenle 
+Кезеңді çalıştırma 
+görevin бітіруін Düzenle 
+görevin бітіруін Düzenle 
+Сипаттамасы 
+қатынасын Düzenle 
+Күтетіні 
+Оптимистік: 
+Пессимистік: 
+bilgi 
+Ескерту 
+hata 
+Gönderiliyor.... Günlüğü 
+Жоспарланған yok 
+Sil 
+жоспары: 
+proje yok 
+қатынасын Düzenle 
+Аяқтау- Başlat 
+Аяқтау- Bitir 
+Бастау- Başlat 
+değer 
+Roman, büyük Harf 
+Roman, küçük Harf 
+Zarf, büyük Harf 
+Zarf, küçük Harf hours h: minutes m 
+% 1с:% 2м days d hours h: minutes m 
+% 1к% 2с:% 3мYear. Note: Mektup s only! 
+Month. Note: Mektup s only! 
+Week. Note: Mektup s only! 
+Идентификаторы 
+s 
+m 
+olasılığı 
+ms 
+bilinmeyen 
+Өнім 
+bağlantı 
+Kopyala 
+Тіркеулі belge şöyleydi:% 1 
+& Randevu жоспарлау: bitiş zamanı geçersiz 
+% 1 kaynağı arasında kullanılabilir жеткізбейді:% 2 -% 3 
+% 1 ресурсы% 2 -% 3 arasında kullanılabilir жеткізеді 
+çalışma 
+Есебі: 
+Инициалдары: 
+projeyi daha жоспарлау:% 1 
+Ілгері 
+hesapla 
+Кейінге göre 
+hesapla 
+жоспары: 
+жоспары: 
+Proje sırasında аяқталмайды:% 1 
+Жобаның özel Biten кезі:% 1 
+sonraki уақытына kadar Biten жоба:% 1 
+en son bitiş tarihi: 
+hesapla 
+hedef sırasında proje аяқталмайды 
+Жоспарланған бастау:% 1. hedef kadarı% 2 
+Жоспар 
+bitiş önbelleği басы1=type of constraint 
+hesapla 
+Жоспарланған бастауы% 11=type of constraint 
+Бастаудың кешінен кеш başlat 
+жоспары: 
+Жоспарланған бастауы% 11=type of constraint 
+% 1: Керек başlangıç zamanı жоспалауға келмеді1=type of constraint 
+% 1: Бастаудың ертесінен sonra жоспарлауы başarısız Жетпейтіні=% 2 
+қатынасын Düzenle 
+Gönder 
+sağlar. 
+Proje 
+Proje 
+görev 
+Мезгілдігі: 
+Тұжырымы 
+en hızlı 
+en кеш 
+Бастайтын zamanı 
+Аяқтайтын zamanı 
+Dünya zaman 
+çalışma Boyut 
+Жұмсалған zaman 
+düşük 
+yüksek 
+çalıştır 
+sonraki Aralıklı 
+% Tamamlandı 
+Biten 
+Geri kalan çalışma Boyut 
+görevin бағасын Düzenle 
+standart Çalışma zamanını değiştir 
+standart Çalışma zamanını değiştir 
+yol 
+Шешуші тізбек 
+Шешуші zinciri göster 
+etkinleştir 
+Безу 
+Tümünü 
+İsim 
+Күйі 
+Жұмсалған zaman 
+Сипаттамасы 
+Жоспарланған çalışma Boyut 
+zamanlanmış бағасы 
+жоспары: 
+Фазасы 
+Қатандығы 
+Хабарлама 
+proje yok 
+% біттіBudgeted Cost of Work Scheduled 
+ЖЖБК Ücretler Budgeted Cost of Work Performed 
+ОЖБК Ücretler Actual Cost of Work Performed 
+çalışma Boyut 
+saat bölgesi 
+бағасы 
+görevin adı 
+görev İşlemi 
+bu yapılacak ögesi жауапты okuyamamasını 
+қатынасын Düzenle 
+saat sınırlamak Tipi 
+başlangıç önbelleği sonu 
+bitiş Zamanı Var 
+görev İşlemi 
+Деңгейді Ekle 
+zamanlanmış бағасы 
+bitiş önbelleği sonu 
+Тәуелдіктері izin ететін en ерте bitiş zamanı 
+Тәуелдіктері izin ететін en кеш bitiş zamanı 
+Жоспарланған ұзақтығы 
+görevin adı 
+Оптимистік ұзақтығы 
+Пессимистік ұзақтығы 
+Tutturuldu zamana үлгеру için görev veya görev тізбегінің süresini қысқартуға ihtiyaç zaman 
+tüm Grupları görevlerin бастауына önemsenmez. етпей görev шегіндіруге veya ұзартуға olan zaman 
+ерте başlangıç ve кеш başlangıç bir zaman 
+ерте bitiş ve кеш bitiş bir zaman 
+bu yapılacak ögesi belirlediğiniz kaynaklar 
+görev Ayarları 
+görevin çalınacağı göster 
+Жоспарланған çalışma Boyut 
+gerçek бағасы 
+Geri kalan çalışma Boyut 
+zamanlanmış бағасы 
+şifrelemenin ciddi görev tarafından zamanı 
+Eğer görev басталса - göster 
+şifrelemenin ciddi görev Yinede zamanı 
+Eğer görev bittiğinde - göster 
+görev İşlemi 
+hesaplanması бағалауы болжаған 
+hesaplanması болжаған sapması 
+Оптимистік: 
+Пессимистік: 
+Бағалайтыны 
+Тәуекелдің Tipi 
+bu bu yapılacak ögesi belirlediğiniz kaynak kullanılabilir жекізбеуде 
+kaynak ya da kaynak grubunun adı 
+kaynak ya da kaynak grubunun tipi 
+kaynağın e- posta 
+görevin adı 
+Есептің açıklama 
+görevin adı 
+ögesini асыра жоспарлағанын бақылау@ info: whatsthis 
+Жоспарлағанда bir үлестірімі@ info: whatsthis 
+Жоспарланған başlama zamanı 
+Жоспарланған bitiş zamanı 
+Gönderiliyor.... бағыты@ info: whatsthis 
+@ info: whatsthis 
+belge URL 
+belge Türü 
+belgenin durumu 
+belgenin nasıl жіберілетінін belirler 
+görevin adı 
+görevin adı 
+görevin adı 
+görevin adı 
+Қатынастың Tipi 
+Қатынастың zamana кідіруіDefault calendar name 
+öntanımlı 1 
+kullanılabilir жетерлігі: 
+tip 
+Инициалдары: 
+e- posta 
+takvim Ekle 
+sınırı 1 
+kullanılabilir жетерлігі: 
+bir görevler ve bu alt 
+normal мөлшерлемесі 
+kaynak Grubu Ekle... 
+ögesini Ekle... 
+% 1 есепті Sil 
+Сипаттамасы 
+seçili есептерін Sil 
+görev Ekle 
+tümü 
+Аталық 
+Еншілес 
+Кешігу: 
+қатынасын Düzenle 
+% 1 есепті Sil 
+takvimi Düzenle 
+seçili есептерін Sil 
+takvimi Düzenle 
+saat bölgesi 
+takvim Ekle 
+seçili takvim өшіруUndefined 
+UNonWorking 
+NWWorking 
+W 
+takvim өзгерту1=time 2=The number of hours of work duration 
+% 1,% 2 saat 
+adres 
+durum 
+bu сақтауWeek number 
+sonraki Aralıklı 
+Айдағы сағаттары: 
+seçili есептерін Sil 
+seçili takvim Sil 
+бүгінгі tarih kullan 
+бағасы value % 
+қатынасын Ayarla 
+kaynak 
+қатынасын Düzenle 
+жоба:% 1 
+Dünya zaman 
+başlatıldı 
+bitiş Tarihi 
+Yükle 
+қатынасын өзгерту1=page number, 2=last page number 
+belirlediğiniz ресурстары: 
+Есеп tabanı: 
+Оптимистік: 
+Пессимистік: 
+Басталуы:% 1 
+есепті аяқтау:% 1 
+жоспары: 
+Оптимистік: 
+Пессимистік: 
+% Tamamlandı 
+Biten 
+başlangıç zamanı 
+başlatıldı 
+Бастауға aktif 
+projeyi başlat 
+başlamadıthe to- do is completed 
+gerçek бағасы 
+görev başlatılan кезі:% 1 
+görev başlamadıthe to- do is completed 
+Bitiş:% 1 
+görev Biten кезі:% 1 
+görev İletileri 
+Жоспарланған çalışma Boyut 
+Geri kalan çalışma Boyut 
+zamanlanmış бағасы 
+Бабының düzey:% 1 
+% 1 gerçekleştirmeye yapılacak çalışma көрсеткіші:% 2Not available 
+Жауаптысы: 
+Есеп tabanı: 
+Есеп tabanı: 
+Тәуекелі: 
+Шектеуі 
+vurgulanmış бастауы 
+vurgulanmış sonu 
+çalıştır 
+başlangıç 
+başlangıç 
+görev Ekle 
+Durdur 
+başlangıç önbelleği sayısı 
+bitiş önbelleği sayısı 
+başlangıç önbelleği sonu 
+en son bitiş tarihi: 
+kullanılabilir özel bir zaman 
+başlangıç zamanı 
+Аяқтау- Başlat 
+Белгілеулері 
+sapması Ұзқ 
+Оптимистік: 
+Пессимистік: 
+gerçek бағасы 
+zamanlanmış бағасы 
+gerçek бағасы 
+gerçek бағасы 
+Жоспарланған yok 
+Бөлінбеген 
+kaynak tipi: 
+proje yok 
+çalışma Boyut 
+kodu 
+Деңгейді қосуBudgeted Cost of Work Scheduled 
+çalışma paketinin Yönetimi 
+çalışma paketinin Yönetimi 
+& Ресурстар 
+ögesini Ekle... 
+қатынасын Düzenle 
+haftanın gün aç Düzenle 
+Жүріп olan görev Düzenle 
+standart Çalışma zamanını değiştir 
+görevin бағасын Düzenle 
+Құжаттарды Düzenle 
+bir görevler ve bu alt 
+görev Ekle... 
+Küçük görev Ekle... 
+grubu: 
+İsim: 
+adres кітапшадан ögesini Seç 
+Seç... 
+Инициалдары: 
+e- posta: 
+kaynak 
+takvim konumu: 
+kullanılabilir жетерлігі: 
+% 1 
+Басы: 
+Аяғы: 
+Ресурсына шаққанда 
+Сағаттық бағасы: 
+1 görev 
+2. görev 
+Қарым- қатынасты Ekle 
+Кешігу: Budgeted Cost of Work Performed 
+бағасы: 
+çalışma boyutu: 
+бүгінгі tarih kullan 
+Görevler 
+1 
+Басы: 
+Ekle 
+Sil 
+Temizle 
+Proje жоспары: 
+... 
+Тәуекелі: 
+Başlığı 
+Жобаның adı 
+Sayfa нөмері 
+Proje yöneticisi 
+dipnot 
+Proje kod verir 
+Коды: 
+ayırıcı: 
+Коды: 
+Бөлгіші 
+Деңгейді Ekle 
+Көрсету: 
+Мезгілдігі: 
+tarih 
+Hafta 
+her 
+Интегралды 
+Ауытқы 
+başlangıç zamanı 
+Жобаның adı 
+bitiş Tarihi 
+бүгінгі tarih 
+projeyi Yap 
+görevin adı 
+Жауаптысы: 
+adres кітапшаңыздан адамды Seçiniz 
+adres кітапшаңыздан адамды seçin. 
+saat 
+жоспары: 
+en hızlı 
+en кеш 
+bitiş önbelleği sonu 
+Есеп tabanı: 
+Тәуекелі: 
+Оптимистік: 
+Пессимистік: 
+Genel içeren ek süre: 
+& Жасырылған бағандары: 
+& Көрінетін бағандары: 
+görevin adı göster 
+kaynak adı göster 
+görevin bağlı renkler ve yazı tipleri göster 
+Шешуші görevler ve bu alt göster 
+görevin бітіруін Düzenle 
+Жобаның adı 
+& İsim: 
+Жобаның басшысы. 
+Жобаның басшысын adres кітапшаңыздан seçin. 
+& Seç... 
+кезеңі gönderiliyor 
+en ерте başlama tarihi: 
+en son bitiş tarihi: 
+Ekle... 
+Değiştir... 
+Aç 
+satır etiketleri yazdır 
+Есебі: Interval start time 
+Басталуы 
+Durdur 
+bu сағаттары: 
+Айдағы сағаттары: 
+аптадағы сағаттары: 
+Күндегі сағаттары: 
+Proje жоспары: 
+bir görevler ve bu alt 
+bir görev Ekle 
+bir görev Sil 
+Шешуші тізбекі görev No: 
+Жобада içeren ek süre: 
+görev Ayrıntılar 
+Идентификаторы 
+başlangıç önbelleği sayısı 
+bitiş önbelleği sayısı 
+başlangıç önbelleği sonu 
+en son bitiş tarihi: 
+kullanılabilir özel bir zaman 
+Бітіруі 
+Бастағаны: 
+Аяқталғаны: 
+hesapla 
+bir görevler ve bu alt 
+Ресурсына шаққанда 
+girdi Ekle 
+girdiyi Sil 
+kaynak 
+önceki 
+sonraki 
+жоба:% 1 
+çalıştır 
+Güncelle 
+bir 
+e- posta 
+son Eylem 
+KOffice içerisine birleştir başarısız 
+Başlangıç Tırnak dosya 
+% 1 dosyası yok 
+% 1 belgesi dosya Var 
+bozuk Adres:% 1 
+% 1 belgesi dosya Var 
+% 1 dosyası yok 
+& düzenle: 
+dosya yazmak başarısız:% 1 
+geçersiz құжат. MIME Tipi belirtilmedi. 
+Қоймасын Aç başarısız:% 1 
+geçersiz құжат. MIME Tipi belirtilmedi. 
+dosya arka келіспеушілігі 
+Devam 
+Düzenle 
+& Ayarlar 
+& Görünüm 
+Барысы... 
+belge 
+& düzenle: 
+name OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Барысы... 
+Proje 
+Proje 
+KPlatoWork баптауы... 
+KPlatoWork баптауы... 
+Düzenle 
+& Görünüm 
+Барысы... 
+bu da düzenlenebilir 
+belge dosya Var 
+Қоймасын Aç başarısız:% 1 
+% 1 алып- шығарылмады 
+dosya okumak başarısız:% 1 
+dosya yazmak başarısız:% 1 
+KPlate Çalışma Paketi өңдеуіші 
+c 1998- 2009, KPlate Takımı 
+Dag Andersen 
+% 1 слайд 
+yeni слайд көрсетілімі% 1 
+aynı isimli bir iki көрсетілім gösterilsin değil 
+hata 
+Әрекетті Onayla 
+% 1 ekran ana 
+% 1 ekran 
+Көрсетуші Görünümünü Yapılandır 
+tüm слайдтар 
+слайд көрсетілімін Yapılandır 
+düzenli слайдтарын göster 
+слайд көрсетілімін Yapılandır... 
+слайдты ekle 
+Назардағыдан sonra yeni слайдты ekle 
+слайдты Kopyala 
+geçerli слайдты Kopyala 
+слайдты Sil 
+geçerli слайдты Sil 
+düzenli слайды... 
+önceki слайд 
+sonraki слайд 
+İlk слайд 
+son слайд 
+Көрсетуші Görünümünü Yapılandır... 
+normal 
+Жазбалар 
+hata sağla canlandır 
+Өзіндік көрсетілімді Düzenle... 
+Sunumu Başlat 
+geçerli слайдтан 
+İlk слайдтан 
+слайд көрсетілімін Yapılandır... 
+Көрсетуші Görünümünü Yapılandır... 
+Анимация aracı 
+Ауысулары 
+Түрту Eylemleri 
+2. 0 sürüme desteklenmemektedir 
+Пішін Canlandırması 
+Эффект yok 
+sn 
+Yapıştır aracı 
+Пішінді Düzenle 
+слайд Biçimleri 
+Başlangıç Tırnak dosya 
+Sayfa Efektini Aç düzenlenmiş GUI 
+Sayfa Efektini Aç Düzenle 
+Sayfa Efektini Aç Sil 
+Düzenle 
+Пішін анимациясын düzenlenmiş GUI 
+көрсетілім tamamlandı. Çık için tıklayın. 
+biçim 
+isim için жасаңыз çift tıklayın 
+metin eklemek için çift tıklayın жасаңыз 
+girdi eklemek için çift tıklayın жасаңыз 
+Суретті eklemek için çift tıklayın жасаңыз 
+Çizelge eklemek için çift tıklayın жасаңыз 
+Nesne eklemek için çift tıklayın жасаңыз 
+KOffice Sunum Aracı 
+KPresenter 
+c 1998- 2008, KPresenter Takımı 
+Thorsten Zachmann 
+projeyi Yürüten 
+Laurent Montel 
+Бұрыңғы geliştirici 
+Reginald Stadlbauer 
+Başlangıç yazar 
+Werner Trobin 
+David Faure 
+Toshitaka Fujioka 
+Lukáš Tinkl 
+Ariya Hidayat 
+Percy Leonhardt 
+Thomas Zander 
+Peter Simonsson 
+Boudewijn Rempt 
+Carlos Licea 
+Casper Boemann 
+Fredy Yanardi 
+Jan Hambrecht 
+Marijn Kruisselbrink 
+Martin Pfeiffer 
+Sven Langkamp 
+Timothée Lacroix 
+Көрсетушінің Notları 
+Назардағы% слайд 1 % 2 
+көрсетілім sonu 
+saat 
+& Dosya 
+& Düzen 
+& Görünüm 
+& Ekle 
+çizgi 
+Пішін 
+biçim 
+nesneleri Sırala 
+nesneleri Hizala 
+& Metin 
+Yerleşim 
+tip 
+Емлесін Et 
+Автотүзету 
+& görüntü 
+& Ayarlar 
+dosya 
+Ekle 
+Araçlar 
+Пішімі 
+metin 
+Көрсетілімі 
+Gezinme 
+Dikey Hizalama 
+nesneleri Döndür 
+& Суретті 1: 1 масштабында göster 
+Емлесін Denetimi Sonucu 
+ПрезентацияNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Өзіндік көрсетілім Düzenleyici 
+Өзіндік көрсетілімдері 
+yeni көрсетілімді Ekle 
+көрсетілімді Sil 
+bir слайдтары 
+geçerli көрсетілімі: 
+слайдты Ekle 
+İptal 
+Tamam 
+kapat 
+слайдтар 
+Sunum слайдтары: 
+Өзіндік көрсетілімді Düzenle... 
+çoklu ekran 
+Sunum дисплейі: 
+Resim Olarak Ayarla Kırp 
+X: 
+& Genişlik: 
+& Биіктігі 
+Y: 
+& Ара қатынасы: 
+Katman 
+resim 
+& Resim Olarak Ayarla Kırp 
+& Slayt 
+ses eylemini değiştir 
+Дыбыссыз 
+İçeriye Aktar... 
+Қалқандармен иректеп 
+İki sebep yukarıdan ішке 
+İki sebep төменнен ішке 
+İki sebep солдан ішке 
+İki sebep оңнан ішке 
+İki sebep төменнен сыртқа 
+İki sebep солдан сыртқа 
+İki sebep оңнан сыртқа 
+bilinmeyen түр тармағы 
+Şelale 
+üst sol Sol 
+üst sol көлденеңнен 
+Üst- Sağ Dikey 
+üst sağ көлденеңнен 
+düşük sol Sol 
+düşük sol көлденеңнен 
+alt sağ Sol 
+alt sağ көлденеңнен 
+mesela иректеп 
+aynı dikey yukarıdan ішке 
+aynı dikey yukarıdan сыртқа 
+& қиғаштап üst sol ішке 
+Helis 
+saat Saat Yönü üst sol ішке 
+saat Saat Yönü üst sol сыртқа 
+saat Saat Yönü üst sağ ішке 
+saat Saat Yönü üst sağ сыртқа 
+saat Saat Yönü alt sol ішке 
+saat Saat Yönü alt sol сыртқа 
+saat Saat Yönü alt sağ ішке 
+saat Saat Yönü alt sağ сыртқа 
+saat жүрісіне geri üst sol ішке 
+saat жүрісіне geri üst sol сыртқа 
+saat жүрісіне geri üst sağ ішке 
+saat жүрісіне geri üst sağ сыртқа 
+saat жүрісіне geri alt sol ішке 
+saat жүрісіне geri alt sol сыртқа 
+saat жүрісіне geri alt sağ ішке 
+saat жүрісіне geri alt sağ сыртқа 
+иректеп 
+sol 
+sağ 
+жоғарынан 
+төменнен 
+sol жоғарынан 
+sağ жоғарынан 
+sol төменнен 
+sağ төменнен 
+Бесбұрыш 
+yüksek 
+Yukarı Git 
+düşük 
+sola Git 
+Дөнгеленген Dikdörtgen 
+көлденеңнен 
+көлденеңнен Git 
+Dikey 
+Dikey Git 
+diğer 
+Жүрек 
+Жүрек Git 
+Құлыптың Deliği 
+Құлыптың Deliği Git 
+Эллипс 
+Шеңбер 
+Шеңбер Git 
+azami dikdörtgen 
+azami dikdörtgen Git 
+ромб 
+negatif ромб 
+Көз 
+Алтыбұрыш 
+Үшбұрыш 
+sağ 
+on sol Git 
+sol 
+sol Git 
+Жебе ұшы 
+yıldız 
+Төрт değeri yıldız 
+Төрт değeri yıldız Git 
+Бес değeri yıldız 
+Бес değeri yıldız Git 
+Алты değeri yıldız 
+Алты değeri yıldız Git 
+Қатарлап сыпыру 
+Dikey istemiyorsanız, 
+Қигаштап istemiyorsanız, 
+Dikey & 
+көлденеңнен & 
+Қигаштап üst sol istemiyorsanız, 
+Қигаштап alt sol istemiyorsanız, 
+Dikey geri Git 
+көлденеңнен geri Git 
+Katar қиғаштап üst sol Git 
+Katar қиғаштап alt sol Git 
+желдеткіш 
+sağ ортадан 
+yüksek ортадан 
+sol ортадан 
+alt ортадан 
+sağ жайылу 
+төменнен жайылу 
+sol жайылу 
+sağ жиналу 
+alt жиналу 
+sol жиналу 
+Зырылдауық қалақтар 
+saat 
+saat on varsa, dil Saat Yönü 
+saat үштен dil Saat Yönü 
+saat алтыдан dil Saat Yönü 
+saat тоғыздан dil Saat Yönü 
+saat on varsa, dil жүрісіне & 
+saat үштен dil жүрісіне & 
+saat алтыдан dil жүрісіне & 
+saat тоғыздан dil жүрісіне & 
+Салун есігі 
+yukarı 
+sol 
+aşağı 
+sağ 
+pencere тазартқышы 
+çift желдеткіш 
+Dikey жиналу 
+көлденеңнен жиналу 
+сыпыру 
+жоғарынан saat Saat Yönü 
+sağ saat Saat Yönü 
+төменнен saat Saat Yönü 
+sol saat Saat Yönü 
+üst sol saat Saat Yönü 
+alt sol saat жүрісіне & 
+alt sağ saat жүрісіне & 
+üst sağ saat жүрісіне & 
+alt saat жүрісіне & 
+sol saat жүрісіне & 
+alt sol saat Saat Yönü 
+alt sağ saat жүрісіне & 
+üst sağ saat Saat Yönü 
+жолақ 
+слайд 
+Төрт sebep 
+çeşitli қиғаштап 
+çift ромб 
+Ирек 
+Қора қақпасы 
+қиғаштап alt sol 
+қиғаштап alt sol Git 
+қиғаштап üst sol 
+қиғаштап üst sol Git 
+Диагональ 
+V- gibi 
+Иректеп- бұлтақтау 
+Dikey Git 
+көлденеңнен Git 
+sebep 
+Жүрек 
+Абстракты 1 
+Абстракты 2 
+Абстракты 3 
+Аневризм 
+Yeşil Mavi 
+Қоңырлар 
+Жырылған алюминий 
+Жанған Paper 
+Жанған кеңістік 
+Қанық көктер 
+CD 
+yarı CD 
+Kahve 
+Суық болат 
+Суық болат 2 
+Кертеш 
+Кою 1 
+Терең Dalga 
+öntanımlı 
+Төрт жолақ 
+Fransa туы 
+Almanya туы 
+Almanya туы 2 
+tahmin 
+Жасылдар 
+ufuk 1 
+ufuk 2 
+Dünya 1 
+Dünya ve Dalga 
+Meksika туы 
+Meksika туы 2 
+Жүрек айнытарлық İptal ауыруы 
+bir turkuaz неон Ton 
+Yeşil неон 
+Sarı неон 
+Пастельді кемпірқосақ 
+Пастельділер 
+Қызыл күреңдер 
+Румын туы 
+Румын туы 2 
+dairesel girdiyle 
+Көлеңкелер 1 
+Көлеңкелер 2 
+Көлеңкелер 3 
+ufuk 
+Күңгірт ufuk 
+inç ағаш жақтау 
+Gök çıktı 
+Тропикалық renk 
+Қызыл құбыр 
+ағаш 1 
+ағаш 2 
+Sarı контраст 
+Қызғылт Sarı 
+40_ Renk 
+bir renk 
+KDE yeni 
+Web 
+Ұшқан конфетти 
+Фломастер 
+Ұшқындар 
+kalem Önizlemesi 
+Шырмауық 
+kare 10x10 
+бұлдыр kare 10x10 
+Шеңбер 11 
+Бұлдыр dairesel 11 
+Шеңбер 13 
+Бұлдыр dairesel 13 
+Шеңбер 15 
+Бұлдыр dairesel 15 
+Шеңбер 17 in 
+Бұлдыр dairesel 17 in 
+Шеңбер 19 
+Бұлдыр dairesel 19 
+Шеңбер 01 
+kare 20x20 
+бұлдыр kare 20x20 
+Шеңбер 03 
+Бұлдыр dairesel 03 
+Шеңбер 05. 
+Бұлдыр dairesel 05. 
+kare 5x5 
+бұлдыр inç 5х5 
+Шеңбер 07. 
+Бұлдыр dairesel 07. 
+Шеңбер 09. 
+Бұлдыр dairesel 09. 
+sanatsal Metin қылқаламы 
+конфетти 
+İmleç 
+sol büyük siyah 
+sol büyük beyaz 
+sağ büyük siyah 
+sağ büyük beyaz 
+sol beyaz 
+Yatay sürükleme 
+Dikey sürükleme 
+sağ beyaz 
+sol siyah küçük 
+sol beyaz küçük 
+sağ siyah küçük 
+sağ beyaz küçük 
+sol beyaz титтей 
+sağ beyaz küçük hale 
+yüksek pencerenin 
+Eğik Çizgi yıldız 11 
+Eğik Çizgi yıldız 17 in 
+Eğik Çizgi yıldız 25 
+Шағыл AP 
+Галактика AP 
+Галактика, büyük 
+Галактика, küçük AP 
+Бұрыш 
+piksel 1x1 kare 
+3B yeşil 
+Күлгінтас 
+Ағаштың қабығы 
+büyük Mavi 
+Mavi Izgara 
+Mavi шаршылар 
+Mavi өрмек 
+Кірпіштер 
+Кенеп тоқыма 
+Шоколад құйыны 
+Сызат 
+Кратерлер 
+Кеңірдектірілген Paper 
+Электрик Mavi 
+Талшықтар 
+Гранит # 1 
+Тақыр 
+Мұз 
+Ява 
+Былғары 
+Үйеңкі жапырақтары 
+Ірбіз 
+Найзағай 
+Мәрмәр # 1 
+Мәрмәр # 2 
+Мәрмәр # 3 
+Айдағы іздер... 
+kağıt 
+Паркет # 1 
+Паркет # 2 
+Паркет # 3 
+Пастель шимайы 
+Қарағай 
+Қызғылт мәрмәрі 
+Yağmur 
+Ойыс 
+Қызыл текшелер 
+Тастар 
+Dosya menüsü ögesi olan Gökyüzü 
+Шифер 
+küçük шаршылар 
+tarafından 
+Жолақтар 
+Showtunes балшық 
+Жаңғақ ағаш 
+Uyarı! 
+Ағаштың bir Tipi 
+Қарағай? 
+ағаш # 1 
+ағаш # 2 
+ағаш 
+& Düzen 
+& Ресурстар 
+& Görünüm 
+Тор aralığı 
+& Resim 
+Katman 
+yeni 
+& Seçim 
+filtre 
+& Araçlar 
+Ayarlar 
+Fırça ve diğer 
+Görünüm 
+қабаты 
+Düzenle 
+ШарлауNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+şimdi bir Tipleri 
+İsim: 
+bir Fırça Tipleri 
+Дайындарға Ekle 
+İsim 
+yeni Resim 
+resim Boyutu 
+Genişlik: 
+Yükseklik: 
+Tiplerini Bu DPI 
+durum 
+стратегиясы: Birleştir 
+Açıklama: 
+& İsim: 
+& Matlık: 
+Birleştirme kipi: 
+renk кеңістігі: 
+metin 
+& profili: 
+& Etkin Kanalları 
+normal 
+Seçenekler 
+Өрісінің rengi: 
+... 
+Bu arkaplan rengi 
+Мөлдірсіздік: 
+Düzenle 
+boyama 
+ana Katmanı göster 
+otomatik 
+& Меңзердің қалпы: 
+Құралдың simge 
+da 
+İmleç 
+Көзін Seç 
+Katmanı Seç 
+& resmi Seç 
+birleşiklik Yöntemi 
+Birleşik аудан 
+& Paylaşılmış аудан 
+& Yüzde: 
+& X ығыстыруы: 
+& Y ығыстыруы: 
+Yatay радиусы: 
+Ұсағы: 
+Dikey радиусы: 
+biçim 
+Ana: 
+çizgiler 
+Штрихты çizgiler 
+Нүктелі çizgiler 
+аталмаған- 1 
+Ekran Boyutu 
+renk 
+İçindekiler 
+Өрісінің rengi: 
+Şeffaf 
+Bu arkaplan renk мөлдірсіздігі 
+Bu arkaplan renk мөлдірсіздігі. 
+Matlık 
+Panodan ilk katman 
+Oluştur 
+Сегменттің rengi 
+sol: 
+sağ: 
+сызықтыthe gradient will be drawn bilinearly 
+Қиғашты 
+Синусты 
+RGB 
+Horiz. CW 
+Horiz. CCW 
+resim çözünürlük 
+x Tiplerini Bu DPI 
+y Tiplerini Bu DPI 
+renk Ayarları 
+yeni кескіндердің öntanımlı renk şablonu: 
+ekran 
+& Дисплей & profili: 
+& Мақсаты: 
+çizgi 
+Салыстырмалы колориметрикалық 
+Қанықты 
+mutlak колориметрикалық 
+yazdırma 
+öntanımlı yazdırma renk şablonu: 
+öntanımlı & принтердің & profili: 
+Әрбірде sor 
+Орнатылғандарын Düzenle 
+Назардағыны бетбелгілеу 
+Sil 
+kapat 
+katmanın adı: 
+OpenGL 
+OpenGL etkinleştir 
+OpenGL көлемдеуіштері ekle 
+Şeffaflık alanı 
+Boyut 
+rengi: 
+Тегістелсін 
+Сұлбасы: 
+Сұлбасы yok 
+Fırça 
+Өрнек 
+Генератор 
+Doldur: 
+Толтыруы yok 
+önplan Rengi 
+Bu arkaplan rengi 
+Ізі 
+Süzgeç Seçin 
+Filtrele: 
+Тағайындауы: 
+Орнатылғандарын Düzenle 
+Model: 
+renk Derinliği 
+Kaynak: 
+tüm Resim 
+Өрнек olarak kullan 
+Aktarma 
+Bu өрнектерге Ekle 
+önizleme 
+Değişen katmanın Önizlemeyi Göster 
+Başlangıç 
+Başlangıç Katmanı göster 
+Küçült 
+Büyüt 
+1: 1 
+Önizlemeyi güncelle 
+otomatik Tazeleme 
+Pencere 
+Uygula 
+maskesinin Efektini Aç Oluştur 
+İptal 
+İsimsiz 
+yeni renk Ekle... 
+seçilen renk Sil 
+yeni palet Ekle... 
+geçerli Paletini Temizle 
+Paletini görüntü Kopyala 
+Paletini geçerli қабатынан Kopyala 
+& Hiçbiri 
+geçerli Қалқа 
+& Таңдаудағы 
+geçerli Қабат 
+Profili Uygula 
+& Профильдері: 
+Мақсаты 
+Салыстырмалы колориметрикалық 
+mutlak колориметрикалық 
+kipi: 
+Pikselleştirme 
+қалыпы 
+Әрекеті: 
+Қысқа 
+Тегістелсін 
+dönüştürme Efektleri 
+maskesinin Ayarları 
+қалқаның adı: 
+x масштабы: 
+y масштабы: 
+x göre қисайту: 
+y göre қисайту: 
+Бұруы радиан: 
+Көркем 
+Ana: 
+Карта 
+Ana: 
+Gezinme 
+yerleşimi: 
+Kahve 
+Қызыл 
+Yeşil 
+Mavi 
+Жылдамдығы 
+Resim Olarak Ayarla Kırp 
+X: 
+& Genişlik: 
+& Yükseklik: 
+Y: 
+& Ара қатынасы: 
+resim 
+& Resim Olarak Ayarla Kırp 
+yıldız 
+Kapaklar: 
+kare қатынасы: 
+seçim kipi: 
+seçili maskesinin veya katmanın dosyası oluştur 
+geçerli Katman 
+maskesinin ya da katman taşı 
+resim Seçici 
+Kanal 
+değer 
+renkleri yüzde olarak göster 
+Палитраға қосу: 
+geçerli rengi güncelle 
+geçerli Katman 
+Пикселдің genişliği 
+dinamik Fırça 
+Мысал 
+dönüştürme 
+радиусы 
+Қисықтың мөлдірсіздігі 
+Қанықтық салмақ коэфициенттері 
+Қалыпы: 
+Эллипс 
+dikdörtgen 
+Тегістелсін 
+Kısmen 
+rastgele girinti: 
+Бұрылыс 
+Kalıcı 
+° 
+Rasgele 
+İmleç 
+metin 
+Paletini Düzenle 
+апертурасы: 
+Бұрылыс 
+Büyüt 
+aralığı: 
+Kapaklar: 
+sayısı 
+% 1 
+Сегментті Sil 
+ses toplamı 
+Matlık 
+Қанықтық салмақ коэфициенттері 
+sigma 
+1D 
+2D 
+Масштабы 
+Fırça қалыпы 
+Fırça Ayarları 
+ses 
+Айықтыру 
+& Tamam 
+İptal 
+yıldız 
+Paletini Düzenle 
+Kısmi 
+& Göster@ info 
+Реңк 
+Rasgele 
+rastgele girinti: 
+renk кеңістігі: 
+arkaplan 
+Katmanı Ölçekle 
+Bu arkaplan Rengi ile Doldur 
+yeniden 
+Uzunluk: 
+boyama kipi 
+Biçim: 
+artımsal 
+Басымы 
+değeri 
+seçim kipi: 
+düz 
+Анимацияланған 
+renk maskesinin olarak kullan 
+Fırça olarak kullan 
+Bu қылқаламдарға Ekle 
+metin 
+Metin: 
+Қаріпі: 
+Dağ başını duman объективті коэффициенттерін Yükselt için кәсіпке olan автомодельдеудің yerine үйге жиһаз başlatılamadı:% кірісті 
+- 
+Шеңбер 
+Шаршыthe gradient will be drawn as an assymmetric cone 
+Boyut 
+& Біртіндеп 
+Yatay: 
+Dikey: 
+Свопты қолдануы: 
+Açı: 
+filtre Ayarları 
+Қисайған kip 
+Өсіру 
+Жиыру 
+Taşı 
+renk sapması 
+Қисаймаған кескіннең пикселдерін okuma 
+Kısmi 
+dinamik Fırça 
+Пикселдің genişliği 
+Pencere 
+KIvrımlı 
+Бұрыш 
+Бұрыш 
+қашықтық ауқымы: 
+maskesinin 
+Dikey радиусы: 
+Тор aralığı 
+Есептеуішін kullan 
+Көпбұрыш 
+bulunduğunuz 
+doğrusal таңдауstraigh line drawing tool 
+Тузу 
+Пикселдің genişliği 
+Пикселдің yüksekliği 
+Büyüt 
+Dikey Dalga 
+Yatay Dalga 
+Блок Boyutu 
+2. kipi 
+1 kipi 
+3. kipi 
+Қиғашты kipi 
+Мин. қашықтық 
+Dikey радиусы: 
+Yatay радиусы: 
+Dikey радиусы: 
+Sertlik: 
+düzeyi: 
+Yatay Dalga 
+Dalga uzunluğu: 
+yerleşimi: 
+Амплитудасы: 
+KIvrımlı 
+Dikey Dalga 
+Деңгейлер 
+girdi Seviyeleri 
+Логарифмдік 
+çıktı Seviyeleri 
+Көлеңкелер 
+Жарым реңктер 
+Жарықтар 
+Pozlandırma: 
+Бұрмалауын Düzenle 
+Ортасы: 
+Жарықтығын түзеу: 
++ 
+контрастық 
+- 
+Parlaklık: 
+Ton: 
+Қанықтығы: 
+Kaynak: 
+Арнасы: 
+Iptc 
+Шығысы 
+табалдырығы: 
+Терезесінің boyutu: 
+Жарты- boyutu: 
+Саны: 
+кескінінен: taşı 
+& Tip sütunu bağlı 
+& Çizgi 
+& Сфералық 
+& Азимуті: 
+& X ығыстыруы: 
+& Жоғарлығы: 
+& Y ығыстыруы: 
+& Тереңдігі: 
+& Сулар düzeyi: 
+& Шашыранды жарығы: 
+Блок Boyutu 
+küçük Döşemeler 
+Мөлдірсіздік: 
+Ekle 
+ағаш 
+Блоктардың sayısı 
+resim Al 
+Пастельділер 
+Glsl resmi 
+seçim kipi: 
+& simgelerinin arasında Boyutu 
+Seçenekler 
+Қасиеттері: 
+& Göster@ info 
+Жарқылы 
+Интерполяция: 
+& Түріthe gradient will be drawn bilinearly 
+çift doğrusal 
+Önizlemeyi güncelle 
+resim Opak olarak 
+Нобайы: 
+ana 
+Басымы 
+smooth out the painting strokes the filter creates 
+Yumuşat 
+normal 
+Exif@ title: group 
+XMP 
+Сүзгілер: 
+Seçenekler 
+ЖоқThe gradient will repeat forwards 
+Yatay радиусы: 
+resmi & Birleştir 
+Геометриялық Ayarları 
+küçük Döşemeler 
+көктер 
+Экспозиция kipi: 
+ana 
+& Renk: 
+& Нобайлау 
+renk alanı 
+& Бары Koru 
+& RGB Olarak 
+& Блогінің Boyutu 
+& Жиегі 
+yeni Katman Özellikleri 
+katmanın adı: 
+Мақсатты renk кеңістігі: 
+katmanın & profili: 
+matlığı: 
+араластыру kipi: 
+Kanal Düğümler 
+Kırmızı: 
+Katman 1 
+Файл... 
+Yeşil: 
+Mavi: 
+Альфа: 
+Katman 2 
+Қолданған aracı için 
+Tiplerini Bu DPI 
+Әрекеті: 
+yeni maskesinin ya da katman oluştur 
+қалқаның dosyası oluştur 
+seçili maskesinin veya katmanın dosyası oluştur 
+Қалқаны en üste yazdır 
+Қалқаны en üste yazdır 
+Таңдауыма ekle 
+араластыру kipi 
+yeni maskesinin ya da katman oluştur 
+maskesinin veya katmanın dosyası oluştur 
+seçili maskesinin veya katmanın dosyası oluştur 
+maskesinin ya da katman taşı 
+maskesinin ya da katman yukarı 
+maskesinin veya Katmanı Sil 
+Paletini Seç 
+gözat 
+00000 
+1: 1 
+renk Uzayı değiştirici 
+& Мақсаты 
+resim resimler için 
+grafik ve grafikler için 
+W: 88% V: 888 PC: 88% 
+taşı dosyaları 
+resmi aşağı olan sağa Taşı 
+resim Listesinden Kaldır 
+& Көрме Oluştur 
+Yöntemi 
+& Логарифмдік 
+& Арна: 
+Көрініс: 
+resmi Eğ 
+Eğ 
+y göre eğiliyor, Açı: 
+x göre eğiliyor, Açı: 
+yeni өлшемге Ölçekle 
+simgelerinin arasında Boyut 
+Pikselleştirme 
+& Yüzde: 
+Интерполяция: 
+yazdırma Boyutu 
+Басатын genişliği: 
+Басатын Yükseklik: 
+Tiplerini Bu DPI 
+piksel 
+& Өлшемін Düzenle 
+Büyüt 
+& simgelerinin arasında Boyutu 
+& Genişlik: 
+Orjinal: 
+Yeni: 
+& Yüzde: 
+& Filtrele: 
+Genişlik: 
+yükseklik 
+& Yüzde: 
+girinti: 
+x sn. Oranı uzaklığı: 
+y sn. Oranı uzaklığı: 
+Бұлдырлық шеңбері: 
+Boyut өзгерілмек kullan 
+renk aralığının 
+Қызылдар 
+Сарылар 
+bir turkuaz реңктері 
+көктер 
+Маджента реңктері 
+& Терістеп 
+Таңдауыма ekle 
+Таңдаудан & Seçme 
+resmi Döndür 
+жаққа taşı 
+& Saat Yönü 
+saat жүрісіне & 
+Бұрыш 
+90 & derece 
+180 derece 
+270 derece 
+& Diğer: 
+Құраструшысы: 
+Шығарушысы: 
+Құқықтары: 
+Yapıştırdelete this incidence 
+İsim: 
+Экспозиция 
+Işık денгейі: 
+ISO: 
+Экспозиция süresi: 
+Экспозиция kipi: 
+otomatik 
+Қолмен 
+otomatik бракетинг 
+Экспозиция arkayüzü: 
+Анықталмаған 
+normal uygulama 
+Апертура Yaz 
+Экспозиция Yaz 
+Жасампаздық Ekran Görüntüsü uygulaması 
+Әрекетті indir uygulaması 
+Dikey 
+Yatay 
+Экспозиция kodu: 
+Экспозицияны жылжытуы: 
+апертурасы: 
+Экспозициясы: 
+F Саны: 
+Оптика 
+Тоғыс uzaklığı: 
+Тоғыс Uzaklık 35мм таспаға içeriyor 
+Макс. апертурасы: 
+Автотоғыстыру 
+Herhangi bir nesneye қашықтық: genişliği 
+Өлшеу kipi: 
+bilinmeyen 
+Орталап 
+Зілдеме toplamlarını ortala 
+azami ın 
+Бінеше parlak ın 
+Kısmen 
+diğer 
+қашықтық ауқымы: 
+Макро 
+Жақыннан 
+Uzaktan 
+Жарқылы 
+bulunduğunuz 
+Анықталмаған 
+otomatik kip 
+fonksiyon 
+Қызыл Eğer unut 
+Жарқылының қуаты: 
+yaptığınız Düzenle 
+Kazanç Әлсірету: 
+Шамалы Kazanç 
+Қатты Kazanç 
+Шамалы әлсірету 
+Қатты әлсірету 
+Жарықтың kaynağı: 
+Gök жарығы 
+флуоресценті 
+Вольфрамды 
+açık Gök 
+Бұлтты tarih 
+Gölgele 
+Gök жарықты флуоресценті D5700 - 7100K 
+bir gün жарықты флуоресценті N4600 - 5400K 
+Салқын beyaz флуоресценті W3900 - 4500K 
+beyaz жарықты флуоресценті WW 3200 - 3700K 
+a standart жарығы 
+b standart жарығы 
+c standart жарығы 
+D55 
+D65 
+D75 
+D50 
+iso студия қызу лампа 
+diğer 
+Айқындылығы: 
+normal 
+düşük 
+yüksek 
+Karşıtlık: 
+Ақтың балансы: 
+Өзге 
+çeşitli 
+resim biçimleri: 
+standart 
+Yatay 
+Dikey 
+tarafından 
+Жасаушысы: 
+Анықталмаған 
+üç Çizgili сезгіш 
+Біріздік renk doğrusal сезгіш 
+CMYK 
+Қайда 
+Etkin Katman 
+yeni Katman 
+alınan resim yeniden seçili olarak Ölçekle 
+Кай файлдарынан: 
+dosya 
+Экспозиция zamanı 
+апертура 
+Film сезімділігі iso 
+resim ekle 
+Камера yanıtı: 
+Kamera Eğer hesapla 
+HDR Katmanı Oluştur 
+piksel 
+Süzgeç Seçin 
+geçerli renk şablonu: 
+Қайдан 
+geçerli Katman 
+Шығысы 
+Қабаттарына 
+Кескіндеріне 
+Тәуелсіз 
+aygıtı: 
+2. aygıtı: 
+D: 
+Процентилі: 
+Сигма: 
+Ölçüler 
+Кілт: 
+Фи: 
+ауқымы: 
+Төмегісі: 
+Yukarıda: 
+zaman келісімшілігі 
+Yoğunluk: 
+Хроматикалғы: 
+жарығы: 
+düz 
+контрастық табалдырығы: 
+Теңеуі: 
+2 
+4 
+Операторы: 
+Дайыны: 
+Düzenle 
+Tamam 
+& Kip 
+& Dosya 
+& Жазып Kopyala 
+Макро 
+Katman 
+Katman Efektleri 
+Seç 
+& Burgaç 
+Эллипсті çizer 
+Ölçüler 
+rastgele girinti: 
+filtreler Listesi 
+Қандайға ауыстыру: 
+гистограмма 
+Сүзгілер: 
+Тастар 
+Палитрасы 
+өлшегіш Dekorasyonu 
+& Көмекші Cetveli Göster 
+RGB 32- bit kayan nokta Kanal HDR Derleme için 
+RGB 32- bit kayan nokta Kanal HDR Derleme için 
+RGB 32- bit kayan nokta Kanal HDR Derleme için 
+XYZ 32- bit kayan nokta Kanal HDR Derleme için 
+YCbCr 16- bit tam Kanal 
+YCbCr 8- bit tam Kanal 
+Seç 
+önplan Rengi 
+Seçenekler 
+Қолмен çizer 
+kipi: 
+resmi Katman olarak & Al... 
+Қасиеттері... 
+resim Al 
+Katmanı Oluştur Hatası 
+resim Özellikleri 
+Монитордың & profili: 
+& Монитордың & profili: 
+Ayarlar 
+Genel 
+renk takip 
+Жылдамдылығы 
+Тор 
+Krita 
+Katman Özellikleri 
+filtre işlemi yeniden 
+bir değiştirici maskesi 
+Суретшінің Araç сандығы 
+Суретшінің материалдары 
+Fırça kitaplığı Düzenle 
+yeni Ayarları 
+& Көмекші Cetveli Göster 
+maskesinin - Seçim 
+maskesinin göre Katmanı Oluştur 
+Şeffaflık maskesi 
+yeni filtre maskesi 
+maskesinin - Seçim 
+maskesinin göre Katmanı Oluştur 
+Эффект қалқаның Özellikleri 
+filtre işlemi yeniden 
+filtre işlemi tekrarla:% 1 
+KOffice resim değiştirici uygulaması 
+c 1999- 2008 Krita тобы. 
+Adrian Page 
+alan Horkan 
+Bart Coppens 
+Boudewijn Rempt 
+Carsten Pfeiffer 
+Casper Boemann 
+Clarence Dang 
+Cyrille Berger 
+Dirk Schoenberger 
+Danny Allen 
+Emanuele Tamponi 
+Gábor Lehel 
+John Califf 
+Laurent Montel 
+Lukáš Tvrdý 
+Matthias Elter 
+Melchior Franz 
+Michael Koch 
+Michael Thaler 
+Patrick Julien 
+Roger Larsson 
+Sven Langkamp 
+Toshitaka Fujioka 
+Thomas Zander 
+Tom Burdick 
+Sander Koning 
+Andreas Lundin 
+Қалқаны Dikey Ayna Görüntüsü olarak 
+Қалқаны dikey işleç olarak 
+resmi & Birleştir 
+Altı қабатпен & Birleştir 
+& Сүзгілеу қабаты 
+Katmanı Resim olarak Kaydet... 
+Кескіннің yeniden geçerli қабатына Sığdır 
+Сүзгілеу қабатың Özellikleri 
+Генератор Katman Özellikleri 
+кескінге Katman қосылмайды. 
+Katman Hatası 
+yeni Filtreleme қабаты 
+% 1 yedek 
+Katmanı Ölçekle 
+Katmanı Kaydır 
+Katmanı Makasla 
+resim Birleştir 
+resmi & Birleştir 
+Katmanı Dışarıya Aktar 
+Перспектива ızgarası 
+Торына kullan 
+1x1 
+2x2 
+5x5 
+10x10 
+20x20 
+40x40 
+Iptc 
+% 1 палитра dosya yazılamadı. Bu salt- oku olarak белгіленген. 
+Палитрасы 
+yeni Paletini Ekle 
+İsim: 
+% 1 adresine кескіндердің экспорты başarısız 
+& Вебтегідей 
+& Монитордағыдай 
+Көрінетін 
+Pasif 
+өлшегіштерін göster 
+Өрнекпен Doldur 
+& Өрнектер 
+Градиенттер 
+Merkezden Çevreye 
+& Түсі 
+& Суретшінің Araç Çubuğu 
+Палитрасы 
+Düzenli 
+Өзіндік Düzenli 
+Тастар 
+& Araçlar 
+yeni Katman olarak ekle 
+yeni қабаттар olarak ekle 
+yeni құжатта Aç 
+yeni құжаттарда Aç 
+Paletini Düzenle... 
+Paletini Düzenle 
+Баптайтын Ayarları yok. 
+Сегментті Böl 
+Сегменттің dosyası oluştur 
+Сегментті Sil 
+& Yeni кескінге ekle 
+Sil 
+yeniden Seç 
+Таңдағанды yeni қабатқа Kopyala 
+Таңдағанды yeni қабатқа Kes 
+önplan Rengi ile Doldur 
+Bu arkaplan Rengi ile Doldur 
+Өрнекпен Doldur 
+Таңдағанды göster 
+Таңдағанды Gizle 
+Тегістеу... 
+Kes 
+орналастырған 
+Tümünü Seç 
+Temizle 
+Терістеу 
+Durma 
+шетін бәсеңдету... 
+seçim Yok 
+Профилі yok 
+% 1 
+Birleştirme kipi 
+geçersiz resim boyutu 
+Анонимизатор 
+Қолданған aracı için 
+Krita% 1 
+Taşı 
+Бірдейді sadece 
+Парасатты 
+filtre 
+dönüştürme қалқасының Ayarları 
+Эрмиттік 
+Блоктыthe gradient will be drawn bilinearly 
+çift doğrusal 
+Bell 
+Lanczos3 
+Mitchell 
+resim yeniden 
+yeniden Seç 
+Birleştirme kipi 
+Қасиет değişiklikleri 
+yukarı Taşı 
+Кескіннің Tipini Değiştir 
+Katmanı Taşı 
+Katmanı Sil 
+aşağı 
+Filtre Düzenle 
+Katmanı Ekle 
+Таңдаудан kaydetme 
+Matlık 
+Генераторды Düzenle 
+Düzenle 
+Көркем 
+Бұлдыр 
+renk 
+шетін Bul 
+Kabartma 
+Kazanç 
+Карта 
+öntanımlı 
+anahtar Döndür 
+arkaplan 
+% 1 қабаты 
+resmi Kırp 
+Қисықтың Boyutu 
+resmi Ölçekle 
+için, aşağıdaki қабатымен Birleştir 
+resim Birleştir 
+son ın kullandığı 
+Макросты çalıştır 
+daha Kopyala 
+KritaShape biçimi 
+resim Al 
+Aç 
+Başlangıç Tırnak dosya lar veya Bağlantı ler 
+smooth out the curves while drawing 
+Yumuşat 
+Көмекші: 
+Магнетизм: 
+Пикселдің genişliği 
+maskesinin 
+Pencere 
+Бұрыш 
+Бұрыш 
+қашықтық ауқымы: 
+KIvrımlı 
+қылқаламмен kenarlığı 
+ızgarasını düzenle 
+Katmanı Taşı 
+doğrusal салу. 
+қашықтық: 
+Açı: 
+Дәрежесі: a straight drawn line 
+çizim aracı 
+azami dikdörtgen çizer 
+Akıcı Doldur 
+Doldur 
+табалдырығы: 
+İfadeyi kullan 
+geçerli қабатпен Dönüştür 
+Таңдағанды tam Doldur 
+Эллипсті çizer 
+çizgi 
+gradyan 
+Қайталау: the gradient will be drawn with the color order reversed 
+Керіthe gradient will be drawn linearly 
+çift сызықтыthe gradient will be drawn radially 
+Радиалдыthe gradient will be drawn in a square around a centre 
+Конустыthe gradient will be drawn as a symmetric cone 
+конустық симметрияThe gradient will not repeat 
+ІлгеріThe gradient will repeat alternatingly 
+Кезектеп 
+Yumuşat табалдырығы: 
+Farklı bir matlığı: 
+қылқаламмен kenarlığı 
+Перспективасын değiştirici 
+Çokluçizgi 
+otomatik kip 
+kullanılabilir kipi 
+otomatik kip 
+Таңдауға 
+& Мысал aracı 
+Безье çizim aracı 
+Безье seçim aracı 
+doğrusal Seç 
+Seçenekler 
+Жұмыр Seç 
+Біртұтас bir bölge Seç 
+aygıtı: 
+azami dikdörtgen Seç 
+azami dikdörtgen bir bölge Seç 
+bir bir bölge Seç 
+Ұқсасын Seç 
+benzer renkleri seç 
+bir Seç 
+Katmanı ya da seçimin түрлердіру 
+Перспектива ızgarasını düzenle 
+Fırça boyutu 
+Chalk қылқаламы 
+dinamik Fırça 
+Kısmen 
+Fırça қалыпы 
+Sumi- e қылқаламы 
+Пиксел аэрографы 
+Пиксел қылқаламы 
+Пиксел Silici 
+boyama режіміduplicate paintbrush 
+dosyası oluştur 
+Пиксел қылқаламы 
+Сүзгілеу қылқаламы 
+Эксперименталдық Ayarları 
+dinamik Fırça 
+aralığı: 
+Fırça ұшы 
+Күңгірттеу 
+Көмескі 
+Жылдамдығы 
+zaman 
+değeri çizer 
+Дәреже 
+араластыру 
+Араластырғыш 
+Дәрежесі: 
+Автоқылқалам 
+Bu қылқаламдар 
+metin қылқаламы 
+Etkin 
+Seçenekler 
+Геометриялық Ayarları 
+Қисайған радиус 
+dinamik Fırça 
+dinamik Fırça 
+қылқаламмен kenarlığı 
+Matlık 
+Айқындылығы: 
+Dikey радиусы: 
+Дірілі: 
+renk aralığının 
+Блок yoğunluğunu ayarla 
+renk aralığının 
+Қандайға ауыстыру: 
+Пиксел Silici 
+Табалдырық 
+Қанықты 
+Әрбірде sor 
+Өзіндік Düzenli 
+Жұмыр Seç 
+Қисықты қылқаламы 
+Жарқылы 
+Float32 гистограмма 
+Ұзын Orta Қысқа LMS конустық кеңістік 
+LMS конустық alanı 32- bit kayan nokta Kanal 
+l 
+m 
+s 
+Альфа Kanalı 
+LMS конустық alanı 32- bit kayan nokta Kanal 
+LMS 32- bit kayan nokta Kanal 
+Ұзын 
+Orta 
+Қысқа 
+Horiz. Düzenle 
+Гауссиан göre бұлдырлау 
+& Гауссиан göre бұлдырлау 
+& Бұлдырлау... 
+Kübizm 
+& Кубизм... 
+Блок Boyutu 
+& Keskinleştir 
+üst шетін 
+sağ шетін 
+alt шетін 
+sol шетін 
+Keskinleştir 
+Бұрыштарды дөңгелету 
+& Köşeleri Yuvarla... 
+yarıçap Derece 
+& Кездейсоқ шуыл... 
+Noise 
+Жаңбыр тамшылары 
+& Жаңбыр тамшылары... 
+Тамшының Boyutu 
+sayısı 
+Балық көзділері 
+& Толқын... 
+Dalga 
+& Деңгейлер 
+resim Opak olarak 
+durum 
+Бұлдыр 
+& Оптиканы Yolu Düzleştir... 
+Оптиканы Düzenle 
+azami karşıtlık 
+& otomatik контрастық 
+Қанықсыздау 
+renk Düzeltme 
+& Horiz. Yolu Düzleştir... 
+otomatik контрастық 
+Қанықсыздау 
+Арнаны en Büyüt 
+Арнаны en & Küçült 
+Арнаны en Büyüt 
+Арнаны en Küçült 
+Табалдырық 
+pencere boyutu 
+rastgele шұқып Kopyala 
+& Кездейсоқ шұқып İndir... 
+Yumuşat maskesi 
+& Тегістеу қалқасы... 
+renk Aktarımı 
+& Түс тасымалдауы... 
+& Майбояу... smooth out the painting strokes the filter creates 
+Yumuşat 
+Yağlı boya 
+Тереңдігі 
+Pikselleştirme 
+& Пикселдеу... 
+Пикселдің genişliği 
+Пикселдің yüksekliği 
+Kabartma 
+& Бедер... 
+HDR қабаты 
+Геометриялық Ayarları 
+% 1 қабаты 
+Геометриялық Ayarları 
+arkaplan 
+Геометриялық Ayarları 
+& Saf түс... 
+Glsl resmi 
+Көлемдеп çizer 
+көлемдеуіш керек! yap 
+& OpenGL көлемдеуіш Filtrele... 
+OpenGL көлемдеуіш dil süzgeci 
+arkaplan 
+seçili maskesinin veya katmanın dosyası oluştur 
+öntanımlı 
+Katmanı tasarım 
+Katmanı құрастыру... 
+Katmanı tasarım 
+конфетти 
+Қайдан 
+Ашып Çalıştır... 
+tüm eylemleri kaydet 
+Макросты girdi başlat 
+eylemleri girdi Durdur 
+Таңдауыма ekle 
+Макросты çalıştır 
+Альфа koptu. Sıfırla 
+гистограмма 
+Палитралары 
+Қабаттары 
+küçük Görünüm 
+tam ekran 
+Нобайлы Görünüm 
+Görünüm Kipi 
+Katmanı & çizer 
+Katmanı & Grupla 
+& Егіз қабатын Oluştur 
+Қалып қабаты 
+Katmanı & сүзгілеу... 
+Құрылған қабат... 
+& Şeffaflık maskesi 
+filtre қалқасы... 
+dönüştürme қалқасы... 
+& Yerel Seçim 
+Қасиеттері... 
+Katmanı & İptal 
+maskesinin veya katmanın dosyası oluştur 
+& Эффект қалқасы... 
+küçük renk seçici 
+Палитраның түсерін араластыру 
+% 1: 
+Özel politikalar bu renk seçici 
+Үшбұрыш renk seçici 
+Кескіннің tipi & аудару... 
+katmanın tipi & аудару... 
+tüm қабаттарды daha ve al: 
+geçerli Katmanı daha ve al: 
+katmanın Tipini Dönüştür 
+32 Bit kayan nokta 
+16 Bit kayan nokta 
+Абсорбция 
+Шашырауы 
+KS% 1 motoru 
+Палитраның түсерін араластыру 
+yeni панорамалық Katman 
+панорамалық Katmanı Oluştur 
+панорамалық Katman 
+& Гистограмма... 
+resim қисайту... 
+Katmanı қисайту... 
+Katmanı Makasla 
+yeni olarak масштабтау... 
+Katmanı масштабтау... 
+Büyüt 
+katmanın Boyutu 
+Таңдауды Ölçekle 
+Көлеңкесін Ekle... 
+Gölgele 
+Көлеңкесін Ekle 
+& Түс ауқымы... 
+resmi & бұрау... rotate image 90 degrees to the right 
+sağa 90°rotate the layer 90 degrees to the left 
+180°rotate the layer 90 degrees to the right 
+sola 90° 
+Katmanı & бұрау... rotate the layer 180 degrees 
+çizgiler 
+Пикселдің genişliği 
+Yapıştırdelete this incidence 
+Шашырауы 
+& Yüzde: 
+the gradient will repeat alternatingly 
+Кезектеп 
+Бұрылыс 
+Кілт: 
+& Tip sütunu bağlı 
+Метадеректі Düzenle... 
+% 1 ifade bilinmeyen 
+% 1 қылқаламы bilinmeyen 
+geçersiz resim boyutu 
+% 1 & 
+Katmanı Oluştur Hatası 
+Kamera Eğer hesapla 
+Таңдауды Küçült 
+Таңдауды Büyüt 
+Өсіру 
+Жиыру 
+Durma 
+Шегін Seç 
+doğrusal Seç 
+Реңк düzeni 
+Icam 
+Reinhard 2. 
+Reinhard 05. 
+Ashikhmin 2. 
+Көмекші өлшегіш 
+düz 
+Көмекші өлшегіш aracı 
+шетін бәсеңдету 
+Таңдауды & масштабтау... 
+Таңдауды үлкейту... 
+Таңдауды кішірейту... 
+Шегін Seç... 
+Kısmi 
+Қандайға ауыстыру: 
+Қылқалам: 
+Minik 
+büyük 
+сыпырғыш 
+қылқаламды малу 
+Çin қылқаламы 
+Ekle 
+Değiştir 
+Қиылыс 
+İptal 
+KritaShape құралыstraigh line drawing tool 
+doğrusal kenarlığı 
+Өлшеу 
+Көмекші өлшегіш 
+GRAY Alpha16 гистограма 
+Gri 
+GRAY Alpha8 гистограмма 
+& Boyut 
+& Перспективасын değiştirici 
+ölçekleme Seçenekleri 
+Пиксел қарындашы 
+Бұрылыс 
+Büyüt 
+normal 
+Пиксел Seçimi 
+Вектор Seçimi 
+daha fazla... @ title: group 
+Блок Boyutu 
+etkin 
+Дірілі: 
+Ekle 
+Sil 
+Қасиеттері: 
+Özellikler yok 
+Минимумы: 
+Максимумы: 
+Шашырау 
+Саны: 
+Ana: 
+Қылшықтар 
+Бояуы: 
+normal 
+Fırça 
+dinamik Fırça 
+Мысал 
+yeniden 
+filtreler Listesi 
+Жаңа% 1 uygulaması 
+dinamik Fırça 
+Палитрасы 
+Glsl resmi 
+Katman мөлдірсіздігі 
+Табалдырық 
+ТүсКеңістігі 
+Палитраның трафареті 
+Çekim 
+Пигменттің қоюлығы 
+Boyut 
+Дымқылдығы 
+Өзіндік Fırça 
+katmanın Tipini Dönüştür 
+renk кеңістігі: 
+maskesinin 
+dönüştürme қалқасы... 
+& Yerel Seçim 
+қалқаның dosyası oluştur 
+Sil 
+& Göster@ info 
+en üste 
+& Генератор қабаты 
+Sil 
+geçerli Қабат 
+& Gizle 
+& Göster@ info 
+Float16 Yarı гистограмма 
+Таңдауды Sil 
+Таңдауды kenarlığı 
+Таңдағаның қылқаламмен kenarlığı 
+Fırça kümesi 
+Градиентті Seç 
+Қосатын Deseni Seç 
+Қосатын қылқаламды Seç 
+пайыздағы Boyutları 
+Келесі: 
+Seçimi қалқасы... 
+Қалқаны Sil 
+Қалқаны göster 
+Қалқаны yukarı 
+Қалқаны taşı 
+maskesinin Özellikleri 
+& Ekle... 
+örgüsünü göster 
+örgüsünü 
+kare қатынасы: 
+Түпнұсқасы: 
+daha seçin: 
+Түйіндер 
+kaynaklar 
+Hesaplar... 
+Айдарларын dahil 
+Araçlar 
+Alma 
+мазмұның Aktar 
+KPlate bu kaynak 
+Aktarma 
+boş olmayan hakkında bilgi Aktar 
+Araçlar 
+çeşitli Betikler 
+çevrimiçi Yardım 
+Мысалдар 
+KPlate betik kullan Örnekleri 
+Proje Bilgilerini Yazdır... 
+Proje bilgilerini yazdırma Python скрипттін bir 
+Кестенің adı 
+Кестелер 
+seçili tablo Aktar 
+Kaydet 
+tüm Dosyalar 
+hata 
+dosya seçilmedi 
+tablo yok 
+Aç 
+boş olmayan hakkında bilgi dosyadan мпорттау 
+aynı әлпетінің değişmez. жобасынан veri yükleme engellendi 
+kaynaklar Aktar 
+KPlate kaynaklar 
+bu belge аылмайды:% 1 
+Импоттайтын proje yok 
+Proje индентификаторлары aynı 
+sonraki kaynak grubunun kopyası құрылмайды:% 1 
+panoya kişi kaynak yok 
+sonraki kaynağın kopyası құрылмайды:% 1 
+alıcının takvim zaten екен:% 1 
+sonraki күнтізбенің yedek құрылмайды:% 1 
+değerleri Ayarla 
+Araçlar 
+betik 
+Alma 
+aktarılacak içeriği 
+CSV Dosyası 
+vCard dosyası 
+vCard dosyasından içeriye 
+Kexi 
+bir Kexi Proje dosyasından içeriye 
+Aktarma 
+aktarılacak içeriği 
+Үтірмен belirlediğiniz değerler CSV dosyaya aktar 
+bir Kexi Proje dosyaya aktar 
+HTML Dosyası 
+HTML dosyaya aktar 
+OdfPy Dosyası 
+EOpenDocument dosyaya aktar 
+Функциялар 
+R- Projesi 
+YFinance 
+YWeather 
+PyTime 
+PyRegExp 
+Araçlar 
+çeşitli Betikler 
+XML Gösterici 
+Orca дыбыстау 
+Orca экраннан Okuyucu 
+Günlük kaydı 
+Python konsolu 
+Ruby фрагменті 
+alıcının betik yok. 
+alıcının betik fonksiyonu yok. 
+döndürür yok. 
+betik 
+% 1 betik dosyası yok. 
+% 1 betik dosyası çalıştırılamadı 
+betik çalıştırma hatası 
+Sayfa 
+hücre 
+aralık 
+Araçlar 
+Alma 
+aktarılacak içeriği 
+metin veya HTML Dosyası 
+metin veya HTML dosyadan içeriğini aktarılacak Python betiği 
+doxygen XML 
+Құрастырылған doxygen XML dosyadan içeriğini aktarılacak Python betiği 
+için OpenOffice. org UNO 
+metin veya HTML dosyadan içeriğini aktarılacak Python betiği 
+Aktarma 
+aktarılacak içeriği 
+metin veya HTML dosya içeriğini aktarılacak Python betiği 
+ReportLab. org PDF 
+ReportLab. org kullanan PDF dosya içeriğini aktarılacak Python betiği 
+Araçlar 
+çeşitli Betikler 
+XML Gösterici 
+belge Ağacı 
+belge tasarımı ağaç көрісінде gösterilecek QtRuby betiği 
+çevrimiçi Yardım 
+değişken 
+KWord betik değişkenleri 
+Файдан okunuyor... 
+değişkeni dosyadan seyyar Python betiği 
+Мысалдар 
+KWord betik Örnekleri 
+Пішінді Ekle 
+Пішінді ендіретін Python betiği 
+Меңзерді Yönet... 
+Меңзерді nasıl hareketleriyle, gösteren Ruby betiği 
+Әрекетті Çalıştır... 
+Әрекетті kullanımını gösteren Python betiği 
+Araç әрекеті... 
+Araç işlemi kullanımını gösteren Python betiği 
+durum индиқаторы 
+durum göstergeyi kullanımını gösteren Python betiği 
+metin 
+metin motoru kullanımını gösteren Python betiği 
+HTML Listesi 
+HTML yi Dosyadan құруын gösteren Python betiği 
+pencerenin bir liste 
+pencerenin bir yi Dosyadan nasıl құруын gösteren Python betiği 
+Кестелер 
+Кестелермен nasıl çalışmayı gösteren Python betiği 
+Айнымалылармен nasıl çalışmayı gösteren Python betiği 
+tüm Biçimler 
+tüm пішідерді Ekle 
+& Ekle 
+Araçlar 
+resmi & сканерлеу... 
+tarama servisi yok 
+tarama eklentisi 
+Avustralya 
+доллар 
+Kanada 
+Кариб Adaları 
+yeni Zelanda 
+Birleşik Штаттар 
+Avusturya 
+еуро 
+Belçika 
+Kıbrıs 
+Finlandiya 
+Fransa 
+Almanya 
+Yunanistan 
+İrlanda 
+İtalya 
+Lüksemburg 
+Malta 
+Monako 
+Нидерланды 
+Portekiz 
+San Marino 
+Slovakya 
+Slovenya 
+İspanya 
+Birleşik Krallık 
+lb 
+Japonya 
+Йен 
+Afganistan 
+Ауғани 
+AFA 
+Ауғани 
+AFA 
+Arnavutluk 
+Лек 
+Cezayir 
+Cezayir динары 
+DZD 
+Amerikan Samoası 
+Amerikan доллары 
+USD 
+Andorra 
+EUR 
+Андорралық песета 
+ADP 
+Angola 
+Кванза 
+AOA 
+Anguilla 
+çıktı Карибия доллары 
+XCD 
+Antigua ve Barbuda 
+çıktı Карибия доллары 
+Arjantin 
+Аргентиналық песо 
+ARS 
+Ermenistan 
+Драм 
+AMD 
+Aruba 
+Aruba гульдені 
+AWG 
+Аустралиялық доллар 
+AUD 
+шиллинг 
+s 
+Azerbaycan 
+Манат 
+AZM 
+Bahama 
+Багам доллары 
+BSD 
+Bahreyn 
+Bahreyn динары 
+BHD 
+Bangladeş 
+Така 
+BDT 
+Barbados 
+Barbados доллары 
+BBD 
+beyaz Rusya 
+Беларус рублі 
+p. 
+Франк 
+BF 
+Belize 
+Belize доллары 
+BZ 
+Benin 
+CFA Franc BCEAO 
+XOF 
+Bermuda 
+Бермуд доллары 
+BMD 
+Bhutan 
+Индия рупиясы 
+INR 
+Нгултрум 
+BTN 
+Bolivya 
+Боливар 
+Bs 
+Мвдол 
+BOV 
+Bosna Hesek 
+Аудармалы марка 
+BAM 
+Botswana 
+Пула 
+BWP 
+Буве Adaları 
+Norveç кронасы 
+NOK 
+Brezilya 
+Brezilya риалы 
+r 
+Британияның Hint мұхиттағы жерлері 
+Brunei 
+Brunei доллары 
+Bulgaristan 
+Лев 
+BGL 
+Болғар леві 
+BGN 
+Burkina Faso 
+Burundi 
+Burundi франкы 
+BIF 
+Kamboçya 
+Риел 
+KHR 
+Kamerun 
+CFA Franc BEAC 
+XAF 
+Kanada доллары 
+CAD 
+Cape Verde 
+Cape Verde эскудосы 
+CVE 
+Cayman Adaları 
+Cayman of_ Man доллары 
+KYD 
+orta Afrika Cumhuriyeti 
+Chad 
+Şili 
+Şili песосы 
+Ch 
+Unidades de fomento 
+CLF 
+Çin 
+Юань 
+CNY 
+Yılbaşı of_ Man 
+Keeling Adaları 
+Kolombiya 
+Kolombiya песосы 
+c 
+Komoros 
+Комор франкы 
+KMF 
+Kongo 
+Kongo Демократикалық Cumhuriyeti 
+Kongo франкы 
+CDF 
+Cook а- лы 
+yeni Zelanda доллары 
+NZD 
+Kosta Rika 
+Kosta Rika колоны 
+c 
+Ivory Coast 
+Hırvatistan 
+Hırvatça кунасы 
+kn 
+Küba 
+Küba песосы 
+cup 
+Kıbrıs фунты 
+CYP 
+Çek Cumhuriyeti 
+Çek кронасы 
+Kc 
+Danimarka 
+Danimarka кронасы 
+kr 
+Djibouti 
+Djibouti франкы 
+DJF 
+Dominik 
+RD 
+Доменикан республикасы 
+Доменикан песосы 
+DOP 
+çıktı Тимор 
+Тимор эскудосы 
+TPE 
+Экуадор 
+Mısır 
+Египет фунты 
+EGP 
+el Salvador 
+el Salvador колоны 
+Ekvatoral Gine 
+Eritre 
+Накфа 
+ERN 
+Estonya 
+Estonya кронасы 
+Etyopya 
+Эфиоп бирр 
+ETB 
+Фолькленд Мальвин а- лы 
+Фолькленд аралының фунты 
+FKP 
+Faroe Adaları 
+Fiji 
+Fiji доллары 
+FJD 
+Маркка 
+mk 
+F 
+Fransız Гуиана 
+Fransız Polinezyası 
+CFP франкы 
+XPF 
+Fransız Güney жерлері 
+Gabon 
+Gambiya 
+Даласи 
+GMD 
+Gürcistan 
+Лари 
+GEL 
+Almanya маркасы 
+DM 
+Gana 
+Седи 
+GHC 
+Gibraltar 
+Gibraltar фунты 
+GIP 
+Драхма 
+GRD 
+Grönland 
+DKK 
+Grenada 
+Гваделупа 
+Guam 
+Guatemala 
+Куецал 
+Q 
+Gine 
+Gine франкы 
+GNF 
+Gine- Bissau 
+Gine- Bissau песосы 
+GWP 
+Guyana 
+Guyana доллары 
+GYD 
+Haiti 
+Гурд 
+HTG 
+Херд ve Макдоналд Adaları 
+Vatikan 
+Honduras 
+Лемпира 
+l 
+Hong Kong 
+Hong Kong доллары 
+HKD 
+Macaristan 
+Форинт 
+ft 
+yeniden Yükle@ title: group Print settings 
+yeniden Yükle@ title: group Print settings кронасы 
+kr. 
+Hindistan 
+Endonezya 
+Рупия 
+Rp 
+İran 
+İran риалы 
+IRR 
+Irak 
+Irak динары 
+IQD 
+lb 
+IR ---- 
+Пенс 
+IEX 
+İsrail 
+Шекель 
+ILS 
+Лира 
+L. 
+Jamaica 
+Jamaica доллары 
+J 
+JPY 
+Ürdün 
+Иондания динары 
+JOD 
+Kazakistan 
+Теңге 
+KZT 
+Kenya 
+Kenya шиллинг 
+KES 
+Kiribati 
+Kore 
+Kuzey Корея воны 
+KPW 
+Корея Cumhuriyeti 
+Вон 
+KRW 
+Kuveyt 
+Kuveyt динары 
+KWD 
+Kırgızistan 
+Сом 
+KGS 
+Laos 
+Кип 
+LAK 
+Letonya 
+Лат 
+Ls 
+Lübnan 
+Lübnan фунты 
+LBP 
+Lesoto 
+Ранд 
+ZAR 
+Лоти 
+LSL 
+Liberya 
+Liberya доллары 
+LRD 
+Libya 
+Libya динары 
+LYD 
+Liechtenstein 
+Швецария франкы 
+CHF 
+Litvanya 
+Litvanya литі 
+Lt 
+Macau 
+Патака 
+MOP 
+Македония 
+Македония динары 
+MKD 
+Madagaskar 
+Madagaskar франкы 
+MGF 
+Malavi 
+Куача 
+MWK 
+Malezya 
+Malezya ринггиті 
+MYR 
+Maldivler 
+Мальдив рупиясы 
+MVR 
+Mali 
+EURO 
+Malta лирасы 
+MTL 
+Marshall Adaları 
+Martinik 
+Moritanya 
+Угия 
+MRO 
+Mauritus 
+Mauritus рупиясы 
+MUR 
+Майотте 
+Meksika 
+Meksika песосы 
+MXN 
+Мексиканың Unidad de Inversion UDI 
+MXV 
+Mikronezya Federal Devletleri 
+Moldova 
+Moldova лейі 
+MDL 
+Moğolistan 
+Тугрик 
+MNT 
+Montserrat 
+Fas 
+Fas дирхамы 
+MAD 
+Mozambik 
+Метикал 
+MZM 
+Myanmar 
+Кият 
+MMK 
+Namibya 
+Namibya доллары 
+NAD 
+Nauru 
+Nepal 
+Nepal рупиясы 
+NPR 
+Гульден 
+fl 
+Hollanda Антил Adaları 
+Hollanda Антил гульдені 
+ang 
+yeni Kaledonya 
+Nikaragua 
+Cordoba оро 
+NIO 
+Nijer 
+Nijerya 
+Наура 
+NGN 
+Niue 
+Norfolk Adaları 
+Kuzey Mariana Adaları 
+Norveç 
+Umman 
+Umman риалы 
+OMR 
+Pakistan 
+Pakistan рупиясы 
+PKR 
+Palau 
+Panama 
+Балбоа 
+PAB 
+Papua Yeni Gine 
+Кина 
+PGK 
+Paraguay 
+Гуарани 
+g 
+Peru 
+Нуево sol 
+PEN 
+Filipinler 
+Filipinler песосы 
+PHP 
+Pitcairn Adaları 
+Polonya 
+Злотый 
+zt 
+Эскудо 
+Esc. 
+Porto Riko 
+istemiyorsanız, 
+mesela риалы 
+QAR 
+Romanya 
+Лей 
+LEI 
+Rusya 
+Rusya рублі 
+RUR 
+RUB 
+Ruanda 
+Ruanda франкы 
+RWF 
+Saint Helena ар. 
+Saint Helena ар. фунты 
+SHP 
+St. Kitts ve Nevis 
+St. Lucia 
+Saint Pierre ve Miquelon 
+St. Vincent ve Grenadines 
+Samoa 
+Тала 
+WST 
+Sao Tome ve Principe 
+Добра 
+STD 
+Suudi Arabistan 
+Сауди риал 
+SAR 
+Senegal 
+Seyeller 
+Сейшел рупиясы 
+SCR 
+Sierra Leone 
+Leone 
+SLL 
+Singapur 
+Singapur доллары 
+SGD 
+Словак кронасы 
+Sk 
+Толар 
+SIT 
+Solomon Adaları 
+Solomon ар- için доллары 
+SBD 
+Somali 
+Somali шиллингі 
+SOS 
+Güney Afrika 
+r 
+песета 
+Pts 
+Sri Lanka 
+Sri Lanka рупиясы 
+LKR 
+Sudan 
+Судпн динары 
+SDD 
+Surinam 
+Surinam гульдені 
+SRG 
+Свалбард ve Ян Mayen 
+Swaziland 
+Лилангени 
+SZL 
+İsveç 
+İsveççe кронасы 
+İsviçre 
+SFr. 
+Suriye 
+Suriye фунты 
+SYP 
+Tayvan Çin 
+yeni Tayvan доллары 
+TWD 
+Tacikistan 
+Сомони 
+TJS 
+Tanzanya 
+Tanzanya шиллинг 
+TZS 
+Tayland 
+Бат 
+THB 
+Togo 
+Токелау 
+Tonga 
+Паанга 
+TOP 
+Trinidad ve Tobago 
+Trinidad ve Tobago доллары 
+TT 
+Tunus 
+Tunus динары 
+TND 
+Turkey 
+Türkiye лирасы 
+TL 
+Türkmenistan 
+Манат 
+TMM 
+Turks ve Caicos Adaları 
+Tuvalu 
+Uganda 
+Uganda шиллингі 
+UGX 
+Ukrayna 
+Гривна 
+UAH 
+Біріккен Arap Emirlikleri 
+БАӘ дирхамы 
+AED 
+Стерлинг фунты 
+GBP 
+Amerikan доллары sonraki içerisinde 
+USN 
+Amerikan доллары sol içerisinde 
+USS 
+Uruguay 
+Uruguay песосы 
+NU 
+Özbekistan 
+Сум 
+UZS 
+Vanuatu 
+Вату 
+VUV 
+Venezuella 
+Боливар 
+Vietnam 
+Донг 
+VND 
+Virgin Adaları 
+Wallis ve Футуна 
+Batı Сахара 
+Yemen 
+Yemen риалы 
+YER 
+Yugoslavya 
+Yugoslavya динары 
+YUM 
+Zambiya 
+ZMK 
+Zimbabwe 
+Zimbabwe доллары 
+ZWD 
+metin 
+tamsayı 1; 132; 2344 gibi 
+mantıksal değer TRUE veya FALSE değeri 
+kayan nokta değeri 1. 3; 0. 343; 253 gibi 
+herhangi bir değer 
+metin satır қатары 
+tam değerleri қатары 1; 132; 2344 gibi 
+ise қатары TRUE veya FALSE değeri 
+Жыжымалы nokta değerleri қатары 1. 3; 0. 343; 253 gibi 
+herhangi bir değerler қатары 
+Қайтаратын tipi:% 1 
+Синтаксисі 
+Seçenekler 
+Түсініктемесі:% 1 
+Tip:% 1 
+Örnekleri 
+yakın Fonksiyonları 
+Бет% 1 
+bu құжатта sayfa Yaprakları yok. 
+& Dosya 
+& Düzen 
+& Толтыру 
+Temizle 
+Sil 
+& Görünüm 
+& Ekle 
+bir dış veri 
+biçim 
+hücre Birleştir 
+& Satır 
+& Çubuk 
+& Sayfa 
+Ауқымын & Aç 
+& Veri 
+filtre 
+& Araçlar 
+& Ayarlar 
+Düzenle 
+Taşıma 
+yazı 
+Пішін 
+renk ШегіNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+veritabanı seçici 
+veri Alanı 
+Аумақ: 
+İlk satır - атаулар 
+İlk sütun - атаулар 
+Tarih Biçimi 
+veri setleri 
+veri Sütunlar 
+Қарап Çık 
+zaman 
+tarih 
+ondalık 
+Para 
+Para 
+yüzde 
+Genel 
+değer 
+tarih 
+Para: 
+Biçim: 
+Жалғауы: 
+Дәлділігі: 
+Önek: 
+Өзгертпей Koru 
+Roman 
+Yatık 
+normal 
+Kalın 
+rengi: 
+Altı çizili 
+Boyut: 
+Қалыңдығы: 
+Biçim: 
+üzeri Çizili 
+Көлденеңінен 
+standart 
+sol 
+orta 
+sağ 
+Dikey 
+yukarı 
+orta 
+aşağı 
+Бұрылыс 
+° 
+metin Ayarları 
+Тасымалдау 
+Dikey Yaz 
+шегінісі 
+hücre Birleştir 
+Ұяшықтың Boyutu 
+öntanımlı yükseklik % 1 
+Yükseklik: 
+Ұяшықтың биіктігін ayarlar. 
+öntanımlı genişlik % 1 
+Genişlik: 
+yazdırma 
+& doğrudan шығармау 
+Қорғау 
+Tümünü & gizle 
+güvenli 
+формуласын Gizle 
+İçeriği 
+Tümünü 
+Түсініктемесін 
+değiştiğini 
+Tümünü шектерісіз 
+Eylem 
+üzerine Yaz 
+Ekle 
+azalması 
+Çarpma 
+Böl 
+son 
+Қортындыны buraya қосу: 
+kullanılacak функция: 
+келесінің her өзгерісінде: 
+Sütunlar 
+Seçenekler 
+Кезектегі қортыдыны & Değiştir 
+Gruplar arasında & sayfa үзілсін 
+Деректерден sonra қортындысы kullan 
+son sadece 
+tüm қарағанда boş ұяшықтар & yoksay 
+dosya Ayarları 
+Автосақтау aralığı мин: 
+Автосақтау kapat 
+dk 
+yedekleme dosyaları oluştur 
+бірлігі: 
+Шегініс genişliği: 
+renk 
+Торы: 
+Өзгеше... 
+Sayfa шеттері: 
+yazdırma ayarları 
+ızgarası 
+çoklu bu 
+grafikler 
+nesneler 
+sıfır değerleri 
+Суреттер 
+Başlıklar 
+Парақтар Sırası 
+көлденеңнен ortala 
+Dikey ortala 
+- 
+Масштабы 
+Sayfa sınırları: 
+SheetPropertiesBase 
+Konum yönü: 
+солдан sağ 
+оңнан Sola 
+çoklu bu kullan 
+& LC kipi 
+Sayfanın & bu göster 
+İlk büyük kullan 
+& Нөл gizle 
+& Формуласы göster 
+Sütunlar@ item: inmenu & нөмірлеп göster 
+Формула & Eğer kullan 
+& Тор göster 
+& Otomatik есептелсін 
+tüm Sayfalar 
+Etkin Kimliği 
+seçili Sayfalar 
+şu Sayfalar 
+bir Беттер 
+seçili беттерді 
+tüm беттерді Seç 
+seçili беттерді yukarı yazdır 
+беттерді Seç 
+seçili беттерді yukarı 
+беттерді İptal 
+seçili беттерді aşağı indir 
+Таңдаудан iptal 
+seçili беттерді taşı 
+Тәуелдік 
+Kes 
+bu geçerli belge değil. Sayfa adı yok. 
+güvenli sayfayı değiştirebilirsiniz. алмайсыз and 
+Sayfa 
+Sayfalar 
+dosya 
+İsim 
+saat 
+tarih 
+yazar 
+e- posta 
+ұйымы 
+Sayfa 
+Başlık 
+Айдар1 
+öntanımlı 
+True 
+FalseError: circular formula dependency 
+# ТҰЙЫҚ! Error: broken cell reference 
+# ТӘУЕЛДІК! Error: division by zero 
+# БӨЛУ 0! Error: not available 
+# N ЖError: unknown function name 
+# АТАУ? Error: number out of range 
+# САН! Error: empty intersecting area 
+# НӨЛ! Error: formula not parseable 
+# ТАЛДАУ! Error: invalid cell array reference 
+# СІЛ! Error: wrong number of function argument s 
+# МӘН! 
+pm 
+ÖÖ 
+saat 
+dk 
+sn 
+True 
+False değerini gönderir 
+pm 
+am 
+bit İşlemleri 
+İlk Sayı 
+İkinci Sayı 
+BITAND işlevi, iki tam efekt bit Ve амалын жасайды. 
+BITAND değer; değer 
+BITLSHIFT işlevi, ilk efekt bit Sola bit kaydırma амалын жасайды. Канша биттерге ығыстыруын ikinci değer belirler. Bu seçenek negatif değer ise Sola bit kaydırma işlemi Sağa bit kaydırma kalitesiz 
+BITRSHIFT işlevi, ilk efekt bit Sağa bit kaydırma амалын жасайды. Канша биттерге ығыстыруын ikinci değer belirler. Bu seçenek negatif değer ise sağ bit kaydırma işlemi Sola bit kaydırma kalitesiz 
+BITOR işlevi, iki tam efekt bit OR амалын жасайды. 
+BITOR değer; değer 
+BITXOR işlevi, iki tam efekt bit XOR амалын жасайды. 
+BITXOR değer; değer 
+Döndür 
+KDe çeviri mantıksal değer 
+BOOL2STRING işlevi, mantıksal değerler metine biçimi bu mantıksal değişkeninin değeri metin olarak size функцияларға için değiştirici 
+BOOL2STRING değer 
+BOOL2STRING true, bir satır True değerini gönderir 
+BOOL2STRING false değerini gönderir bir satır False değerini gönderir 
+upper BOOL2STRING FIND аман; olabilir. TRUE değerini gönderir 
+Аударылатын tamsayı 
+INT2BOOL işlevi, tam bir mantıksal мәнге ve Bu değeri değişkeni mantıksal değer olarak size функцияларға için түрлендіру. Sadece 0 veya 1 сандарын қабылдайды. Өзге sisteme döndürür - false. 
+INT2BOOL değer 
+INT2BOOL true, 1 değerini gönderir 
+INT2BOOL 0 döndürür false 
+or INT2BOOL 1; true false değerini gönderir 
+BOOL2INT işlevi, mantıksal seçerek tam санға ve Bu mantıksal seçerek tamsayı olarak size функцияларға için түрлендіру. 
+BOOL2INT değer 
+BOOL2INT True değerini gönderir 
+BOOL2INT False değerini gönderir 0 değerini gönderir 
+metin dizgisinde KDe çeviri sayı 
+NUM2STRING işlevi, bir metin dizgisinde ve sağlar. Айтпақшы, için KSpread bu içerisinde bir metin karakter çubuğuna otomatik ve shift bu fonksiyon saklamak ve bunun 
+NUM2STRING değer 
+NUM2STRING 10 10 değerini gönderir 
+NUM2STRING 2. 05. 2, 05. değerini gönderir 
+=find 101; NUM2STRING A1 A1 = 2. 010102 True değerini gönderir 
+string işlevi, bir metin dizgisinde ve sağlar. Дәл NUM2STRING функциясындай. 
+KDe çeviri bir karakter oluşan satır 
+CHARTOASCII işlevi verilen karakter ASCII kod gönderir. 
+CHARTOASCII değer 
+CHARTOASCII v 118 değerini gönderir 
+CHARTOASCII r olarak yazma bir Beklenmeyen çift тырнақшаларда gerekecek. 
+KDe çeviri ASCII kodu 
+ASCIITOCHAR işlevi, verilen ASCII кодтар қатарына gelen karakter parola döndürür 
+ASCIITOCHAR değer 
+ASCIITOCHAR 118 v değerini gönderir 
+ASCIITOCHAR 75; 68; 69 döndürür KDE 
+x konumu 
+y konumu 
+POLR işlevi, verilen тікбұрышты Kartezyen координаттарға сйкесті радиусының ұзындығын gönderir. 
+POLR X; Y 
+POLR 12; 12 16. 9705 değerini gönderir 
+POLR 12; 0 döndürür 12 
+POLA işlevi, verilen тікбұрышты Kartezyen координаттарға gelen радиусының radyan açıyı gönderir. 
+POLA X; Y 
+POLA 12; 12 0. 78539816 
+POLA 12; 0 0 değerini gönderir 
+POLA dan 12 değerini gönderir 1. 5707 değerini gönderir 
+радиус 
+Бұрыш radyan 
+CARX işlevi, verilen полярлық координаттардың X бойлығын gönderir. 
+CARX Радиус; Бұрыш 
+CARX 12; 1. 5707 değerini gönderir 0. 00115592 
+CARX 12; 0 döndürür 12 
+değer 
+DECSEX işlevi, kayan nokta bir zaman белгісіне biçimi 
+DECSEX çift 
+DECSEX 1. 6668 1: 40 değerini gönderir 
+DECSEX 7, 8 7: 47 değerini gönderir 
+saat 
+dakika 
+saniye 
+SEXDEC işlevi kayan nokta bir gönderir. Zamanı сағат, минут, секундтарын ayrı veya zaman bu girebilirsiniz seçebilirsiniz. 
+SEXDEC zaman bu veya SEXDEC kilometre; минут; saniye 
+SEXDEC 1; 5; 7, 1. 0852778 
+DECSEX 8: 05. 8, 08333333 değerini gönderir 
+CARY işlevi, verilen полярлық координаттардың Y бойлығын gönderir. 
+CARY Радиус; Бұрыш 
+CARY 12; 1. 5707 değerini gönderir 12 değerini gönderir 
+CARY 12; 0 0 değerini gönderir 
+ROMAN işlevi, bir римдік tarzı санға biçimi Сан negatif olmayan ve tam olmalıdır. Diğer Biçimlendirme Bağımsız қысқалық seviyesini анықтайды, fakat girilmediyse öntanımlı seviyesi 0. 
+ROMAN Sayı 
+ROMAN 99 XCIX değerini gönderir 
+ROMAN - 55 Err değerini gönderir 
+Рим_ sayısı 
+ARABIC işlevi, Римдік bir normal араб türünde biçimi 
+ARABIC Рим_ sayısı 
+ARABIC IV döndürür 4 
+ARABIC XCIX 99 değerini gönderir 
+veri базасы 
+veritabanı şekilde aralık 
+veritabanı sütun bu 
+Шартын şekilde aralık 
+Durum жинағы анықтаған veritabanı бағандағы adet verinin қосындысы. 
+DSUM Дерек_ Қоры; Айдар; İçerik 
+DSUM A1: C5; Айлық; A9: A11 
+bir Durum topluluk анықтаған veritabanı бағандағы adet verinin ortalama 
+DAVERAGE Дерек_ Қоры; Айдар; İçerik 
+DAVERAGE A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы sayısı bir ұяшықтарын есептеу. 
+DCOUNT Дерек_ Қоры; Айдар; İçerik 
+DCOUNT A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы Sayılar veya Alfanümerik tarafından kullanılabilir ұяшықтарын есептеу. 
+DCOUNTA Дерек_ Қоры; Айдар; İçerik 
+DCOUNTA A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы bir gönderir. Сан ise veya bu bir tane hata gönderir. 
+DGET Дерек_ Қоры; Айдар; İçerik 
+DGET A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы en büyük gönderir. 
+DMAX Дерек_ Қоры; Айдар; İçerik 
+DMAX A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы en küçük gönderir. 
+DMIN Дерек_ Қоры; Айдар; İçerik 
+DMIN A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы adet verinin bir Ailenin Çarpma değiştiğini gönderir. 
+DPRODUCT Дерек_ Қоры; Айдар; İçerik 
+DPRODUCT A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы tüm değer ise içindeki değerlerin bir örnek içindeki değerlerin örnekteki ölçünlü standart ауытқуын gönderir. 
+DSTDEV Дерек_ Қоры; Айдар; İçerik 
+DSTDEV A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы tüm değer ise göre есептелген genel örnekteki ölçünlü standart ауытқуын gönderir. 
+DSTDEVP Дерек_ Қоры; Айдар; İçerik 
+DSTDEVP A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы tüm değer ise içindeki değerlerin örnekteki bir örnek içindeki değerlerin varyansını hesaplar. 
+DVAR Дерек_ Қоры; Айдар; İçerik 
+DVAR A1: C5; Айлық; A9: A11 
+Durum жинағы анықтаған veritabanı бағандағы tüm değer ise göre есептелген genel örnekteki varyansını hesaplar. 
+DVARP Дерек_ Қоры; Айдар; İçerik 
+DVARP A1: C5; Айлық; A9: A11 
+Birleşik кестесінің Alanı 
+tarih 
+Yöntemi seçimlik 
+WEEKDAY işlevi, bir gün аптадағы ретін gönderir. Әдісі 1 öntanımlı Kutlama WEEKDAY жексенбіге 1. дүйсенбіге 2,... gönderir. Әдісін 2 olarak kullanılmışsa дүйсенбіге 1. сейсінбіге 2,... gönderir. Әдісі 3 üzerinde дүйсенбіге 0. сейсінбіге 1,... gönderir. 
+WEEKDAY күн; әдіс 
+WEEKDAY 2002- 02- 22; 2 5 değerini gönderir 
+күн1 
+Күн2 
+Yöntemi 
+DAYS360 işlevi айда 30 gün olarak есептелген 360 gün takvim göre Күн1 ve Күн2 arasında kaç gün екенді санап gönderir. Eğer yöntem false öntanımlı Kutlama olarak kullanılmışsa Amerikan u hesaba katılır. Eğer TRUE değeri taşıyorsa aksi Еуропалық yöntemi kullanılır. 
+DAYS360 күн1; күн2; Yöntemi 
+DAYS360 22. 02. 2002; 21. 04. 2002; FALSE değeri 59 değerini gönderir 
+TIMEVALUE işlevi, verilen zamana gelen тәуліктің 0 ile 1 arasında bir ilgili gösterir. 
+TIMEVALUE zaman 
+TIMEVALUE 10: 05: 2. 0. 42 
+DATEVALUE işlevi gün ретін көрсететін, olan 1899 ж. 31. желтоқсанынан Arşivlenmiş tarihi gönderir. 
+DATEVALUE tarih 
+DATEVALUE 22. 02. 2002 37309 değerini gönderir 
+Ayları sayısı 
+EDATE işlevi, verilen күнінен gösterilen Ayları санына алшақты tarihi gönderir. 
+EDATE күн; айлар_ sayısı 
+EDATE 22. 022. 2002; 3, 22. 05. 2002 değerini gönderir 
+EDATE 31. 03. 2002; - 1, 28. 02. 2002 
+EOMONTH işlevi, bir gün gösterilen Ayları санына алшақты ayın son gününü verir. 
+EOMONTH күні; айлар_ sayısı 
+EOMONTH 22. 02. 2002; 3, 31. 05. 2002 değerini gönderir 
+EOMONTH değeri 03. 2002; - 1, 28. 02. 2002 
+EOMONTH değeri 03. 2002; 0 31. 03. 2002 değerini gönderir 
+year işlevi, verilen gün жылын gönderir. Параметрі girilmediyse биылғы жылды gönderir. 
+year tarih 
+year 22. 2002 02. 2002 değerini gönderir 
+year 2323, 1285 1906 değerini gönderir 
+YYYY işlevi, bir gün ayın gönderir. Параметрі girilmediyse geçerli Ay gönderir. 
+YYYY tarih 
+YYYY 22. 02. 2002 2 değerini gönderir 
+YYYY 2323, 1285 5 değerini gönderir 
+DAY işlevi, bir gün gönderir. Параметрі girilmediyse бүгінгі gün gönderir. 
+DAY tarih 
+DAY 22. 02. 22 2002 değerini gönderir 
+DAY 2323, 1285 döndürür 11 
+HOUR işlevi, verilen zamanı saatini gönderir. Параметрі girilmediyse geçerli сағаттың gönderir. 
+HOUR zaman 
+HOUR zamanı: 22: 10: 12 22 değerini gönderir 
+HOUR 0. 1285 3 değerini gönderir 
+MINUTE işlevi, verilen zamanı минутын gönderir. Параметрі girilmediyse geçerli минуттың gönderir. 
+MINUTE zaman 
+MINUTE zamanı: 22: 10: 12 değerini gönderir 10 
+MINUTE 0. 1234 57 değerini gönderir 
+SECOND işlevi, verilen zamanı saniye alanlarına tıklayınız. Bu ögelerin değerlerini gönderir. Параметрі girilmediyse geçerli секундтың gönderir. 
+SECOND zaman 
+SECOND zamanı: 22: 10: 12 değerini gönderir 12 
+SECOND 1234 0. 42 değerini gönderir 
+İlk tarih алдыңғысы 
+İkinci tarih 
+hesapla yöntemi 
+WEEKS işlevi, iki gün arasındaki апталар gönderir. Үшінші değer hesapla тәсілі: bu 0 ise WEEKS arasındaki tam жетікүндіктер gönderir. Eğer yöntemi 1 ile değiştirilirse arasındaki sadece düz дүйсенбі- жексенбі апталар gönderir. 
+WEEKS күн2; күн1; program 
+WEEKS 18. 02. 2002; 26. 02. 2002; 1. 0 değerini gönderir çünkü arasında bir gün ve 1 tarih bir 
+WEEKS 19. 02. 2002; 19. 02. 2002; 1 0. çünkü arasında düz дүйсенбіден басталып жексенбімен аяқталатын Hafta yok 
+MONTHS işlevi, iki gün arasındaki Ayları gönderir. Үшінші değer hesapla тәсілі: bu 0 ise, MONTHS günde Maksimum Temelli Ayları gönderir. Eğer yöntemi 1 ile değiştirilirse arasındaki sadece düz Ayları gönderir. 
+MONTHS күн2; күн1; program 
+MONTHS 18. 01. 2002; 26. 02. 2002; 1. 0 değerini gönderir çünkü arasında 1 ay ve 8 gün bir 
+MONTHS 19. 01. 2002; 26. 02. 2002; 1 0. çünkü arasında ilk tarihten başlayan düz Ay yok 
+YEARS işlevi, iki gün arasındaki жылдар gönderir. Үшінші değer hesapla тәсілі: bu 0 ise, YEARS günde Maksimum Temelli жылдар gönderir. Eğer yöntemi 1 ile değiştirilirse arasındaki sadece düz 1 қантардан 31. желтоқсанға genişliği жылдар gönderir. 
+YEARS күн2; күн1; program 
+YEARS 19. 02. 2001; 26. 02. 2002; 1. 0 değerini gönderir çünkü arasında bir yıl ve 7 gün bir 
+YEARS 19. 02. 2001; 26. 02. 2002; 1 0. çünkü arasında ilk tarihten başlayan düz yıl yok 
+days işlevi, iki gün bir kaç gönderir. 
+days күн2; күн1 
+days 22. 02. 2002; 4 26. 02. 2002 değerini gönderir 
+yıl 
+her 
+tarih 
+DAYOFYEAR işlevi gün жылдын басынан tarafından Hesaplandı numarası döndürür 1... 365. 
+DAYOFYEAR жыл; ай; tarih 
+DAYOFYEAR 2000; 12; 1, 336 değerini gönderir 
+DAYOFYEAR 2000; 2; 29 değerine eşittir 60 değerini gönderir 
+date işlevi yerel dosya biçimindeki bir tarihi gönderir. 
+date жыл; ай; tarih 
+date 2000; 5; 25 25. 05. 2000 değerini gönderir 
+time işlevi, bir yerel dosya biçimindeki bir zaman gönderir. 
+time kilometre; минут; saniye 
+time 10; 2; 2, 10: 02: 2. değerini gönderir 
+time 10; 70; 0 11: 10: 0 değerini gönderir 
+time 10; - 40; 0 9: 20: 0 değerini gönderir 
+hours işlevi, zaman өрнегіндегі saat gönderir. 
+hours zaman 
+hours 10: 5: 2, 10 değerini gönderir 
+bir yıl artık ise ISLEAPYEAR True. değerini gönderir 
+ISLEAPYEAR yıl 
+ISLEAPYEAR 2000 True değerini gönderir 
+DAYSINMONTH işlevi, verilen bu ayın Günler gönderir. 
+DAYSINMONTH жыл; her 
+DAYSINMONTH 2000; 2, 29 değerine eşittir değerini gönderir 
+DAYSINYEAR işlevi, verilen bu Günler gönderir. 
+DAYSINYEAR yıl 
+DAYSINYEAR 2000 366 değerini gönderir 
+WEEKSINYEAR işlevi, verilen bu апталар gönderir. 
+WEEKSINYEAR yıl 
+WEEKSINYEAR 2000 52 değerini gönderir 
+minutes işlevi, zaman өрнегіндегі dakika gönderir. 
+minutes zaman 
+minutes 10: 5: 2, 5 değerini gönderir 
+SECONDS işlevi, zaman өрнегіндегі saniye gönderir. 
+SECONDS zaman 
+SECONDS 10: 5: 2, 2 değerini gönderir 
+gün аптадағы numarası 1.. 7 
+DAYNAME işlevi bir gün аптадағы kişisine 1.. 7 gelen gün adını gönderir. Bazı елдерде haftanın ilk günü Дүйсенбі, кейбірлерде - Жексенбі. 
+DAYNAME апта_ tarih 
+DAYNAME 1, Pazartesi Hafta Дүйенбіден kaynaklanan 
+Ay numarası 1.. 12 
+MONTHNAME işlevi, verilen Ay kişisine 1... 12 gelen her bir gönderir. 
+MONTHNAME numara 
+May MONTHNAME 5 değerini gönderir 
+CURRENTDATE işlevi бүгінгі tarihi gönderir. Bu TODAY функциясының баламасы. 
+CURRENTDATE 
+CURRENTDATE 24. 11. 2007 değerini gönderir 
+TODAY fonksiyonu бүгінгі tarihi gönderir. 
+TODAY 
+24. 11. 2007 TODAY değerini gönderir 
+NOW işlevi güncel tarihi ve zaman gönderir. Bu CURRENTDATETIME функциясымен бірдей, bir қолданбалармен Uyumluluğu kullan olarak енгізілген. 
+NOW 
+NOW döndürür durum 24 Kasım 2007 19: 12: 01 
+CURRENTDATETIME işlevi, güncel tarih ve zaman gönderir. 
+CURRENTDATETIME 
+CURRENTDATETIME döndürür durum 24 Kasım 2007 19: 12: 01 
+CURRENTTIME işlevi, bir yerel dosya biçimindeki bir geçerli zaman gönderir. 
+CURRENTTIME 
+CURRENTTIME 19: 12: 01 değerini gönderir 
+EASTERSUNDAY işlevi, verilen bu католик Пасха мейрамы Şubat tarihi gönderir. 
+EASTERSUNDAY yıl 
+EASTERSUNDAY 2007 07. 04. 2007 değerini gönderir 
+ISOWEEKNUM tarih 
+ISOWEEKNUM A1 döndürür 47 A1 24. 11. 2007 болса. 
+WEEKNUM işlevi, bir gün аптасының ISO- standart olmayan gönderir. 
+WEEKNUM күн; program 
+İlk tarih 
+İkinci tarih 
+Kısmi 
+DATEDIF işlevi, iki tarih arasındaki uzaklığı gönderir. 
+YEARFRAC işlevi, Ana параметріне жүгініп iki gün arasındaki tam Günler sayısını есептейді. 
+Başlangıç tarih 
+çalışma saatlerini 
+Демалыстар 
+WORKDAY işlevi, bir başlangıç bir kaç аралығындағы çalışma күндерін gönderir. 
+son tarih 
+NETWORKDAY işlevi, iki gün bir çalışma Günler gönderir. 
+DATE2UNIX işlevi, bir tarih ve Saat UNIX уақытына biçimi 
+DATE2UNIX tarih 
+DATE2UNIX 01. 01. 2001 946 681 200 değerini gönderir 
+Unix_ zamanı 
+UNIX2DATE işlevi, unix zamanı normal tarih ve уақытына biçimi 
+UNIX2DATE 0 döndürür 01. 01. 1970 
+Mühendislik 
+temel 
+МинҰзындығы 
+BASE işlevi, 10. basit bir temel 2 den 36- ға genişliği sayıların karakter biçimi 
+BASE sayı; негізі; дәлділігі 
+BASE 128; 8, 200 
+fonksiyon Sırası 
+BESSELI işlevi, модификацияланған Бессел In x işlevini есептейді. 
+BESSELI X; N 
+BESSELI 0. 7; 3 0. 007367374 
+BESSELJ Бессел işlevini есептейді. 
+BESSELJ X; N 
+BESSELJ 0. 89; 3 0. 013974004 
+BESSELK işlevi, модификацияланған Бессел işlevini есептейді. bu Бессел işlevini katı жорамал аргументімен есептегенге eşdeğerdir. 
+BESSELK X; N 
+BESSELK 3; 9 397, 95880 değerini gönderir 
+BESSELY işlevi, Бессел işlevini есептейді. bu fonksiyon ve Вебер işlevi, veya Нейман işlevi, olarak isimlendirili. 
+BESSELY X; N 
+BESSELY 4; 2 0. 215903595 
+Boyut бірлігінен 
+Boyut бірлігіне 
+CONVERT işlevi, bir konum жүйесінен bir konum için ve sağlar. 
+Түсінетін масса бірліктері: g грамм, sg пиіс, lbm фунт, u атомдық масса, ozm унция, stone стоун, ton тонна, grain гран, pweight пенниуейт, hweight хандретуейт, bron büyük İngilizce тонна. 
+Түсінетін қашықтық бірліктері: m метр, in дюйм, ft фут, mi миля, Nmi Alpes миля, ang Ангстрем, parsec парсек, lightyear Işık жыл. 
+Түсінетін қысым бірліктері: Pa Паскаль, atm атмосфера, mmHg сынап sütun мм, psi lb шаршы, Torr Торр. 
+Түсінетін күш бірліктері: N Ньютон, dyn дин, pound фунт. 
+Түсінетін Enerji бірліктері: J Джоуль, e эрг, c термодинамикалық калория, cal uluslararası калория, eV электронвольт, HPh ат күші- сағат, Wh Ватт- сағат, flb фут- фунт, BTU İngiliz жылу için öntanımlı değer. @ label 
+Түсінетін güç бірліктері:: W Ватт, HP ат күші, nedenle Okular PS dosyalarını içeriye Pferdestaerke ат iptal - немісше. 
+Түсінетін магниттік бірліктері: T Тесла, ga Гаусс. 
+Түсінетін температура бірліктері: C derece градусы, F derece градусы, K Кельвин. 
+Түсінетін көлем бірліктері: l литр, tsp шай қасық, tbs ас қасық, oz сұйық унция, cup шыныаяқ, pt пинта, olarak кварта, gal галлон, barrel баррель, m3 küpte метр, mi3 küpte миля, Nmi3 küpte Alpes миля, in3 küpte дюйм, ft3 küpte фут, yd3 küpte ярд. 
+Түсінетін аудан бірліктері: m2 inç метр, mi2 mil миля, Nmi2 inç Alpes миля, in2 inç дюйм, ft2 inç фут, yd2 inç ярд, acre акр, ha гектар. 
+CONVERT 32; C; F 89, 6 değerini gönderir 
+CONVERT 3; lbm; kg 1. 3608 değerini gönderir 
+CONVERT 7, 9; cal; J değerini 33, 0757 
+Төменгі_ Durma 
+Жоғарғы_ Durma 
+ERF işlevi, bir işlevini есептейді. Yalnızca argüman kullanılmışsa ERF 0 ve sol argüman parlaklık bir hata işlevini hesaplar. 
+ERF 0. 4 0. 42839236 
+ERF işlevi, толықтауыш hata işlevini есептейді. 
+ERFC 0. 4 0. 57160764 
+KDe çeviri шама 
+DEC2BIN işlevi, ondalık çalıştırılabilir olarak gönderir. 
+DEC2BIN değer 
+DEC2BIN 12 1100 değerini gönderir 
+DEC2BIN 55, 110111 
+DEC2HEX işlevi ondalık onaltılık olarak gönderir. 
+DEC2HEX değer 
+DEC2HEX 12 değerini gönderir c 
+DEC2HEX 55, 37 
+DEC2OCT işlevi, ondalık сегіздік olarak gönderir. 
+DEC2OCT değer 
+DEC2OCT 12. 14 değerini gönderir 
+DEC2OCT 55, 67 
+OCT2BIN işlevi, сегіздік bir çalıştırılabilir olarak gönderir. 
+OCT2BIN değer 
+OCT2BIN 12 1010 değerini gönderir 
+OCT2BIN 55, 101101 
+OCT2DEC işlevi, сегіздік bir ondalık olarak gönderir. 
+OCT2DEC değer 
+OCT2DEC 12 değerini gönderir 10 
+OCT2DEC 55, 45 
+OCT2HEX işlevi, сегіздік bir onaltılık olarak gönderir. 
+OCT2HEX değer 
+OCT2HEX 12 A değerini gönderir 
+OCT2HEX 55 2D döndürür 
+BIN2DEC işlevi, çalıştırılabilir bir ondalık olarak gönderir. 
+BIN2DEC değer 
+BIN2DEC 10 1010 değerini gönderir 
+BIN2DEC 31. 11111 değerini gönderir 
+BIN2OCT işlevi, çalıştırılabilir bir сегіздік olarak gönderir. 
+BIN2OCT değer 
+BIN2OCT 12. 1010 değerini gönderir 
+BIN2OCT 11111 37 değerini gönderir 
+BIN2HEX işlevi, çalıştırılabilir bir onaltılık olarak gönderir. 
+BIN2HEX değer 
+BIN2HEX a 1010 değerini gönderir 
+BIN2HEX 11111 1f değerini gönderir 
+HEX2DEC işlevi, onaltılık ondalık derece olarak gönderir. 
+HEX2DEC değer 
+HEX2DEC a 10 değerini gönderir 
+HEX2DEC 37 55 değerini gönderir 
+HEX2OCT işlevi, onaltılık bir сегіздік olarak gönderir. 
+HEX2OCT değer 
+HEX2OCT a 12 değerini gönderir 
+HEX2OCT 37 67 değerini gönderir 
+HEX2BIN işlevi, onaltılık bir çalıştırılabilir olarak gönderir. 
+HEX2BIN değer 
+HEX2BIN a 1010 değerini gönderir 
+HEX2BIN 37 110111 değerini gönderir 
+нақтылы olmayan Oranı 
+жорамалды olmayan Oranı 
+COMPLEX x; y комплекс bir x+yi olarak ekleyecektir. 
+COMPLEX real; imag 
+COMPLEX 1. 2; 3, 4, 1. 2+3, 4i değerini gönderir 
+COMPLEX dan - 1, - i 
+комплекс sayı 
+IMAGINARY satır комплекс sayıların жорамалды olmayan коэфициентін gönderir. 
+IMAGINARY satır 
+IMAGINARY 1. 3, 4, 2+3, 4i değerini gönderir 
+IMAGINARY 1. 2 0 değerini gönderir 
+IMREAL satır комплекс sayıların нақтылы olmayan коэффициентін gönderir. 
+IMREAL satır 
+IMREAL 1. 2+3, 4i 1. 2 değerini gönderir 
+IMREAL 1. 2i 0 değerini gönderir 
+IMCOS satır комплекс sayıların kosinüs değerini hesaplar. 
+IMCOS satır 
+IMCOS 1+i 0. 83373- 0. 988898i 
+IMCOS 12i 81 377, 4 değerini gönderir 
+IMCOSH satır комплекс sayıların hiperbolik kosinüs değerini hesaplar. 
+IMCOSH satır 
+IMCOSH 1+i 0. 988898i 83373+0, 
+IMCOSH 12i 0. 84358 
+IMSIN satır işlevi, комплекс sayıların sinüsünü hesaplar. 
+IMSIN satır 
+IMSIN 1. 29846+0, 634964i 1+i değerini gönderir 
+IMSIN 1. 2, - 0. 536573 değerini gönderir 
+IMSINH satır işlevi, комплекс sayıların hiperbolik sinüsünü hesaplar. 
+IMSINH satır 
+IMSINH 1+i 0. 63496+1, 29846i 
+IMSINH 1. 2 değerini gönderir 50946 1. 
+IMTAN satır işlevi, комплекс sayıların tanjant değerini hesaplar. 
+IMTAN satır 
+IMTAN 1+i 0. 27175+1, 08392i 
+IMTAN 1. 2 2. 57215 değerini gönderir 
+IMTANH satır işlevi, комплекс sayıların hiperbolik tanjant değerini hesaplar. 
+IMTANH satır 
+IMTANH 1+i 08392+0, 27175i 1 değerini gönderir 
+IMTANH 1. 2 0. 83365 
+IMEXP dizgi комплексті sayıların экспонентасын gönderir. 
+IMEXP dizgi 
+IMEXP 2- i değerini gönderir 99232- 3, 21768i biri 
+IMEXP 12i 0. 843854- 0. 536573i 
+IMLN satır комплекс sayının doğal логарифмін gönderir. 
+IMLN satır 
+IMLN 3. i 1. 15129- 0. 321751i değerini gönderir 
+IMLN 12 2. 48491 değerini gönderir 
+IMLOG2 satır комплекс sayıların temel 2 логарифмін gönderir. 
+IMLOG2 satır 
+IMLOG2 3+4i 2. 321928+1, 337804i değerini gönderir 
+IMLOG10 satır комплекс sayıların temel 10 логарифмін gönderir. 
+IMLOG10 satır 
+IMLOG10 3+4i 0. 69897+0, 402719i 
+IMSQRT satır комплекс sayıların kare түбірін gönderir. 
+IMSQRT satır 
+IMSQRT 1+i 1. 09868+0, 45509i değerini gönderir 
+IMSQRT 1. 2i 0. 774597+0, 774597i 
+Дәреже 
+IMPOWER satır комплекс bir дәрежеге шығарып sağlar. 
+IMPOWER satır 
+IMPOWER 4. i; 2, 15. 8i değerini gönderir 
+IMPOWER 1. 2; 2, 1. 44 değerini gönderir 
+IMSUM birden комплекс değerleri durumunu x+yi olarak gönderir. 
+IMSUM değer; değer;... 
+IMSUM 1. 2; 3, 4, 6+5i 4+5i değerini gönderir 
+IMSUM 1. 2; 1i 1. 2+i değerini gönderir 
+IMDIV birden комплекс adet verinin Ailenin Böl değiştiğini x+yi olarak gönderir. 
+IMDIV değer; değer;... 
+IMDIV 1. 2; 3, 4+5i 0. 111597- 0. 164114i 
+IMDIV 12+i; 12. i 0. 986207+0, 16551i 
+IMSUB birden комплекс adet verinin Azaltım İşlemleri нәтіжесін x+yi olarak gönderir. 
+IMSUB değer; değer;... 
+IMSUB 1. 2; 3, 4+5i - 2. 2- 5i değerini gönderir 
+IMSUB 1. 2; 1i 1. 2- i değerini gönderir 
+IMPRODUCT birden комплекс adet verinin Ailenin Çarpma değiştiğini x+yi olarak gönderir. 
+IMPRODUCT değer; değer;... 
+IMPRODUCT 1. 2; 3, 4, 08+6i 4+5i değerini gönderir 
+IMPRODUCT 1. 2; 1i +1, 2i değerini gönderir 
+IMCONJUGATE комплекс_ sayı комплекс sayıların түйіндес sayısını x+yi olarak gönderir. 
+IMCONJUGATE комплекс_ sayı 
+IMCONJUGATE 1. 2+5i 1. 2- 5i değerini gönderir 
+IMCONJUGATE - i i değerini gönderir 
+IMCONJUGATE 12 değerini gönderir 12 
+IMARGUMENT комплекс_ sayı işlevi, x+yi tarzı комплекс sayıların полярлық tipi programların gönderir. 
+IMARGUMENT комплекс_ sayı 
+IMARGUMENT 1. 2+5i 0. 6072 
+IMARGUMENT - i - 1. 57079633 değerini gönderir 
+IMARGUMENT 12 # Div 0 değerini gönderir 
+IMABS комплекс_ sayı işlevi, x+yi tarzı комплекс sayıların eklentileri gönderir. 
+IMABS комплекс_ sayı 
+IMABS 1. 2+5i 5, 1419 değerini gönderir 
+IMABS - i değerini gönderir 
+IMABS 12 değerini gönderir 12 
+kayan nokta değeri 
+DELTA işlevi, x ve y eşit ise 1 i қайтарады, aksi 0 yi gönderir. y girilmezse 0 olarak kabul edilir. 
+DELTA x; y 
+DELTA 1. 2; 3, 4, 0 değerini gönderir 
+DELTA 3; 3, 1 değerini gönderir 
+DELTA 1; TRUE değerini gönderir 
+GESTEP işlevi, x değişkeni y санынан büyük veya eşit ise 1 i қайтарады, aksi 0 yi gönderir. y girilmezse 0 olarak kabul edilir. 
+GESTEP x; y 
+GESTEP 1. 2; 3, 4, 0 değerini gönderir 
+GESTEP 3; 3, 1 değerini gönderir 
+GESTEP 0. 4; TRUE 0 değerini gönderir 
+GESTEP 4; 3, 1 değerini gönderir 
+Finansal 
+Шығарлым tarih 
+İlk төлемі 
+Есеп айырысу tarih 
+Кұнды kağıt yıllık мөлшерлемесі 
+Номиналы 
+yıllık төлемдер sayısı 
+Мерзімін Hesapla yöntemi 
+ACCRINT işlevi, değil ise olarak төленетін İşlenmemişStatus of an item Paper yüzde мөлшерлемесін hesaplar. Төлемдер oranı: 1 жылдық, 2 - olarak жылдық, 4 - ширек жылдық. Күндерді Hesapla тәсілі: 0: АҚШтық 30 360 әдеттегісі, 1: gerçek Tarih Sayısı 2: gerçek Günler 360, 3: gerçek Günler 365 or 4: Еуропалық 30 365. 
+ACCRINT 28. 02. 2001; 31. 08. 2001; 01. 05. 2001; 0. 1; 1000; 2; 0 16, 944 değerini gönderir 
+ACCRINTM işlevi, bir өтеу Yıl төленетін İşlenmemişStatus of an item Paper өсім мөлшерлемесін hesaplar. Күндерді Hesapla тәсілі: 0: АҚШтық 30 360 әдеттегісі, 1: gerçek Tarih Sayısı 2: gerçek Günler 360, 3: gerçek Günler 365 or 4: Еуропалық 30 365. 
+ACCRINTM 28. 02. 2001; 31. 08. 2001; 0. 1; 100, 5, 0278 değerini gönderir 
+бағасы 
+Başlangıç баға 
+Келешек баға 
+AMORDEGRC işlevi, Fransızcadan бухгалтерлік sistemi göre дегрессивті өтеу тәсілімен амортизацияны есептейді. 
+AMORDEGRC 1000; 01. 02. 2006; 31. değeri 2006; 10; dan 0. 1; 1 228 değerini gönderir 
+П 
+AMORLINC işlevi, Fransızcadan бухгалтерлік sistemi göre біркелкі өтеу тәсілімен амортизацияны есептейді. 
+AMORLINC 1000; 01. 02. 2004; 31. değeri 2004; 10; dan 0. 1; 1, 91, 256831 
+Başlangıç капитал 
+өсім мөлшерлемесі 
+bu кезеңдер 
+жылдар 
+COMPOUND бастапқы_ капитал; өсім_ мөлшер; жылдағы_ кезен_ sayı; zaman 
+COMPOUND 5000; 0. 12; 4; 5, 9030, 56 değerini gönderir 
+CONTINOUS бастапқы_ капитал; өсім_ мөлшер; Süresi 
+CONTINUOUS 1000; 0. 1; 1, 1105, 17 in 
+өтеу tarih 
+Жиілігі 
+COUPNUM işlevi, görünüm айырысу кезбен өтеу tarih tarafından төленетін genişliği купондар sayısını hesaplar. Күндерді Hesapla тәсілі: 0: АҚШтық 30 360 әдеттегісі, 1: gerçek Tarih Sayısı 2: gerçek Günler 360, 3: gerçek Günler 365 or 4: Еуропалық 30 365. 
+COUPNUM 28. 02. 2001; 31. 08. 2001; 2; 0 değerini gönderir 
+мөлшерлемесі 
+кезеңдері 
+салымы 
+бастауы 
+bitiş 
+tip 
+CUMIPMT 0. 06. 12; 5* 12; 100000; 5; 12; 0 işlevi - 3562, 187023 
+CUMPRINC 0. 06. 12; 5* 12; 100000; 5; 12; 0 işlevi - 11904, 054201 
+қалдық кұны 
+kullan zaman 
+кезеңі 
+DB işlevi, келтірілен кезеңдегі мүліктің амортизациясын біркелкі өтеу тәсілімен hesaplar. Айын келтірмеуге bu келтірілмегенде bu 12 olarak hesaplar. 
+DB бағасы; қалдық_ кұны; пайдалану_ мерзімі; кезең ; айы 
+DB 8000; 400; 6; 3, 1158, 40 değerini gönderir 
+DB 8000; 400; 6; 3; 2 değerini 1783, 41 değerini gönderir 
+Oranı 
+DDB işlevi, келтірілен кезеңдегі мүліктің амортизациясын тездетіп өтеу тәсілімен hesaplar. Коэффициентін келтірмеуге bu келтірілмегенде bu 1 olarak hesaplanır. Geri kalan Ayarları нөлден büyük olmalıdır. 
+DDB бағасы; қалдық_ кұны; пайдалану_ мерзімі; кезеңі ; Oranı 
+DDB 75000; 1; 60; 12; 2, 1721, 81 değerini gönderir 
+Өтеп Kopyala 
+DISC işlevi, İşlenmemişStatus of an item Paper göre дисконт мөлшерлемесін hesaplar. Күндерді Hesapla тәсілі: 0: АҚШтық 30 360 әдеттегісі, 1: gerçek Tarih Sayısı 2: gerçek Günler 360, 3: gerçek Günler 365 or 4: Еуропалық 30 365. 
+DISC 28. 02. 2001; 31. 08. 2001; 12; 14 0. 2841 
+бөлшекті доллар 
+DOLLARDE 1. 02; 16 - bu 1 tam 2 16 e келтіргені - 1. 125 değerini gönderir 
+ondalık бөлшекті доллар 
+DOLLARFR 1. 125; 16 döndürür 1. 02. bu 1 + 2 16 bir değer 
+өсім мөлшерлемесі ӨМ 
+Başlangıç сома БС 
+Келешек сомасы КС 
+салым kaç кезеңнен sonra bir сомаға жететінін hesaplar. 
+duration өм; бс; кс 
+duration 0. 1; 1000; 2000 7, 27 değerini gönderir 
+Купон 
+Табыс 
+eklenti 
+DURATION_ ADD 01. 01. 1998; 01. 01. 2006; 0. 08; 0. 09; 2; 9937749555 5, 1 değerini gönderir 
+номиналды өсім мөлшерлемесі 
+кезеңдері 
+EFFECT işlevi, номиналды yıllık artan мөлшерлеме Temelli эффективті мөлшерлемесін hesaplar. Ör: 8% isteyeceksiniz. өсім sesin EFFECT 0. 08; 12 olan 8, 3% эффективті мөлшерлемеге eşdeğerdir. 
+EFFECT номинал; кезеңдері 
+EFFECT 0. 08; 12 0. 083 
+EFFECTIVE işlevi, номиналды yıllık өсім мөлшерлеме Temelli эффективті мөлшерлемесін hesaplar. функциясының баламасы. EFFECT 
+EFFECTIVE номинал; кезеңдері 
+EURO işlevi, bir еуроны gösterilen Еуропалық parasal одағының bir ұлттық валютасына ve sağlar. Валютасы sonraki бірі iletileri тиіс: ATS Австрия, BEF Бельгия, DEM Германия, ESP Испания, EUR Еуро, FIM Финляндия, FRF Франция, GRD Грекия, IEP Ирландия, ITL Италия, LUF Люксембург, NLG Нидерланд, PTE Португалия. 
+EURO валюта 
+EURO DEM 1. 95583 değerini gönderir 
+KDe çeviri валютасы 
+bir валютасы 
+EUROCONVERT işlevi, verilen Еуропалық parasal одағының bir ұлттық валютасындағы соманы басқасына еуро ile ve sağlar. Валютасы sonraki бірі iletileri тиіс: ATS Австрия, BEF Бельгия, DEM Германия, ESP Испания, EUR Еуро, FIM Финляндия, FRF Франция, GRD Грекия, IEP Ирландия, ITL Италия, LUF Люксембург, NLG Нидерланд, PTE Португалия. 
+EUROCONVERT 1; EUR; DEM 1. 95583 değerini gönderir 
+geçerli сома 
+FV қазіргі_ сома; өсімі; кезеңдері 
+FV 1000; 0. 08; 2, 1166, 40 değerini gönderir 
+кезең сайынғы төлемі 
+FV_ ANNUITY сома; өсімі; кезеңдер 
+FV_ ANNUITY 1000; 0. 05; 5 değerini 5525, 63 değerini gönderir 
+салым 
+INTRATE işlevi, İşlenmemişStatus of an item қағазға салғанының өсім мөлшерлемесін hesaplar. Күндерді Hesapla тәсілі: 0: АҚШтық 30 360 әдеттегісі, 1: gerçek Tarih Sayısı 2: gerçek Günler 360, 3: gerçek Günler 365 or 4: Еуропалық 30 365. 
+INTRATE 28. 02. 2001; 31. 08. 2001; 1000000; 2000000; 1 1. 98 değerini gönderir 
+кезеңдер sayısı 
+geçerli сома 
+Болашақ сома келтірілмеуі de mümkün 
+tip келтірілмеуі de mümkün 
+IPMT мезгілдік төлемдер тізбегінің төлемінің өсімді төлеуге кететін сомасын hesaplar. 
+өсімі - кезең her төленетін мөлшерлемесі. 
+IPMT Өсімі; Кезеңі; КСаны; БМ; КМ; Tip sütunu bağlı 
+IPMT 0. 1; 3; 3; 8000 değerini - 292, 45 
+Başlangıç БМ toplamı 
+belirtilen кезеңінде салымға төленетін өсімін hesaplar. 
+ISPMT Өсімі; Кезеңі; КСаны; БМ 
+ISPMT 0. 1; 1; 3; 8000000 değerini - 533333 
+Номиналы 
+Купон мөлшерлемесі 
+bu купондар sayısı 
+өсім мөлшерлеменің нарығы 
+LEVEL_ COUPON 1000; 0. 13; 2; 4; 0. 1096, 95 değerini gönderir 
+MDURATION 01. 02. 2004; 31. 05. 2004; 0. 08; 0. 09; 2; 0 0. 316321106 
+Сомалары 
+yeniden салым өсімі 
+MIRR işlevi, değil ise салым тізбегінің түрлендірілген iç hata нормасын hesaplar. 
+эффективті өсім мөлшерлемесі 
+NOMINAL işlevi, эффективті yıllık өсім мөлшерлемесі ve ve төленетін кезеңдер bilgisi Temelli номиналды жариялайтын өсім мөлшерлемесін hesaplar. Ör: her dakika төленетін 8% yıllık yüzde posta için NOMINAL 0. 08; 12 olan номиналды 7. 72% olarak ayarla gereklidir. 
+NOMINAL эффективті; кезңдер_ sayısı 
+NOMINAL 0. 08; 12 0. 0772 
+төлемі 
+Келешек toplamı КМ - келтірілмеу de aktif 
+Салымдар кезеңдер gönderir. 
+NPER өсімі; төлемі; бм; км; Tipi 
+NPER 0. 1; 100; - 1000 değerini 11 
+NPER 0. 06; dan - 10000; 20000; 0 11. 906 değerini gönderir 
+Сомалар dizi 
+değil ise төлемдер oluşturma genel geçerli сомасы. 
+NPV Дисконт; Сомалар 
+NPV 100%; 4; 5; 7 = 4, 125 
+son кезеңі 
+yıllık табысы 
+ODDLPRICE işlevi, İşlenmemişStatus of an item kağıt 100 parasal бірлікті номиналының gerçek бағасын hesaplar. Posta Eski kağıt son төлем кезеңі өзгермелі. 
+бағасы 
+ODDLYIELD işlevi, son төлем кезеңі değişken İşlenmemişStatus of an item kağıt табыстығын hesaplar. 
+кезеңдер sayısı КСаны 
+PMT Өсімі; КСаны; БМ ; КМ = 0 ; Tip sütunu bağlı = 0 
+PMT 0. 1; 4; 10000 değerini - 3154, 71 
+PPMT мезгілдік төлемдер тізбегінің төлемінің ana капиталын өсімінен bölerek hesaplar. 
+PPMT Өсімі; Қезеңі; КСаны; БМ ; КМ = 9 ; Tip sütunu bağlı = 0 
+PPMT 0. 0875; 1; 36; 5000; 8000; 1, - 18, 48 
+Шығарылым tarih 
+дисконт мөлшерлемесі 
+PRICEMAT işlevi, өсімі önbelleği аяғында төленетін İşlenmemişStatus of an item kağıt 100 parasal бірлікті номиналының gerçek бағасын hesaplar. 
+temel Есептеу yöntemi 
+Болашақ toplamı 
+PV керек_ сома; өсімі, zaman 
+PV 1166, 4; 0. 08; 2, 1000 değerini gönderir 
+RRI, ANNUITY мөлшер; өсімі; кезеңдері 
+RRI, ANNUITY 1000; 0. 05; 5 4329, 48 değerini gönderir 
+RECEIVED işlevi, İşlenmemişStatus of an item kağıt өтеу күніне toplanan сомасын gönderir. Күндерді Hesapla тәсілі: АҚШтық 30 360 әдеттегісі, 1: gerçek Tarih Sayısı 2: gerçek Günler 360, 3: gerçek Günler 365 or 4: Еуропалық 30 365. Есеп айырысу tarih өтеу күнінің önce olmalıdır. 
+RECEIVED 28. 02. 2001; 31. 08. 2001; 1000; 0. 05; 0 değerini gönderir 025, 787 
+RRI işlevi, салымнан түскен пайдасыныw қайтарылымынын Temelli өсім мөлшерлемесін hesaplar. 
+RRI П; Бм; Км 
+RRI 1; 100; 200 değerini gönderir 
+SLN işlevi, мүліктің bir кезеңдегі біркелкі амортизациясын hesaplar. Ücretler - мүлікті satın içermekte. бағасы. Қалдығы - мүліктің кезең аяғындағы қалдық құны. Мерзімі - мүліктің толығымен амортизацияланатын кезеңдер sayısıdır. SLN мүліктің құның tüm kullan мерзіміне біркелкі бөледі. 
+SLN бағасы; қалдығы; zaman 
+SLN 10000; 700; 10 930 değerini gönderir 
+SYD işlevi, мүліктің bir кезеңдегі тездетілген амортизациясын бағасы, қалдық құны, болжаулы kullan süresi ve gösterilen кезең için hesaplar. амортизация тездетілген тәсілі, önceki кездеріндегі өтеуі sonraki кезеңдергіден артық. Өтейтін құны değeri güncel құны ve қалдық құны arasındaki айырмашылығы. Пайдалану süresi - мүліктің амортизацияланатын кезеңдер Bu жылдар sayısıdır. 
+SYD бағасы; қалдығы; мерзімі; кезеңі 
+SYD 5000; 200; 5; 2, 1280 değerini gönderir 
+TBILLEQ 28. 02. 2001; 31. 08. 2001; 0. 1, 0. 1068 
+TBILLPRICE 28. 02. 2001; 31. 08. 2001; 0. 05. 97, 4444 değerini gönderir 
+TBILLYIELD 28. 02. 2001; 31. 08. 2001; 600 döndürür - 1. 63 değerini gönderir 
+VDB 10000; 600; 10; dan 0. 875; 1. 5 1312, 5 değerini gönderir 
+Кездері 
+жорамал 
+XIRR işlevi, беймезгілді түсімдер тізбегінің iç hata нормасын hesaplar. 
+XNPV işlevi, түсімдер тізбегінің alt genel toplanan сомасын hesaplar. 
+XNPV Өсімі; Сомалары; Кездері 
+YIELDMAT өсімін өтеу Yıl төленетін İşlenmemişStatus of an item қағаздан görüntülenecek Yazı табысты hesaplar. 
+ZERO_ COUPON номиналы; пайызы; жылдар 
+ZERO_ COUPON 1000; 0. 1; 20, 148, 64 değerini gönderir 
+Bilgileri 
+hata 
+ERRORTYPE değer 
+ERRORTYPE NA 7 değerini gönderir 
+ERRORTYPE 0 döndürür hata 0 bir hata kodu değil 
+N işlevi, verilen seçerek санға айналдырады. Eğer bu değer, değeri veya санға bağlantı varsa, ancak sol değeri gönderir. Eğer True mantıksal değer тапсырылса, fonksiyon 1 gönderir. Eğer bu değer, tarih ise gün seri sayısını gönderir. Өзге bir şey тапсырылғанда - қайтарылатыны 0. 
+N değer 
+N 3, 14 3, 14 değerini gönderir 
+N 7, 0 değerini gönderir çünkü 7 metin 
+bilgi tipi 
+INFO işlevi, ne olan ortam için istenen bilgilerini sağlar. Параметрі İstenilecek bilgileri belirler. Bu келесінің biri olabilir: directory geçerli Katalog yolu istemleri için numfile etkin belge verir. istemleri için release olarak сұрасаңыз KSpread sürümü metin olarak қайтарылады, recalc için geçerli hesaplanması Et kipi қайтарылады: Automatic otomatik ya Manual қолмен, system olarak işletim sistemini MDN ler göndermesini istiyorsanız, bu osversion olarak - işletim sistemi нұсқасын. 
+INFO не_ sor 
+herhangi bir değer 
+ISLOGICAL функциясы, параметрдегісі mantıksal değer ise döndürür True. göstergeler дейді. False değerini gönderir 
+ISLOGICAL x 
+ISLOGICAL A1 A2 True değerini gönderir 
+ISLOGICAL 12 değerini gönderir False değerini gönderir 
+ISBLANK функциясы, параметрдегісі boş ise döndürür True. göstergeler дейді. False değerini gönderir 
+ISBLANK x 
+ISBLANK A1, A1 boş ise True e döndürür 
+ISBLANK A1 A1 boş ise False değerini gönderir e döndürür 
+ISNUMBER функциясы, параметрдегісі değer ise döndürür True. göstergeler False değerini gönderir дейді. bu fonksiyon ISNUM функциясымен aynı. 
+ISNUMBER x 
+ISNUMBER 12 True değerini gönderir 
+ISNUMBER görünümünü döndürür False değerini gönderir 
+ISNUM функциясы, параметрдегісі değer ise döndürür True. göstergeler False değerini gönderir дейді. bu fonksiyon ISNUMBER функциясымен aynı. 
+ISNUM x 
+ISNUM 12 True değerini gönderir 
+ISNUM görünümünü döndürür False değerini gönderir 
+ISTIME функциясы, параметрдегісі zaman bir True. değerini gönderir göstergeler дейді. False değerini gönderir 
+ISTIME x 
+ISTIME 12: 05. True değerini gönderir 
+ISTIME görünümünü döndürür False değerini gönderir 
+ISDATE функциясы, параметрдегісі tarih Eğer bir True. değerini gönderir göstergeler дейді False değerini gönderir 
+ISDATE x 
+ISDATE 02. 02. 2000 True değerini gönderir 
+ISDATE görünümünü döndürür False değerini gönderir 
+ISREF функциясы, değer bağlantı ise döndürür True. göstergeler дейді False değerini gönderir 
+ISREF x 
+ISREF A12 True değerini gönderir 
+ISREF görünümünü döndürür False değerini gönderir 
+ISTEXT функциясы, параметрдегісі metin ise döndürür True. göstergeler дейді False değerini gönderir 
+ISTEXT x 
+ISTEXT 12 değerini gönderir False değerini gönderir 
+ISTEXT görünümünü True değerini gönderir 
+ISNONTEXT функциясы, параметрдегісі metin ise döndürür True. göstergeler False değerini gönderir дейді. bu fonksiyon ISNOTTEXT функциясымен aynı. 
+ISNONTEXT x 
+ISNONTEXT 12 True değerini gönderir 
+ISNONTEXT görünümünü döndürür False değerini gönderir 
+ISNOTTEXT функциясы, параметрдегісі metin ise döndürür True. göstergeler False değerini gönderir дейді. bu fonksiyon ISNOTEXT функциясымен aynı. 
+ISNOTTEXT x 
+ISNOTTEXT 12 True değerini gönderir 
+ISNOTTEXT görünümünü döndürür False değerini gönderir 
+ISODD функциясы, параметрдегісі тақ değer ise döndürür True. göstergeler дейді. False değerini gönderir 
+ISODD x 
+ISODD 12 değerini gönderir False değerini gönderir 
+ISODD - 7, True 
+ISEVEN функциясы, параметрдегісі çift değer ise döndürür True. göstergeler дейді. False değerini gönderir 
+ISEVEN x 
+ISEVEN 12 True değerini gönderir 
+ISEVEN - 7, False değerini gönderir 
+ISERR функциясы, параметрдегісі hata erişilemez bilgi yok қатесінен başka bir True. değerini gönderir göstergeler False değerini gönderir дейді. Eğer erişilemez hata қатарынан бөлінбесін için ISERROR işlevini kullanın. 
+ISERR x 
+ISERROR функциясы, параметрдегісі Tipi herhangi bir Eğer bir True. değerini gönderir göstergeler дейді. False değerini gönderir 
+ISERROR x 
+ISNA функциясы, параметрдегісі hata erişilemez bilgi yok hata ise döndürür True. göstergeler дейді. False değerini gönderir 
+ISNA x 
+NA işlevi, sadece erişilemez bilgi yok hata 
+NA 
+TYPE işlevi, параметрдегісі değer ise 1 değerini gönderir metin ise 2, mantıksal değer ise 4, hata bu ise 16, dizi ise 64. Eğer сілтегені формуласы bir hücre varsa формуласы қайтаратынның Tipi қарастырлады. 
+TYPE x 
+TYPE A1, A1 içeriği Metin ise 2 değerini gönderir 
+TYPE - 7, 1 
+TYPE A2, eğer A2 içeriği =CURRENTDATE ise 1 değerini gönderir 
+bu belge dosya adı gönderir. Eğer belge henüz kaydedilmemiş ise boş gönderir. 
+FILENAME 
+mantıksal 
+False değerini gönderir işlevi, FALSE değerini gönderir. 
+False değerini gönderir 
+False değerini gönderir FALSE değeri değerini gönderir 
+True işlevi, katılır. değerini gönderir. 
+True 
+True TRUE değerini gönderir 
+ise 
+and işlevi tüm değerleri true doğru ise döndürür True. göstergeler бірінің değeri döndürür False değerini gönderir en az bir hata etiketi. yoksa бұндайда değerini gönderir 
+and değer; değer;... 
+and true; true; true, True değerini gönderir 
+and true; false döndürür False değerini gönderir 
+or işlevi, değerlerin en az бірі true doğru ise döndürür True. göstergeler бірінің değeri döndürür False değerini gönderir en az bir hata etiketi. yoksa бұндайда değerini gönderir 
+or değer; değer;... 
+or false; false; false döndürür False değerini gönderir 
+or true; false True değerini gönderir 
+NAND işlevi, değerlerin en az бірі true doğru değil ise döndürür True. göstergeler False. değerini gönderir 
+NAND değer; değer;... 
+NAND true; false; false True değerini gönderir 
+NAND true; true döndürür False değerini gönderir 
+NOR işlevi, değerlerin tümü mantıksal değer ve false değer ise döndürür True. göstergeler False. değerini gönderir 
+NOR değer; değer;... 
+NOR true; false; false döndürür False değerini gönderir 
+NOR false; false True değerini gönderir 
+XOR işlevi, değerlerin arasındaki true doğru değerler sayısı çift ise döndürür True. göstergeler False. değerini gönderir Аргументінің en bir hata varsa bir etiketi. değerini gönderir 
+XOR değer; değer;... 
+XOR false; false; false True değerini gönderir 
+or true; false True değerini gönderir 
+mantıksal değer 
+not функциясы, Eğer bu değer, True ise döndürür False değerini gönderir ve bu değer, False değerini gönderir ise döndürür True. Кірісінде Eğer hata gönderir. 
+not логиқалық_ değer 
+not false True değerini gönderir 
+not true döndürür False değerini gönderir 
+Durum 
+Eğer doğru ise 
+Eğer değer ise 
+IF işlevi, Durum функция. Eğer Kriteri True doğru ise İkinci özelliğini gönderir. göstergeler false - değer ise üçüncü özelliğini gönderir. 
+IF шарт; ақиқат_ болса; жалған_ ise 
+A1=4; A2=6; IF A1 A2; 5; 3, 3 değerini gönderir 
+Matematiksel 
+fonksiyon 
+SUBTOTAL işlevi, берлген Bağımsız Değişkenler: listesi қортындысын hesaplar. Тізімінде кездескен bir қортындылар de x 720 DPI Softweave Есептегенде bir işlevi, bir sonraki bir eğer белгіленіп беріледі: 1 - Average, 2 - Count, 3 - CountA, 4 - Max, 5 - Min, 6 - Product, 7 - StDev, 8 - StDevP, 9 - Sum, 10 - Var, 11 - VarP. 
+SUBTOTAL функция; değer 
+Eğer A1: A5 içeriği 7, 24. 23, 56, 9 kaydırma 
+SUBTOTAL 1; A1: A5 23. 8 değerini gönderir 
+SUBTOTAL 4; A1: A5 56 değerini gönderir 
+SUBTOTAL 9; A1: A5 119 değerini gönderir 
+SUBTOTAL 11; A1: A5 307. 76 değerini gönderir 
+SERIESSUM işlevi, дәрежелік қатарының toplamlarını hesaplar. 
+SERIESSUM 2; dan 2; 1; 2 değerini gönderir 9 
+LCM işlevi, iki ya da büyük özel adet verinin en küçük paylaşılan еселігін döndürür 
+LCM değer; değer 
+LCM 6; 4, 12 değerini gönderir 
+LCM 1. 5; 2, 25 4, 5 değerini gönderir 
+LCM 2; 3; 4, 12 değerini gönderir 
+Үшінші sayı 
+GCD işlevi, iki ya da fazla tamsayı adet verinin en büyük paylaşılan ayracı gönderir. 
+GCD değer; değer 
+GCD 6; 4, 2 değerini gönderir 
+GCD 10; 20, 10 
+GCD 20; 15; 5, 10 değerini gönderir 
+EPS zaman epsilon parlaklığı қайтатады; bu 1 ve bu daha fazla ancak katı yakın kayan nokta sıfırı айырмашылығы. Компьютерде sayı basamak шектеулі болғандықтан есептегенде дөңгелектеу қателігінен құтылуға engellendi ancak genellikle bu мардымсыз деуге seçebilirsiniz. 
+EPS 
+Жүйелерінің Bu bu 2^- 52=2. 2204460492503131e- 16 
+0. 5* EPS bir дөңгелектеу бірлігін қайтарады; bu değeri дөңгелектеу қателігі çalışmadığı 1+x - 1=0 нәтижеге әкелетін en büyük x sayısıdır. 
+verir. 0 ve EPS arasında olarak seçin. 1+x Дөңгелектеу өрнегінде, 1+x - 1 формуласын pencersinden seçerek x- i 0 veya EPS қылады 
+POWER x; y işlevi, x i y дәрежесіне шығарып sağlar. 
+POWER değer; değer 
+POWER 1. 2; 3, 4, 1. 8572 değerini gönderir 
+POWER 2; 3, 8 değerini gönderir 
+POW x; y işlevi, x i y дәрежесіне шығарып Bu fonksiyon POWER функциясымен aynı. 
+POW değer; değer 
+POW 1. 2; 3, 4, 1. 8572 değerini gönderir 
+POW 2; 3, 8 değerini gönderir 
+EVEN işlevi, sağ negatif bir en yakın büyük küçük жүп tam kadar өсіріп кемітіп sağlar. 
+EVEN değer 
+EVEN 1. 2, 2 değerini gönderir 
+EVEN 2 2 değerini gönderir 
+duyarlılık 
+TRUNC işlevi, bir дәлдігіне verilen ondalık ondalık karakter санына kadar қысқартып yazılmasını Eğer duyarlılık girilmezse 0 olarak саналып sayıların bölüm sadece tam gelindi. 
+TRUNC değer; duyarlılık 
+TRUNC 1. 2 değerini gönderir 
+TRUNC 213, 232; 2, 213, 23 değerini gönderir 
+ODD işlevi sağ negatif bir en yakın büyük küçük тақ tam kadar өсіріп кемітіп sağlar. ODD 0, 1 olarak kabul edilir. 
+ODD değer 
+ODD 1. 2, 3 değerini gönderir 
+ODD 2, 3 değerini gönderir 
+ODD - 2 - 3 değerini gönderir 
+GAMMA - gama işlevini hesaplar. 
+GAMMA değer 
+GAMMA 1 değerini gönderir 
+MOD işlevi бөлудің қалдығын gönderir. Eğer ikinci parametre sıfır ise ve # DIV 0 hata değerini gönderir 
+MOD değer; değer 
+MOD 12; 5, 2 değerini gönderir 
+MOD 5; 5, 0 değerini gönderir 
+bu fonksiyon verilen sayı eksi ise 1 қайтарады, 0 тапсырылса 0 қайтарады, pozitif тапсырылса 1 gönderir. 
+SIGN değer 
+SIGN 5, 1 değerini gönderir 
+SIGN 0, 0 
+SIGN - 5, - 1 değerini gönderir 
+bu fonksiyon verilen bir терістейді - 1 ye көбейтеді. 
+INV değer 
+INV - 5 değerini 5 
+INV 5, - 5 değerini gönderir 
+INV 0, 0 
+bu fonksiyon bir seçeneklerin қатарында қаншасы tamsayı veya бөлшекті sayı olup санап sağlar. Тапсырғанда hücre Alan gösterimi bir bu былай: COUNT A1: B5 veya doğrudan değerleri seçmek былай: bir COUNT 12; 5; 12. 5. 
+COUNT değer; değer; мән... 
+COUNT - 5; KSpread; 2, 2 değerini gönderir 
+COUNT 5 değerini gönderir 
+bu fonksiyon seçeneklerin қатарында қаншасы belirtilen boş olmayan olup санап sağlar. Тапсырғанда hücre Alan gösterimi bir bu былай: COUNTA A1: B5 veya doğrudan değerleri seçmek былай: bir COUNTA 12; 5; 12. 5. 
+COUNTA değer; değer; мән... 
+COUNTA - 5; KSpread; 2, 3 değerini gönderir 
+COUNTA 5, 1 değerini gönderir 
+hücre aralığının 
+bu fonksiyon bir ұяшықтар bölgesinde қаншасы boş hücre olup санап sağlar. 
+COUNTBLANK Alanı 
+COUNTBLANK A1: B5 
+bölge 
+Durum 
+COUNTIF işlevi, verilen ұяшықтар bölgesinde қаншасы bir durumu eşleştir olup санап sağlar. 
+COUNTIF аумағы; Yöntemi 
+COUNTIF A1: A2; 14, A1 - 4 ve A2 hücre sayısal 14 ise 1 değerini gönderir 
+kayan nokta değeri 
+FACT bir sayının факториалын hesaplar. N факториалдың Matematiksel ifade N!. 
+FACT sayı 
+FACT 10 3628800 değerini gönderir 
+FACT 0 değerini gönderir 
+FACTDOUBLE bir sayının iki еселі факториалын x!! hesaplar. 
+FACTDOUBLE sayı 
+FACTDOUBLE 6 48 değerini gönderir 
+FACTDOUBLE 7, 105 değerini gönderir 
+SUM işlevi, tüm bir adet verinin toplamlarını hesaplar. Сандарын ұяшықтар bölge olarak тапсыруға, örneğin, SUM A1: B5 gibi bir aralığın veya doğrudan değerleri belirlemeye bir SUM 12; 5; 12. 5 gibi. 
+SUM değer; değer;... 
+SUM 12; 5; 7, 24 
+SUM 12. 5; 2 14, 5 değerini gönderir 
+SUMA işlevi, tüm bir adet verinin toplamlarını hesaplar. Сандарын ұяшықтар bölge olarak тапсыруға, örneğin, SUMA A1: B5 gibi bir aralığın veya doğrudan değerleri belirlemeye bir SUM 12; 5; 12. 5 gibi. Тапсырғандардың arasında metin veya FALSE değeri içeriyorsa sııfr olarak hesaba katılır. Eğer TRUE değeri taşıyorsa mantıksal ile 1 
+SUMA 12; 5; 7, 24 
+SUMA 12. 5; 2; TRUE değerini 15, 5 
+Тексеретін Alanı 
+Қосылғыштар Alanı 
+SUMIF ТексерісАумағы; Шарты; ҚосылғышАумағы 
+PRODUCT işlevi, tüm bir adet verinin Ailenin Çarpma değiştiğini hesaplar. Сандарын ұяшықтар bölge olarak тапсыруға, örneğin, PRODUCT A1: B5 gibi bir aralığın veya doğrudan değerleri belirlemeye bir PRODUCT 12; 5; değeri 5 gibi. Сан olmayan değer кездессе 0 gönderir. 
+PRODUCT değer; değer;... 
+PRODUCT 3; 5; 7, 105 değerini gönderir 
+PRODUCT 12. 5; 2, 25 değerini gönderir 
+KPRODUCT işlevi, tüm bir adet verinin Ailenin Çarpma değiştiğini hesaplar. Сандарын ұяшықтар bölge olarak тапсыруға, örneğin, KPRODUCT A1: B5 gibi bir aralığın veya doğrudan değerleri belirlemeye bir KPRODUCT 12; 5; 12. 5 gibi. Сан olmayan değer кездессе 1 gönderir. 
+KPRODUCT değer; değer;... 
+KPRODUCT 3; 5; 7, 105 değerini gönderir 
+KPRODUCT 12. 5; 2, 25 değerini gönderir 
+G_ PRODUCT değer; değer;... 
+Div işlevi, ilk параметріндегісін қалғандарына da бірлеп бөледі. 
+Div değer; değer;... 
+Div 20; 2; 2, 5 değerini gönderir 
+Div 25; 2. 5, 10 
+SUMSQ işlevi, tüm bir сандардарының karelerinin toplamlarını hesaplar. Сандарын ұяшықтар bölge olarak тапсыруға, örneğin, SUMSQ A1: B5 gibi bir aralığın veya doğrudan değerleri belirlemeye bir SUMSQ 12; 5; 12. 5 gibi. 
+SUMSQ değer; değer;... 
+SUMSQ 12; 5; 7 218 değerini gönderir 
+SUMSQ 12. 5; 2, 173 değerini gönderir 
+MAX işlevi, параметрдегілерінің en үлкенін gönderir. metin veya mantıksal değerleri gelindi. yoksay 
+MAX değer; değer;... 
+MAX 12; 5; 7, 12 
+MAX 12. 5; 2 12. 5 değerini gönderir 
+MAX 0. 5; 0. 4; TRUE; 0. 2 0. 5 
+MAXA işlevi параметрдегілерінің en үлкенін gönderir. TRUE değeri 1 саналады, FALSE, değeri 0 olarak kabul edilir. Metin yoksay gelindi. 
+MAXA değer; değer;... 
+MAXA 12; 5; 7, 12 
+MAXA 12. 5; 2 12. 5 değerini gönderir 
+MAXA 0. 5; 0. 4; TRUE; 0. 2 değerini gönderir 
+MIN işlevi, параметрдегілерінің en küçük harf gönderir. metin veya mantıksal değerleri gelindi. yoksay 
+MIN değer; değer;... 
+MIN 12; 5; 7, 5 
+MIN 12. 5; 2 2 değerini gönderir 
+MIN 0. 4; 2; FALSE; 0. 7 0. 4 
+MINA işlevi, параметрдегілерінің en küçük harf gönderir. TRUE değeri 1 саналады, FALSE, değeri 0 olarak kabul edilir. Metin yoksay gelindi. 
+MINA değer; değer;... 
+MINA 12; 5; 7, 5 
+MINA 12. 5; 2 2 değerini gönderir 
+MINA 0. 4; 2; FALSE; 0. 7, 0. 
+MULTIPLY işlevi, tüm bir adet verinin көбейтісін hesaplar. Сандарын ұяшықтар bölge olarak тапсыруға, örneğin, MULTIPLY A1: B5 gibi bir aralığın veya doğrudan değerleri belirlemeye bir MULTIPLY 12; 5; 12. 5 gibi. bu fonksiyon PRODUCT функциясымен aynı. 
+MULTIPLY değer; değer;... 
+MULTIPLY 12; 5; 7, 420 değerini gönderir 
+MULTIPLY 12. 5; 2, 25 değerini gönderir 
+a+b+c! a! b! c! 
+MULTINOMIAL değer; değer;... 
+MULTINOMIAL 3; 4; 5 27720 değerini gönderir 
+SQRT eksi olmayan аргументінің kare түбірін gönderir. Аргументі eksi ise қайтарылатыны - hata etiketi. 
+SQRT x 
+SQRT 9 değerini 3 
+SQRT - 9 bir hata 
+SQRTPI eksi olmayan x * PI Çarpma нәтижесінің kare түбірін gönderir. Аргументі eksi ise қайтарылатыны - hata etiketi. 
+SQRTPI x 
+SQRTPI 2 2. 506628 değerini gönderir 
+LN x sayının doğal логарифмін gönderir. 
+LN x 
+LN 0. 8, - 0. 22314355 
+LN 0 - inf değerini gönderir 
+LOGn x sayıların temel n логарифмін gönderir. 
+LOGn değer; taban 
+LOGn 12, 10 değerini 07918125 1. 
+LOGn 12; 2 değerini taşıyorsa 5849625 
+ROOTN eksi olmayan x sayıların in n түбірін gönderir. 
+ROOTN x; n 
+ROOTN 9; 2 değerini 3 
+CUR eksi olmayan x sayıların куб түбірін gönderir. 
+CUR x 
+CUR 27 değerini 3 
+kayan nokta değeri нөлден fazla değer 
+LOG x sayıların temel 10 логарифмін gönderir. 
+LOG x 
+LOG 0. 8, - 0. 09691001 
+LOG 0 hata. 
+kayan nokta pozitif 
+LOG10 işlevi, аргументінің temel 10 логарифмін gönderir. 
+LOG10 x 
+LOG10 10 değerini 1 
+LOG10 0 hata. 
+LOG2 x sayıların temel 2 логарифмін gönderir. 
+LOG2 x 
+LOG2 0. 8 işlevi - 0. 32192809 
+LOG2 0, - inf. 
+EXP işlevi, e sayısını doğal логарифмінің temel x дәрежесіне шығарып sağlar. 
+EXP x 
+EXP 9, 8 103, 08392758 
+EXP - 9 0. 00012341 
+CEIL x verir. en yakın tam kadar өсіріп, kayan nokta değeri olarak gönderir. 
+CEIL x 
+CEIL 12. 5 değerini 13. 0 
+CEIL - 12. 5 değerini - 12. 0 
+дәлділік қадамы seçmeli 
+CEILING x 
+CEILING 12. 5 değerini 13 
+CEILING biri 43; değerini 8 
+CEILING - biri 43; - değerini - 8 
+yöntem seçmeli 
+bu verir. en жақын, İkinci ile verilen келтіірілген, дәлділік қадамынына еселі kadar кемітіп negatif x- i өсіріп sağlar. 
+FLOOR x 
+FLOOR 12. 5 işlevi 12 
+FLOOR - 12. 5 değerini - 13 
+FLOOR 5; 2 değerini 4 
+FLOOR 5; 2, 2 değerini 4, 4 
+ABS işlevi, kayan nokta x sayıların eklentileri gönderir. 
+ABS x 
+ABS 12. 5 değerini 12. 5 
+ABS - 12. 5 değerini 12. 5 
+Int işlevi, bir sayının tam bölümünü gönderir. 
+Int x 
+Int 12. 55 işlevi 12 
+Int 15 değerini 15 
+RAND işlevi, 0 ile 1 arasında bir псевдо- rastgele bir gönderir. 
+RAND 
+kayan nokta değeri 0 dan büyük 
+RANDEXP işlevi, экспонента göre үлестірілген псевдо- rastgele bir gönderir. 
+RANDEXP x 
+RANDEXP 0. 88 
+RANDPOISSON işlevi, hipergeometrik göre үлестірілген псевдо- rastgele bir gönderir. 
+RANDPOISSON x 
+RANDPOISSON 4 
+kayan nokta değeri 0 ile 1 arasında bir 
+dönem sayısı 0 
+RANDBINOM işlevi, бином göre үлестірілген псевдо- rastgele bir gönderir. 
+RANDBINOM x 
+RANDBINOM 4 
+Сынақтан өтпеулері 0 
+RANDNEGBINOM eksi бином göre үлестірілген псевдо- rastgele bir gönderir. 
+RANDNEGBINOM x 
+RANDNEGBINOM 4 
+RANDBERNOULLI işlevi, Бернулли göre үлестірілген псевдо- rastgele bir gönderir. 
+RANDBERNOULLI x 
+RANDBERNOULLI 0. 45 
+normal dağılımın orta değeri 
+normal dağılımın дисперсиясы 
+RANDNORM işlevi, Гауссиан normal dağılım göre үлестірілген псевдо- rastgele bir gönderir. 
+RANDNORM мю; sigma 
+RANDNORM 0; 1, 
+sınırı 
+üst sınır 
+RANDBETWEEN işlevi, alt ve üst шектер arasındaki псевдо- rastgele bir gönderir. Eğer düşük yüksek gönderilir. 
+Еселігі 
+MROUND işlevi, verilen bir ikinci değer ile Bağlayıcı sayıların en yakın еселігіне дөңгектеп sağlar. Параметрінің bir değer eksi ise - екіншісі de negatif gösterilsin 
+MROUND değer; еселік 
+MROUND 1. 252; 0. 5 işlevi 1. 5 
+MROUND - 1. 252; - 0. 5 değerini - 1. 5 
+Beklenmeyen sayısı 
+ROUND değer; таңба_ sayısı 
+ROUND 1. 252; 2 işlevi 1. 25 
+ROUND - 1. 252; 2 değerini - 1. 25 
+ROUND 1. 258; 2 işlevi 1. 26 
+ROUND - 12. 25; - 1, - 10 
+ROUND - 1. 252; 0, - 1 
+ROUNDUP değer; таңба_ sayısı 
+ROUNDUP 1. 252; 2 işlevi 1. 26 
+ROUNDUP - 1. 252; 2 değerini - 1. 25 
+ROUNDUP - 1. 252 değerini - 1 
+ROUNDDOWN değer; таңба_ sayısı 
+ROUNDDOWN 1. 252; 2 işlevi 1. 25 
+ROUNDDOWN - 1. 252; 2 değerini - 1. 26 
+ROUNDDOWN - 1. 252 değerini - 2 
+N- biçimde 
+FIB n 
+FIB 9 34 değerini gönderir 
+FIB 26 121393 değerini gönderir 
+Алымы 
+Бөлімі 
+QUOTIENT işlevi, алым bölüm XLIFF tam bölümünü gönderir. 
+QUOTIENT 21; 4 5 değerini gönderir 
+MDETERM yonga 
+MDETERM A1: C3 
+İlk yonga 
+İkinci yonga 
+MMULT A1: C3 
+yonga 
+MINVERSE yonga 
+MINVERSE A1: C3 
+Boyut 
+MUNIT Boyutu 
+TRANSPOSE yonga 
+TRANSPOSE A1: C3 
+Қарастыру ve сілтеу 
+satır numarası 
+Sütun numarası 
+mutlak Değer seçmeli 
+A1 biçim seçmeli 
+Sayfa adı 
+ADDRESS жол; бағ; абсолют; стилі; бет_ adı 
+ADDRESS 6; 4, D6 değerini gönderir değerini gönderir 
+ADDRESS 6; 4; 2, D6 değerini gönderir değerini gönderir 
+ADDRESS 6; 4; 2; FALSE; Sheet1, Sheet1! R6C 4 
+posta yok 
+dosya Adı 
+Сілтеген hücre boş 
+Өзіндік Listesi 
+Тізім: 
+Жазу: 
+Ekle 
+İptal 
+yeni 
+Düzenle 
+Kopyala 
+Шынымен bu liste silmek 
+etiket & 
+Аумақта bir şey içeriyor. Жалғастра istiyor musunuz? 
+& Seçim 
+Düzenle 
+& Yeni... 
+bir içindeki 
+Аумағы:% 1 
+yeni İsimlendirilmiş Alan 
+İsimlendirilmiş Alanı Düzenle 
+Шынымен bu bir bir bölge жойғыңыз istiyor musunuz? 
+Ұяшықтар: 
+Бет: 
+Аумақтың adı: 
+hücre ығыстырып ekle 
+Қатарлар 
+Değerleri girmek Gizle 
+Тігінен, da бірінің altında 
+Көлденеңінен, sol sağ 
+tip 
+doğrusal 2, 4, 6,... 
+Бастаудан işlemini için bir қадамымен қатарды oluşturur. Her қатардың değer алдыңғысына қадамын қосумен табылады. 
+Геометриялық 2, 4, 8,... 
+Бастаудан işlemini için bir мәнге көбейтіп қатарды oluşturur. Her қатардың değer алдыңғысын қадамына көбейтумен табылады. Қадамы 5 қатардың örnek: 5; 25; 125; 625. 
+Бастауы: 
+Аяқтауы: 
+genişliği: 
+başlangıç ve bitiş değeri pozitif olmalı. 
+bitiş değeri başlangıç мәнінен fazla olmak zorunda aksi қадамы 1 den küçük olmalıdır. 
+Бастау, Аяқтау, Қадам değerlerin biri de sıfır ve gereklidir. 
+Қадам değer 1 hatadan bir 
+Қадам değer теріс. 
+Қадам değer нөлден fazla olmak zorunda aksi doğrusal mesela ақырсыз Düzenli İfade Düzenleyici programım 
+Eğer başlangıç değeri bitiş мәнінен fazla ise қадамы нөлден küçük olmalıdır. 
+Eğer қадамы negatif değer ise başlangıç değeri bitiş мәнінен fazla posta olmalıdır. 
+gösterilecek gizli Sütunlar 
+gösterilecek gizli Satır: 
+Sütun:% 1 
+satır:% 1 
+gösterilecek gizli беттер: 
+Sıralama 
+Yerleşim 
+& Жолдарды Sırala 
+& satırları Sırala 
+sonraki göre 
+sonra 
+Sıralama Kriteri 
+İlk Anahtar 
+Өз Listesi & göre 
+% 1 Sütun 
+% 1 Sütun 
+1 satır 
+% 1 yolu 
+& İlk yolu атаулардан тұрады 
+& İlk sütun атаулардан тұрады 
+özel yapıştır 
+& Değiştir... 
+& Sil 
+biçim Yöneticisi 
+tüm Biçimler 
+Құрастырған biçim 
+Иерархиялық 
+стиль% 1 
+Қорытындылары 
+Tümünü Sil 
+Қорытындыларды eklemek için en az bir sütun seçmelisiniz. 
+son özeti 
+% 1 Sütun 
+COUNTA 
+StDev 
+StDevP 
+Var 
+VarP 
+Дұрыстығы 
+& Tümünü Temizle 
+& Шарттары 
+Рұқсатты: 
+tamsayı 
+metin uzunluk 
+liste 
+Бостарын etkinleştir 
+Дерегі: 
+Минимумі: 
+Максимумі: 
+Yapıştırdelete this incidence 
+en ертесі: 
+en соңғысы: 
+tarih: 
+en ертесі: 
+bilinmeyen hata 
+VideoPhonon:: 
+VideoPhonon:: 
+АтыPhonon:: 
+default label for Submit buttons in forms on web pages 
+title for file button used in HTML forms 
+metin to display in file button used in HTML forms when no file is selected 
+Open in New Masaüstü context menu item 
+Download Linked File context menu item 
+Copy Link context menu item 
+Open Image in New Masaüstü context menu item 
+Download Image context menu item 
+Copy Link context menu item 
+Open Frame in New Masaüstü context menu item 
+Stop context menu item 
+Ignore Spelling context menu item 
+search The Web context menu item 
+Look Up in Dictionary context menu item 
+АшуIgnore Grammar context menu item 
+menu item title 
+menu item title 
+Check spelling context menu item 
+Check spelling while typing context menu item 
+Check grammar with spelling context menu item 
+& ҚаріпBold context menu item 
+& Altı сызылғанOutline context menu item 
+СұлбаWriting direction context sub- menu item 
+Text direction context sub- menu item 
+ӘдеттегілерLeft to Right context menu item 
+ЕндіруLabel for only item in menu that appears when clicking on the search field image, when no searches have been performed 
+label for first item in the menu that appears when clicking on the search field image, used as embedded menu title 
+menu item in Recent Searches menu that empties menu s contents 
+media controller status message when the media is loading 
+media controller status message when watching a live broadcast 
+media controller element 
+media controller element 
+media controller element 
+ӨлшеміMedia controller element 
+media controller element 
+media controller element 
+media controller element 
+media controller element 
+ҚайталауMedia controller element 
+media controller element 
+media time description 
+buraya kaydırQWebPage 
+Tümünü таңдауQXml 
+geçersiz karakter 
+üstü çizili 
+Ekle 
+Dikey 
+buraya kaydırQWebPage 
+Konum 
+renk 
+çalıştır 
+olarak için 
+olarak için 
+Үнділігі:% 1 
+Дыбыстын yardımıyla жүгірткі. tamsayıların sol tıklandığındaki Kenarlığı 0%, sağ шеті% 1 
+Үні Sil 
+ses орындау% 1 істемейді.% 2 olarak ауысты. 
+şu bulunduğunuz ve önceliği жоғарырақ% 1 ses çalışma aygıtına yapar. 
+% 1 aygıtına қайтуPhonon:: 
+ҚұлақтандыруларPhonon:: 
+МузыкаPhonon:: 
+БейнеPhonon:: 
+БайланысPhonon:: 
+ОйындарPhonon:: 
+Zilde мүмкіндікNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Phonon Xine motoru 
+This string is only shown when the KDE runtime is broken. The technical term Platform Plugin might help users to FIND a solution, so it might make sense to leave that term untranslated. 
+This string is only shown when the KDE runtime is broken. The technical term Platform Plugin might help users to FIND a solution, so it might make sense to leave that term untranslated. 
+JACK Ses bağlantı aracı 
+JACK bir кідіртуі düşük ses sunucusu: Bu birden çeşitli uygulamaları bir ses aygıtına dahil alabilir ve bir aygıtı lütfen ортақтастырып sağlayabilirsiniz. Bu JACK түгелімен дыбыспен Profesyonel seviyesinde çalışma şimdi арналған, ve жобалағанда iki anahtar ilgili ойда болған: tüm клиенттерімен синхронды olarak ve katı kısa gecikme ile істеу. 
+aRts 
+aRts eski KAB ve KDE3 заманының ses sunucusu ve Video құрылымы. Bu қолдануы мақұлданбайды. 
+% 1 Aşağıdaki taşıyıcı Kayıpları açılamadı 
+Үнділік 
+Біртіндеп Geç bir 
+Біртіндеп баратын ses 
+geçiş zamanı 
+Ауысуды başlat 
+ses бұрмалаудан kaydedip ses күшейтіп қалыптандыру. Параметрлер: әдіс: 1: ауытқуларды tipleri için Arşivlenmiş дискретерді standart салмақталған toplamlarını шамалайтын bir normal kullan öntanımlı жол; 2: ауытқуларды tipleri için Arşivlenmiş дискретерді standart салмақталған toplamlarını шамалайтын bir қалыптарды kullan. 
+MRL % 1 için girdi eklentisi bulunamadı 
+belirtilen Video veri için демультиплексер eklentisi bulunamadı 
+MRL % 1 için демультиплексер eklentisi bulunamadı 
+Xine ағынды құралмай başlatılamadı. 
+Жарамды ses veya görüntü çıkışı yolu табылмай çalışma çalıştırılamadı 
+geçiş bir 
+geçerli ses 
+Біртіндеп баратын ses 
+geçiş уақыты, mili saniye 
+bu aygıt şu anda kullanılabilir жекізбеуде kapalı veya sürücüsü жүктелмеген. 
+sonraki құрылғылардан ilk çalışma істейтіні kullanılacak болады:% 1 

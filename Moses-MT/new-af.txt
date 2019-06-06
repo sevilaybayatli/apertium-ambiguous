@@ -1,0 +1,6300 @@
+PHP PHPLanguage 
+PicAsmLanguage 
+PikeLanguage 
+PostScriptLanguage 
+POV- RayLanguage 
+progressLanguage 
+PrologLanguage 
+PureBasicLanguage 
+PythonLanguage 
+RapidQLanguage 
+REXXLanguage 
+language 
+RenderMan RIBLanguage 
+RoffLanguage 
+RPM SpecLanguage 
+RSI IDLLanguage 
+RubyLanguage 
+R ScriptLanguage 
+SatherLanguage 
+StataLanguage 
+SchemeLanguage 
+scilabLanguage 
+SGMLLanguage 
+SieveLanguage 
+SiSULanguage 
+SMLLanguage 
+SpiceLanguage 
+SQL MySQL Language 
+SQL PostgreSQL Language 
+SQLLanguage 
+StataLanguage 
+language 
+Tcl TkLanguage 
+language 
+TI BasicLanguage 
+txt2tagsLanguage 
+UnrealScriptLanguage 
+VelocityLanguage 
+VerilogLanguage 
+VHDLLanguage 
+VRMLLanguage 
+WINE ConfigLanguage 
+xHarbourLanguage 
+XML Debug Language 
+XMLLanguage 
+x. org баптауыLanguage 
+xsltLanguage 
+XULLanguage 
+yacasLanguage 
+Yacc BisonLanguage 
+language 
+Zonnon 
+Hata:% 1 
+% 1 açılamadı 
+Hata:% 1 
+sonraki komut bulunamadı:% 1 
+Ekle... 
+Аяғына жетіп басынан бсталды 
+bulunamadı 
+Satır sayısı 
+Satır sonu 
+Кез- bir karakter satır аяқтауынан diğer 
+bir кездесу 
+Sıfırı ya кездесу 
+Sıfırı veya bir kez кездесу 
+Топ, қармап alınıyor 
+veya 
+karakter Kitaplığı 
+tam Eşleştirme bağ 
+referans 
+satır Sonu 
+sekme 
+kelime sınırı 
+Цифр 
+Цифр değil 
+boş Kullanımını satır аяқтауынан diğer 
+boş Kullanımını olmayan satır аяқтауынан diğer 
+Сөз- karakter әріпті- цифрлыққа _ жалғаған 
+Сөз- karakter değil 
+Сегіздікті karakter da den 377 2^8- 1 
+Оналтылықты karakter da den FFFF 2^16- 1 
+Tersbölü 
+Топ, қармаудан olmayan 
+Ілгері tarayacaktır. 
+Теріс tarayacaktır. 
+küçük harfler haline айналдыруды başlangıç 
+büyük harf için айналдыруды başlangıç 
+айналдыруды bitiş 
+Алмастырудың sayısı Tümünü Değiştir için 
+& Меңзерден başlayarak 
+& Tümünü vurgula 
+sadece Seçimi 
+& Yoksay 
+& Bölüm: 
+yazım Denetimi меңзерден бастап... 
+Меңзерден başlayarak İleri belge İmla Denetimi 
+Seçili yazım denetleniyor... 
+seçilen metin İmla Denetimi 
+% 4 hata oluştu% 1 dosyası % 2 % 3 Ucu bulunamadı 
+% 1 açılamadı 
+Қателер! 
+Hata:% 1 
+Anahtar kelime 
+veritabanı türü 
+Ondalık@ item: inmenu encoding sayı Мәні 
+N- дік Tamsayı 
+Açılabilir noktalı- virgül sayı 
+karakter 
+satır 
+Түсініктемесі 
+Басқалары 
+uyarı 
+Блок İşaretçisini 
+normal metin 
+% 1: Тиымды синтаксис. % 2 аттрибутына sembolik атаумен сілтеуге engellendi 
+% 1: Тиымды синтаксис.% 2 контекстің sembolik yok 
+% 1: Тиымды синтаксис.% 2 контексті sembolik атаумен сілтеуге engellendi 
+veya renklendirme Düzeni okunan талдауда alarm ve veya hata болған. 
+Kate söz için бояулағышы 
+veya renklendirme Düzeni okunan талдағанда hata болғандықтан, renklendirme etkinleştirilmedi 
+% 1: gösterilen fazla satır % 2 түсініктемесінің sınırını belirlemek mümkün başarısız 
+Hala sakla 
+% 1 dosya жүктелмеді, çünkü ve için verilmiyor. bu dosyayı için izniniz emin 
+% 1 dosyasının içeriği бинарлық, ve сақтасыңыз göndererek belirleyebilirsiniz. 
+Бинарлық dosya ашылды 
+% 1 dosyası UTF- 8 kodlama olarak açılan ancak bu geçersiz Karakterleri zaten olarak bulundu. Kaydet İçeriği бұзуы mümkün болғасын Sadece okuma durumuna ауыстырылған. dosyayı Düzenle fikirdir. veya dosyayı geçersiz кодтауымен yeniden ашыңыз veya oku- Yaz durumuna değiştir. 
+açılan UTF- 8 dosya bozulmuş 
+Бинарлық dosya Kaydet Eylemi 
+Шынымен bu Değiştirilmemiş dosyayı etmek istiyor musunuz? Дискідегі dosyaya yapılan değişiklikleri жоғалтып belirleyebilirsiniz. 
+Değiştirilmemiş dosya Kaydet Eylemi 
+Шынымен bu dosyayı etmek istiyor musunuz? Görüntüleme dosya ve diskteki dosya de Gnupg değiştirildi. Bazı деректеріңізді жоғалтып belirleyebilirsiniz. 
+Деректердің olacaktır. mümkün 
+geçerli kodlama bu құжаттағы bazı UNICODE Karakterleri yok. Шынымен bu kodlama etmek istiyor musunuz? Bazı деректеріңізді olacaktır. 
+Bir e- postalar oluşturulamadı. 
+Hala kaydetmeyi қөру 
+belge сақталмады, себебі% 1 konumuna yazma verilmiyor. bu dosyaya yazma izniniz veya disk yeterince boşluk emin 
+bu dosyayı kapatmak istediğinizden emin misiniz? Veri kaldırılabilir. 
+Бәрібір kapat 
+dosya sakla 
+kaydetme Hatası 
+dosya Diskte Değiştirilmiş 
+değişiklikleri yoksay 
+% 1 diğer program өзгертіп қойды. 
+% 1 diğer program yaratır. қойды. 
+% 1 diğer program iletiyi қойды. 
+% 1 isimli dosya zaten var. Bu yeniden gösterilsin mi? 
+dosya üzerine gösterilsin mi? 
+belgede & Sözcük Kaydırma Kullan 
+& HTML olarak Kopyala 
+geçerli metni panoya HTML biçimli Kopyala komut. 
+& HTML biçimli Aktar... 
+bu komut, geçerli belgeyi HTML kullanılana için бояулауымен saklama экспорттауға sağlar. 
+HTML olarak Dışarıya 
+c 2000- 2005 Kate Yazarları 
+Жасаушысы, renklendirme Sihirbazı 
+dosya оқылмайды: % 1 
+başarılı oluştu 
+bir karakter sağa Git 
+bir karakter Sola Git 
+& Üzerine Yaz 
+& Devingen Sözcük Kaydırma 
+sözcük Kaydırma 
+c 2000- 2005 Kate Yazarları 
+& КүәлікNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+X509 sertifikasını Aktar 
+Biçimlendirme 
+& PEM 
+& Netscape 
+& DER ASN1 
+& Metin 
+dosya adı: 
+Aktar 
+İptal 
+İç hata. kfm- devel@ kde. org Adresine хабарлаңыз. 
+SSL 
+Sertifika сұралган olasılıkla, çeviri hata. 
+dosya yazmak için açılırken hata oluştu. 
+% 1 % 2 out of% 3 биттен 
+şifreleme Bu modülde birçok KDE Apps için SSL Secure Socket Katman veri koruma TLS özelleştirebilirsiniz. içeriği sahiptir: kendi kişisel куәлігіңізді kontrol seçebilirsiniz de куәландыру servisleri seçebilirsiniz. 
+KCMCrypto 
+KDE şifreleme Modülü 
+c 2000, 2001 George Staikos 
+George Staikos 
+Carsten Pfeiffer 
+kullanılacak SSL шифрлары 
+SSL arka ucu kullanılacak шифрларды seçin. olmadıkça, kullanılacak Şifresi sunucusuna bağlantı #% 1 girdisini okuma denemesi sırasında Düzeni Kuralları етіледі. 
+Шифрлар Sihirbazı 
+sadece мықты шифрлары 
+sadece экспорттық шифрлары 
+Tümünü 
+SSL ve & girişte alarm 
+Eğer bu seçenek etkin ise, SSL kullanılacak site кіргеніңіз hakkında хабарланады 
+SSL kipten çıkarken alarm 
+Eğer seçiliyse, SSL tabanlı siteden çık tarihi ескертіледі. 
+& Шифрланбаған veriyi жіберуі önce uyar 
+Eğer seçiliyse, Şifrelenmemiş veriyi tarayıcı ile Gönder önce ескертіледі. 
+& Аралас SSL SSL olmayan Sayfaları diğer eski_ ескерілсін 
+Eğer seçiliyse, шифрланғаны ve шифрланбағаны karışık sayfaları қарағанда, alarm Düzenleyici penceresindeki mentin 
+OpenSSL paylaşılan жинағына gider yolu 
+& Сынау 
+EGD kullan 
+entropy dosyası kullan 
+EGD yolu: 
+Eğer seçiliyse, псевдокездейсоқ сандардың генераторын başlatma işlemi için OpenSSL энтропияны depolama Servisini EGD kullanılacak seçebilirsiniz. 
+Eğer seçiliyse, псевдокездейсоқ сандардың генераторын başlatma işlemi için OpenSSL келтірітлген dosyayı entropy kaynağı olarak kullanılacak seçebilirsiniz. 
+энтропияны depolama servisi oluşturan сокеттің yolunu veya entropy dosyasını girin. 
+EGD soket файылын için bunu kullanın. 
+bu liste KDE sisteminizdeki bilinen sertifikaları gösterir. Değişiklikleri için kolay басқарылады. 
+genel İsim 
+E- posta Adresi 
+Aktar... 
+& Aktar... 
+Sil 
+& Бұғатын açma 
+& Doğrula 
+Parolayı Değiştir... 
+Sertifika sahibi bilgilerini verecektir. 
+Sertifika шығарушы hakkında verecektir. 
+мерзімінің Başlangıç: 
+мерзімінің соңы: 
+Sertifika bu tarihten beri жарамды. 
+Sertifika bu Güneşe kadar жарамды. 
+MD5- дайджесті: 
+hızlı tanımlaması için kullanılacak Sertifika хэші. 
+SSL қосылғанда... 
+öntanımlı Sertifika kullan 
+& Қосылғаннан sonrası Liste 
+Sertifika kullanma 
+SSL sertifikaları бапталынбайды, çünkü bu modül OpenSSL протоколсыз ile 
+öntanımlı Eylemi 
+Ayarlar 
+sor 
+жібермеу 
+öntanımlı куәлік: 
+Хостың шындылығын değerlendiriliyor: 
+makine 
+Sertifika 
+kural 
+Хост: 
+куәлік: 
+eylem 
+Gönder 
+sor 
+жібермеу 
+& Yeni 
+bu liste KDE sisteminizdeki bilinen site ve тұлғалардың sertifikalarınızı gösterir. Değişiklikleri için kolay басқарылады. 
+Ұйым 
+seçilen Sertifika әртүрлі biçimde olarak dışa sağlar. 
+Sil 
+seçilen Sertifika listeden temizle 
+& Doğrula 
+seçilen Sertifika жарамылығын тексереді. 
+önbellek 
+Kalıcı 
+& zorlar. 
+Sertifika Sınırsız zaman kullanılacak eğlenerek, 
+Sertifika geçici kullanılacak eğlenerek, 
+Sertifika мерзімінің bitiş tarih ve zamanını ayarlar. 
+hedef 
+reddeder 
+bu Sertifika her için bunu seçin. 
+bu Sertifika her reddeder için bunu seçin. 
+Өсы Sertifika bir e. қабылдау- қабылдамауын сұралу için bunu seçin. 
+bu liste KDE sisteminizdeki bilinen куәліктік шығарушы Servisleri gösterir. Değişiklikleri için kolay басқарылады. 
+Ұйымдар Birimi 
+geri 
+сайтты imzalamak için al 
+E- posta imzalamak için kullan 
+Кодты kullan 
+& Yarı İmzalanmış Sertifika ve bilinmeyen куәліктеуқызметі кездескенде uyar 
+& kullanım Tamamlanmış Sertifika кездескенде uyar 
+Geriye Al ve alınmış Sertifika кездескенде uyar 
+bu тексеруден өтпей fırsatta de sertifikaları қабылданатынсайттар тізімделген. 
+& Ekle 
+bu seçenekler бапталынбайды, çünkü bu modül OpenSSL протоколсыз ile 
+OpenSSL 
+Куәліктеріңіз 
+doğrulama 
+eşit SSL sertifikaları 
+SSL İmza postanın 
+Тексеріс Seçenekleri 
+Eğer bir anahtar bölüm seçili değilse, tüm SSL çalışmaz. 
+SSL шифрлары 
+Sertifika açılamadı. 
+Sertifika алудың hata. 
+Sertifika тексеруден başarılı. 
+Sertifika тексеруден өтпей geçersiz olarak емсептелуі olmalıdır. 
+Sertifika parola 
+Sertifika parola 
+Sertifika dosyası yüklenmesi başarısız oldu. Diğer парольмен көреміз mi? 
+diğer parola 
+oluşturma 
+Farklı bir Sertifika var. Üzerine жазуғыңыз istiyor musunuz? 
+Değiştir 
+Sertifika parola: 
+% 1 için parola 
+Декодтау hata oluştu. Lütfen көріңіз: 
+Dışarıya hata. 
+Sertifika ЕСКІ parola: 
+Sertifika yeni parola 
+bu İmza иесінің sertifikası değil. 
+İmza иесінің sertifikası zaten var. 
+Sertifika dosyası yüklenmeyecek. 
+bu Sertifika KMail de kullanacak şekilde ayarlar. Bu етіп жасағыңыз istiyor musunuz? 
+kullanılacak Yap 
+kullanılacak belirleme. 
+Kleopatra uygulaması çalıştırılamadı. kdepim paketinin Ayarla veya güncelleme gerekir. 
+bu eylem sizin куәліктеріңіздің listesini öntanımlı KDE куәліктеріне çevirir. bu iptal қайтуға verilmiyor. sonrasında anahtarlara ihtiyaç istiyor musunuz? 
+Аударылсын 
+OpenSSL yüklenirken hata oluştu. 
+libssl bulunamadı veya yüklenemedi. 
+libcrypto bulunamadı veya yüklenemedi. 
+OpenSSL başarıyla yüklendi. 
+entropy dosya yolu: 
+Дербес SSL 
+Серверлік SSL 
+S MIME 
+PGP 
+gpg 
+Дербес SSL талабы 
+Серверлік SSL талабы 
+Netscape SSLServer certificate authority 
+Серверлік Sertifika шығарушыPersonal certificate authority 
+Дербес Sertifika шығарушыSecure MIME certificate authority 
+S MIME Sertifika шығарушыNo kullanılarak on List 
+ЖоқSelect Time and Date 
+tarih ve zamanını таңдауSet Hours of Time 
+Сағат: Set Minutes of Time 
+Минут: Set Seconds of Time 
+Секунд: 
+Sertifika Oluşturma Sihirbazı 
+Sertifika tipi: 
+anahtar izi 
+anahtar dizisi değerlendiriliyor: 
+ülke коды: 
+eyalet уәлаяты: 
+Шаһар: 
+Ұйым adı: 
+Ұйым bölüm e yükle: 
+sunucu tam makine adı: 
+E- posta adresi: 
+Жарамды күндер: 
+otomatik қолтаңбалаған 
+дайджесті: 
+takma adı: 
+RSA yerine DSA kullan 
+Мықтылығы, бит: NAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+gorkem@ kde. org 
+жібермеу 
+öntanımlı kimlik Sınama sertifikası 
+Қаңof February 
+Ақпof March 
+Науof April 
+Сәуof May short 
+Mayıs 
+Мауof July 
+Шілof August 
+Тамof September 
+Қырof October 
+Қазof November 
+Қарof December 
+Жел 
+Ocak 
+Ақпан 
+Наурыз 
+Сәуірof May long 
+Маусым 
+Temmuz 
+Тамыз 
+Қыркүйек 
+Қазан 
+13 Nisan 2002 
+ЖелтоқсанJanuary 
+ҚаңFebruary 
+АқпMarch 
+НауApril 
+NisMay short 
+Mayıs 
+МауJuly 
+ШілAugust 
+ТамSeptember 
+ҚырOctober 
+ҚазNovember 
+ҚарDecember 
+Жел 
+Ocak 
+АқпанMarch long 
+Наурыз 
+СәуірMay long 
+Маусым 
+ШілдеAugust long 
+Тамыз 
+Қыркүйек 
+Қазан 
+13 Nisan 2002 
+ЖелтоқсанMonday 
+ДсTuesday 
+СсWednesday 
+СрThursday 
+БсFriday 
+ЖмSaturday 
+СнSunday 
+Paz 
+Pzt 
+Sal 
+Çrş 
+Prş 
+Cum 
+Cts 
+ЖексенбіIndian Ulusal month 1 - ShortNamePossessive 
+ЧайIndian Ulusal month 2 - ShortNamePossessive 
+ВайIndian Ulusal month 3 - ShortNamePossessive 
+ЖайIndian Ulusal month 4 - ShortNamePossessive 
+АсаIndian Ulusal month 5 - ShortNamePossessive 
+СраIndian Ulusal month 6 - ShortNamePossessive 
+БхаIndian Ulusal month 7 - ShortNamePossessive 
+АзуIndian Ulusal month 8 - ShortNamePossessive 
+КарIndian Ulusal month 9 - ShortNamePossessive 
+АгрIndian Ulusal month 10 - ShortNamePossessive 
+ПауIndian Ulusal month 11 - ShortNamePossessive 
+МагIndian Ulusal month 12 - ShortNamePossessive 
+ПхаIndian Ulusal month 1 - LongNamePossessive 
+ЧайтраIndian Ulusal month 2 - LongNamePossessive 
+ВайсагхIndian Ulusal month 3 - LongNamePossessive 
+ЖайстхаIndian Ulusal month 4 - LongNamePossessive 
+АсадхаIndian Ulusal month 5 - LongNamePossessive 
+СраванаIndian Ulusal month 6 - LongNamePossessive 
+БхадрападIndian Ulusal month 7 - LongNamePossessive 
+АзуинIndian Ulusal month 8 - LongNamePossessive 
+КартикIndian Ulusal month 9 - LongNamePossessive 
+АграхайанаIndian Ulusal month 10 - LongNamePossessive 
+ПаузIndian Ulusal month 11 - LongNamePossessive 
+МагхIndian Ulusal month 12 - LongNamePossessive 
+ПхалгунIndian Ulusal month 1 - ShortName 
+ЧайIndian Ulusal month 2 - ShortName 
+ВайIndian Ulusal month 3 - ShortName 
+ЖайIndian Ulusal month 4 - ShortName 
+АсаIndian Ulusal month 5 - ShortName 
+СраIndian Ulusal month 6 - ShortName 
+БхаIndian Ulusal month 7 - ShortName 
+АзуIndian Ulusal month 8 - ShortName 
+КарIndian Ulusal month 9 - ShortName 
+АгрIndian Ulusal month 10 - ShortName 
+ПауIndian Ulusal month 11 - ShortName 
+МагIndian Ulusal month 12 - ShortName 
+ПхаIndian Ulusal month 1 - LongName 
+ЧайтраIndian Ulusal month 2 - LongName 
+ВайсагхIndian Ulusal month 3 - LongName 
+ЖайстхаIndian Ulusal month 4 - LongName 
+АсадхаIndian Ulusal month 5 - LongName 
+СраванаIndian Ulusal month 6 - LongName 
+БхадрападIndian Ulusal month 7 - LongName 
+АзуинIndian Ulusal month 8 - LongName 
+КатрикIndian Ulusal month 9 - LongName 
+АграхайанаIndian Ulusal month 10 - LongName 
+ПаузIndian Ulusal month 11 - LongName 
+МагхIndian Ulusal month 12 - LongName 
+ПхалгунIndian Ulusal weekday 1 - ShortDayName 
+СомIndian Ulusal weekday 2 - ShortDayName 
+МанIndian Ulusal Sonu ShortDayName 
+БудIndian Ulusal weekday 4 - ShortDayName 
+ГурIndian Ulusal weekday 5 - ShortDayName 
+СукIndian Ulusal weekday 6 - ShortDayName 
+СанIndian Ulusal weekday 7 - ShortDayName 
+РавIndian Ulusal weekday 1 - LongDayName 
+СомавараIndian Ulusal weekday 2 - LongDayName 
+МангалваIndian Ulusal Sonu LongDayName 
+БудхавараIndian Ulusal weekday 4 - LongDayName 
+ГурувараIndian Ulusal weekday 5 - LongDayName 
+СукравараIndian Ulusal weekday 6 - LongDayName 
+СанивараIndian Ulusal weekday 7 - LongDayName 
+Радивара 
+Мұхаррам 
+Сафар 
+Рабиғул- аууал 
+Рабиғул ахир 
+Жумада аууал 
+Жумада ахир 
+Ражаб 
+Шағбан 
+Рамазан 
+Шәууәл 
+Зулқағда 
+Зулқижа 
+Рабиғул аууал 
+Рабиғул ахир 
+Жумада аууал 
+Жумада ахир 
+Зулқағда 
+Зулқижа 
+Мұхаррам 
+Сафар 
+Рабиғул аууал 
+Рабиғул ахир 
+Жумада аууал 
+Жумада ахир 
+Ражаб 
+Шағбан 
+Рамазан 
+Шәууәл 
+Зулқағда 
+Зулқижа 
+Рабиғул аууал 
+Рабиғул ахир 
+Жумада аууал 
+Жумада ахир 
+Зулқағда 
+Зулқижа 
+Pzt 
+Сс 
+АрбEthiopian weekday 6 - LongDayName 
+Бс 
+Жм 
+Сб 
+Жс 
+Pzt 
+Sal 
+Çrş 
+Prş 
+Cum 
+Cts 
+Жексенбіof Farvardin short 
+Ферof Ordibehesht short 
+Өрдof Khordad short 
+Хорof Tir short 
+Тир 
+Морof Shahrivar short 
+Шахof Mehr short 
+Меһof Aban short 
+Абаof Azar short 
+Азаof Dei short 
+Дәй 
+Бахof Esfand short 
+ӘсфFarvardin short 
+ФерOrdibehesht short 
+ӨрдKhordad short 
+ХорTir short 
+Тир 
+МорShahrivar short 
+ШахMehr short 
+МеһAban short 
+АбаAzar short 
+АзаDei short 
+Дәй 
+БахEsfand 
+Әсф 
+Фервердин 
+Өрдібеһишт 
+Хордадof Tir long 
+Мордад 
+Шахривар 
+Меһр 
+Абан 
+Азарof Dei long 
+Бахман 
+Әсфендармуз 
+Фервердин 
+Өрдібеһишт 
+ХордадTir long 
+Мордад 
+Шахривар 
+Меһр 
+Абан 
+АзарDei long 
+Бахман 
+ӘсфендармузDo shanbe short 
+2shSe shanbe short 
+3shChahar shanbe short 
+4shPanj shanbe short 
+5shJumee short 
+ЙомShanbe short 
+снYek- shanbe short 
+1sh 
+Pzt 
+Sal 
+Çrş 
+Prş 
+Cum 
+Cts 
+Paz 
+Тишрей 
+Хешван 
+Кислев 
+Тевет 
+Шват 
+Адар 
+Нисан 
+Ияр 
+Сиван 
+Тамуз 
+Ав 
+Елул 
+Адар I 
+Адар II 
+Тишрей 
+Хешван 
+Кислев 
+Тевет 
+Шват 
+Адар 
+Нисан 
+Ияр 
+Сиван 
+Тамуз 
+Ав 
+Елул 
+Адар I 
+Адар II@ item Calendar system 
+Копт@ item Calendar system 
+Эфиопиялық@ item Calendar system 
+Григориан@ item Calendar system 
+Григориан қабылданғаннан önce @ item Calendar system 
+Яһуди@ item Calendar system 
+Хижра@ item Calendar system 
+Hindistan ұлттық@ item Calendar system 
+Желали@ item Calendar system 
+Юлиан@ item Calendar system 
+geçersiz takvim türü 
+Bugün@ option tomorrow 
+КешеCoptic month 1 - ShortNamePossessive 
+ТотCoptic month 2 - ShortNamePossessive 
+ПеоCoptic month 3 - ShortNamePossessive 
+ХатCoptic month 4 - ShortNamePossessive 
+КияCoptic month 5 - ShortNamePossessive 
+ТобCoptic month 6 - ShortNamePossessive 
+МесEthiopian month 2 - ShortNamePossessive 
+ПарCoptic month 8 - ShortNamePossessive 
+ПамCoptic month 9 - ShortNamePossessive 
+ПасCoptic month 10 - ShortNamePossessive 
+ПаоCoptic month 11 - ShortNamePossessive 
+ЕпеCoptic month 12 - ShortNamePossessive 
+МесCoptic month 13 - ShortNamePossessive 
+КожCoptic month 1 - LongNamePossessive 
+ТотCoptic month 2 - LongNamePossessive 
+ПеопиCoptic month 3 - LongNamePossessive 
+ХаторCoptic month 4 - LongNamePossessive 
+КиякCoptic month 5 - LongNamePossessive 
+ТобиCoptic month 6 - LongNamePossessive 
+МесхирCoptic month 7 - LongNamePossessive 
+ПаремхотепCoptic month 8 - LongNamePossessive 
+ПамутиCoptic month 9 - LongNamePossessive 
+ПасхонсCoptic month 10 - LongNamePossessive 
+ПаониCoptic month 11 - LongNamePossessive 
+ЕпепCoptic month 12 - LongNamePossessive 
+МесориCoptic month 13 - LongNamePossessive 
+Кожи наботCoptic month 1 - ShortName 
+ТотCoptic month 2 - ShortName 
+ПеоCoptic month 3 - ShortName 
+ХатCoptic month 4 - ShortName 
+КияCoptic month 5 - ShortName 
+ТобCoptic month 6 - ShortName 
+МесEthiopian month 2 - ShortName 
+ПарCoptic month 8 - ShortName 
+ПамCoptic month 9 - ShortName 
+ПасCoptic month 10 - ShortName 
+ПаоCoptic month 11 - ShortName 
+ЕпеEscapeCoptic month 12 - ShortName 
+МесCoptic month 13 - ShortName 
+КожCoptic month 1 - LongName 
+ТотCoptic month 2 - LongName 
+ПеопиCoptic month 3 - LongName 
+ХаторCoptic month 4 - LongName 
+КиякCoptic month 5 - LongName 
+ТобиCoptic month 6 - LongName 
+МесхирCoptic month 7 - LongName 
+ПаремхотепCoptic month 8 - LongName 
+ПамутиCoptic month 9 - LongName 
+ПасхонсCoptic month 10 - LongName 
+ПаониCoptic month 11 - LongName 
+ЕпепCoptic month 12 - LongName 
+МесориCoptic month 13 - LongName 
+Кожи наботCoptic weekday 1 - ShortDayName 
+ПесCoptic weekday 2 - ShortDayName 
+ПсхCoptic Sonu ShortDayName 
+ПефCoptic weekday 4 - ShortDayName 
+ПтиCoptic weekday 5 - ShortDayName 
+ПсоCoptic weekday 6 - ShortDayName 
+ПсаАялдатуCoptic weekday 7 - ShortDayName 
+ТкиCoptic weekday 1 - LongDayName 
+ПеснауCoptic weekday 2 - LongDayName 
+ПсхоментCoptic Sonu LongDayName 
+ПефтуCoptic weekday 4 - LongDayName 
+ПтиуCoptic weekday 5 - LongDayName 
+ПсоуCoptic weekday 6 - LongDayName 
+ПсабатонCoptic weekday 7 - LongDayName 
+ТкириакеEthiopian month 1 - ShortNamePossessive 
+ТекEthiopian month 3 - ShortNamePossessive 
+ХедEthiopian month 4 - ShortNamePossessive 
+ТахEthiopian month 5 - ShortNamePossessive 
+ТерEthiopian month 6 - LongNamePossessive 
+ЯкаEthiopian month 7 - ShortNamePossessive 
+МагEthiopian month 8 - ShortNamePossessive 
+МияEthiopian month 9 - ShortNamePossessive 
+ГенEthiopian month 10 - ShortNamePossessive 
+СенEthiopian month 11 - ShortNamePossessive 
+ХамEthiopian month 12 - ShortNamePossessive 
+НехEthiopian month 13 - ShortNamePossessive 
+ПагEthiopian month 1 - LongNamePossessive 
+МескеремEthiopian month 2 - LongNamePossessive 
+ТакуемтEthiopian month 3 - LongNamePossessive 
+ХедарEthiopian month 4 - LongNamePossessive 
+ТахзасEthiopian month 5 - LongNamePossessive 
+ЯкатитEthiopian month 7 - LongNamePossessive 
+МагабитEthiopian month 8 - LongNamePossessive 
+МиязаEthiopian month 9 - LongNamePossessive 
+ГенботEthiopian month 10 - LongNamePossessive 
+СенеEthiopian month 11 - LongNamePossessive 
+ХамлеEthiopian month 12 - LongNamePossessive 
+НехазеEthiopian month 13 - LongNamePossessive 
+ПагументEthiopian month 1 - ShortName 
+ТекEthiopian month 3 - ShortName 
+ХедEthiopian month 4 - ShortName 
+ТахEthiopian month 5 - ShortName 
+ТерEthiopian month 6 - LongName 
+ЯкаEthiopian month 7 - ShortName 
+МагEthiopian month 8 - ShortName 
+МияEthiopian month 9 - ShortName 
+ГенEthiopian month 10 - ShortName 
+СенEthiopian month 11 - ShortName 
+ХамEthiopian weekday 5 - ShortDayName 
+НехEthiopian month 13 - ShortName 
+ПагEthiopian month 1 - LongName 
+МескеремEthiopian month 2 - LongName 
+ТекуемтEthiopian month 3 - LongName 
+ХедарEthiopian month 4 - LongName 
+ТахзасEthiopian month 5 - LongName 
+ЯкатитEthiopian month 7 - LongName 
+МагабитEthiopian month 8 - LongName 
+МиязаEthiopian month 9 - LongName 
+ГенботEthiopian month 10 - LongName 
+СенеEthiopian month 11 - LongName 
+ХамлеEthiopian month 12 - LongName 
+НехазеEthiopian month 13 - LongName 
+ПагуменEthiopian weekday 1 - ShortDayName 
+СегEthiopian weekday 2 - ShortDayName 
+МакEthiopian Sonu ShortDayName 
+РобEthiopian weekday 4 - LongDayName 
+КедEthiopian weekday 7 - ShortDayName 
+ЕхуEthiopian weekday 1 - LongDayName 
+СегноEthiopian weekday 2 - LongDayName 
+МаксегноEthiopian Sonu LongDayName 
+ХамусEthiopian weekday 5 - LongDayName 
+КедамеEthiopian weekday 7 - LongDayName 
+Ехуд 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+өңдегішін Seç 
+bu қолданбада genellikle kullanılacak Metin Düzenleyici Bileşeni seçin. Eğer Sistemdeki öntanımlı düğmesine seçerseniz, uygulama Sistem Ayarlarından değişikliklerini seçmenize ереді. Diğer таңдауларыңыз bu баптауыңызды елемейді. 
+Kaynak: 
+? 
+& Sonraki göre Sıralama: 
+buradan aranacak сөйлемді girin 
+Ынтымақтастық 
+yeni нәрселерімен бөлісу 
+Yazar: 
+E- posta adresi: 
+adı: 
+Sürüm: 
+Лицензиясы: 
+GPL 
+LGPL 
+BSD 
+Қарап- çık Adres: 
+Dil: 
+yukarıdaki metin hangi тілде? 
+İndirilen беретіңізді сипаттаңыз. 
+Тұжырымдамасы: 
+bu çakışmayı bilgileri çözün. 
+Провайдері: 
+Kategori: 
+en yeni olayı 
+Ұпайы 
+Жиі bir алынатындар 
+kurulu 
+sonraki göre Sıralama: 
+Ara 
+sunucuya gönderilecek dosya: 
+sunucu: 
+sunucu bilgilerini yükleniyor... 
+İndirilen беретінің hakkında мәліметтін ағылшынша doldurun. 
+gönderiliyor 
+Farklı bir кескіні: 
+Açıklama: 
+bu nesnenin бағасын Ayarla 
+Бағасы: 
+Формасы 
+açıklama 
+önizleme 
+Бірлестігі 
+Ayarla 
+Güncelle 
+Орнатудан yazdır 
+Ақтаратын ek домендер 
+Ақтаратын uzak yerel olmayan домендер. 
+parola: 
+& Onay: 
+Паролінің мықтылығы: 
+Парольдеріңіз ile sonlandırıldı 
+Görev 
+Тапсырманы Yönetimi 
+Planlanan & Yazdırma: 
+_% The settlement date must мәліметі: 
+görevin артықшылығы: 
+görevin Seçenekleri 
+parametre 
+değer 
+Sayfalar 
+dönen Парақ 
+1@ action: button Clear current text in the line edit 
+6 
+2 
+9 
+4 
+16 
+resimler беттеріBanner page at start 
+başlangıç 
+Аяқтау@ action 
+Sayfa тамғасы 
+Sayfa kenarlığı: 
+Айналық Sayfalar 
+Беттерді Dikey айналықты tanımlanmış 
+tuş тіркесімдердің isimlerini örn. Kopyala olarak veya тіркесімдерінің өздерін örn. Ctrl+C olarak girerek etkileşimli olarak hızlandırır. 
+buradan bir kısayol haritalamaları көрсетілген, gelir bir eylem başlığı örn. Kopyala ve sağ bir tuş veya tuş тіркесімінің örneğin Ctrl+V arasındaki сәйкестік. 
+eylem 
+kısayol 
+балама 
+genel 
+genel балама 
+fare düğme mesafe 
+fare жүріс mesafe 
+kullanıcı ve parolayı girin. 
+Kullanıcı: 
+Anonim 
+Etkialanı: 
+parola strong Tanımla 
+Seçenekleri 
+çalışma & sırasında yazım тексерісі жүргізілсін 
+& Еемле автотексеруі öntanımlı kullan 
+& Geniş harfli sözcük yoksay 
+Біріккен sözcük yoksay 
+öntanımlı тіл: 
+geçerli сөздікте ve işlev olmayanlar. Geçersiz filtrelere ne bu bilinmeyen kelime olarak bu шет тіліндегі kelime olmalıdır. de olabilir. Емлесі bir kelime olarak санасаңыз, Сөздікке Ekle düğmesine басуға seçebilirsiniz. Eğer sözcük aynı қалдырып ancak сөздікке қоспауды ұйғарсаңыз Yoksay veya Tümü yoksay e tıklayın. Eğer de bu yanlış Yazılmış kelime ise дұрысын aşağıdaki listeden seçin veya elle ya Değiştir veya Tümü Değiştir düğmesine tıklayın. 
+bilinmeyen diskteki 
+bilinmeyen kelime 
+yanlış Yazılmış 
+Тексерілмек belge тілін seçin. 
+& Dil: 
+bilinmeyen kelime кездескен metin үзіндісі. 
+buradan bilinmeyen kelime кездескен metin үзіндісі gösteriliyor. bu үзінді yeterince Açma belgeyi ve metin yeterince kadar tarama yükle ve kullan. yazım тексеруге geri dönün. 
+... yanlış Yazılmış kelime кездескен контекстінде... 
+bilinmeyen kelime bulundu. Bilinmeyen olarak саналған çünkü ilgili сөздікте Bu емлесі bir kelime olarak ұйғарып, келешекте tamamlayabilirsiniz. оралмау için buraya tıklayın. Сөзді сөздікке қоспай aynı bırakmak için Yoksay veya Tümü yoksay e basın. 
+сөздікке Ekle 
+Ұсыныс Listesi 
+Eğer kelime емлесінде hata ise için önerilen listeden bir yazım kullanın veya ve elle düzeltin. Sadece bu sözcük hatalar için Değiştir düğmesini басыңыз, fakat bu kelime tüm кездескендерін hatalar için Tümü Değiştir düğmesine tıklayın. 
+için önerilen sözcükler 
+Eğer kelime yanlış Yazılmış ise buraya geçersiz yazım girin, veya aşağıdaki listeden ekleyin. Содан кейін, bu sözcük hatalar için Değiştir düğmesini басыңыз, fakat bu kelime tüm кездескендерін hatalar için Tümü Değiştir düğmesine tıklayın. 
+& Birlikte & Değiştir: 
+Тілді Seç 
+Ұсыну 
+kelime bu кездескенін yukarıdaki alanda belirtilen olarak Değiştir için üzerine tıklayın. 
+& Değiştir 
+bilinmeyen metin tüm кездесулерді жоғарығы Düzenle satırına gösterilen olarak Değiştir için buraya tıklayın. 
+& Tümü Değiştir 
+Sözcükleri bu olarak bırakmak için buraya tıklayın. Bu ат, қысқарту, шет Dili сөзі veya Diğer, сөздікке жазылмайтын kelime кездескенде kullanışlıdır. 
+& Yoksay 
+kelime tüm кездескендерін bu olarak bırakmak için üzerine tıklayın. Bu ат, қысқарту, шет Dili сөзі veya Diğer, сөздікке жазылмайтын kelime кездескенде kullanışlıdır. 
+Tümü yoksay 
+Автотүзету 
+& Dosya 
+& Ойын 
+& Өңдеу@ title: menu Game move 
+& Taşı 
+& Görünüm 
+git 
+& Yer İmleri 
+Araçlar 
+& Ayarlar 
+& Yardım 
+ana Araç 
+ana 
+Қосалқы: 
+KHTML регрессия Bonjour Programı 
+регрессия Bonjour Çıktısı 
+регрессия Bonjour процесің Duraklat Devam 
+Duraklat 
+регрессия Bonjour басталмай тұрып Geçmişi yazılabilir dosyayı seçebilirsiniz. 
+çıktı Dosyası... 
+регрессия Bonjour durum 
+HTML çıkışı Göster 
+Ayarlar 
+Sınama 
+sadece JS сынақтарын Çalıştır 
+sadece HTML сынақтарын Çalıştır 
+hata ayıklama çıktısı бұғаталмасын 
+Xvfb пайдаланбасын 
+Сынақтарды Çalıştır... 
+bir test Çalıştır... 
+Sınama dizinini Yükle... 
+Khtml dizinini Yükle... 
+çıktı dizinini Yükle... 
+belge hakkında bilgiler@ title: group Document information 
+genel 
+Adres: 
+adı: 
+son өзгертілісі: 
+belge kodlaması: 
+HTTP Başlıklar 
+Davranış 
+JavaScript Hataları 
+bu değiştirebilirsiniz. web парақшалардағы скрипттердің Hataları gösteriliyor. Çoğu zaman bu web парақшалардағы қателер. Кейбірде Konqueror Çalıştırıcının hata. Біріншісі - парақшаның авторларына хабарлаңыз. Eğer de bu Konqueror Arka Uç Hatası için http: bugs. kde. org sitesine хабарлаңыз. Хабарда hata туғызған sorunun мысалын tanımladığınız önerilir. 
+& Kapat 
+& Temizle 
+HTML Araç Çubuğu 
+Ідейтіні: 
+& Sonraki 
+& Önceki 
+Seçenekleri 
+bu parola Kaydet? 
+& Kaydet 
+& Bu aygıtlarında asla 
+bu & ретте kaydetme 
+dosya: 
+... 
+grup Çerçeve 1 
+Белгі kaynağı 
+diğer Топ Çerçeve 
+Anahtar 
+1. eylem 
+ses & yazdır 
+için ses seçin 
+Хабарлама Açılabilir терезде göster 
+Журналын dosyaya Yaz 
+Құралды İşaretle 
+& Команданы Çalıştır 
+çalıştırılacak komutu seçin 
+Сөйлеу 
+Оқиға göründüğünde KTTS Seslendirme жжүйесі veya айтатынын girin. Eğer Өзімнің мәтінім айтылсын düğmesine seçerseniz, alanına ммәтінді girin. Мәтінде aşağıdaki kısaltmalar destekleniyor:% başlayacaktır:% e Оқиғаның adıdır% a Оқиғаны тудырған қолданба% m Uygulama жіберген mesajı 
+Оқиганың Yanıtlarını Seslendir 
+Оқиганың adını Seslendir 
+Оқиганың adını Seslendir 
+Simgeler ара- Uzaklık 
+piksel olarak Simgeler ара- қашықтығы. 
+Интерфейс бөлшегілердің Biçimi 
+Интерфес бөлшілелінің Açık adı örneğin keramik veya plastik. Тырақшасыз, әрине. 
+PC Hoparlör kullan 
+KDE Bildirim sistemi yerine PC için normal динамигін пайдалану. 
+hangi uçbirim uygulamasını kullan 
+uçbirim uygulamasını жеккенде bu терминалдың görünümde uygulaması özelliğe 
+Бірқадамды yazı 
+Бірқадамды yazı zaman bu yazı odaklanma Бірқадамды yazı таңбаларының genişlik бірыңғай. 
+sistem yazı 
+мәзірлерінің Yazıtipi 
+Қолданбалардағы мәзірлерінің yazı tipi. 
+Bağlantıları rengi 
+Жолықпаған сілтемелерінің rengi 
+Жолыққан сілтемелерінің rengi 
+görev çubuğu Yazıtipi 
+genellikle ekran төменіндегі çalışan uygulamalar ortamın çubuğunda пайдаланылатын yazitipidir. 
+Araç панелдерінің Yazıtipi 
+Экранды yakalar Kısayolları 
+pano kodları Ekle kapatılarak Kısayolları 
+bilgisayarı ek құптаусыз Kapat Kısayolları 
+önce dizinleri göster 
+dosyaları listesinde önce dizinler gösterilecek 
+Жуырда açılan URL Bağlantıları 
+Автотолтыруға пайдаланады, örneğin dosya диалогында. 
+dosya penceresinde dosya önizleme göster 
+gizli dosyaları göster 
+nokta ile Başlayan gizli dosya bu dosyaları gösterilecek Yap 
+Тездету Çubuğu göster 
+hangi ülke әдеттері göre 
+Сан, ақша, zaman tarihi nasıl Göster kullanımlı için . 
+Metni hangi bildirmeniz Göster 
+sağ sayıyı belirleyen karakter 
+елдердің ilişkisiz tamamlayabilirsiniz. karakter desteklenmiyor 
+Otomatik Başlatma dizininin yolu 
+Oturumu Başlangıçta çalıştırılacak programları dizini 
+SOCKS Desteği kullan 
+KDE Tablo alt veya sonrasında SOCKS 4 ve 5. нұсқаларын pasifleştirmenin etkinleştir 
+değiştirilmiş SOCKS Koleksiyon dosyasının 
+fare imlecinin Paneli düğmesi ерекшеленсін 
+Құрал paneli simgesinin Metni göster 
+Құрал Paneli таңбашасына dahil metnini Göster 
+Parola yazma türü 
+pencere penceresinin Boyutu 
+JS калькуляторaddition 
++Go to Settings - Advanced - Core tab. gui- path- delimiter plain 
+ACsubtraction 
+- evaluation 
+= 
+CL 
+5 
+3 
+7 
+8 
+НегізгіТерезе 
+çalıştır 
+dosya 
+Скриптті Aç 
+Скриптті Aç... 
+Ctrl+O 
+Скриптті Kapat 
+Скриптті жабу... 
+Çık@ action 
+Қолданбадан шығу... 
+çalıştır 
+Скриптті Çalıştır... 
+Мынаған kadar Çalıştır... 
+Тоқтау Noktası дейін... 
+adım 
+sonraki satıra аттау... 
+Dur 
+Қадамдап Çalıştır... 
+KJSEmbed құтаттамасын Göster 
+ThreadWeaver görevler örnekler 
+Ағындағы eylem Geçmişi жүргізілсін 
+Ағындағы eylemleri göster 
+Ағындар ұйымдастыру менеджеріне için grafik örnek 
+kalan işleri: 
+dosyaları Seç... 
+İptal 
+Duraklat 
+zaman қанша? Güncelle için tıklayın. 
+henüz bilinmiyor 
+hata 
+Hesaplama Hatası 
+Ауықым Hatası 
+bağlantı Hatası 
+sözdizimi Hatası 
+tipinin Hatası 
+URI Hatası 
+Sistemdeki öntanımlı таңдалғаны:% 1 
+Үлгілерге zaten adres defterinizde yazılabilir iletinin bilgi gerekir. Қажетті eklentisi yüklenemedi. Жүйеңізге KDEPIM Kontact paketi kurun Seçiniz 
+Қате: HOME bir ortam değişken ayarlanmamış. 
+Қате: DISPLAY bir ortam değişken ayarlanmamış. 
+KDontChangeTheHostName 
+KDE sistemini makine başlığı өзгертілгені hakkında хабарлайды 
+c 2001 Waldo Bastian 
+Waldo Bastian 
+yazar 
+ЕСКІ makine adı 
+yeni makine adı 
+KDE servisi 
+KDE servisi - қажеттілігіне сай Sycoca veritabanı жаңартады 
+Sycoca veri veritabanı Sadece doğrula 
+% 1 veritabanı oluşturulmasında Каталогқа erişim yetkilerini ve disk толып кетпегенін edin. 
+KBuildSycoca 
+% 1 veritabanı yazılamadı. Каталогқа erişim yetkilerini ve disk толып кетпегенін edin. 
+sistem баптауларының önbelleği yeniden oluşturur. 
+c 1999- 2002 KDE geliştiricileri 
+David Faure 
+Қолданбаларға güncelleme sinyali жібермеу 
+artan tazelemeyi бұғаттап, бүкілін yeniden okuma 
+dosyaların zaman Simgelerini Et 
+dosyaları тексеруді kilitle қауіпті Simgesi 
+Глобалды veritabanı Oluştur 
+Мәзірді Oluştur тексеруін sadece çalışma 
+Мәзірдің Kimliği hata ayıklama için gözlem 
+жым- жырт kipte - stderr ve pencere Yok yap 
+Істің gösterici zaman жым- жырт kipte ise de 
+KDE Ayarları yeniden жүктелуде, bekleyin... 
+KDE yapılandırma Yöneticisi 
+KDE i yeniden yüklemeyi қалайсызба? Reload KDE refresh rate configuration messagebox 
+& Yeniden Yükle @ action 
+oluşturma 
+yapılandırma yetersiz başarıyla yeniden yüklendi. 
+PTY- den hata оқылым 
+PTY- ye hata жазылым 
+PTY zaman aşımına tamamlandı 
+PTY Aç Hatası 
+kde4- config 
+Ayarla жолдарын için küçük program 
+c 2000 Stephan Kulow 
+Баяғылармен үйлесу için Yapılacak 
+Компиляцияланған KDE жиындардың prefix параметры 
+Компиляцияланған KDE жиындардың exec_ prefix seçeneği 
+Компиляцияланған жиындар satırı suffix seçeneği 
+home айнымалыдағы dosyalar yazma konumunu gösteren prefix 
+Компиляцияланған KDE жиындардың sürüm Metni 
+zaten KDE kaynak Tipleri 
+kaynak lerini arama yolu 
+-- path параметрінде iyi, kaynakları түрінінде dosyayı Bul 
+kullanıcı yolu: desktop_BAR_autostart_BAR_document 
+kaynak dosyaları Ayarla yolunu gösteren prefix 
+Qt Ayarla Öneki 
+Qt бинарлықтар kurulu konum 
+Qt жиындар kurulu konum 
+Qt плагиндер kurulu konum 
+Қолданбалардың menülerini . desktop Dosyaları 
+Otomatik Başlatma dizinlerini 
+Кэштегі Bilgi örn. favicon, web Sayfaları 
+kdehelp çalıştırılacak CGI скриптері 
+yapılandırma Dosyaları 
+uygulamalar verisini kaydedileceği boşluk 
+Көңіл durum İşaretler 
+prefix bin katoloğundaki çalıştırılabilir Dosyalar 
+HTML için belgelendirme 
+Simgeler 
+yapılandırma açıklamalar Dosyaları 
+Koleksiyon Dosyalar 
+Includes Headers 
+KLocale- ye için аударым Dosyaları 
+MIME Tipleri 
+жүктелетін modülleri 
+Баяғы bitmap суреттері 
+Qt Eklentileri 
+Қызметтер 
+servis Tipleri 
+uygulama дыбыстары 
+şablonlar 
+Тұсқағаздар 
+XDG uygulama Menüsü . desktop Dosyaları 
+XDG Menüsü için Tanımla . directory Dosyaları 
+XDG Simgeler 
+XDG MIME Tipleri 
+XDG Menüsü için Konumu . menu Dosyalar 
+XDG Otomatik Başlatma dizini 
+geçici dosyalar bu makine ve kullanıcı de 
+UNIX Sockets bu makine ve kullanıcı de 
+% 1 - bilinmeyen Tür 
+% 1 - userpath satırı bilinmeyen Tür 
+hedef dosya adı берілмеген. 
+dosya zaten var. 
+мақсаттаған каталогқа рұқсаттарыңыз bilgi. 
+geçici dosya açılamadı. 
+Дискімен Eşzamanlaması çalıştırılamadı 
+dosya adını Düzenle bir hata oluştu. 
+hiçbir hava durumu D- Bus sunucu Dizimi көмекшісінен bozuk veri келді% 1% 2 
+% 1 Kitaplığı bulunamadı 
+Талаптарға сай servis bulunamadı. 
+servis Koleksiyon dosyayı beraberinde етпеді, Library değer. desktop dosyası yok 
+Koleksiyon uygulamalar için gerekli фабриканы Aktarma етпеді. 
+bu фабрика verilen türünde uygulamalar құруын desteklemiyor. 
+KLibLoader: Bilinmeyen hata 
+% 2 uygulama % 1 eklentisi konumlandırılamadı 
+gösterilen servis geçersiz 
+% 1 servisi Koleksiyon dosyası beraberinde етпейді veya Library seçeneği Haberi tüm кеткен: 
+% 1 жиынында KDE 4 uyumlu фабрикасы yok. 
+% 1 eklentisi үйлеспейтін KDE ayarını dosyası kullanıyor % 2. 
+Жүйеңіздің yöneticinize başvurun. 
+% 1 yapılandırma dosyası kaydedilemiyor. 
+операцияның Desteği жоқ1: the unknown socket address family number 
+% 1 bilinmeyen шоғырSocket error code NoError 
+hata yok 
+adını tarayacaktır. қатесіSocket error code AddressInUse 
+adres zaten ғойSocket error code AlreadyBound 
+сокеті байланыстырған ғойSocket error code AlreadyCreated 
+сокеті oluşturulma ғойSocket error code NotBound 
+soket байланыстырылмағанSocket error code NotCreated 
+soket кұрылмағанSocket error code WouldBlock 
+операция бұғатталадыSocket error code ConnectionRefused 
+bağlantı қабылданбадыSocket error code ConnectionTimedOut 
+İlgili zaman aşımına біттіSocket error code InProgress 
+операция çalışıyor ғойSocket error code NetFailure 
+ağ жаңылысSocket error code NotSupported 
+операцияның Desteği жоқSocket error code Timeout 
+операцияны zaman aşımına біттіSocket error code UnknownError 
+bilinmeyen veya beklenmeyen қатеSocket error code RemotelyDisconnected 
+uzak makine bağlı жаптыSSL error 
+hata жоқSSL error 
+күәлік берушісінің күәлігі geçersiz емесSSL error 
+күәлік ескіргенSSL error 
+күәлік geçersiz емесSSL error 
+sistem Ayarları hiçbir güvenilir күәлік күәлік берушісімен расталмағанSSL error 
+Күәліктін күші жойылғанSSL error 
+күәлік bu amaca hizmet жарамайдыSSL error 
+күәлік берушісінің kök күәлігі bu amaca hizmet жарамайдыSSL error 
+SSL error 
+Қарсы kenara sistem Ayarları hiçbir күәлігін sahip жоқSSL error 
+күәлік bu sunucuya жарамайдыSSL error 
+күәлік alt bir себептерінен тексерілмедіSSL error 
+күәлік dizisi çok ұзынSSL error 
+bilinmeyen hata 
+düğüm adı için adres шоғырының desteklenmeyen 
+атуларды айыруының geçici Başarısız 
+ai_ flags değer geçersiz 
+isimler айыруының жөнделмейтін Başarısız 
+ai_ family desteklenmeyen 
+bellek арнау Başarısız 
+bu düğüm adı hiç adres ile sonlandırıldı 
+bilinmeyen isim veya servis 
+servname bu ai_ socktype türü için desteklenmiyor 
+ai_ socktype tipinin desteklenmeyen 
+sistem hatası 
+tanımladığınız сокеттің yolu geçersiz 
+soket операцияның desteklenmeyen 
+bağlantı başarısız 
+izin yok 
+Bağlanmak zaman saati aşıldı 
+adres zaten zaten var 
+geçersiz dizi 
+bu dosya veya dizin yok 
+dizin yok 
+sadece için için dosya sistemi 
+bilinmeyen soket Hatası 
+İstenilen шоғырының bu makine adı için desteklenmeyen 
+geçersiz bayraklar 
+İstenilen шоғырдың desteklenmeyen 
+İstenilen servis сокеттің bu tipinin desteklenmeyen 
+İstenilen сокеттің tipinin desteklenmeyen 
+bilinmeyen қате1: the i18n ed system error code, from errno 
+sistem кате:% 1 
+сұраудан bağlantı reddedildi 
+uzak sunucuya қосылуын zaman aşımı өтті 
+NEC SOCKS İstemcisi 
+Dante SOCKS İstemcisi 
+x- sunucu displayname дисплейін kullan 
+QWS displayname дисплейін kullan 
+belirtilen sessionId göre uygulama geri 
+Дисплейі 8- bit ise uygulama kendi renk tablosunu kurar 
+Дисплейі 8- bit ise QApplication:: ManyColor kipini kullanılacak uygulamalar için renk sayısı & Kısıtla 
+Qt için fare ve перенетақтаны İptal kilitlemenize Veto салады 
+жөндеушіде çalışma için - nograb paramtre қолданыңыз, fakat bu değiştirmek için - dograb 
+hata ayıklama için қадамдас Makinenizi değiştirir 
+uygulama yazı анықтайды 
+öntanımlı arkaplan rengini ve uygulama Palet kurar parlak ve қараңғы көлеңкелер sayı. 
+öntanımlı metin rengini kurar 
+öntanımlı simgelerin rengini kurar 
+uygulamanın adını kurar 
+uygulama başlık etiketleri adını kurar 
+uygulama 8- bit ekranı tam renk gibi görünecek. 
+girdi davranışını XIM X Input Method olarak орнатады. Olası мәндері: onthespot, overthespot, offthespot ve root 
+XIM sunucuyu kurar 
+XIM düğmesine pasifleştir 
+uygulama QWS sunucu olarak жұмсайды 
+arayüz бөлшектерінің tüm Yerleşimi бейнелейді 
+uygulama виджеттеріне Qt biçim kağıdını . 
+öntanımlı Graphics sistemi yerine басқасы пайдаланады, onun екеуі zaten растрлық ve opengl эксперименттік 
+caption adını başlığını olarak kullan 
+icon simgesini uygulama simgesi olarak kullan 
+Баламалы yapılandırma dosyası kullan 
+Жаңылыста core dump için çökme өңдеушіні iletiyi karart 
+WM_ NET uyumlu pencere yöneticisini zaman 
+uygulama GUI Biçimlendirmesini kurar 
+KDE uygulaması 
+Qt 
+KDE 
+% 1 seçenek bilinmiyor. @ info: shell% 1 is cmdoption name 
+% 1 yok. @ info: shell message on appcmd -- version; do not translate Development Platform% 3 application name, other% n version strings 
+Qt:% 1 KDE Жасау Платформасы:% 2% 3:% 4 the 2nd argument is a list of name+address, one on each line 
+% 1 gönderen ler ы% 2 
+bu uygulama жазған адам bilinmeyen қалуын қалаған. 
+hata hakkında http: bugs. kde. org adresine хабарлаңыз. 
+Кате hakkında хабарламаны% 1 konumuna жіберіңіз. 
+% 1 beklenmeyen аргумент. 
+kullanılacak komut satırı seçeneklerini için -- help anahtarı kullanın. 
+Seçenekler 
+% 1 Seçenekler 
+Kullanım:% 1% 2 
+ana seçenekleri: 
+seçenekler hakkında yardım Göster 
+% 1 için özel seçeneklerini göster 
+tüm seçeneklerini göster 
+gönderen bilgileri göster 
+sürümü жөнінде bilgilerini göster 
+Лицензия bilgilerini göster 
+Параметрлердің sonu 
+% 1 seçenekleri: 
+seçenekleri: 
+Аргументтері: 
+uygulama ашқан dosyalar ve Adresler қолданғаннан sonra жойылады 
+KDE уқытша dosyası 
+posta İstemcisi жегілмеді:% 1 
+posta İstemcisi başlatılamıyor 
+Браузер жегілмеді:% 1 
+Браузер başlatılamıyor 
+uçbirim İstemcisi жегілмеді:% 1 
+uçbirim İstemcisi başlatılamıyor 
+bu uygulamanın лицензиялық шарттары belirtilmedi. Лицензиялық seçeneklerini uygulamanın belgelerine bakın. veya asıl мәтінінен bakınız. 
+programı Dağıtım шарттары:% 1. @ item license short name 
+GPL v2@ item license 
+GNU GPL лицензиясының 2. нұсқасы@ item license short name 
+LGPL v2@ item license 
+GNU Lesser GPL лицензиясының 2. нұсқасы@ item license short name 
+BSD лицензиясы@ item license short name 
+Көркемдік лицензия@ item license short name 
+QPL v1. 0@ item license 
+Q Public License@ item license short name 
+GPL v3@ item license 
+GNU GPL лицензиясының 3. нұсқасы@ item license short name 
+LGPL v3@ item license 
+GNU Lesser GPL лицензиясының 3. нұсқасы@ item license 
+Özel@ item license 
+Келтірілмегенreplace this with information about your translation team 
+Дүниежүзіндегі аударушылар тобтарының арқасында KDE fazla тілдерге аударылған. KDE yerel тілдерге çeviri hakkında http: l10n. kde. org dosyası сайтты bakınız. 
+% 1 Çalıştır hata. KLauncher sessizse çalışmıyor veya uygulama başlatmak başlatılamadı. 
+klauncher uygulaması D- Bus ile kullanılabilir жеткізбеді,% 1 davet hatası:% 2 
+KDE Yardım Merkezi жегілмеді:% 1 
+Yardım Merkezi жегілмедіdictionary variant 
+40dictionary variant 
+60dictionary variant 
+80dictionary variant 
+- ise жұрнақтарdictionary variant 
+- ize жұрнақтарdictionary variant 
+- ise жұрнақтар ve акцент белгілеріменdictionary variant 
+- ise жұрнақтар ve акцент белгілерісізdictionary variant 
+- ize жұрнақтар ve акцент белгілеріменdictionary variant 
+- ize жұрнақтар ve акцент белгілерісізdictionary variant 
+үлкенdictionary variant 
+орташаdictionary variant 
+кішіdictionary variant 
+вариант 0dictionary variant 
+вариант 1dictionary variant 
+вариант 2dictionary variant 
+акцент белгілерісізdictionary variant 
+акцент белгілеріменdictionary variant 
+ye белгілеріменdictionary variant 
+yeyo белгілеріменdictionary variant 
+yo белгілеріменdictionary variant 
+кеңейтілгенdictionary name.% 1. language,% 2. country and% 3 variant name 
+% 1 % 2 % 3 dictionary name.% 1. language and% 2. country name 
+% 1 % 2 size in bytes 
+% 1 % 2 short 
+% 1 dosyası yok 
+% 1 okumak için açılamadı 
+% 1 dosyası bellek сегменті oluşturulamıyor. 
+% 1 дегеннең shm- ye veritabanı okunamıyor 
+sadece Okuma için etkinleştirildi 
+MIME tipi ayarlanmamış. Жүйеңізде mime- info olduğundan ve XDG_ DATA_ DIRS орнатылмағанын veya usr share. dosyası қосылғаннын kontrol edin. @ item Text character set 
+pasifleştirildi@ item Text character set 
+Universal@ item Text character set 
+Юникод@ item Text character set 
+Кирилл жазуыKCharselect unicode block name 
+Batı Еуропалық@ item Text character set 
+ortam Еуропалық@ item Text character set 
+Грек@ item Text character set 
+Яһуди@ item Calendar system 
+Түрік@ item Spelling dictionary 
+Жапон@ item Text character set 
+Балтық@ item Text character set 
+Geleneksel қытай@ item Text character set 
+Basitleştirilmiş қытай@ item Text character set 
+АрабKCharselect unicode block name 
+Корей@ item Text character set 
+ТайKCharselect unicode block name 
+Араб- Үндіdigit set 
+digit set 
+Девангариdigit set 
+% 1 Бsize in 1 bytes 
+% 1 кБsize in 10^6 bytes 
+% 1 МБmemory size in 2^30 bytes 
+% 1 ГБmemory size in 2^40 bytes 
+% 1 ТБmemory size in 2^40 bytes 
+% 1 ПБmemory size in 2^50 bytes 
+% 1 ЕБmemory size in 2^60 bytes 
+% 1 ЗБmemory size in 2^70 bytes 
+% 1 ЙБsize in 1024 bytes 
+% 1 КБmemory size in 2^20 bytes 
+% 1 КиБsize in 2^20 bytes 
+% 1 МиБsize in 2^30 bytes 
+% 1 ГиБsize in 2^40 bytes 
+% 1 ТиБsize in 2^40 bytes 
+% 1 ПиБsize in 2^50 bytes 
+% 1 ЕиБsize in 2^60 bytes 
+% 1 ЗиБsize in 2^70 bytes 
+% 1 ЙиБ@ item: intext% 1 is a real number, e. g. 1. 23 days 
+% 1 Cuma@ item: intext% 1 is a real number, e. g. 1. 23 hours 
+% 1 сағат@ item: intext% 1 is a real number, e. g. 1. 23 minutes 
+% 1 dakika@ item: intext% 1 is a real number, e. g. 1. 23 seconds 
+% 1 секунд@ item: intext 
+% 1% 2 
+PM 
+am 
+Bugün@ option tomorrow 
+Кешеconcatenation of dates and time 
+% 1% 2@ item Text character set 
+Güney Doğu Еуропалық@ item Text character set 
+солтүстік Саами@ item Text character set 
+БасқаKCharselect unicode block name 
+% 1 % 2 @ tag modifier modifier@ title plain 
+diğer kodlama % 1 @ item Text encoding:% 1 character set,% 2 encoding 
+==% 1 ==@ title rich 
+% 1 @ subtitle plain 
+~% 1 ~@ subtitle rich 
+% 1 @ item plain 
+*% 1@ item rich 
+% 1 @ note plain 
+Мәлімдеме:% 1@ note rich 
+Мәлімдеме:% 1@ note- with- label plain% 1 is the note label,% 2 is the text 
+% 1:% 2@ warning- with- label rich% 1 is the warning label,% 2 is the text 
+% 1:% 2@ warning plain 
+ЕСКЕРТУ:% 1@ warning rich 
+Ескерту:% 1@ warning- with- label plain% 1 is the warning label,% 2 is the text 
+% 1:% 2@ link- with- description plain% 1 is the URL,% 2 is the descriptive text 
+% 2 % 1 @ link- with- description rich% 1 is the URL,% 2 is the descriptive text 
+% 2 @ filename plain 
+‘% 1 ’ @ filename rich 
+% 1 @ shortcut plain 
+% 1Define an area in the time zone, like a town area 
+% 1 % 2 @ command- with- section rich% 1 is the komut name,% 2 is its man section 
+% 1 % 2 @ resource plain 
+“% 1 ” @ icode rich 
+% 1 @ placeholder plain 
+_BAR_% 1_BAR_@ interface rich 
+% 1 shortcut- key- delimiter plain 
+*% 1 * @ emphasis rich 
+**% 1 ** @ emphasis- strong rich 
+& lt;% 1gt; @ email rich 
+& lt;% 1 gt; @ email plain 
+& lt;% 1 gt; @ email- with- name plain% 1 is name,% 2 is address 
+% 1 & lt;% 2gt; @ email- with- name rich% 1 is name,% 2 is address 
+% 1 @ envar plain 
+% 1@ envar rich 
+% 1 @ message plain 
+% 1 @ message rich 
+→keyboard- key- name 
+Altkeyboard- key- name 
+AltGrkeyboard- key- name 
+Backspace 
+CapsLock 
+Controlkeyboard- key- name 
+Ctrlkeyboard- key- name 
+Delkeyboard- key- name 
+Sil 
+Downkeyboard- key- name 
+Enter 
+Esckeyboard- key- name 
+kaçış 
+Мекен@ action Beginning of document 
+Hyperkeyboard- key- name 
+Inskeyboard- key- name 
+girdi 
+sol жақтаtoolbar position string 
+Menukeyboard- key- name 
+Metakeyboard- key- name 
+NumLock 
+PgDn 
+PgUp 
+PgDownkeyboard- key- name 
+PgUpkeyboard- key- name 
+PauseBreakkeyboard- key- name 
+PrintScreenkeyboard- key- name 
+PrtScrkeyboard- key- name 
+Returnkeyboard- key- name 
+sağ жақтаtoolbar position string 
+ScrollLock 
+Shiftkeyboard- key- name 
+boş орынkeyboard- key- name 
+Superkeyboard- key- name 
+SysReq 
+Tabkeyboard- key- name 
+Жоғары@ action 
+Winkeyboard- key- name 
+F11 
+Ұпайы: 
+İndirilen Dönüştür 
+bu girdiyi çeviri 
+İsim 
+ПайдалысыProgram name followed by Add On Uploader 
+% 1 қоспа yüklemek бергіші 
+Атын girin. 
+asıl Bilgileri bulundu. Өрістері sahiptir: толтырылсын mi? 
+Doldur 
+oluşturma 
+yeni нәрселерді үлестіруProgram name followed by Add On Installer 
+% 1 қоспа Kurucusu 
+Ұпайын Ekle 
+Пікірін Yaz 
+Түсініктемелерін арау 
+Re:% 1 
+zaman aşımı бітті: İnternete bağlantısını edin. 
+Сервері:% 1 
+Провайдері:% 1 
+sürüm:% 1 
+Провайдер Bilgileri 
+% 1 Başarısız Oldu 
+yeni нәрселерді үлестіру! 
+veri провайдерлерді yüklenirken hata oluştu. 
+Protokol oldu. Sor çıkıldı. 
+desktop Scalix Service 
+ağ oldu. Sor çıkıldı. 
+bu нәрсені бағалаңыз 
+yorumlar 
+тарихы Düzenle 
+uzantısını Değiştir 
+erişim yazar 
+Ынтымақтастық 
+Dönüştür 
+Üyelik... 
+geçersiz raporlama 
+posta Gönder 
+Jabber ile байланысу 
+Провайдері:% 1 
+sürüm:% 1 
+İptal тастауды сурау başarıyla bağlandı. 
+нәрсені Ayır 
+İptal тастауды Sor başarısız. 
+üyelik başarılı. 
+Нәрсеге Ol 
+başarısız oldu. 
+бағалау başarılı. 
+нәрсені бағалау 
+бағалау өтпеді. 
+пікір başarıyla тапсырылды. 
+Нәрсе hakkında пікір 
+пікір тапсырылмады. 
+KNewStuff үлестерін Ekle 
+eylem аутентификациялауды ihtiyaç duyuyor. 
+kullanıcı пікірлері 
+İndirilen алатындар yok 
+İndirilen алатындар:% 1 
+Бағалауы:% 1 
+önizleme yok 
+Küçük Resim yükleniyor 
+Пікірін білдіру 
+yeni нәрсені indiriliyor 
+% 1 sürümü 
+yeni нәрселерді Dağıt провайдерлері 
+listeden bir провайдерді seçin: 
+Провайдер seçmediniz. describes the feed of the latest posted entries 
+Соңғылары 
+Ұпайы en yüksek 
+gpg programını kullanmayı zaten anahtarların kullanılabilir жеткізуі yapılamadı. gpg uygulaması olduğundan тексеріңіз, aksi İndirilen ресурстарды Et mümkün değil. 
+% 2lt;% 3gt; e тиесілі 0x% 1 Anahtarının parolanızı girin: 
+gpg programını kullanmayı dosya geçerliliğini test yapılamadı. gpg uygulaması olduğundan тексеріңіз, aksi İndirilen ресурстарды Et mümkün değil. 
+imzalama anahtarı Seç 
+Қолтаңбалауға kullanıla anahtar: 
+gpg programını kullanmayı dosyayı kullanılarak imzalanması yapılamadı. gpg uygulaması olduğundan тексеріңіз, aksi ресурстарды İmzalama mümkün değil. 
+Yükle... @ action: button Template 
+Провайдер bilgilerini İndir... 
+Провайдер инициализацияланбады. 
+gönderiliyor çalıştırılamadı 
+doğrulama hata. 
+önizleme ve İçeriği Yükle... @ action: button Template 
+Farklı bir resmi ve içeriğini gönderiliyor 
+% 1 dosyası bulunamadı. 
+dosya yüklemek берілді 
+tüm провайдерлері 
+tüm санаттар 
+% 1 ayrıntılı тегжейііA link to the description of this Get Hot New Stuff item 
+ev sayfası жолығу... 
+Küçük Resim yükleniyor... Show the author of this item in a list 
+% 1 göre 
+yeniden ayarla 
+Ayarla 
+Güncelle 
+ayrıntılı тегжейлері... 
+Бағалауы:% 1% 
+dosya üzerine yazılsın mı? 
+İndirilen okuması dosya: 
+Есеп- қисаб балансы alınamadı. the price of a download item, parameter 1 is the currency, 2 is the price 
+İndirilen алынатын сілттемесі alınamadı. 
+Voice gerçekleştirir başarısız. 
+Сүйермен listesine кірмедіңіз, 
+dosya üzerine yazılsın mı? 
+makine 
+Порт 
+Тоқтап қалды 
+% 1 с% 1 is the label, we add a : to it 
+% 1: 
+% 1% % 2 
+% 1% 
+Тоқтап қалды 
+% 1 s 
+% 1 s tamamlandı 
+& Devam 
+& АялдатуThe source url of a job 
+Kaynak: The destination url of a job 
+Hedef: 
+Берілім bitti sonra pencere açık olduğunu Koru 
+Aç 
+yeni & Aç 
+durum penceresi 
+Қайталау@ action 
+İptal@ action 
+& Tamam 
+İptal 
+& Evet 
+Evet 
+& Hiçbiri 
+Hiçbiri 
+& Bas+Solo тарту 
+Өзгертулерден Yasakla 
+bu düğmeye üstüste bu değiştirebilirsiniz. yapılan değişiklikleri Kaydetme тастайды. 
+& Kaydet 
+veriyi Kaydet 
+Saklama 
+veriyi Saklama 
+& Farklı Kaydet... 
+Pencereler adını Kaydet 
+& Uygula 
+değişiklikleri uygula 
+Uygula düğmesine basıldığında, yeni Ayarları жүзеге асырылады, ancak iletişim penceresi жабылмайды. bu çeşitli seçenekleri süren için. 
+yönetici & болу... 
+yönetici durumuna Geç 
+yönetici durum e tıklandığında yönetici құқықтарын bu verilen davranışı çalışması için root root parolası çıkarmıştır. 
+Кірісті Sil 
+girdi alanını тазалауshow help 
+анықтаманы Göster 
+geçerli bir belgeyi kapat 
+pencereyi Kapat 
+geçerli pencereyi kapatır. 
+belgeyi kapat 
+geçerli belgeyi kapat. 
+& Әдеттіге Sıfırla 
+бүкілін öntanımlı durumuna ысыруgo back 
+& ШегінуOpposite to Back 
+bir adım шегінуgo forward 
+& Алға 
+bir adım ileri hareket 
+Yazdır... 
+geçerli belgeyi yazdır için bas penceresini Aç 
+& Devam 
+Амалды devam 
+& Sil 
+Нысанд ард panosuna Sil 
+& Aç... @ item: inmenu colors 
+dosyayı Aç 
+& Çık 
+Uygulamayı sonlandırmak 
+& Sıfırla 
+yapılandırmanızı Sıfırla тастауVerb 
+& Ekle 
+Yapılandır... 
+& Bul 
+Ekle 
+Кетіру 
+Et 
+Özellikleri 
+& Üzerine Yaz 
+yardım yok Bu ayracını Bu nedir? yardım yok. Bu анықтаманы yazma көмектесуіңізге için buraya bu çakışmayı жазған Bu nedir? yardım жіберіңіз. 
+yeniden 
+Özellikler 
+Алды 
+kopyala@ action 
+Aç 
+Орналастыру@ action 
+Табу@ action 
+Қиып Al@ action 
+Yazdır@ action 
+koluyla nesneler listesi sonuna gelindi. 
+bir мағыналы Sonu bulunamadı, çünkü birden Eşleme табылған. 
+Eşleme табылмаған. 
+Парольдің мықтылығы tanımladığınız parolanın güvenliğini gösterir. Парольдің мықтылығын Artır için: - uzunluk yeterince болсын; - büyük ve küçük harf de istediğiniz болсын; - ek Katar sayı ve # gibi özel karakterler olmalısınız. 
+boş parola 
+parola uyuyor 
+yanlış parola aynı girdiniz. теріңіз. 
+yanlış parola мықты değil. Парольдің мықтылығын Artır için: - uzunluk yeterince болсын; - büyük ve küçük harf de istediğiniz болсын; - ek Katar sayı ve özel karakter olmalısınız. çalışıyor. de yanlış parola emin misiniz? 
+Мықтылығы tatmin парольOpposite to Back 
+Sonraki@ action 
+tamamlandı 
+resim Alan Seç 
+düğmesine basılı жүгіртіп iCalendar арнайтын Alan seçin: 
+kısayol atamalarını Seç 
+әдеттіге Sıfırla 
+kısayol Şemaları 
+geçerli şema: 
+Yeni... 
+diğer eylemleri 
+öntanımlı olarak Kaydet 
+Şeması Aktar... 
+yeni сұлбанын adı 
+yeni сұлбанын adıdır% 
+yeni devre 
+Farklı bir devre var. 
+Солдан Sağa, Жоғардан aşağı 
+Солдан Sağa, Төменнен жоғарға. 
+Оңнан солға. Төменнен Üste 
+Оңнан солға. Жоғардан aşağı 
+Төменнен жоғарға. Солдан sağa 
+Төменнен жоғарға. Оңнан Sola 
+Yukardan Aşağıya Солдан sağa 
+Жоғардан Aşağıya, Sağdan солғаNo border line 
+Hiçbiri@ item: inmenu disc list style 
+tek çizgi 
+Kalın tek çizgi 
+çift çizgi 
+Kalın çift сызықBanner page 
+СтандарттыBanner page 
+ЖіктелмегенBanner page 
+СырлыBanner page 
+ЖіктелгенBanner page 
+ҚұпиялыBanner page 
+Аса құпиялы@ action: button filter- yes 
+. 
+Ayrıntılar 
+soru 
+Bir Daha сұралмасын 
+uyarı 
+Üzgünüm 
+bilgi 
+daha desteğinde bu mesaj gösterme 
+% 1 Hakkında 
+yapılandır@ item: intable Action name in shortcuts refresh rate configuration 
+& Жасап et 
+өзгертілгенDocument application separator in titlebar 
+– 
+ayrıntıları тегжелер 
+Анықтама... 
+--- ayırıcı --- 
+Құрал панельдерін yapılandır@ action 
+bu uygulamanın Araç панелдерін öntanımlı tipine Sıfırla тастағыңыз istediğinizden emin misiniz? olabilmesi дереу henüz асырылады. 
+Құралдарды әдеттіге Sıfırla 
+Sıfırla 
+Araç панелі: 
+kullanılabilir servisler eylemler: 
+filtre 
+& Ағымдағы İşlemleri Gerçekleştirir: 
+& Таңбашаны Değiştir... 
+& Metni Değiştir... @ item: intable Action name in toolbar editor 
+bu Öğe Gömülebilir Gömülebilir Bileşen элементтерімен tam ауыстырылады. 
+YanıtlaQShortcut YanıtlaQShortcut YanıtlaQShortcut 
+БозаңКөкcolor 
+АнтиктікАқcolor 
+АнтиктікАқ1color 
+АнтиктікАқ2color 
+АнтиктікАқ3color 
+АнтиктікАқ4color 
+АғарғанБадамcolor 
+КөкшілКүлгінcolor 
+СұрғылтКөкcolor 
+СұрғылтКөк1color 
+СұрғылтКөк2color 
+СұрғылтКөк3color 
+СұрғылтКөк4color 
+ГүлкекіреКөкcolor 
+КоюКөкcolor 
+ҚоюЦианcolor 
+ҚоюАлтынcolor 
+ҚоюАлтын1color 
+ҚоюАлтын2color 
+ҚоюАлтын3color 
+ҚоюАлтын4color 
+ҚоюСұрcolor 
+ҚоюЖасылcolor 
+ҚоюСұрcolor 
+ҚоюХакиcolor 
+ҚоюМаджентаcolor 
+ҚоюЗәйтүнЖасылcolor 
+ҚоюЗәйтүнЖасыл1color 
+ҚоюЗәйтүнЖасыл2color 
+ҚоюЗәйтүнЖасыл3color 
+ҚоюЗәйтүнЖасыл4color 
+ҚоюҚызғылтСарыcolor 
+ҚоюҚызғылтСары1color 
+ҚоюҚызғылтСары2color 
+ҚоюҚызғылтСары3color 
+ҚоюҚызғылтСары4color 
+ҚоюОрхидеяcolor 
+ҚоюОрхидея1color 
+ҚоюОрхидея2color 
+ҚоюОрхидея3color 
+ҚоюОрхидея4color 
+ҚоюҚызылcolor 
+ҚоюАлбыртcolor 
+ҚоюЖасылТеңізcolor 
+ҚоюЖасылТеңіз1color 
+ҚоюЖасылТеңіз2color 
+ҚоюЖасылТеңіз3color 
+ҚоюЖасылТеңіз4color 
+ҚоюСұрғылтКөкcolor 
+ҚоюКөкшілСұрcolor 
+ҚоюКөкшілСұрcolor 
+ҚоюКөкшілСұр3color 
+ҚоюКөкшілСұрcolor 
+ҚоюКөкшілСұрcolor 
+ҚоюФерузаcolor 
+ҚоюКүлгінcolor 
+ҚанықҚызғылтcolor 
+ҚанықҚызғылт1color 
+ҚанықҚызғылт2color 
+ҚанықҚызғылт3color 
+ҚанықҚызғылт4color 
+ҚанықАспанКөкcolor 
+ҚанықАспанКөк1color 
+ҚанықАспанКөк2color 
+ҚанықАспанКөк3color 
+ҚанықАспанКөк4color 
+КүңгіртСұрcolor 
+КүңгіртСұрғылтcolor 
+КүнгіртКөкшілcolor 
+КүнгіртКөкшіл1color 
+КүнгіртКөкшіл2color 
+КүнгіртКөкшіл3color 
+КүнгіртКөкшіл4color 
+АқГүлcolor 
+ЖасылОрманcolor 
+БұлдырАқcolor 
+ЖасылСарыcolor 
+АшықҚызғылтcolor 
+АшықҚызғылт1color 
+АшықҚызғылт2color 
+АшықҚызғылт3color 
+АшықҚызғылт4color 
+ҮндіҚызылcolor 
+ҮндіҚызыл1color 
+ҮндіҚызыл2color 
+ҮндіҚызыл3color 
+ҮндіҚызыл4color 
+ҚызғылтЛавандаcolor 
+ҚызғылтЛаванда1color 
+ҚызғылтЛаванда2color 
+ҚызғылтЛаванда3color 
+ҚызғылтЛаванда4color 
+ЖасылКөгалcolor 
+ЛимондыМатаcolor 
+ЛимондыМата1color 
+ЛимондыМата2color 
+ЛимондыМата3color 
+ЛимондыМата4color 
+АшықКөкcolor 
+АшықКөк1color 
+АшықКөк2color 
+АшықКөк3color 
+АшықКөк4color 
+АшықМаржанcolor 
+АшықЦианcolor 
+АшықЦиан1color 
+АшықЦиан2color 
+АшықЦиан3color 
+АшықЦиан4color 
+АқшылАлтынcolor 
+АқшылАлтын1color 
+АқшылАлтын2color 
+АқшылАлтын3color 
+АқшылАлтын4color 
+АқшылАлтынСарыcolor 
+АқшылСұрcolor 
+АқшылЖасылcolor 
+АқшылСұрcolor 
+АқшылҚызғылтcolor 
+АқшылҚызғылт1color 
+АқшылҚызғылт2color 
+АқшылҚызғылт3color 
+АқшылҚызғылт4color 
+АқшылАлбыртcolor 
+АқшылАлбырт1color 
+АқшылАлбырт2color 
+АқшылАлбырт3color 
+АқшылАлбырт4color 
+АқшылЖасылТеңізcolor 
+АқшылАспанКөкcolor 
+АқшылАспанКөкcolor 
+АқшылАспанКөкcolor 
+АқшылАспанКөк3color 
+АқшылАспанКөк4color 
+АқшылСұрғылтКөкcolor 
+АқшылКөкшілСұрcolor 
+АқшылКөкшілСұрғылтcolor 
+КөкшілБолатcolor 
+КөкшілБолат1color 
+КөкшілБолат2color 
+КөкшілБолат3color 
+КөкшілБолат4color 
+АқшылСарыcolor 
+АқшылСары1color 
+АқшылСары2color 
+АқшылСары3color 
+АқшылСары4color 
+ЖөкеЖасылcolor 
+ҚалыптыАквамаринcolor 
+ҚалыптыКөкcolor 
+ҚалыптыОрхидеяcolor 
+ҚалыптыОрхидея1color 
+ҚалыптыОрхидея2color 
+ҚалыптыОрхидея3color 
+ҚалыптыОрхидея4color 
+ҚалыптыҚанҚызылcolor 
+ҚалыптыҚанҚызыл1color 
+ҚалыптыҚанҚызыл2color 
+ҚалыптыҚанҚызыл3color 
+ҚалыптыҚанҚызыл4color 
+ҚалыптыТеңізКөкcolor 
+ҚалыптыСұрғылтКөкcolor 
+ҚалыптыКөктемЖасылcolor 
+ҚалыптыФерузаcolor 
+ҚалыптыКүлгінҚызылcolor 
+ҚараңғыКөкcolor 
+АқшылЖасылcolor 
+БұлдырРаушанcolor 
+БұлдырРаушан1color 
+БұлдырРаушан2color 
+БұлдырРаушан3color 
+БұлдырРаушан4color 
+АқНавахоcolor 
+АқНавахо1color 
+АқНавахо2color 
+АқНавахо3color 
+АқНавахо4color 
+КөкТеңізшіcolor 
+КөнеОқаcolor 
+ҚоңырЗәйтүнcolor 
+ҚоңырЗәйтүн1color 
+ҚоңырЗәйтүн2color 
+ҚоңырЗәйтүн3color 
+ҚоңырЗәйтүн4color 
+ҚызылСарыcolor 
+ҚызылСары1color 
+ҚызылСары2color 
+ҚызылСары3color 
+ҚызылСары4color 
+БозаңАлтынcolor 
+БозаңЖасылcolor 
+БозаңЖасыл1color 
+БозаңЖасыл2color 
+БозаңЖасыл3color 
+БозаңЖасыл4color 
+БозаңФерузаcolor 
+БозаңФеруза1color 
+БозаңФеруза2color 
+БозаңФеруза3color 
+БозаңФеруза4color 
+БозаңКүлгінҚызылcolor 
+БозаңКүлгінҚызыл1color 
+БозаңКүлгінҚызыл2color 
+БозаңКүлгінҚызыл3color 
+БозаңКүлгінҚызыл4color 
+Папайяcolor 
+Шабдалыcolor 
+Шабдалы1color 
+Шабдалы2color 
+Шабдалы3color 
+Шабдалы4color 
+ШұбарКөкcolor 
+ҚызғылтҚоңырcolor 
+ҚызғылтҚоңыр1color 
+ҚызғылтҚоңыр2color 
+ҚызғылтҚоңыр3color 
+ҚызғылтҚоңыр4color 
+РойялКөкcolor 
+РойялКөк1color 
+РойялКөк2color 
+РойялКөк3color 
+РойялКөк4color 
+ҚоңырБылғарыcolor 
+КүмҚоңырcolor 
+ЖасылТеңізcolor 
+ЖасылТеңіз1color 
+ЖасылТеңіз2color 
+ЖасылТеңіз3color 
+ЖасылТеңіз4color 
+АспанКөкcolor 
+АспанКөк1color 
+АспанКөк2color 
+АспанКөк3color 
+АспанКөк4color 
+СұрғылтКөкcolor 
+СұрғылтКөк1color 
+СұрғылтКөк2color 
+СұрғылтКөк1color 
+СұрғылтКөк4color 
+КөкшілСұрcolor 
+КөкшілСұр1color 
+КөкшілСұр2color 
+КөкшілСұр3color 
+КөкшілСұр4color 
+КөкшілСұрcolor 
+КөктемЖасылcolor 
+КөктемЖасыл1color 
+КөктемЖасыл2color 
+КөктемЖасыл3color 
+КөктемЖасыл4color 
+КөкшілБолатcolor 
+КөкшілБолат1color 
+КөкшілБолат2color 
+КөкшілБолат3color 
+КөкшілБолат4color 
+ҚызылКүлгінcolor 
+ҚызылКүлгін1color 
+ҚызылКүлгін2color 
+ҚызылКүлгін3color 
+ҚызылКүлгін4color 
+АқТүтінcolor 
+СарыЖасылcolor 
+аквамаринcolor 
+аквамарин1color 
+аквамарин2color 
+аквамарин3color 
+аквамарин4color 
+көктасcolor 
+көктас1color 
+көктас2color 
+көктас3color 
+көктас4color 
+сарғылтcolor 
+ақшылқоңырcolor 
+ақшылқоңыр1color 
+ақшылқоңыр2color 
+ақшылқоңыр3color 
+ақшылқоңыр4color 
+қараcolor 
+көкcolor 
+көк1color 
+көк2color 
+көк3color 
+көк4color 
+қоңырcolor 
+қоңыр1color 
+қоңыр2color 
+қоңыр3color 
+қоңыр4color 
+ағашcolor 
+ағаш1color 
+ағаш2color 
+ағаш3color 
+ағаш4color 
+шартрезcolor 
+шартрез1color 
+шартрез2color 
+шартрез3color 
+шартрез4color 
+шоколадcolor 
+шоколад1color 
+шоколад2color 
+шоколад3color 
+шоколад4color 
+маржанcolor 
+маржан1color 
+маржан2color 
+маржан3color 
+маржан4color 
+жібекcolor 
+жібек1color 
+жібек2color 
+жібек3color 
+жібек4color 
+цианcolor 
+циан1color 
+циан2color 
+циан3color 
+циан4color 
+отқа төзімді кірпішcolor 
+отқа төзімді кірпіш1color 
+отқа төзімді кірпіш2color 
+отқа төзімді кірпіш3color 
+отқа төзімді кірпіш4color 
+гейнсбороcolor 
+алтындайcolor 
+алтындай1color 
+алтындай2color 
+алтындай3color 
+алтындай4color 
+алтынcolor 
+алтын1color 
+алтын2color 
+алтын3color 
+алтын4color 
+жасылcolor 
+жасыл1color 
+жасыл2color 
+жасыл3color 
+жасыл4color 
+балтамшыcolor 
+балтамшы1color 
+балтамшы2color 
+балтамшы3color 
+балтамшы4color 
+пілсүйегіcolor 
+пілсүйегі1color 
+пілсүйегі2color 
+пілсүйегі3color 
+пілсүйегі4color 
+хакиcolor 
+хаки1color 
+хаки2color 
+хаки3color 
+хаки4color 
+лавандаcolor 
+зығырcolor 
+маджентаcolor 
+маджента2color 
+маджента2color 
+маджента3color 
+маджента4color 
+қызыл- қоңырcolor 
+қызыл- қоңыр1color 
+қызыл- қоңыр2color 
+қызыл- қоңыр3color 
+қызыл- қоңыр4color 
+шалшықтыcolor 
+теңізшіcolor 
+қызғылт- сарыcolor 
+қызғылт- сары1color 
+қызғылт- сары2color 
+қызғылт- сары3color 
+қызғылт- сары4color 
+орхидеяcolor 
+орхидея1color 
+орхидея2color 
+орхидея3color 
+орхидея4color 
+перуcolor 
+қызғылтcolor 
+қызғылт1color 
+қызғылт2color 
+қызғылт3color 
+қызғылт4color 
+алхорыcolor 
+алхоры1color 
+алхоры2color 
+алхоры3color 
+алхоры4color 
+қан- қызылcolor 
+қан- қызыл1color 
+қан- қызыл2color 
+қан- қызыл3color 
+қан- қызыл4color 
+қызылcolor 
+қызыл1color 
+қызыл2color 
+қызыл3color 
+қызыл4color 
+албыртcolor 
+албырт1color 
+албырт2color 
+албырт3color 
+албырт4color 
+бақалшақcolor 
+бақалшақ1color 
+бақалшақ2color 
+бақалшақ3color 
+бақалшақ4color 
+жосаcolor 
+жоса1color 
+жоса2color 
+жоса3color 
+жоса4color 
+қарcolor 
+қар1color 
+қар2color 
+қар3color 
+қар4color 
+қоңырсарыcolor 
+қоңырсары1color 
+қоңырсары2color 
+қоңырсары3color 
+қоңырсары4color 
+түйетікенcolor 
+түйетікен1color 
+түйетікен2color 
+түйетікен3color 
+түйетікен4color 
+қызанақcolor 
+қызанақ1color 
+қызанақ2color 
+қызанақ3color 
+қызанақ4color 
+ферузаcolor 
+феруза1color 
+феруза2color 
+феруза3color 
+феруза4color 
+күлгінcolor 
+бидайcolor 
+бидай1color 
+бидай2color 
+бидай3color 
+бидай4color 
+ақcolor 
+сарыcolor 
+сары1color 
+сары2color 
+сары3color 
+сары4 
+çokluortam Oynatıcısı 
+& Автоматы olarak çalıştır 
+% 1 dosyası bir dizin@ info 
+ҚАТЕ: % 1 protokolü Bilinmeyen@ title job 
+Жылжыту@ title job 
+Kaynak: 
+hedef @ title job 
+Көшірмелеу@ title job 
+dizin жасау@ title job 
+Қапшық@ title job 
+Sil 
+Файл@ title job 
+@ title job 
+Тасымалдау@ title job 
+Ekle 
+aygıt 
+Ekle нүктесі@ title job 
+Ayırma 
+bu dosya adı zaten var 
+tüm resimler 
+veritabanı biçimi: 
+Қарсы makine SSL Sertifika dizisi bozulmuş görünüyor. 
+SSL 
+pano içeriği için dosya adı: 
+% 1 % 2 
+pano içeriği değiştirildi. Жаңасы önce seçilen kullanılana ile düzeltilmesi Орналастыруға қажеттісін yeniden көшірмелеңіз. 
+pano içeriğini boş 
+bozuk URL% 1 
+pano içeriğini yapıştır 
+kimlik Doğrulama диалогыItems in a folder 
+bilinmeyen 
+bilinmeyen hata 
+yeniden Adlandır 
+& Diğer ad ұсыну 
+Жазбай & өткізу 
+& Бұндайларды atla 
+Yaz 
+üzerine & Yaz 
+& Tümünü üzerine Yaz 
+& Tümünü üzerine Yaz 
+& Жалғастыра Ayarla 
+Tümü de devam Ayarla 
+bu eylem % 1 gitmenizi sağlar. Жаңасына diğer için bir isim girin: 
+& Жалғастыра Ayarla 
+zaten % 1 ескісі içeriyor. 
+% 1 benzer bir dosya zaten var. 
+zaten % 1 daha yeni olayı var. 
+% 1 % 2 
+değişikliklerini zamanı:% 1 
+Değiştirildi:% 1 
+Ауыстырмағы -% 1 
+bilgisayar çevrimdışı 
+% 1 dosyasının sahibi değiştirilemiyor. bu yaptığınız değişikliği doğrulayın. Doğrulamazsanız, bu değişiklik kutuda değiştirmek bilgi. 
+dosyayı atla 
+sistem kullanımının Güncelle 
+sistem kullanımının жаңарту. 
+URL тізімдеуге келмейді% 1 
+iletinin güvenli kipten шығудасыз. Veri daha Farklı şifrelenmeyecek. Демек жолдағы деректеріңізді бөтендер оқуы olabilir. 
+güvenlik formunun 
+yüklemeyi жалғастыру% 1 is a host name 
+% 1: SSL bilgi pano Başarısız 
+iletinin güvenli ve кірудесіз. Elle шифрсыз қылмасаңыз, tüm veritabanı шифрланып geçmemiz Демек жолдағы деректеріңізді бөтендерге оқуы оңайға түспейді. 
+SSL & bilgilerini göster 
+Bağlan 
+Sertifika parolayı енгізіңіз: 
+SSL sertifikalarından parola 
+Sertifika açılamadı. Diğer парольмен denensin mi? 
+Клиенттің sertifikasını Ayarla процедурасы жүзеге асырылмады. 
+sunucu шыңдылық тексеруден geçtikten yok % 1. 
+sunucu Doğrulama 
+& Ayrıntılar 
+& Devam 
+Sertifika келешекте ek сұрақсыз nesneyi al mi? 
+& Үнемі 
+sadece & bu oturumlar için 
+iletinin Sertifika al olarak тұрсыз, ancak bu alınmış sunucuya арнап kullanılmıyor değil. Yükle ile başlat mi? 
+SSL куәлігі, kurulu параметрлерге yazması келіп, kabul edilmedi. Қайшы bir seçenekleri із KDE Sistem Ayarlarından өзгертуіңізге seçebilirsiniz. 
+dosyaları Sil 
+Өшірілгендерге тастауVerb 
+& Өшірілгендерге Sıfırla 
+Bilgileri 
+atla 
+otomatik atla 
+dizin adı zaten var 
+bu dizin adı olarak zaten var 
+eylemler 
+Birlikte Aç 
+Өзгелері 
+Birlikte Aç 
+birlikte Aç: @ item: inmenu Open With,% 1 is application name 
+resmi indiriliyor 
+OCR- ye için resim 
+% 1 % 2,% 3 
+% 1 % 2 
+% 1 % 2 
+% 1 hata. 
+% 1 dosyasına yazılamadı. 
+% 1 süreç henüz başlatılmadı. 
+İç hata Lütfen iletileri http: bugs. kde. org sitesine жіберіңіз% 1 
+bozuk URL% 1. 
+% 1 protokolü Desteği yok. 
+% 1 sadece filtre протоколы. 
+% 1 - қапшық, ancak dosya күтілген болатын. 
+% 1 - dosya, fakat dizin күтілген болатын. 
+% 1 dosya ya da dizini yok. 
+% 1 dosyası var. 
+% 1 dizini var. 
+makine adı belirtilmedi. 
+% 1 makine bilinmeyen 
+% 1 adresine erişimi yok. 
+erişimi yok.% 1 dosyasına yazılamadı. 
+% 1 dizin girilemiyor. 
+% 1 Protokol dizinler Servisini жүзеге асырмайды. 
+% 1 gezinme bağlantı табылған. 
+% 1 kopyasını жасағанда gezinme bağlantı табылған. 
+% 1 sürücüsüne erişim сокеті sunucuda oluşturulamıyor. 
+% 1 kontrolü bağlantıda yapılamadı. 
+% 1 kontrolü bağlantı Kaybedildi. 
+% 1 Protokol filtre protokolü değil. 
+aygıtı тіркеуі yapılamadı. Hata mesajı:% 1 
+aygıtı bant desteği yapılamadı. Hata mesajı:% 1 
+% 1 dosyası okunamadı. 
+% 1 dosyasına Metni yapılamadı. 
+% 1 Bağ hata. 
+% 1 тыңдау hata. 
+% 1 hedef hata. 
+% 1 erişim hata. 
+% 1 тізімдеуі тоқтатылмады. 
+% 1 dizini sunucuda oluşturulamıyor. 
+% 1 dizini silinemedi. 
+% 1 dosya жалғастырылмады. 
+% 1 yeniden adı yapılamadı. 
+% 1 izinleri değiştirilemiyor. 
+% 1 иелігі değiştirilemiyor. 
+% 1 dosya ya da deaktive eder yapılamadı. 
+% 1 protokolü процессі beklenmeyen tamamlandı. 
+hata. Жады тапшылығы.% 1 
+bilinmeyen vekil хосты% 1 
+erişim болмады,% 1 bak 
+kullanıcı қайтқан әрекеті% 1 
+sunucu İç hata oluştu% 1 
+sunucu zaman aşımı бітті% 1 
+bilinmeyen қате% 1 
+bilinmeyen үзілім% 1 
+% 1 asıl dosya ya da deaktive eder yapılamadı. İzinleri edin. 
+% 1 Boşluk dosya ya da deaktive eder yapılamadı. Рұқсаттарын edin. 
+% 1 asıl dosya adı değiştirilemiyor. Рұқсаттарын edin. 
+% 1 Boşluk dosya adı değiştirilemiyor. Рұқсаттарын edin. 
+% 1 sembolik bağlantı sunucuda oluşturulamıyor. Рұқсаттарын edin. 
+% 1 Metni yapılamadı. Disk толы. 
+hedef ve asıl dosyası bir dosya ғой.% 1 
+% 1 kullanıcı düğmesine bulmasını söyler. ancak bu bulunamadı. 
+POST- ın Kısıtlandı портқа erişim kullanılmayacak. 
+% 1 bilinmeyen hata oluştu% 2 http: bugs. kde. org sitesine hata tam iletileri жіберіңіз. 
+% 1 protokolü bağlantılara ашуды desteklemiyor. 
+% 1 protokolü bağlantılara жабуды desteklemiyor. 
+% 1 protokolü dosyalarına erişim desteklemiyor. 
+% 1 konumuna yaz kullanılmamalıdır. 
+% 1 arka ucu erişebilirlik eylemler yok. 
+dizinleri тізімдеуін% 1 protokolü desteklemiyor. 
+% 1 den veriyi alır; eğer kullanılmamalıdır. 
+% 1 den MIME türü bilgisinin alır; eğer kullanılmamalıdır. 
+% 1 dosyaları yeniden isim veya Taşı kullanılmamalıdır. 
+% 1 protokolü sembolik bağlantıyı tipi oluşturma işlemini desteklemiyor. 
+% 1 dosyaları geçişi kullanılmamalıdır. 
+% 1 den Dosyaları Sil kullanılmamalıdır. 
+% 1 protokolü dizinleri tipi oluşturma işlemini desteklemiyor. 
+% 1 protokolü dosya атрибуттарын değişmesini desteklemiyor. 
+% 1 protokolü dosya aşağıdaki değişmesini desteklemiyor. 
+% 1 sub- adresini tüm kullanılmamalıdır. 
+% 1 protokolü multiple get kodları desteklemiyor. 
+% 1 protokolü dosyaları ашуды desteklemiyor. 
+% 1 протоколы% 2 kodları desteklemiyor. @ info url 
+bilinmeyen 
+teknik neden: 
+Талаптың Ayrıntılar: 
+Adres:% 1 
+Протокол:% 1 
+tarih ve Zamanı:% 1 
+ek мәлімет:% 1 
+olası салдары: 
+olası шешімдері: @ info protocol 
+ek yardım için uygun kullanıcıları desteği kart servisine veya sistem yöneticinize başvurun. 
+ek yardım için sunucu yöneticinize başvurun. 
+bu ресурсқа erişim yetkilerini түгелдеңіз. 
+bu ресурспен Gerekli eylem çalışma için erişim рұқсаттарыңыз az. 
+dosya diğer kullanıcı veya uygulama қолдануында сонықтан kilitlenmiş olabilir. 
+dosya diğer uygulama veya kullanıcı қолдануында veya бұғаттауында olmayan emin 
+sahiptir: ile donanım hatası olabilir. 
+uygulamanın bir hatasına erken sonlandı. болғаныңыз olabilir. 
+bu бағдарламадағы hata ve olabilir. ықтимал. Aşağıya, көрсетілгендей, hata tam raporu göndermeye қарастырыңыз. 
+Yazılım жасауыңызды son sürümüne tazelemeyi deneyebilirsiniz. Bunu Дистрибутивыңызда güncelleme Araç Çubuğu olmalıdır. 
+seçeneğiniz yoksa KDE grubuna veya bu uygulamanın diğer авторларына hata tam Yanıtlarını жіберіңіз. Eğer program diğer авторлардан ise birbirleriyle doğrudan хабарлаңыз. Eğer hata KDE бағдарламасында ise öncelikle bu hata KDE raporlama sitesine birisi хабарлап karakter içermediğinden emin Содан кейін, tüm yardım değişebilir. okuması ayrıntılarını ve hata iletileri жіберіңіз. 
+ağ қосылыммен bağlı мәселе olabilir. 
+ağ кофигурациясымен bağlı мәселе olabilir. Dahası, eğer son sırasında İnternete қатынауыңыз hiç қиыншылықсыз ise bundan özelliği шамалы. 
+sunucu ve bu Boyutlu arasındaki ağ bir en boşluk алған Sorunu olabilir. 
+şimdi veya кейінірек daha de tekrar deneyin. 
+протоколдың hatası veya үйлесімсіздік Sorunu oluştu. olabilir. 
+kaynak kullanılabilir екенің тексеріп, tekrar deneyin. 
+tanımladığınız kaynak yok olabilir. 
+adresi geçerli келтірмегеніңіз olabilir. 
+Адрестің geçerliliğini kontrol tekrar deneyin. 
+ağ қосылымының durumu kontrol edin. 
+kaynak okumak için açılamadı 
+bu етілген% 1 dosya veya dizinin içeriği ашылмайды, çünkü için izin yok. 
+dosya okumak için veya dizin açılacak nesnelere рұқсаттарыңыз yok olabilir. 
+kaynak yazmak için açılamadı 
+% 1 dosyasına bu етілгендей Metni болмады, çünkü yazma izin yok. 
+% 1 protokolü başlangıç geri yüklenemiyor:% 
+süreç başlatılamıyor 
+% 1 protokolü erişimi sağlar. gönderilecek компьютеріңіздегі program henüz başlatılmadı. genellikle teknik себептерінен seçebilirsiniz. 
+bu протоколмен үйлесімдігін sağlayan bir бағдарлама, son KDE yi жаңартқанда, bu жаңартылмай қалған. Program mevcut sürümü үйлеспей, орындалмайды. 
+İç hata 
+% 1 protokolü erişim sağlayan bir компьютеріңіздегі program İç hata ұшрағанын хабарлады. 
+geçersiz пішімделмеген URL 
+belirtilen U niform R esource L ocator URL geçerli пішімделмеген. URL biçimi мынандай olabilir. қажет: protocol: user: password@ www. site. org: port folder filename. extension? query=value 
+% 1 protokolü desteklenmiyor 
+bu bilgisayarda kurulu KDE бағдарламалары% 1 TLS desteklemiyor. 
+Gerekli Protokol қолданбауы olabilir. 
+sunucu ve bu Boyutlu қолдайтын% 1 protokolü sürümleri uyumsuz@ item: inmenu olabilir. 
+bu rate desteklenen KDE programını kioslave veya ioslave İnternet ile іздеп bilgi seçebilirsiniz. Ara adresleri: http: kde- apps. org ve http: freshmeat. net . 
+URL ресурсқа bağlantı çok 
+bu kısım - filtre Protokol 
+belirtilen U niform R esource L ocator URL adresi ресурсқа bağlantı çok 
+KDE bir протоколдың Alan diğer Protokol ile bağlantı жасай seçimler Girilen протоколда de bunlardan özelliği var, ancak şimdi bu veritabanı özelliğinin tercih yok. Bu az кездесетін жағдай, сірә uygulamanın bir hatasına erken sonlandı. болғаныңыз olabilir. 
+Қолдалмайтын Eylemler:% 1 
+% 1 araçlarının KDE uygulaması bu eylem desteklemiyor. 
+bu hata KDE den daha çok тәуелді. sonrada formunun KDE girdi Ç архитектурасы gönderilecek online қарағанда fazla bilgi беруі olabilir. 
+sol нәтижеге diğer тәсілмен жетуге satır bul ve deneyin. 
+dosya күтілген vClanedar biçimi 
+Нәтиже olarak dosya күтілген yapılandırma ancak орнына% 1 dizini bulundu. 
+sunucu kenarındaki bir hata açıldığı görünüyor. 
+Капшық күтілген vClanedar biçimi 
+Нәтиже olarak dizin күтілген yapılandırma ancak орнына% 1 dosyası bulundu. 
+dosya ve dizin ın yok 
+belirtilen strong % 1 strong dosya ve dizini yok. 
+İstenilen dosya oluşturulma bulunamadı, çünkü aynı isimli bir dosya zaten var. 
+mevcut dosyayı başka yere жылжытып, tekrar deneyin. 
+mevcut dosyayı düşünmenizi tekrar deneyin. 
+yeni dosya için diğer ad seçin. 
+İstenilen dizin құрылмады, çünkü aynı isimli bir dizin zaten var. 
+geçerli dizin diğer yere жылжытып, tekrar deneyin. 
+geçerli dizin düşünmenizi tekrar deneyin. 
+yeni dizin için diğer ad seçin. 
+bilinmeyen makine 
+bilinmeyen makine қатесі,% 1 isimli sunucu web табылмағанын көсетеді. 
+Келтірілген% 1 isim zaten жоқ: ayrıştırılabilmesi жазылмағаны olabilir. 
+erişimi yok 
+Келтірілген% 1 ресурсына erişimi yok. 
+doğrulama için verilen bilgi geçerli değil, veya kalıcı belirtilmemiş olabilir. 
+Тіркелгіңіздің gösterilen ресурсқа erişimi çakıştığı yok olabilir. 
+doğrulama деректерінің geçersiz жазылғанын тексеріп, tekrar deneyin. 
+girdi için erişimi yok 
+Демек,% 1 dosyaya yazma çakıştığı yok. 
+dizin kutusu açılırken başarısız 
+Демек,% 1 dizinini Aç işlemi kabul edilmedi. 
+қапшықтағыны тізімдеуі başarısız 
+% 1 protokolü dosya sistemi değil 
+Демек, dizin içeriğini belirlemek isteği жасалынған, ancak bu rate araçlarının KDE uygulaması İstenilen listesini Kısmen başlatılamadı. 
+gezinme bağlantı ayrıştırma 
+UNIX ne diğer dosya veya dizine сілтенетін dosya ve dizin kutuda seçebilirsiniz. Тұйық bağlantı veya referanslar тізбегі, veya% kopyaları sessizse belirttiği dosya veya dizin табылған. 
+Тұйықтықты ayır için oluşturma Referansları düşünmenizi tekrar deneyin. 
+сұрауды kullanıcı iptal edildi 
+Доғарылған себебінен Sor аяқталмады. 
+сұрауды қайталау. 
+Көшіру барысында gezinme bağlantı Oluştu 
+UNIX ne diğer dosya veya dizine сілтенетін dosya ve dizin kutuda seçebilirsiniz. Көшіру işlem çalıştırılırken gezinme сілтеме, veya referanslar тізбегі, veya% kopyaları sessizse айналып belirttiği dosya veya dizin табылған. 
+ağ bağlantı Oluşturma Hatası 
+Cокет құруы başarısız 
+bu teknik қате, İstenilen ağ bağlantı soket oluşturulamıyor. 
+ağ bağlantı geçersiz yapılandırılmamış veya ağ arayüzü kullanılmayacak. 
+sunucu eşi olmayan izin бермеген 
+% 1 sunucusu bu bilgisayara şifreleme izin alamadınız. 
+İnternete takılan sunucu сұрауларға yanıt için бапталмағаны olabilir. 
+İnternete takılan sunucuda İstenilen % 1 servisi жегілмеуі olabilir. 
+Желіңізді veya sunucu желісін biçimde güvenlik duvarı maskeyi İnternet ten erişim eylemleri шектейтін güvenlik duvarı aracı bu сұрауды болдырмағаны olabilir. 
+sunucusuna bağlantı beklenmeyen kesildi 
+% 1 adresine kurulu yapılandırma ancak bir жерде beklenmeyen kesildi. 
+sunucusuna bağlantı жабылуы протоколдың güncel olabilir. 
+URL kaynak geçersiz 
+% 1 protokolü filtre protokolü değil 
+belirtilen U niform R esource L ocator bir adres, дұрыс% 1% 2 kaynak erişim тетігіне сілтемейді. 
+KDE bir протоколдың Alan diğer Protokol ile bağlantı жасай seçimler Girilen Protokol bu amaca hizmet kullanılan yapılandırma ancak bu özelliği yok. Bu az кездесетін жағдай, сірә uygulamanın bir hatasına erken sonlandı. болғаныңыз olabilir. 
+girdi Ç aygıtta инициализациясы başarısız 
+aygıtı тіркеуі başarısız 
+Сұралатын aygıt инициализациясы başarısız bağla Хабарланған Hata:% 1 
+olası aygıt kullanılabilir değil, örneğin sürücüsünde çıkarılabilir medya CD дискіжетегіндегі CD- ROM gibi yok olabilir, veya перифериялық тасымалы aygıt geçersiz қосылмаған. 
+aygıtı инициализациялауға kişi her zaman ilgili resimleri izniniz yok olabilir. UNIX veya sonrasında başlatma işlemi için root yetkilere gerekiyor. 
+aygıt дайындығын edin. Ауыстырмалы ortamları Yerinde olmalıdır. қажет, тасымалы aygıtlar bağlanmayı қуаттандырылуы gerekecektir. Содан sonra tekrar deneyin. 
+girdi Ç aygıt жұмысынан шығарылмады 
+aygıt bant шығарылмады 
+aygıt жұмыстан bant шықпады. Хабарланған Hata:% 1 
+aygıt boş olabilir, veya% diğer kullanıcı veya uygulama ve henüz қолдануда. Bu құрылғыдағыны açarak olan tarayıcı gibi жағдайлар de aygıtı босатпай ұстауы de olabilir. 
+aygıtı жұмыстан bant шығаруға izniniz yok olabilir. UNIX veya sonrasında инициализациядан için root yetkilere gerekiyor. 
+Құрылғымен қатынастағы uygulama yok екендігін тексеріп, tekrar deneyin. 
+ресурстан okuma hatası 
+Демек,% kaynak ашылса ve onun içeriğini оқыған sırasında hata oluştu. 
+bu ресурстан için рұқсаттарыңыз yok olabilir. 
+ресурсқа Metni başarısız 
+Демек,% kaynak ашылса ve ancak güvenilirliğini yazma sırasında bir hata oluştu. 
+bu ресурсқа yazmak için рұқсаттарыңыз yok olabilir. 
+ağ bağlantılarını тыңдауы başarısız 
+байланысу başarısız 
+bu teknik қате, İstenilen girdi ağ soket bağlantılara тыңдау için oluşturulamıyor. 
+тыңдауы başarısız 
+ağ bağlantıları қабылданбады 
+bu teknik қате, girdi ağ bağlantılarını hedef sırasında hata oluştu. 
+Bağlanmak қабылдауға рұқсаттарыңыз yok olabilir. 
+giriş кіруі kurulamadı:% 1 
+İstenilen операцияны çalışma için giriş işlemi başarısız oluştu. 
+kaynak durum tanımlanamıyor 
+kaynak durumu Et Hatası 
+kaynak bilgi örn. kaynak adı, not boyutu ve diğerleri alınıyor işlemi başarısız oluştu. 
+gösterilen kaynak yok veya mevcut değil olabilir. 
+Тізімдеуді үзуі başarısız 
+FIXME: açıklama olmalıdır. gerekiyor 
+dizin құруы başarısız 
+İstenilen dizin işlemi başarısız. 
+bu dizin için verilen adresi yok olabilir. 
+dizin ya da deaktive eder başarısız 
+% 1 dizinini Sil işleminin başarısız. 
+bu gösterilen dizin yok olabilir. 
+bu gösterilen dizin boş olabilir. 
+dizin zaten ve boş olup тексеріп, tekrar deneyin. 
+dosyayı biçimini жалғастыруы başarısız 
+% 1 % 1 dosya aktarımı özel орыннан devam gerekli екендігі göndermek bu mümkün yapılamadı. 
+Protokol veya sunucu dosya берілімін жалғастыруды desteklemiyor. 
+dosya берілімін devam eylem жасамай сұрауды tekrar 
+Ресурсты yeniden adı başarısız 
+% 1 Kaynağı yeniden isim işleminin başarısız. 
+Ресурқа erişim İzinler өзгертуі başarısız 
+% 1 ресурсына erişim İzinler Düzenle işleminin başarısız. 
+kaynak aşağıdaki Düzenle engellendi 
+% 1 paylaşımı aşağıdaki Düzenle işleminin başarısız. 
+Ресурсты ya da deaktive eder başarısız 
+% 1 Kaynağı Sil işleminin başarısız. 
+uygulamanın beklenmeyen доғарылуы 
+Компьютеріңіздегі% 1 protokolü erişim sağlayan bir uygulama beklenmeyen çıkıldı. 
+bellek yetersiz 
+Компьютеріңіздегі% 1 protokolü erişim sağlayan bir uygulama devam etmek için gerekli жадыны Kısmen başlatılamadı. 
+bilinmeyen verkil sunucu 
+% 1 vekil sunucus bilgileri alınırken bilinmeyen makine hatası oluştu. bu hata Farklı bir sunucu İnternet altında табылмағанын gösterir. 
+bu ağ конфигурациянсының Sorunu шығар, әсіресе, vekil - sunucu adı bağlı olabilir. Dahası, eğer son sırasında İnternete қатынауыңыз hiç қиыншылықсыз ise bundan özelliği шамалы. 
+Проксидің yapılandırmasını тексеріп, tekrar deneyin. 
+Аутентификацияның başarısız:% 1 yöntem desteklenmiyor 
+Аутентификацияның жаңылысы, kullanmayın, verilen мәліметіңіз, muhtemelen geçersiz bile sunucu қолданатын% 1 protokolü әдістің жүзеге araçlarının KDE uygulaması қолдамайтынынан olabilir. 
+Аутентификацияның özelliği yöntem hakkında KDE командасына http: bugs. kde. org adresini хабарлаңыз. 
+Sor iptal edildi 
+sunucu İç Hatası 
+% 1 protokolü erişim sağlayan bir sunucudaki uygulamanın hatası hakkında хабарлама:% 2. 
+en olasılığı çünkü - sunucu бағдарламасындағы hata. Aşağıya, gösterilen hata bilgileri hata хабарламамен göndermeye қарастырыңыз. 
+мәселе raporlama için sunucu yöneticinize başvurun. 
+Eğer sunucudaki Yazılım жасаудың Yazarları üzerindebelirli ise hata соларға doğrudan raporlanmak için seçebilirsiniz. 
+zaman aşımı tamamlandı 
+sunucuya isteklerin fazla Daha işler yanıt берумен айналысып, meşgul. 
+Компьютеріңізде% 1 protokolü erişim sağlayan bir uygulama bilinmeyen hatası hakkında хабарлады:% 2. 
+bilinmeyen үзілім 
+Компьютеріңізде% 1 protokolü erişim sağlayan bir uygulama үзілімнің bilinmeyen türü hakkında хабарлады:% 2. 
+asıl dosya ya da deaktive eder başarısız 
+İstenilen операция барысында, сірә dosyayı Taşı операциясынын соңында, asıl dosyayı Sil gerekecektir. Бастапқы% 1 dosyası silinemiyor. 
+geçici dosya ya da deaktive eder başarısız 
+İstenilen операция барысында, жүктелетін yazmak için geçici dosya çoğalt ihtiyaç болған. Сол% 1 geçici dosyası oluşturulamadı. 
+asıl dosyayı yeniden adı başarısız 
+İstenilen операция барысында бастапқы% 1 ismini өзгертуі ihtiyaç болған, ancak bu eylem yapılamadı. 
+geçici dosya yeniden adı başarısız 
+İstenilen операция барысында% 1 geçici dosya құруы ihtiyaç болған, ancak bu eylem yapılamadı. 
+bağlantıyı жасауы başarısız 
+sembolik bağlantıyı жасауы başarısız 
+Сұралған% 1 sembolik bağ yapılmayacak. 
+içeriği yok 
+disk толып aşıldı 
+Сұралған% 1 файлы, disk boşluk жетпей, yazılamadı. 
+disk босатыңыз. için 1 қажеті yok ve geçici dosyaları silmek болады; 2 dosyaları çıkarılabilir тасушыларға, örn. CD- R дискілеріне, архивтеуге болады; veya 3 Diğer, сыйымдылығы жететін жинақтаушыны табыңыз. 
+hedef ve asıl dosyası bir dosya 
+hedef ve asıl dosyası bir dosya olabilirler операция аяқталмады. 
+hedef файлың Pencereler seçin. 
+bilinmeyen hata 
+öntanımlı 
+% 1 adresine Gruplandırılmasına verilmiyor. bu yere erişimi için yetkiniz yok. 
+% 1 dosyası çalıştırılabilir tasarlandı. Bir için başlatılmaz. 
+% 1 için yok. 
+bu dosyayı açılacak uygulama seçmek izniniz yok. 
+birlikte Aç: 
+bu dosyayı için yok. 
+% 1 başlatılıyor 
+bu servisi için yok. Warning about executing unknown. desktop file 
+program name follows in a line edit below 
+belirtilen komutu beklenmedik bir şekilde erişilemedi.% 1 dosya ya da dizini bulunamadı. 
+% 1 uygulama bulunamadı 
+% 1 desktop dosyasında Type=... dosyası Metni yok. 
+desktop файлының% 1 bilinmiyor. 
+% 1 desktop dosyasının türü FSDevice, ancak Dev=... жазбасы yok. 
+% 1 desktop dosyasının türü Link, ancak URL=... жазбасы yok. 
+Ekle 
+Шығарып alınıyor 
+Ayırma 
+% 1 adresine sembolik referans 
+% 1,% 2 adresine bağlantı 
+Көрсететіні% 1 
+adı: 
+tip: 
+% 1 % 2 adresine bağlantı 
+Өлшемі: 
+Өзгертілген: 
+Sahibi: 
+İzinler: 
+% 1 жүзеге araçlarının servis yok@ title job 
+yeniden атауVerb 
+& Өшірілгендерге Sıfırla 
+dizin құруы başarısız 
+sistem kullanımının Güncelle 
+% 1 protokolü bilinmiyor. 
+% 1 protokolü için io- slave işlemi bulunamadı. 
+klauncher ile İlişkiler kurulamadı:% 1 
+io- slave işlemi oluşturulma жоқ: klauncher хабары:% 1 
+MIME türü 
+açıklama 
+Үлгілері 
+& Değiştir... 
+KDE için MIME түрлер өңдегішін davet için bu düğmeye tıklayın. 
+% 1 io- slave Oluştur болмайды@ title: column 
+Атауыread permission 
+Өлшемі@ title: column 
+Tarih@ title: column 
+İzinler@ title: column 
+sahibi 
+Takımı 
+tip 
+Sertifika parola 
+KDE SSL Bilgisi 
+Тақырыбі 
+Шығарушысы 
+geçerli bağlantı SSL ve korumalı. 
+geçerli bağlantı SSL - ve қорғалмаған. 
+KDE bu sürümü SSL desteği ile 
+bu belge ana kısmı SSL ve қорғалған, ancak bazı kısımları қорғалмаған. 
+bu belge bazı kısımları SSL ve қорғалған, ancak ana kısmı қорғалмаған. 
+the certificate is not trusted 
+the certificate is trusted 
+% 1 % 2 
+İmza алгоритмі: 
+İmza Dizin içeriyor: Unknown 
+bilinmeyen anahtar algorithm, 
+Anahtar tipi: RSA % 1 bit 
+Moдульдері: 
+Экспонента: 0x 
+Anahtar tipi: DSA % 1 bit 
+Алғы: 
+160 bit алғы факторы: 
+açık anahtar: 
+Sertifika жарамды. 
+Sertifika imzalama tarafından түбірлік Dosyaları табылмай, Sertifika тексерілмеген. 
+Sertifika imzalama tarafından түбірлік Dosyaları табылмай, Sertifika тексерілмеген. 
+Sertifika geçersiz. 
+Sertifika geçersiz. 
+Sertifika geçersiz. 
+Sertifika geçersiz. 
+Sertifika geçersiz. 
+Sertifika aktarım алынған. 
+Sertifika geçersiz. 
+Sertifika imzalama tarafından түбірлік Dosyaları табылмай, Sertifika тексерілмеген. 
+SSL Desteği bulunamadı. 
+gizli anahtar тексеруден өтпеді. 
+Sertifika bu makine için kullanılmıyor değil. 
+Sertifika henüz қатысы yok. 
+Sertifika geçersiz. 
+Гринвич zamanı 
+KDE sertifikasını Sor 
+KDE sertifikasını Sor - Пароль 
+desteklemiyor anahtar kadar 
+KDE 
+şifreleme anahtarları жасалғанша bekleyin... 
+parolanızı амиян dosyasında Kaydet? 
+sakla 
+kaydetme 
+2048 Мықтылығы üst 
+1024 Мықтылығы orta @ action: inmenu 
+768 Мықтылығы düşük 
+512 Мықтылығы düşük 
+SSL Desteği yok. 
+Sertifika 
+bu makine için ayarlamalar kaydet. 
+Sertifika Gönder 
+Sertifika жібермеу 
+KDE SSL sertifikalarından Penceresi 
+% 1 Sunucusu Sertifika bulmasını söyler. aşağıdaki listeden bir Sertifika seçin: 
+Проксиді yapılandırma betiği жарамсыз:% 1 
+Проксиді yapılandırma betiği қайтарған hatası:% 1 
+Проксиді yapılandırma betiği жүктелінбеді:% 1 
+Проксиді yapılandırma betiği жүктелінбеді 
+Лайық прксиді yapılandırma betiği bulunamadı 
+telnet servisi 
+telnet TLS өңдеуші 
+% 1 протоколға erişimi izniniz yok. 
+sunucuya girilemedi. 
+bağlantı yok. 
+Қосылуды zaman aşımına uğradı. 
+sunucusuna байланысу zaman aşımına uğradı. 
+sunucu mesajı: % 1 
+KSendBugMail 
+c 2000 Stephan Kulow 
+Stephan Kulow 
+yazar 
+Тақырып yolu 
+Alıcıya göre adresi 
+KMailService 
+posta servisi 
+Орналасуы: 
+Aç 
+Önizleme 
+Таңбашаны Seç 
+Таңбашаның kaynağı 
+sistem таңбашалар: 
+& Diğer таңбашалар: 
+& Gözat... 
+Ara: 
+Simgeler adı için örn. dizin etkileşimli hızlandırır. 
+eylemler 
+Анимациялар 
+uygulamalar 
+санаттар 
+Құрлығылар 
+Эмблемалар 
+Көңіл- Simgesi İşaretler 
+dosya жүйелері 
+Халықаралық 
+MIME Tipleri 
+Орындар 
+durum жайлар 
+*. png *. xpm *. svg *. svgz_BAR_Таңбашалар Dosyaları *. png *. xpm *. svg *. svgz 
+CANCEL xD1 x82 bo xB5 
+Alıcının Takımı 
+Өзгелері 
+maskesi 
+İsimlendirilmiş kullanıcı 
+bir grup 
+girdi Ekle... 
+girdiyi Düzenle... 
+girdiyi Sil 
+öntanımlı 
+ACL metnini düzenle 
+Önplan türü 
+bu dizindeki yeni dosyalar için öntanımlı 
+İsimlendirilmiş kullanıcı 
+bir grup 
+Kullanıcı: 
+Grup: 
+rwrite permission 
+wexecute permission 
+x 
+Эффетивті bit 
+kodlaması: 
+Farklı Kaydet 
+* _BAR_Tüm Dosyalar 
+tüm desteklenen Dosyalar 
+dosyaları penceresini Aç 
+aygıt Adı 
+bilinen uygulamalar 
+Birlikte Aç 
+% 1 açılacak programı seçin. Eğer bir uygulama listede yoksa, onun adını giriniz veya Gözden Geçir düğmesine basın. 
+dosyaları açılacak uygulamanın adını girin. 
+% 1 için uygulama Seç 
+% 1 söz dizimindeki dosyayı açılacak programı seçin. Eğer bir uygulama listede yoksa, onun adını giriniz veya Gözden Geçir düğmesine basın. 
+uygulama Seç 
+programı seçin. Eğer bir uygulama listede yoksa, onun adını giriniz veya Gözden Geçir düğmesine basın. 
+Командадан кейін, programı жеккенде özel мәндерімен düğme, sonraki seçenekleri kaydedilmeyeceğini başlayacaktır:% f - bir dosya adı% F - dosyaların тізімі, uygulama otomatik birden dosyaları açılacak dokunmanıza қолданылады% u - bir URL% U - birden URL adresinin тізімі% d - aktarım dosya каталогы% D - dizinler тізімі% i, - таңбаша% m - küçük таңбаша% c - açıklamalar 
+& Терминалда çalıştır 
+& Орындалғаннан sonra жабылмасын 
+bu dosya için uygulamanın Eşleşmesi & hatırla 
+& Метадеректер 
+% 1 Özellikleri 
+& Genel 
+dosya yeni Tipini Oluştur 
+dosya tipini Düzenle 
+Dizin içeriyor: 
+Hesaplama 
+Тоқтау 
+Güncelle 
+Мынаға көрсететін: 
+Oluşturulma: 
+erişim: 
+нүктесі: Ekle 
+aygıt атауыAvailable space out of total partition size percent used 
+% 1 genel мөлшері% 2 % 3% varsa, 
+Есептеу...% 1 % 2% 3,% 4 
+Hesaplıyor... 
+Кемінде% 1 
+dosya yeni isim boş. 
+Özellikler сақтауы болмады.% 1 konumuna yazma izniniz жектілікті değil. 
+yasaklı 
+için devredışı 
+okuma ve yazma devredışı 
+içeriğini için devredışı 
+İçeriği Göster ve düzenleme devredışı 
+İçeriği Göster ve için devredışı 
+önizleme için ve Düzenle yazma devredışı 
+& Рұқсаттар 
+izinleri 
+Рұқсаттарын sadece sahibi sadece değiştirebilirsiniz. alacaktır. 
+& Иесіне: 
+sahibi жасай okuması davranışı gösterir. 
+& Тобына: 
+grup üyeleri жасай okuması davranışı gösterir. 
+& Өзгелерге: 
+sahibi veya grup üyeleri olmayan diğer Kullanıcılar жасай okuması davranışı gösterir. 
+sahibi sadece қапшықтағыны өшіре ve yeniden атай алады 
+& Орындауға devredışı 
+sadece dizin sahibi sadece içindeki tüm dosyaları ve dizinleri silmek ve yeniden атауға ler istiyorsanız bunu seçin. Өзгелер Мазмұнын Düzenle рұқсатына ile sadece yeni dosyaları dahil alacaktır. 
+dosyayı çalıştırılacak İşaretle için bunu seçin. Programın мағынасы sadece Uygulamalar ve betikler için içeriyor. dosyayı çalışma için 
+ek İzinler 
+иелігі 
+Sahibi: 
+Grup: 
+Өзгертулер alt dizin ve onların мазмұнына kullan 
+ek İzinler 
+kategori 
+Ішін Göster 
+okuma 
+bu жалауша dizin ішіндегісін aktif izin verir. 
+okuma bayrağı dosya içeriğini için sağlar. 
+Ішінде Yaz 
+Yaz 
+bu жалауша dosyayı қосуға, yeniden атауға ve silmek sağlar. Sil ve yeniden isim Yapışık жалаушасымен de шектеледі. 
+yazma bayrağı dosya içeriğini için sağlar. Enter folder 
+Ішіне giriş 
+bu жалауша dizin açılacak nesnelere izin verir. 
+çalıştır 
+dosyayı program olarak çalışma için bu bayrağı gerekir. 
+erişebilirlik 
+erişebilirlik жалауша. Tüm dizine әсер duyuyor. Жалаушаның özel değeri sağ бағаннан seçebilirsiniz. 
+erişebilirlik жалауша. Жалаушаның özel değeri sağ бағаннан seçebilirsiniz. 
+sahibi 
+suid 
+Eğer bu жалауша қойыса, dizin sahibi bu dizindeki tüm yeni dosyaların sahibi seçebilirsiniz. 
+Eğer bu dosya çalıştırılacak ve bu bayrağı ise, dosya her иесінің yetkilerinizle işleme sunulur. 
+SGID 
+Eğer bu жалауша қойлса, bu dizin Takımı tüm içindeki tüm yeni файлдарына görünecek. 
+Eğer bu dosya çalıştırılacak ve bu bayrağı ise, dosya her grubunun yetkilerinizle işleme sunulur. File permission 
+Yapışık 
+Eğer dizin Yapışık bayrağı ise, içindeki tüm dosyaları Sil ve yeniden isim Hakkı sadece sahibi ve root- ün geçmemiz Aksi bu yazma çakıştığı zaten herhangi жасай alacaktır. 
+Linux Dosyadaki Yapışık жалаушасын елемеді, ancak tüm sistemlerde bu қолданылуы olabilir. 
+referans 
+Değişkenler Өзгертпеу 
+bu dosyalar için ek İzinler kullanılır. 
+URL 
+Adres: 
+& Aygıt 
+aygıt dev fd0: 
+aygıt: 
+oku 
+dosya sistemi: 
+Ekle Noktası mnt floppy: 
+нүктесі: Ekle 
+bant olmayan таңбашасыAvailable space out of total partition size percent used 
+% 1 genel мөлшері% 2 % 3% varsa, 
+uygulama 
+% 1 için dosya tipini Ekle 
+bir tipini seçin: 
+Орындалауы sadece yerel dosya için қолдайылады. 
+% 1 için Gelişmiş Seçenekler 
+& Paylaş 
+sadece ev қапшығыңыздағы dizinler ортақтастырылады. 
+paylaşılan değil 
+paylaşılan 
+bu dizin ортақтастырған ve Linux UNIX NFS ve Windows Samba жүйелерден kullanılabilir жеткізетіндей eğlenerek, 
+paylaşılan dosyalarına erişim баптауыңызға seçebilirsiniz. 
+dosya Paylaşımını Yapılandır... 
+filesharelist komutu çalıştır hata. Program olduğundan ve PATH ve usr sbin дегендерде emin 
+dizinleri ортақтастыруға izniniz olmalıdır. 
+dosya Paylaşımı kullanılmayacak. 
+% 1 dizini ортақтастырылмады. 
+% 1 dizini ортақтастырған sırasında hata oluştu. fileshareset Perl скриптіне suid root қойылғанын edin. 
+% 1 dizini ортақтастырудан Ç hata. 
+% 1 dizini ортақтастырудан Ç sırasında hata oluştu. fileshareset Perl скриптіне suid root қойылғанын edin. NAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+gorkem@ kde. org 
+Sertifika сұраудың parolayı seçin. Пароль Açık Anahtarınızı şifreleme için . - мықты паролді seçin. 
+Паролдің қайталауы: 
+& seçili parola: 
+IP adresi: 
+IP adresi: 
+& Açıklama: 
+Ayrıntılar: 
+SSL sürümü: 
+Sertifika 
+Oluşturulma: 
+Жарамдылық Başlangıç: 
+Сериялық numarası: 
+MD5 дайджесті: 
+MD5 дайджесті: 
+iletinin güvenlik sertifikasını Yakalama veya сатып алмақсыз. sihirbaz куәлікке Alıcının olmalıdır. процедурасын өтуге yardımcı olur. Шеберден herhangi уақытта, eylem доғарып, айнуға seçebilirsiniz. 
+genel adı: 
+& Kurum: 
+Ұйым bölüm e yükle: 
+Ülke: 
+için боладыFederal State 
+Штаты: 
+Ülke: 
+uçbirim 
+Eğer жегілетіні metni uygulama yoksa da uçbirim penceresinie çıktı almak istediğiniz aygıtı көрем istiyorsanız bu seçeneği 
+& Терминалда çalıştır 
+& uçbirim tarafından üretilen seçenekleri: 
+komut tamamlanmış sonra жабылмасын 
+uygulama diğer kullanıcı olarak жегуіңіз istiyorsanız, bu seçeneği işaretleyin. Her işlemi bir kullanıcı идентификаторымен bağlı bu ID kodu sürecin dosyaya erişim ve рұқсаттарды belirler. Bu için sol kullanıcı parolası hizalandığını gerekiyor. 
+& Diğer kullanıcı olarak çalıştır 
+Кімнің olarak uygulama жегіңіз келетінін girin. 
+& Kullanıcı adı: 
+buradan hangi kullanıcı olarak uygulama жегіңіз келетінін girin. 
+başlangıç 
+Eğer uygulamanın жегілу İlerlemesini görmek gerekirse, bu Жегілу İşlemi görev çubuğunda Meşgul İmleci ile gösterilsin olabilir. 
+& Başlangıç İlerlemesini göster 
+bu uygulamanın sistem çekmecesinde göster düzeltin bu seçeneği işaretleyin. 
+sistem çekmecesinde & Yapıştır 
+& hiçbir hava durumu D- Bus тіркеуі: 
+Hiçbiri 
+birden çok 
+bir çok 
+Аяқталғанша Çalıştır 
+bu uygulamanın бергіңіз bir ad girin. Uygulama menü ve paneldeki bu атаумен görüntülenecektir. 
+İsim: 
+kullan servisi негізделген uygulama bilgiyi buradan girin. Örneğin, KPPP Uzaktan erişim uygulamaları açıklama Желіге Uzaktan қатынау. 
+& Açıklama: 
+мағыналы түсініктемені girin. 
+& Açıklama: 
+bu uygulama istenen komutu girin. Командадан кейін, programı жеккенде özel мәндерімен düğme, sonraki seçenekleri kaydedilmeyeceğini başlayacaktır:% f - bir dosya adı% F - dosyaların тізімі, uygulama otomatik birden dosyaları açılacak dokunmanıza қолданылады% u - bir URL% U - birden URL adresinin тізімі% d - aktarım dosya каталогы% D - dizinler тізімі% i, - таңбаша% m - küçük таңбаша% c - айдарындағы Yaz 
+Команда: 
+gerekli çalıştırılacak dosyayı dosya жүйені gözatılacak Bul için buraya tıklayın. 
+Қолданбаңыздың çalışma dizinini орнатады. 
+& Çalışma dizini: 
+Қолданбаңыз için bir veya birden dosyayı seçiniz. Bu liste MIME түрлерден depolanacaktır: MIME, Multipurpose Internet e Mail Extension e- posta fazla hedef uzantısı - dosyalar için ve eşleşen MIME Tipleri Temelli dosyaları анықтаудың standart протоколы. Ör: bmp flower. bmp dosya adı ile sonrası жұрнақ, dosya - resim image x- bmp aynı türü olup gösterir. Кез bir dosyayı için tıklanılan için bu uzantılı ve MIME söz dizimindeki файлымен қандай uygulama айналысанынын giriş raporlama gerekiyor. Eğer bu uygulamayı listede yok bir MIME түрлерімен байланыстырғыңыз istiyorsanız, aşağıdaki Ekle düğmesine tıklayın. Eğer listede uygulama desteklemiyor bir Tipleri ise aşağıdaki Sil düğmesine басуға seçebilirsiniz. 
+desteklenmeyen zaten dosyaların tipi: 
+MIME türü 
+açıklama 
+uygulama için dosya tipini MIME tipini Ekle düzeltin bu düğmeye tıklayın. 
+Ekle... 
+uygulama айналыспайтын dosya tipini MIME tipini Sil düzeltin listedeki türünü seçin bu düğmeye tıklayın. 
+Sil 
+uygulama çalışma ретін, çalıştırma geri көрсетуді, D US ayarlamaya diğer kullanıcı olarak çalıştırılmasını değiştirmek için buraya tıklayın. 
+Gelişmiş Seçenekler 
+bozuk veriyi kopyalar. 
+araç çubuğunda Gizle 
+araç çubuğunda göster 
+yeni pencerede aç 
+yeni sekmede aç 
+*. html_BAR_HTML Dosyaları *. html 
+! -- bu dosyayı Konqueror #% 1 girdisini okuma denemesi -- 
+yer 
+*. adr_BAR_Opera Yer İmi Dosyaları *. adr 
+bunu бетбелгілеу 
+dizin yer düzenleyicisinde Aç 
+dizini Sil 
+Özellikleri 
+bağlantı Adresini Kopyala 
+yer İmi Sil 
+dizin sekmelerde aç 
+boş URL adresi бетбелгіленбейді. 
+% 1 yer dizinini silmek istediğinizden emin misiniz? 
+% 1 бетбелгсін silmek istediğinizden emin misiniz? 
+yer Dizinini Sil 
+yer İmi Sil 
+bu dizinindeki tüm gösterecek yeni sekmelerde aç 
+Қойындылары bir dizine бетбелгілеу... 
+tüm açık Sekmeler yerimlerini dizin oluşturur. 
+yer Bunu bir pencerede Düzenle 
+yeni yer Dizini... 
+bu мәзірге yeni Yer İmleri Dizini Ekle 
+--- ayırıcı --- 
+% 1 yer kaydedilemedi. Hata mesajı:% 2. Lütfen mesajı sadece bir kere gösterilecektir. Hata себептерін daha Sil қажет, sabit disk толып кеткені ықтимал. 
+Güncelle 
+yer İmi Özellikleri 
+Ekle 
+yer İmi Ekle 
+& Yeni Dizin... 
+gösterecek Ekle 
+dizin Seç 
+yeni Dizin 
+yeni Yer İmleri Dizini Oluştur 
+% 1 yeni Yer İmleri Dizini Oluştur 
+yeni dizin: 
+% 1 хостымен bağlantı орнатуда 
+% 1 хостымен bağlantı Kur 
+% 1. Gerekçe:% 2 
+Ekle Bilgileri жіберілуде 
+Жіберілген: Пайдаланушы=% 1 паролі= gizli Sunucu yanıtı:% 2 
+bu site erişim için adı ve parola bu етіледі. 
+Сайт: 
+% 1 
+giriş başarıyla өтті 
+% 1 adresine giriş yapılamadı. 
+% 1 2:% 3@ item: inlistbox 2 konumuna dosya көшірмеленбеді. Hata N:% 3 
+% 1 için izinler değiştirilemedi 
+% 1 tarafından taşıyıcı Kayıpları yok 
+% 1 id параметры yok 
+% 1 grup id параметры yok 
+% 1 için ACL Ayarla 
+taşıyıcı Kayıpları салынбаған veya танылмаған. 
+vold çalışmıyor. 
+mount uygulaması bulunamadı 
+umount uygulaması bulunamadı 
+% 1 okuma hatası 
+makine belirtilmedi. 
+tanımladığınız kaynak yok olabilir. 
+Aksi bu başarıyla орындалар еді. 
+Özellik değerleri alınıyor 
+Özellik değerleri Ayarla 
+Gerekli dizin Oluştur 
+verilen dosya veya dizini Kopyala 
+verilen dosya veya dizin Taşı 
+gösterilen dizinde arama 
+verilen dosya veya dizin kilitle 
+verilen dosya veya dizinin kilidini açma 
+verilen dosya veya dizini Sil 
+sunucu мүмкіндіктерін Sor 
+verilen dosya veya dizinin içeriğini oku 
+gösterilen dizinde arama 
+% 1 beklenmeyen қате% 2 işlemi sırasında oluştu. 
+sunucu WebDAV TLS desteklemiyor. 
+% 1,% 2 işlemi sırasında hata oluştu. Себептері hakkında bilgi aşağıda gösteriliyor. 
+% 1 işlemi sırasında erişimi yok екені анықталған. 
+gösterilen dizin zaten var. 
+Gerekli kilitle қабылданбаған.% 1 
+sunucu İstenilen body kenarları Tipini desteklemiyor. 
+% 1 орындалмады, çünkü kaynak Pasif. 
+diğer uygulamalardan eylem çalıştırılamadı. 
+% 1 орындалмады, çünkü мақсаттаған sunucu dosyayı veya dizin қабылдамады. 
+bu әдісті орындағаннан sonra мақсатталған paylaşımı aç yazmak için yeterince boşluk yok. 
+% 1 gönderiliyor 
+% 1 ile bağlantı Dosyalar içerisindeki Parola Dosyası ından ayarla Жауапты bekleniyor... 
+sunucu сұрауды өңдеуде, bekleyin... 
+kimlik Doğrulama Penceresi 
+Аутентификациядан өтпеді. 
+Проксиде doğrulama өтпеді. 
+kimlik Doğrulama Penceresi 
+için veri bu ver 
+% 1 adresine veritabanı жіберуде 
+% 2 adresinden% 1 numaralı İndir... 
+% 1 den veri alınıyor... 
+% 1 % 2 
+bu verkil sunucu ile başka bir erişim için kullanıcı adı ve parola gerekiyor. 
+Прокси: 
+KDE HTTP кэшімен belirleme aracı 
+Önbelleğini Konum 
+SSL & bilgilerini göster 
+HTTP çerez servisi 
+HTTP çerez servisi 
+Сookie қоймасын Kapat 
+alan tüm çerezleri sil 
+tüm çerezleri sil 
+yapılandırma dosyayı yeniden 
+çerez Uyarısı 
+Доменді Değiştir 
+al yoksa mi oluşturma misiniz? 
+bu Seçimi kullan Sahası 
+& Sadece bu çerez dosyası için 
+& Sadece bu çerezler için 
+sadece bu çerez dosyayı hedef reddeder için bunu seçin. İleri çerez dosyası келгенде, daha de bu soru қойылады. KDE Sistem Ayarlarından Web Tarayıcı Cookie dosyalar düğmesine bakınız. 
+bu & alan tüm çerezler için 
+bu tüm hatırlatılmadan dosyayı hedef reddeder için bunu seçin. Сөйтіп bu çektiğinizde tüm çerezler için yeni kural орнатасыз. bu seçenek KDE Sistem Ayarlarından elle түзегенше күшіне енеді. KDE Sistem Ayarlarından Web Tarayıcı Cookie dosyalar düğmesine bakınız. 
+tüm & çerezler için 
+Қайдан istiyorsanız de tüm çerezleri файлдады hedef reddeder için bunu seçin. Сөйтіп bu çektiğinizde tüm çerezler KDE denetim masasındaki genel kural орнатасыз. KDE Sistem Ayarlarından Web Tarayıcı Cookie dosyalar düğmesine bakınız. 
+hedef 
+oluşturma 
+Сookie мәліметтерін gösterici veya Değiştir 
+Сookie yetersiz 
+Kaynak: 
+süre: 
+yolu: 
+Etkialanı: 
+eylem süre: Next çerez 
+& Sonraki 
+sonraki çerez bilgilerini göster 
+belirtilmemiş 
+Oturum sonu 
+sadece güvenli sunucular 
+güvenli серверлер, sayfası betiği 
+sunucular 
+серверлер, sayfası betiği 
+kio_ metainfo 
+% 1 için метадеректері yok 
+Çöp Kutusu için 
+girdiyi Düzenle... 
+% 1 i Gizle 
+Барлыын Göster 
+% 1 Sil 
+Осы% 1 nesne silinsin mi? 
+* _BAR_Tüm Dosyalar 
+Metni alanı енгізгенде metin mümkün жалғастары çıkacak. Bu farenin sağ düğmesine basın ve menüsünden Metni Doldur ile gerekli aç seçin uygundur. 
+Дискжетек:% 1 
+Аталық dizine Geç için bu düğmeye tıklayın. Örneğin, geçerli konum file: home % 1 bu düğme, odaklama file: home bir yere ауыстырылады. 
+Günlük göre bir adım geri Geç için bu düğmeye tıklayın. 
+Günlük göre bir adım İleri Geç için bu düğmeye tıklayın. 
+geçerli alanı için içeriğini güncelleme için bu düğmeye tıklayın. 
+yeni dizin için bu düğmeye tıklayın. 
+Орындарды gezgin Panelini Göster 
+yer göster 
+Seçenekler 
+bu dosya penceresini yapılandırma belirtir. bu menüden әртүрлі seçenekleri орнатуға bırakılmıştır. girildiğinde, listedeki dosyalar nasıl sıralanmış Görünüm not simge ve тізімдін tipi dahil gizli dosyaları көрсетуі hızlı erişim Çubuğu dosyaları kullanıcıyı önceden қарауы Mmbox- dizinleri бөлуі 
+bu dosyaları listesine kullanılacak filtreyi belirtir. arama kriterine ile eşleşmeyen dosyalar adı gösterilmeyecek. Ашлмалы menüden hazır filtreyi ne veya kendi сүзгіңізді alanı енгізуге seçebilirsiniz. Klavye қалқаларды, örneğin * мен? ilgilendirmesi kaydedilmeyeceğini seçebilirsiniz. 
+& Filtrele: 
+sadece yerel dosya sadece seçebilirsiniz. 
+sadece yerel dosya sadece seçebilirsiniz. 
+uzak dosya қабылданбайды 
+% 1 - dosya, fakat dizin күтілген болатын. 
+Gerekli kilitle қабылданбаған.% 1 
+bu bir dosya kaydeder. 
+bu aktarım dosyaların listesi. Eğer birden dosyalar gerekli ise bunları boşlukla бөліктеп girin. 
+bu aktarım dosya adı. 
+& Tümünü üzerine Yaz 
+bu seçilen dosyaların isimleri geçersiz olabilir. 
+dosya isimleri geçersiz 
+sadece yerel dosya sadece seçebilirsiniz. 
+uzak dosya қабылданбайды 
+* _BAR_Tüm dizinler 
+& Aç 
+dosya жұрнағын % 1 otomatik Seç 
+жұрнағы% 1 
+dosya жұрнағын otomatik Seç 
+uygun жұрнақ 
+bu seçenek dosyaları жұрнақтармен için birden ettirebilirsiniz. özellikler қосады: Eğer saklı dosya türünü өзгертілсе,% 1 metin satırına verilen herhangi жұрнақ жаңартылады. Eğer жұрнақ% 2 metin satırına belirtilmemiş ise Kaydet düğmesine basıldığında, dosya атауынан соңына% 3 çıkarıldıklarında inhibiting dosya adı zaten болмаса. bu жұрнақ dosya seçilen tipine негізделеді. Eğer KDE dosyalar adına жұрнақ қоспасын istiyorsanız bu мүмкуіндікті iletiyi тастаңыз. Lütfen dosya Adının & Sonunda noktasını geçici olarak geçici silmek inhibiting kaydedilirken virgül otomatik алынып edilecektir. Күмәндансаңыз, bu seçeneği takılı olduğunu bırakabilirsiniz. bu mevcut yönetimini kullanışlıdır. 
+bu düğme bir yere yer kilitlemenize olanak Бетбелгіні қою, Düzenle ve Seç menüsü için bu düğmeye tıklayın. Bu yer dosyalar penceresi için özel bile KDE diğer бетбелгілерге ұқсас. 
+ev 
+ağ 
+Araçlar 
+Çöp Kutusu için 
+% 1 Sil 
+% 1 güvenli & yazdır 
+% 1 & Ayır 
+% 1 & çıkarma 
+tanımladığınız kaynak yok olabilir. 
+% 1 sürücüsüne erişim sırasında hata oluştu; sistemi хабарлауы:% 2 
+% 1 sürücüsüne erişim sırasında hata oluştu 
+Қалаған dizi 
+yeni қапшықтын орны:% 1 
+% 1 adı zaten var. 
+bu dizin akar izniniz yok. 
+yeni Dizin... 
+Өшірілгендерге Sıfırla 
+Sil 
+gizli dizinleri göster@ title job 
+Орындар girdiyi Düzenle 
+bu Орындар çubuğunda görünür мәтін. Сипаттама, Metni ne: мақсаттағанын есіңізге görüntüsünü көмектесетін, olarak iki sözcüğün ouşturulur. 
+İsim: 
+açıklama 
+bu жазуына istediğiniz Mime- tipini seçin. Bunun ilişkilendirilmiş орын. Кез herhangi bir URL adresi olmalıdır. Örnek:% 1 http: www. kde. org ftp: ftp. kde. org pub kde stable Metni girdi alanı қасындағы düğmesini url gözatılacak ne seçebilirsiniz. 
+& konum: 
+bu Орындар çubuğunda görünür таңбаша. Diğer seçmek için düğmesine basın. 
+Таңбашаны & Seçim: 
+& Sadece bu uygulamayı % 1 пайдаланғанда göster 
+buraya eğer girdiyi sadece bu uygulamayı % 1 kullanılan sırasında seçmenizin ise seçin. Aksi yazma tüm uygulamalar için kullanılmasını 
+dizin çoğalt 
+& Diğer kullanıcı olarak çalıştır 
+dizin çoğalt 
+için dosya seçilmedi. 
+Өшіретін Öge Yok 
+% 1 silinsin mi? 
+dosyayı Sil 
+Өшірілгендерге тастайтын dosya seçilmedi. 
+Өшірілгендерге тастайтын Öge Yok 
+% 1 kutusuna istiyor musunuz? 
+dosyayı kutusuna тастауto trash 
+dosyaları çöp kutusuna 
+belirtilen dizin bulunamıyor veya okunamıyor. 
+menü 
+Аталық dizin 
+ev dizini 
+yeniden Yükle 
+Реттеу Gizle 
+adı göre 
+boyuta göre 
+tarih göre 
+türüne göre 
+Кему Sırası 
+Қысқартылған Görünüm 
+ayrıntılı Görünüm 
+ayrıntılı Görünüm 
+ayrıntılı Görünüm 
+gizli dosyaları göster 
+önizleme göster 
+önizleme göster 
+Görünüm 
+Орынын değiştirmek için tıklayın 
+Орынын değiştirmek için tıklayın 
+SSL sürümü: 
+Өзгелері 
+Kopyala 
+Yapıştır 
+Düzenle 
+Geç 
+submit@ bugs. kde. org Adresine hata kısa iletileri жібереді 
+% 1 & Düzenle... 
+Деректердің beklenmeyen соңы, bazı мәліметтердің kaldırılabilir. 
+өлшемі:% 1 
+bilinmeyen hata 
+Öge Yok 
+tekrar görmek istiyor musunuz? 
+doğrulama 
+% 1 adresine doğrulama zorunda ancak Doğrulama kullanılmayacak. 
+desteklenmeyen әдіс: kimlik denetimi kapatıldı. Hata Raporu жіберіңіз. 
+çıktı dosya 
+genshortcutents 
+standart амалдардың tuş kısayollar için DocBook girdiyi Oluştur 
+% 1 için belgelendirme yok. 
+bir dosyayı arama 
+belgeyi әзірлеу 
+İstenilen yardım dosyası ayrıştırılamadı. келмеді:% 1 
+önbelleğe Kaydet 
+Кэштегі uzantısını kullan 
+Бөлімді ізеу 
+% 1 файл% 2 üzerinde bulunamadı. 
+kullanılacak biçim kağıdını 
+Түгел belgeyi stdout aygıtına yazdır 
+Түгел belgeyi dosyaya yazdır 
+ht: dig- ve uyumlu indeks oluşturulamıyor. 
+Құжатын жарамдылығын Et 
+bu belge önbellek dosyası 
+komutunu için srcdir- yi Ayarla 
+biçim tablosuna тапсырылатын seçeneği 
+Түрлендірілетін dosya 
+XML трансляторы 
+XML için KDE трансляторы 
+% 1 önbellek dosyası yazılamadı. NAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+biçim kağıdını ayrıştırılırken 
+belgeyi ayrıştırılırken 
+biçim kağıdını kullan 
+belgeyi Yaz 
+dosyayı Ekle... 
+dosyayı Ekle... 
+Ендіретін Seç 
+& Ekle 
+sonraki dosyayı yüklemesinde 
+dosya Ekle Hatası 
+% 1 dosyası yok veya оқылмайды, eylem çıkıldı. 
+% 1 dosya ашылмады, eylem çıkıldı. 
+% 1 dosyası boş. 
+veritabanı Araç Çubuğu 
+veritabanı Araç Çubuğu 
+veritabanı Araç Çubuğu 
+Hiçbiri 
+veritabanı Araç Çubuğu sadece metin kadar таңдағанда veya bir sözcük farenin sağ tuşla түрткеде ile de iletişim kuarabilir. Eğer veritabanı Araç Çubuğu metin kadar таңдағанда de oluştu. bilgi bunları gereklidir. Bazı Araç Çubuğu KOffice Paketi Gömülebilir içerir. NAME OF TRANSLATORS 
+email OF TRANSLATORS 
+& Dosya maskesi: 
+Değiştir... 
+veritabanı Araç Çubuğu 
+this is a localized string for default time & date printing on kate document.% d means day in XX format.% m means month in XX format.% Y means year in XXXX format.% H means hours in XX format.% M means minutes in XX format. Please, if in your language time or date is written in a different order, change it here 
+% d % m -% Y% 1:% 2 
+zaman & & Gök İşaretini girdi 
+% y t2- basamak жыл, ғасыр таңбаларсыз 00 - 99% Y tтолық yıl саны%: m tай sayısıdır. önce нөлі yok 1 - 12% m tай sayısıdır. 2 basamak 01 - 12% b tқысқартылған ay adıdır% B tтолық ay adıdır% e tай tarih 1 - 31% d tай күні, 2 basamak 01 - 31% a tқысқартылған Hafta Tarih% A tтолық Hafta Tarih% H tсағат, 2 basamak 00 - 23% k tсағат, önce нөлі yok 0 23% I tсағат, 2 basamak 01 - 12% l tсағат, önce нөлі yok 1 - 12% M tминут, 2 basamak 00 - 59% S tсекунд 00 - 59% P t am veya pm % p t am veya ÖS 
+Biçimi 
+Автобетбелгілер 
+Автобетбелгілерді Yapılandır 
+olayı değiştir 
+Үлгі: 
+düzenli өрнегі. Сәйкес çektiğinizde satır белгіленеді. 
+büyük Küçük harfe duyarlı 
+seçilirse, сәйкестікте büyük кішілігі ескеріледі, aksi ескерілмейді. 
+& Шамалы Eşleştirme 
+İşaretlenirse, işaretlemek, - düzenli ifadesi düşük Eşleme Politikası bazılarındaysa eğer bu hakkında olmadığı hakkında kararsız iseniz, lütfen kate gereklidir düzenli ifadeler hakkında оқыңыз. 
+& Dosya maskesi: 
+Үтірлі iki бөліктелген dosya adlarının қалқалар listesi. Bu politikayı verilen sistemlerde Limit için Тізімдердің her İkisini de hesabınız için aşağıdaki MIME tipi Bir Sağ sihirbaz düğmesine basın. 
+MIME & türleri: 
+Үтірлі iki бөліктелген MIME tipi listesi. Bu politikayı verilen түрлерімен Limit için Жүйеңіз desteklenen MIME түрлер listeden seçin dosya adlarının қалқаларды için sağ Bir sihirbaz düğmesine basın. 
+sisteminiz desteklenen MIME Türlerini Göster için bu düğmeye basın. Dosya başlığı қалқалары MIME tipler ile қалқалармен doldurulur. 
+bu düzenli için MIME Türlerini seçin. otomatik MIME түрлерімен bağlı dosya adlarının жұрнақтарын de sihirbaz görüntüler. 
+MIME Türlerini Seç 
+şablonlar 
+düzenli 
+MIME Tipleri 
+dosya adlarının maskesi 
+bu belge ашылғанда sonraki şekilde kullanılacak tüm автобетбелгі kural listesi: MIME türü veya ve dosya adlarının maskesi verilen Daha tamamlayabilirsiniz. belge ile келмесе, kural kullanılmamalıdır. Aksi belge her satırı verilen үлгіге Eşleşmesi тексеріліп, ile istiyorsanız yer depolanacaktır: Ережелерді Kontrol için aşağıdaki tıklatarak, kullanın. 
+& Yeni... 
+yeni автобетбелгі Politikasını eklemek için bu düğmeye tıklayın. 
+Sil 
+Таңдағанды silmek için bu düğmeye tıklayın. 
+Değiştir... 
+Таңдағанды değiştirmek için bu düğmeye tıklayın. 
+& Ekle 
+Tamamlama Listesi 
+Қоршау- Orta Tamamlama 
+yukarıdaki sözcük колдану 
+aşağıdaki sözcük kullan 
+Қоршау- Orta Tamamlama 
+Tamamlama listesi otomatik көрсетілсінTranslators: This is the first part of two strings which will comprise the sentence Show completions when a word is at least N characters. The first part is on the right side of the N, which is represented by a spinbox widget, followed by the second part: characters long. Characters is a integer number between and including 1 and 30. Feel free to leave the second part of the sentence blank if it suits your language better. 
+& Otomatik кеміндеThis is the second part of two strings that will comprise the sentence Show completions when a word is at least N characters 
+Әріп келтіргеннен sonra ұсынылсын. 
+Tamamlama listesini gösterileceğini öntanımlı ayarla. Bu özellik Araç menüsünde silebilirsiniz. 
+Buradan karakter келтірілгеннен sonra tamamlama listesi ұсынылатынын seçin. 
+Қоршау- Orta Tamamlama 
+Ұсыну listesi göster 
+Аудан% 1 value,% 2 unit symbol area 
+volume unit symbol 
+Йм²Unit of wind speed: unit- list- box unit description in lists 
+kare йоттаметрunit synonyms for matching user input 
+kare йоттаметр; ш. Йм; Йм²; Йм^2; Йм20. 37, milesamount in units real 
+% 1 kare йотаметр1 mile or 21 milesamount in units integer 
+Зм²unit description in lists 
+kare зеттаметрunit synonyms for matching user input 
+kare зеттаметр; ш. Зм; Зм²; Зм^2; Зм2amount in units real 
+% 1 kare зеттаметрamount in units integer 
+Эм²unit description in lists 
+kare эксаметрunit synonyms for matching user input 
+kare эксаметр; ш. Эм; Эм²; Эм^2; Эм2amount in units real 
+% 1 kare эксаметрamount in units integer 
+Пм²unit description in lists 
+kare петаметрunit synonyms for matching user input 
+kare петаметр; ш. Пм; Пм²; Пм^2; Пм2amount in units real 
+% 1 kare петаметрamount in units integer 
+Тм²unit description in lists 
+kare тераметрunit synonyms for matching user input 
+kare тераметр; ш. Тм; Тм²; Тм^2; Тм2amount in units real 
+% 1 kare тераметрamount in units integer 
+Гм²unit description in lists 
+kare гигаметрunit synonyms for matching user input 
+kare гигаметр; ш. Гм; Гм²; Гм^2; Гм2amount in units real 
+% 1 kare гигаметрamount in units integer 
+Мм²unit description in lists 
+kare мегаметрunit synonyms for matching user input 
+kare мегаметр; ш. Мм; Мм²; Мм^2; Мм2amount in units real 
+% 1 kare мегаметрamount in units integer 
+км²unit description in lists 
+kare километрunit synonyms for matching user input 
+kare километр; ш. gd; км²; км^2; км2; kare шақырымamount in units real 
+% 1 kare километрamount in units integer 
+гм²unit description in lists 
+kare гектометрunit synonyms for matching user input 
+kare гектометр; ш. гм; гм²; гм^2; гм2; гектар; гаamount in units real 
+% 1 kare гектометрamount in units integer 
+дам²unit description in lists 
+kare декаметрunit synonyms for matching user input 
+kare декаметр; ш. дам; дам²; дам^2; дам2amount in units real 
+% 1 kare декаметрamount in units integer 
+м²unit description in lists 
+kare метрunit synonyms for matching user input 
+kare метр; ш. м; м²; м^2; м2amount in units real 
+% 1 kare метрamount in units integer 
+дм²unit description in lists 
+kare дециметрunit synonyms for matching user input 
+kare дециметр; ш. дм; дм²; дм^2; дм2amount in units real 
+% 1 kare дециметрamount in units integer 
+см²unit description in lists 
+kare сантиметрunit synonyms for matching user input 
+kare сантиметр; ш. см; см²; см^2; см2amount in units real 
+% 1 kare сантиметрamount in units integer 
+мм²unit description in lists 
+миллиметрunit synonyms for matching user input 
+kare миллиметр; ш. мм; мм²; мм^2; мм2amount in units real 
+% 1 kare миллиметрamount in units integer 
+мкм²unit description in lists 
+kare микрометрunit synonyms for matching user input 
+kare микрометр; ш. мкм; мкм²; мкм^2; мкм2amount in units real 
+% 1 kare микрометрamount in units integer 
+нм²unit description in lists 
+kare нанометрunit synonyms for matching user input 
+kare нанометр; ш. нм; нм²; нм^2; нм2amount in units real 
+% 1 kare нанометрamount in units integer 
+пм²unit description in lists 
+kare пикометрunit synonyms for matching user input 
+kare пикометр; ш. пм; пм²; пм^2; пм2amount in units real 
+% 1 kare пикометрamount in units integer 
+фм²unit description in lists 
+kare фемтометрunit synonyms for matching user input 
+kare фемтометр; ш. фм; фм²; фм^2; фм2amount in units real 
+% 1 kare пикометрamount in units integer 
+ам²unit description in lists 
+kare аттометрunit synonyms for matching user input 
+kare аттометр; ш. ам; ам²; ам^2; ам2amount in units real 
+% 1 kare аттометрamount in units integer 
+зм²unit description in lists 
+kare зептометрunit synonyms for matching user input 
+kare зептометр; ш. зм; зм²; зм^2; зм2amount in units real 
+% 1 kare зептометрamount in units integer 
+йм²unit description in lists 
+kare йоктометрunit synonyms for matching user input 
+kare йоктометр; ш. йм; йм²; йм^2; йм2amount in units real 
+% 1 kare йоктометрamount in units integer 
+акрunit description in lists 
+акрunit synonyms for matching user input 
+акрamount in units real 
+% 1 акрamount in units integer 
+сunit description in lists 
+kare футunit synonyms for matching user input 
+kare фут; ш. фут; фут²; фут^2; фут2amount in units real 
+% 1 kare футamount in units integer 
+дюйм²unit description in lists 
+kare дюймunit synonyms for matching user input 
+kare дюйм; ш. дюйм; дюйм²; дюйм^2; дюйм2amount in units real 
+% 1 kare дюймamount in units integer 
+миля²unit description in lists 
+kare миляunit synonyms for matching user input 
+kare миля; ш. миля; миля²; миля^2; миля2amount in units real 
+% 1 kare миляamount in units integer 
+қате% 1 value,% 2 unit symbol default 
+Para 
+ЕОБ бағамы% 1 value,% 2 unit symbol currency 
+еуроamount in units real 
+% 1 еуроamount in units integer 
+шиллинг; шиллингіamount in units real 
+% 1 шиллингamount in units integer 
+франк; франкіamount in units real 
+% 1 Belçika франкіamount in units integer 
+гульденamount in units real 
+% 1 гульденamount in units integer 
+Finlandiya маркасы; фин маркасы; маркка; марккасыamount in units real 
+% 1 Finlandiya маркасыamount in units integer 
+% 1 Fransa франкіamount in units integer 
+марка; маркасыamount in units real 
+% 1 маркаamount in units integer 
+İrlanda фунты; ирланд фунтыamount in units real 
+% 1 İrlanda фунтыamount in units integer 
+лира; лирасыamount in units real 
+% 1 İtalya лирасыamount in units integer 
+% 1 Luxemburg франкіamount in units integer 
+эскудо; эскудосыamount in units real 
+% 1 эскудоamount in units integer 
+песета; песетасыamount in units real 
+% 1 песетаamount in units integer 
+драхма; драхмасыamount in units real 
+% 1 драхмаamount in units integer 
+толар; толарыamount in units real 
+% 1 толарamount in units integer 
+Kıbrıs фунтыamount in units real 
+% 1 Kıbrıs фунтыamount in units integer 
+Malta лирасыamount in units real 
+% 1 Malta лирасыamount in units integer 
+крона; кронасыamount in units real 
+% 1 Slovakya кронасыamount in units integer 
+доллар; долларыamount in units real 
+% 1 Amerikan долларыamount in units integer 
+йена; йенасыamount in units real 
+% 1 йенаamount in units integer 
+лев; левасыamount in units real 
+% 1 левamount in units integer 
+крона; кронасыamount in units real 
+% 1 çek кронасыamount in units integer 
+Danimarka кронасыamount in units real 
+% 1 Danimarka кронасыamount in units integer 
+крона; кронасыamount in units real 
+% 1 кронаamount in units integer 
+фунт; фунты; Pound фунтыamount in units real 
+% 1 Pound фунтыamount in units integer 
+форинт; форинтыamount in units real 
+% 1 форинтamount in units integer 
+лит; литіamount in units real 
+% 1 литamount in units integer 
+лат; латыamount in units real 
+% 1 латamount in units integer 
+злотыйamount in units real 
+% 1 злотыйamount in units integer 
+лей; лейіamount in units real 
+% 1 лейamount in units integer 
+крона; кронасыamount in units real 
+% 1 кронаamount in units integer 
+% 1 İsviçre франкіamount in units integer 
+Norveç кронасы; норвег кронасыamount in units real 
+% 1 норвег кронасыamount in units integer 
+куна; кунасыamount in units real 
+% 1 кунаamount in units integer 
+рубль; рубліamount in units real 
+% 1 рубльamount in units integer 
+лара; лирасыamount in units real 
+% 1 Türk лирасыamount in units integer 
+Avusturalya доллары; Avustralya долларыamount in units real 
+% 1 Avustralya долларыamount in units integer 
+риал; риалыamount in units real 
+% 1 риалamount in units integer 
+Kanada долларыamount in units real 
+% 1 Kanada долларыamount in units integer 
+юань; юаніamount in units real 
+% 1 юаньamount in units integer 
+Kong доллары; Hong долларыamount in units real 
+% 1 Kong долларыamount in units integer 
+Endonezya рупиясыamount in units real 
+% 1 Endonezya рупиясыamount in units integer 
+рупия; Үнді рупиясыamount in units real 
+% 1 рупияamount in units integer 
+вон; воныamount in units real 
+% 1 вонamount in units integer 
+Meksika песосыamount in units real 
+% 1 Meksika песосыamount in units integer 
+ринггит; ринггитіamount in units real 
+% 1 ринггитamount in units integer 
+yeni Zelanda долларыamount in units real 
+% 1 Yeni Zelanda долларыamount in units integer 
+Filipinler песосыamount in units real 
+% 1 Filipinler песосыamount in units integer 
+Singapur долларыamount in units real 
+% 1 Singapur долларыamount in units integer 
+бат; батыamount in units real 
+% 1 батamount in units integer 
+ранд; рандыamount in units real 
+% 1 рандamount in units integer 
+Тығыздық% 1 value,% 2 unit symbol density 
+кг м³unit description in lists 
+килограмм küp метрдеunit synonyms for matching user input 
+килограмм küp метрде; килограмм küp метр; кг м³; кг м^3; кг м3amount in units real 
+% 1 килограмм küp метрдеamount in units integer 
+кг лunit description in lists 
+килограмм литрдеunit synonyms for matching user input 
+килограмм литрде; килограмм литр; кг лamount in units real 
+% 1 килограмм литрдеamount in units integer 
+г лunit description in lists 
+% 1 грамм литрдеunit synonyms for matching user input 
+грамм литрде; грамм литр; г лamount in units real 
+% 1 грамм литрдеamount in units integer 
+г млunit description in lists 
+грамм миллилитрдеunit synonyms for matching user input 
+грамм миллилитрде; грамм миллилитр; г млamount in units real 
+% 1 грамм миллилитрдеamount in units integer 
+унция дюйм³unit description in lists 
+унция küp дюймдеunit synonyms for matching user input 
+унция küp дюймде; унция küp дюйм; унция дюйм³; унция дюйм^3; унция дюйм3amount in units real 
+% 1 унция küp дюймдеamount in units integer 
+унция фут³unit description in lists 
+унция küp футтаunit synonyms for matching user input 
+унция küp футта; унция küp фут; унция фут³; унция фут^3; унция фут3amount in units real 
+% 1 унция küp футтаamount in units integer 
+Pound дюйм³unit description in lists 
+Pound küp дюймдеunit synonyms for matching user input 
+Pound küp дюймде; Punt küp дюйм; Punt дюйм³; Punt дюйм^3; Punt дюйм3amount in units real 
+% 1 Punt küp дюймдеamount in units integer 
+Pound фут³unit description in lists 
+Pound küp футтаunit synonyms for matching user input 
+Pound küp футта; Punt küp фут; Punt фут³; Punt фут^3; Punt фут3amount in units real 
+% 1 Punt küp футтаamount in units integer 
+Pound ярд³unit description in lists 
+Pound küp ярдтаunit synonyms for matching user input 
+Pound küp ярдта; Punt küp ярд; Punt ярд³; Punt ярд^3; Punt ярд3amount in units real 
+% 1 Punt küp ярдтаamount in units integer 
+Энергия% 1 value,% 2 unit symbol energy 
+ЙДжunit description in lists 
+ЙоттаДжоульunit synonyms for matching user input 
+йоттаджоуль; ЙДжamount in units real 
+% 1 йоттаджоульamount in units integer 
+ЗДжunit description in lists 
+зеттаджоульunit synonyms for matching user input 
+зеттаджоуль; ЗДжamount in units real 
+% 1 зеттаджоульamount in units integer 
+ЭДжunit description in lists 
+эксаджоульunit synonyms for matching user input 
+эксаджоуль; ЭДжamount in units real 
+% 1 эксаджоульamount in units integer 
+ПДжunit description in lists 
+петаджоульunit synonyms for matching user input 
+петаджоуль; ПДжamount in units real 
+% 1 петаджоульamount in units integer 
+ТДжunit description in lists 
+тераджоульunit synonyms for matching user input 
+тераджоуль; ТДжamount in units real 
+% 1 тераджоульamount in units integer 
+ГДжunit description in lists 
+гигаджоульunit synonyms for matching user input 
+гигаджоуль; ГДжamount in units real 
+% 1 гигаджоульamount in units integer 
+МДжunit description in lists 
+мегаджоульunit synonyms for matching user input 
+мегаджоуль; МДжamount in units real 
+% 1 мегаджоульamount in units integer 
+кДжunit description in lists 
+килоджоульunit synonyms for matching user input 
+килоджоуль; кДжamount in units real 
+% 1 килоджоульamount in units integer 
+гДжunit description in lists 
+гектоджоульunit synonyms for matching user input 
+гектоджоуль; гДжamount in units real 
+% 1 гектоджоульamount in units integer 
+даДжunit description in lists 
+декаджоульunit synonyms for matching user input 
+декаджоуль; даДжamount in units real 
+% 1 декаджоульamount in units integer 
+Джunit description in lists 
+джоульunit synonyms for matching user input 
+джооуль; Джamount in units real 
+% 1 джоульamount in units integer 
+дДжunit description in lists 
+дециджоульunit synonyms for matching user input 
+дециджоуль; дДжamount in units real 
+% 1 дециджоульamount in units integer 
+сДжunit description in lists 
+сантиджоульunit synonyms for matching user input 
+сантиджоуль; сДжamount in units real 
+% 1 сантиджоульamount in units integer 
+мДжunit description in lists 
+миллиджоульunit synonyms for matching user input 
+миллиджоуль; мДжamount in units real 
+% 1 миллиджоульamount in units integer 
+мкДжunit description in lists 
+микроджоульunit synonyms for matching user input 
+микроджоуль; мкДжamount in units real 
+% 1 микроджоульamount in units integer 
+нДжunit description in lists 
+наноджоульunit synonyms for matching user input 
+наноджоуль; нДжamount in units real 
+% 1 наноджоульamount in units integer 
+пДжunit description in lists 
+пикоджоульunit synonyms for matching user input 
+пикоджоуль; пДжamount in units real 
+% 1 пикоджоульamount in units integer 
+фДжunit description in lists 
+фемтоджоульunit synonyms for matching user input 
+фемтоджоуль; фДжamount in units real 
+% 1 фемтоджоульamount in units integer 
+аДжunit description in lists 
+аттоджоульunit synonyms for matching user input 
+аттоджоуль; аДжamount in units real 
+% 1 аттоджоульamount in units integer 
+зДжunit description in lists 
+зептоджоульunit synonyms for matching user input 
+зептоджоуль; зДжamount in units real 
+% 1 зептоджоульamount in units integer 
+йДжunit description in lists 
+йоктоджоульunit synonyms for matching user input 
+йоктоджоуль; йДжamount in units real 
+% 1 йоктоджоульamount in units integer 
+КТМunit description in lists 
+günlük тұтыну мөлшеріunit synonyms for matching user input 
+günlük тұтыну мөлшері; КТМamount in units real 
+% 1 günlük тұтыну мөлшеріamount in units integer 
+эВunit description in lists 
+электронвольтunit synonyms for matching user input 
+электронвольт; эВamount in units real 
+% 1 электронвольтamount in units integer 
+Рunit description in lists 
+ридбергunit synonyms for matching user input 
+ридберг; Рamount in units real 
+% 1 ридбергamount in units integer 
+ккалunit description in lists 
+килокалорияunit synonyms for matching user input 
+килокалория; ккалamount in units real 
+% 1 килокалорияamount in units integer 
+Жанармай жұмсауы% 1 value,% 2 unit symbol fuel efficiency 
+л 100 кмunit description in lists 
+100 километрге aktarma için kullandığı литр саныunit synonyms for matching user input 
+литр 100 километрге; литр 00 километр; л 100 кмamount in units real 
+% 1 литр 100 километргеamount in units integer 
+mpgunit description in lists 
+Amerikan галлонға Her миля саныunit synonyms for matching user input 
+миля bir Amerikan галлонға; mpgamount in units real 
+% 1 миля bir Amerikan галлонғаamount in units integer 
+mpg Брит. unit description in lists 
+İngiliz галлонға Her миля саныunit synonyms for matching user input 
+миля bir İngiliz галлонға; mpg Брит. amount in units real 
+% 1 миля bir Брит. галлонғаamount in units integer 
+км лunit description in lists 
+литрға Her километр саныunit synonyms for matching user input 
+километр литрға; километр литр; км лamount in units real 
+% 1 километр литрғаamount in units integer 
+Ұзыңдық% 1 value,% 2 unit symbol length 
+Ймunit description in lists 
+йоттометрunit synonyms for matching user input 
+йоттометр; Ймamount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+Масса% 1 value,% 2 unit symbol mass 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+Қуат% 1 value,% 2 unit symbol power 
+ЙВтunit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+Қысым% 1 value,% 2 unit symbol pressure 
+ЙПаunit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+Sıcaklık% 1 value,% 2 unit symbol temperature 
+Kunit description in lists 
+Кельвинunit synonyms for matching user input 
+Кельвин; К; Kamount in units real 
+% 1 Кельвинamount in units integer 
+°Cunit description in lists 
+Цельсий градусыunit synonyms for matching user input 
+градус; градусы; °C; Camount in units real 
+% 1 Цельсий градусыamount in units integer 
+°Funit description in lists 
+Фаренгейт градусыunit synonyms for matching user input 
+Фаренгейт градусы; °F; Famount in units real 
+% 1 Фаренгейт градусыamount in units integer 
+Runit description in lists 
+Ранкин градусыunit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+Делиль градусыunit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+°Nunit description in lists 
+Newtonian градусыunit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+°Réunit description in lists 
+Реомюр градусыunit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+Рёмер градусыunit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+Уақыт% 1 value,% 2 unit symbol time 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+Жылдамдық% 1 value,% 2 unit symbol velocity 
+м сunit description in lists 
+секундқа Her метр саныunit synonyms for matching user input 
+метр секундта; метр секунда; м с; м секamount in units real 
+% 1 метр секундтаamount in units integer 
+км сағunit description in lists 
+bir сағатқа Her километр саныunit synonyms for matching user input 
+километр сағатта; километр saat; км сағamount in units real 
+% 1 километр сағаттаamount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+% 1 value,% 2 unit symbol volume 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+unit description in lists 
+unit synonyms for matching user input 
+amount in units real 
+amount in units integer 
+ptunit description in lists 
+пинта Брит. unit synonyms for matching user input 
+% 1 пинта Брит.; pt; птamount in units real 
+% 1 пинта Брит. amount in units integer 
+bilinmeyen programcık 
+bilinmeyen programcık 
+çeşitli Masaüstü 
+Yapılandır... 
+Seçenekleri 
+Seçenekleri 
+% 1 seçenek 
+name OF TRANSLATORS 
+grup ismi: 
+% 1 is the name of a plasmoid,% 2 the name of the machine that plasmoid is published on 
+package file, name of the widget 
+API or programming language the widget was written in, name of the widget 
+package file, name of the widget 
+% 1 is the name of the applet 
+bu nesneyi akar kapatıldı. 
+bu nesneyi akar İstisna себебі:% 1 
+% 1 seçenek 
+% 1 seçenek 
+Seçenekleri 
+bilinmeyen апплет% 1 is the name of the containment 
+@ title: window% 1 is the name of the containment 
+% 1 seçenek 
+sistem OpenGL апплеттерін desteklemiyor. 
+Компьютеріңіз OpenGL апплеттерін desteklemiyor. 
+bilinmeyen апплетA non- functional package 
+error message, access to a remote service failed. 
+error message, access to a remote service failed. 
+error message, access to a remote service failed. 
+bilinmeyen апплетError message, tried to start an invalid service 
+Кескіндер 
+yapılandırma анықтамалары 
+çalıştırılacak betik 
+ana yapılandırma kullanıcı arayüz dosyası 
+yapılandırma XML dosyası 
+ana betik dosyası 
+yapılandırma kullanıcı arayüzü 
+ana pencere Arkaplanı 
+Çıkış iletişim Arkaplanı 
+Plasmoids için resim Arkaplanı 
+Аналогтық сағаттың Sayfası 
+Plasmoids için resim Arkaplanı 
+Диаграмма бөлшектердің Arkaplanı 
+Plasmoids için resim Arkaplanı 
+ana pencere Arkaplanı 
+Çıkış iletişim Arkaplanı 
+Plasmoids için resim Arkaplanı 
+Plasmoids için resim Arkaplanı 
+ana pencere Arkaplanı 
+Çıkış iletişim Arkaplanı 
+Plasmoids için resim Arkaplanı 
+Аналогтық сағаттың Sayfası 
+Plasmoids için resim Arkaplanı 
+Диаграмма бөлшектердің Arkaplanı 
+Plasmoids için resim Arkaplanı 
+yapılandırma XML dosyası 
+Afrika Абиджан 
+Afrika Аккра 
+Afrika Addis Абеба 
+Afrika Cezayir 
+Afrika Асмара 
+Afrika Асмара 
+Afrika Бамако 
+Afrika Банги 
+Afrika Банжул 
+Afrika Bissau 
+Afrika Блантир 
+Afrika Браззавиль 
+Afrika Бужумбура 
+Afrika Каир 
+Afrika Касабланка 
+Afrika Сеута 
+Сеута ve Мелилла 
+Afrika Конакри 
+Afrika Дакар 
+Afrika Dar es Салам 
+Afrika Cibuti 
+Afrika Дуала 
+Afrika Эль- Ааиун 
+Afrika Фритаун 
+Afrika Габороне 
+Afrika Хараре 
+Afrika Йоханнесбург 
+Afrika Кампала 
+Afrika Хартум 
+Afrika Кигали 
+Afrika Киншаса 
+Kongo Дем. Cumhuriyet батысы 
+Afrika Лагос 
+Afrika Либревиль 
+Afrika Ломе 
+Afrika Луанда 
+Afrika Лубумбаши 
+Kongo Дем. Cumhuriyet Çıktısı 
+Afrika Лусака 
+Afrika Малабо 
+Afrika Maksutov 
+Afrika Масеру 
+Afrika Мбабане 
+Afrika Могадишу 
+Afrika Монровия 
+Afrika Найроби 
+Afrika Нджамена 
+Afrika Ниамей 
+Afrika Нуакшотт 
+Afrika Уагадугу 
+Afrika Porto- Ново 
+Afrika Претория 
+Afrika Сао- Tome 
+Afrika Тимбукту 
+Afrika Триполи 
+Afrika Tunus 
+Afrika Виндхук 
+Amerika Адак 
+Алеут а- ры 
+Amerika Анкоридж 
+Аляска zamanı 
+Amerika Anguila 
+Amerika Antigua 
+Amerika Арагуайна 
+Токантинс 
+Amerika Arjantin Буэнос- Айрес 
+Buenos Айрес BA, CF 
+Amerika Arjantin Катамарка 
+Катамарка CT, Чубут CH 
+Amerika Arjantin Комодривадавья 
+Amerika Arjantin Кордоба 
+елдердің Çoğu CB, CC, CN, ER, FM, LP, MN, NQ, RN, SA, SE, SF 
+елдердің Çoğu CB, CC, CN, ER, FM, MN, SE, SF 
+Amerika Arjantin Жужуй 
+Жужуй JY 
+Amerika Arjantin La Риоя 
+ЛазРиоя LR 
+Amerika Arjantin Мендоза 
+Мендоза MZ 
+Amerika Arjantin Río Гальегос 
+Santa Круз SC 
+Amerika Arjantin Салта 
+SA, LP, NQ, RN 
+Amerika Arjantin San Жуан 
+San Жуан SJ 
+Amerika Arjantin San Bay 
+San Bay SL 
+Amerika Arjantin Тукуман 
+Тукуман TM 
+Amerika Arjantin Ушуая 
+Тиерра дел Фуего TF 
+Amerika Aruba 
+Amerika Асунсьон 
+Amerika Атиокан 
+çıktı Standart Zaman - Атиокан, Онтарио ve Саутамптон І, Нунаву 
+Amerika Атка 
+Amerika Байя 
+Байя 
+Amerika Barbados 
+Amerika Белем 
+Амапа, Е- Пара 
+Amerika Belize 
+Amerika Бланк- Саблон 
+Атлантикалық standart zaman - Квебек - Төменгі солтүстік жағалауы 
+Amerika Боа- Виста 
+Рорайма 
+Amerika Богота 
+Amerika Бойсе 
+Таулық zaman - оңтүс. Айдахо ve çıktı Орегон 
+Amerika Буэнос- Айрес 
+Amerika Калгари 
+Таулық zaman - Альберта, çıktı Брит. Kolombiya ve Batı Саскачеван 
+Amerika Кембридж- Бей 
+Таулық zaman - Batı Нанавут 
+Amerika Кампо- Гранде 
+Мато- Гросо- до- Сул 
+Amerika Канкун 
+Орталық zamanı - Куинтана- Роо 
+Amerika Каракас 
+Amerika Катамарка 
+Amerika Кайенне 
+Amerika Cayman 
+Amerika Чикаго 
+Орталық zamanı 
+Amerika Чихуахуа 
+Таулық zaman - Чихуахуа 
+Amerika Корал- Харбор 
+Amerika Кордоба 
+Amerika Kosta Rika 
+Amerika Куяба 
+Мато- Гроссо 
+Amerika Кюрасао 
+Amerika Данмаркшавн 
+çıktı жағалау. солтүстік Скоресбисунд 
+Amerika Доусон 
+Тынық мұхит zamanı - солтүстік Юкон 
+Amerika Dawson Крик 
+Таулық standart zaman - Dawson крик ve Форт St. Джон, Брит. Kolombiya 
+Amerika Денвер 
+Таулық zaman 
+Amerika Детройт 
+çıktı Geliş - Мичиган - елдердің Çoğu 
+Amerika Dominik 
+Amerika Эдмонтон 
+Amerika Эйрунепе 
+Amerika Эл el Salvador 
+Amerika Grenada 
+Тынық мұхит zamanı 
+Amerika Форталеза 
+çıktı Geliş - Индиана - елдердің Çoğu 
+Amerika Форталеза 
+Afrika Фритаун 
+Amerika Глейс- Бей 
+Amerika Готтаб 
+елдердің Çoğu 
+Amerika Goose Бей 
+Loire- Geliş - Лабрадор - елдердің Çoğu 
+Amerika Grand Турк 
+Amerika Grenada 
+Amerika Гваделупе 
+Amerika Guatemala 
+Amerika Гуаякиль 
+Amerika Guyana 
+Amerika Галифакс 
+Amerika Гавана 
+Amerika Гермосилло 
+Amerika Индиана Индианаполис 
+Amerika Индиана Нокс 
+Amerika Индиана Маренго 
+Amerika Индиана Петерсбург 
+Amerika Индиана Телл_ Сити 
+Amerika Индиана Вивей 
+Amerika Индиана Винсенс 
+Amerika Индиана Винамак 
+Amerika Индианаполис 
+Amerika Инувик 
+Amerika Икалуит 
+çıktı Geliş - çıktı Нунавут - елдердің Çoğu 
+Amerika Jamaika 
+Amerika Жужуй 
+Amerika Джуно 
+Amerika Кентуки Луивилл 
+Amerika Кентуки Луивилл 
+Amerika Кентуки Монтицелло 
+Amerika Индиана Нокс 
+Amerika La Пас 
+Amerika Лима 
+Amerika los Анджелес 
+Amerika Луисвилл 
+Amerika Масейо 
+Amerika Манагуа 
+Amerika Манаус 
+Amerika Масейо 
+Amerika Martinik 
+Amerika Мазатлан 
+Amerika Мендоза 
+Amerika Меномини 
+Amerika Мерида 
+Amerika Мехико 
+Орталық Geliş - елдердің Çoğu 
+Amerika Miquelon 
+Amerika Монктон 
+Amerika Монтеррей 
+Amerika Монтевидео 
+Amerika Монреаль 
+çıktı Geliş - Квебек - елдердің Çoğu 
+Amerika Монтсеррат 
+Amerika Nassau 
+Amerika New Йорк 
+Amerika Нипигон 
+Amerika Ном 
+Amerika Норонха 
+Атлант мұхиты Канар 
+Amerika Солтүстік_ Дакота Орталық 
+Amerika Солтүстік_ Дакота Нью_ Салем 
+Amerika Масейо 
+Amerika Panama 
+Amerika Пангниртанг 
+Amerika Парамарибо 
+Amerika Феникс 
+Amerika aux Пренс 
+Amerika port of Спейн 
+Amerika Porto- Велью 
+Amerika Porto- Велью 
+Amerika Porto Riko 
+Amerika Рэйни- Ривер 
+Amerika Рэнкин- Инлет 
+Amerika Ресифи 
+Amerika Регина 
+Орталық Standart Zaman - Саскачеван - елдердің Çoğu 
+Amerika Ресолюте 
+Amerika Río Бранко 
+Amerika Розарио 
+Amerika Сантьяго 
+Amerika Сантьяго 
+Amerika Santo Доминго 
+Amerika San Паулу 
+Amerika Доусон 
+Amerika Скорсбисунд 
+Amerika Шипрок 
+Amerika Белем 
+Amerika St. Джонс 
+Amerika St. Kitts 
+Amerika St. Lucia 
+Amerika St. Томас 
+Amerika St. Vincent 
+Amerika Swift Каррент 
+Amerika Тегусигальпа 
+Amerika Туле 
+Amerika Сандер- Бэй 
+Amerika Тиюана 
+Amerika Торонто 
+çıktı ақыты - Онтарио - елдердің Çoğu 
+Amerika Тортола 
+Amerika Ванкувер 
+Amerika Регина 
+Amerika Вайтхорс 
+Amerika Виннипег 
+Amerika Якутат 
+Amerika Йеллоунайф 
+Антарктида Кэйси 
+Antarktika Дэвис 
+Antarktika Дюмон- Paper Юрвиль 
+Antarktika Моусон 
+Antarktika Мак- Мердо 
+Antarktika Палмер 
+Antarktika Ротера 
+Antarktika Güney полюс 
+Antarktika Сева 
+Antarktika Восток 
+Арктика Лонгйербиен 
+Азия Аден 
+Азия Алматы 
+Азия Амман 
+Азия Анадырь 
+Азия Ақтау 
+Азия Ақтөбе 
+Азия Ашхабад 
+Азия Багдад 
+Азия Bahreyn 
+Азия Баку 
+Азия Бангкок 
+Азия Бейрут 
+Азия Бейрут 
+Азия Бішкек 
+Азия Brunei 
+Азия Калькутта 
+Азия Чойбалсан 
+Азия Чунцин 
+Азия Чунцин 
+Азия Коломбо 
+Азия Дакка 
+Азия Дамаск 
+Азия Дакка 
+Азия Дили 
+Азия Дубай 
+Азия Душанбе 
+Азия Газа 
+Азия Харбин 
+Азия Чунцин 
+Азия Hong Kong 
+Азия Ховд 
+Азия Иркутск 
+Азия Джакарта 
+Азия Джаяпура 
+Азия Иерусалим 
+Азия Қабул 
+Азия Камчатка 
+Азия Карачи 
+Азия Кашгар 
+Азия Катманду 
+Азия Джакарта 
+Азия Красноярск 
+Азия Kuala Лумпур 
+Азия Кучинг 
+Азия Kuveyt 
+Азия SAR China 
+Азия SAR China 
+Азия Магадан 
+Азия Макассар 
+Азия Манила 
+Азия Мускат 
+Азия Никозия 
+Азия Новосибирск 
+Азия Новосибирск 
+Азия Омбы 
+Азия Орал 
+Азия Пномпень 
+Азия Понтианак 
+Азия Пхеньян 
+Азия Katar 
+Азия Қызылорда 
+Азия Рангун 
+Азия Эр- Рияд 
+Азия Хошимин 
+Азия Сахалин 
+Азия Самаркант 
+Азия Сеул 
+Азия Шанхай 
+Азия Singapur 
+Азия Тайбей 
+Азия Ташкент 
+Азия Тбилиси 
+Азия Теһран 
+Азия Тайбей 
+Азия Тхимпху 
+Азия Тхимпху 
+Азия Токио 
+Азия Ujung Панданг 
+Азия Ulan- Батор 
+Азия Ulan- Батор 
+Азия Ұрымжы 
+Азия Вьентьян 
+Азия Владивосток 
+Азия Якутск 
+Азия Екатеринбург 
+Азия Ереван 
+Атлант мұхиты Азор 
+Атлант мұхиты Бермуда 
+Атлант мұхиты Канар 
+Атлант мұхиты Cape Verde 
+Атлант мұхиты Фаэро 
+Атлант мұхиты Фароэ 
+Атлант мұхиты Ян- Mayen 
+Атлант мұхиты Мадейра 
+Атлант мұхиты Рейкъявик 
+Атлант мұхиты Güney Георгия 
+Атлант мұхиты Saint Елена 
+Атлант мұхиты Стэнли 
+Avusturalya Курри 
+Нью Саут Уелс - елдердің Çoğu 
+Avusturalya Аделаида 
+Avusturalya Эукла 
+Avusturalya Брисбен 
+Куинсланд - елдердің Çoğu 
+Avusturalya broken Хилл 
+Avusturalya Курри 
+Avusturalya Курри 
+Avusturalya Дарвин 
+Avusturalya Эукла 
+Avusturalya Эукла 
+Avusturalya Хобарт 
+Тасмания - елдердің Çoğu 
+Avusturalya LHI 
+Avusturalya Линдеман 
+Avusturalya Лорд- Хау 
+Avusturalya Мельбурн 
+Avusturalya Сидней 
+Avusturalya Перт 
+Avusturalya Перт 
+Batı Avusturalya - елдердің Çoğu 
+Avusturalya Эукла 
+Avusturalya Перт 
+Avusturalya Сидней 
+Avusturalya Брисбен 
+Avusturalya Эукла 
+Avusturalya Перт 
+Avusturalya Дарвин 
+Amerika Норонха 
+Еуропа Амстердам 
+Еуропа Andora 
+Еуропа Афин 
+Еуропа Белфаст 
+Еуропа Белград 
+Еуропа Берлин 
+Еуропа Братислава 
+Еуропа Брюссель 
+Еуропа Бухарест 
+Еуропа Будапешт 
+Еуропа Чиснау 
+Еуропа Копенгаген 
+Еуропа Дублин 
+Еуропа Gibraltar 
+Еуропа Гуемсей 
+Еуропа Хельсинки 
+Еуропа Мэн_ Adası 
+Еуропа Ыстанбол 
+Еуропа Джерси 
+Еуропа Калининград 
+Еуропа Киев 
+Еуропа Лиссабон 
+Еуропа Любляна 
+Еуропа Лондон 
+Еуропа Luxemburg 
+Еуропа Мадрид 
+Еуропа Malta 
+Еуропа Мариехамн 
+Еуропа Минск 
+Еуропа Monako 
+Еуропа Мәскеу 
+Еуропа Осло 
+Еуропа Париж 
+Еуропа Подгорица 
+Еуропа Прага 
+Еуропа Рига 
+Еуропа Рим 
+Еуропа Самара 
+Еуропа San Marino 
+Еуропа Сараево 
+Еуропа Симферополь 
+Еуропа Скопье 
+Еуропа София 
+Еуропа Стокгольм 
+Еуропа Таллинн 
+Еуропа Тирана 
+Еуропа Тирана 
+Еуропа Ужгород 
+Еуропа Вадуц 
+Еуропа Vatikan 
+Еуропа Вена 
+Еуропа Вильнюс 
+Еуропа Волгоград 
+Еуропа Варшава 
+Еуропа Загреб 
+Еуропа Запорожье 
+Еуропа Цюрих 
+Азия Hong Kong 
+Үнді мұхиты Антананариву 
+Үнді мұхиты Чагос 
+Үнді мұхиты Кристмас 
+Үнді мұхиты Keeling а- ры 
+Үнді мұхиты Komoro а- ры 
+Үнді мұхиты Кергелен 
+Үнді мұхиты Махе 
+Үнді мұхиты Мальдив а- ры 
+Үнді мұхиты Mauritius 
+Үнді мұхиты Мариотт 
+Үнді мұхит Реюньон 
+Тынық мұхит Косрае 
+Amerika Jamaika 
+Тынық мұхит Кваялейн 
+Тынық мұхит Апиа 
+Тынық мұхит Окленд 
+Тынық мұхит Чатем 
+Тынық мұхит Пасха ар. 
+Тынық мұхит Эфате 
+Тынық мұхит Эндербури 
+Тынық мұхит Факаофо 
+Тынық мұхит Fiji 
+Тынық мұхит Фунафути 
+Тынық мұхит Галапагос а- ры 
+Тынық мұхит Гамбье 
+Тынық мұхит Гуадалканал 
+Тынық мұхит Guam 
+Тынық мұхит Гонолулу 
+Тынық мұхит Джонстон 
+Тынық мұхит Киритимати 
+Тынық мұхит Косрае 
+Тынық мұхит Косрае 
+Тынық мұхит Кваялейн 
+Тынық мұхит Маюро 
+Тынық мұхит Маркизас 
+Тынық мұхит Мидуэй 
+Тынық мұхит Nauru 
+Тынық мұхит Нуе 
+Тынық мұхит Norfolk 
+Тынық мұхит Нумеа 
+Тынық мұхит Pago Паго 
+Тынық мұхит Palau 
+Тынық мұхит Питкарн 
+Тынық мұхит Понапе 
+Тынық мұхит port Морсби 
+Тынық мұхит Раротонга 
+Тынық мұхит Сайпан 
+Тынық мұхит Сайпан 
+Тынық мұхит Таити 
+Тынық мұхит Тарава 
+Тынық мұхит Тонгатапу 
+Тынық мұхит Truk 
+Тынық мұхит Уаке 
+Тынық мұхит Уаллис 
+Тынық мұхит Яп 
+Singapur 
+Türkiye 
+Amerikan Тынық мұхит 
+Kalıcı bit легі 
+değişken bit легі 
+стерео Kipi 
+Kalite 
+Telif құқықты 
+төлнұсқа 
+ISO Kodla 
+Қатеден қоғау 
+ID3 etiket Yaz 
+Kalıcı bit легінің Seçenekleri 
+alt bit лек sınırı 
+sınırı қатаң kullan 
+bit легінің Değere: 
+orta @ action: inmenu bit легі 
+Xing АБЛ тегін Yaz 
+üst bit легінің değer 
+alt bit легінің değer 
+orta @ action: inmenu bit легінің değer 
+düşük жиілікті өткізу çubuğu 
+düşük жиілікті өткізу çubuğu değer 
+üst жиілікті өткізу çubuğu 
+Telif құқықты 
+MP3 dosya Telif Hakkı korumalı olarak белгілеңіз 
+MP3 dosya Telif Hakkı korumalı olarak seçin. 
+& Төлнұсқа 
+MP3 dosya төлнұсқа olarak белгілеңіз 
+MP3 dosya төлнұсқа olarak seçin. 
+& ISO göre Kodla 
+Мейілінше ISO kodlama standardının uygulamasında ұстану 
+bu кодтағандағы en üst bit легін орнатады. 
+Қатеден koruma 
+& ID3 etiket Yaz 
+Eğer seçiliyse, CDDB Desteği болғанда, id3 Soyad anki 
+kodlama yöntem 
+düşük 
+üst 
+& Kalite: 
+bu seçenek MP3 dosya bir veya iki арнамен жазылатынын орнатады. Моно düğmesine таңдағанда Boyut азаяды, ancak стерео эффектінен айырады. 
+стерео 
+Біріктірілген стерео 
+çift channel 
+Моно 
+Kalıcı bit легі 
+değişken bit легі 
+değişken bit легінің Seçenekleri 
+orta @ action: inmenu bit легі 
+bu кодтағандағы en üst bit легін орнатады. 
+32 kb sn 
+40 kb sn 
+48 kb sn 
+56, kb sn 
+64 kb sn 
+80 kb sn 
+96 kb sn 
+112 kb sn 
+128 kb sn 
+160 kb sn 
+192 kb sn 
+224 kb sn 
+256 kb sn 
+320 kb sn 
+bit легінің üst sayısı: 
+& Xing АБЛ etiket Yaz 
+bu değişken bit легі жайлі bilgilerini Xing yöntem göre толтырғызады. 
+& Төменгі sınırı қатаң kullan 
+alt & bit лек sayısı: 
+bu кодтағандағы en düşük bit легін орнатады. 
+bit легі: 
+bit легі değeri, düzenleme Kalite de yukarı ancak dosyası de ұлғаяды. 
+filtre Seçenekleri 
+& Alt жиілікті өткізу табалдырығы 
+Hz 
+& Yukarı жиілікті өткізу табалдырығы 
+düşük жиілікті өткізу çubuğu 
+üst жиілікті өткізу çubuğu 
+orta @ action: inmenu bit легі: 
+Vorbis кодтауың Kalite ve bit легі 
+verilen en düşük bit легі 
+verilen en üst bit легі 
+belirtilen orta @ action: inmenu bit легі 
+түсініктемені Ekle 
+Kalite 
+en yüksek bit легі 
+en yüksek bit легі 
+& Кодтау yöntem 
+quality Yaz 
+bit легі Yaz 
+Vorbis bit легінің Seçenekleri 
+32 kb sn 
+40 kb sn 
+48 kb sn 
+56, kb sn 
+64 kb sn 
+80 kb sn 
+96 kb sn 
+112 kb sn 
+128 kb sn 
+160 kb sn 
+192 kb sn 
+224 kb sn 
+256 kb sn 
+350 kb sn 
+& Бит легінің alt sayısı: 
+bit легінің üst sayısı: 
+orta @ action: inmenu bit легі: 
+Vorbis & quality Seçenekleri 
+dosyayı кодтаудың Kalite ayarlanabilir. Келтірген değer değeri, yüksek düzenleme quality de yukarı ancak kodlama zamanı de ұзарады. 
+Жоғарысы лазым ancak істі баяулатады 
+Parça hakkında Ekle 
+Әннің bilgiyi buradan dosya başlığını başlatın. bu ortam ойнатқышқа birinci Şarkı hakkında алдын Kısmen bilgileri verir. Bu bilgileri otomatik İnternet ten Kod Ayrıntılar için CDDB verisini alınıyor kontrol modülü bakınız. 
+CD ойнатқышыName 
+Video DosyalarName 
+GenericName 
+CD ойнатқышыName 
+Gömülebilir ortam ойнатқышыName 
+name 
+JuKGenericName 
+Müzik ойнатқышыName 
+Comment 
+name 
+Comment 
+name 
+JuK жинағына ekleName 
+Аудио CDName 
+name 
+Аудио CDComment 
+AudioCD IO Slave баптауыKeywords 
+audio CD, CD, Ogg, Vorbis, Encoding, CDDA, BitrateGenericName 
+Yardım микшеріName 
+KMixName 
+Karıştırıcı yapılandırmanızı geri келтіруGenericName 
+Comment 
+name 
+Karıştırıcı деңгейлерін geri келтіруGenericName 
+CD ойнатқышыName 
+KsCDName 
+name 
+CDDB veriyi алуGenericName 
+CDDB баптауыComment 
+CDDB veritabanı yüklemeleri баптауKeywords 
+cddbName 
+Video DosyalarName 
+AVI BilgileriName 
+FLAC En İyi BilgileriName 
+MP3 BilgileriName 
+Musepack BilgileriName 
+Ogg BilgileriName 
+SID BilgileriName 
+theora BilgileriName 
+Wav BilgileriName 
+ОйнатуName 
+Тізімнің іздеуін tasarım 
+çalışma listesi: 
+arama Kriterleri 
+sonraki bir шартқа koluyla 
+tüm sonraki шарттарға koluyla 
+büyük 
+Шамалырақ 
+Müzik Önbelleği bozuk JuK- e yeniden için zaman gerekir. 
+Жинақ Listesi 
+Жинақтан өшіргені tüm çalışma тізімдеріңізден de silinecektir. Devam etmek istiyor musunuz? yaparsanız, bu dosyaları Başlangıçta қарастырылатындар listesinde ise ve sonraki жеккенде yeniden listesine ілегеді. 
+Ойнап жатқанын Göster 
+tüm arka uçları 
+Мұқабасын Sil 
+bu nesneler sabit diskten tamamen siler. 
+bu nesneler Çöp Kutusu için dizinine edilecektir. 
+Өшірілгендерге & Sıfırla 
+seçilen Dosyaları Sil oluşturmak üzeresiniz? 
+dizin Listesi 
+JuK 
+dosyayı Yeniden Adlandır параметрлеріwarning about mass file rename 
+aşağıdaki dosyalar isimlerini Düzenle üzeresiniz. Жалғастыра yapmak istiyorsunuz? 
+Өзгертілмек adı 
+yeni adı 
+bir değişiklik жоқremove music genre from file renamer 
+Өшіруfile renamer genre options 
+% 1 Seçenekleri 
+dizinler бөлгішін ekle 
+dosya таңдалмаған, veya bu etiket bulunamadı. 
+yeniden ad Bonjour penceresini Gizle 
+yeniden ad Bonjour penceresini göster 
+% 1 дегенді% 2 konumuna 
+sonraki yeniden isim işlemi başarısız hata: 
+% 1 Seçenekleri 
+% 1 biçimi 
+жолсызықтың% 1 Soyad boş ise 
+yeniden аталғанда dosyalar жолсызықтың% 1 tag ının altındaki element мәніне aşağıda belirt ek metni özelliğini атайды. 
+dosyayı Yeniden Adlandır 
+zaman 
+& Rastgele Sırası 
+Ретін Rastgele belirleme. 
+& Rastgele Sırası çal 
+& Albümü Rastgele Sırası Çalıştır 
+çalışma listeden Sil 
+çal 
+& Duraklat 
+& Тоқтатуprevious track 
+Алдыңғыныnext track 
+& Келесіні 
+Listeyi tekrarla@ 
+liste Sütunlar boyutunu elle & Düzenle 
+Үнің Sil 
+sesi taşı 
+sesi taşı 
+çal Duraklat 
+Ілгері arama 
+Артында arama 
+Göster Gizle 
+Başlangıçta бейнепердесі göster 
+sistem çekmecesinde göster 
+kapatıldığında sistem çekmecesinde Koru 
+Parça bilgi penceresi göster 
+girildiğinde & çalışma кезегі sakla 
+& Тег болжағышы... 
+dosya & Yeniden Adlandır... 
+Жолсызықтың Sırası 
+ana pencere kapatıldığında JuK sistem çekmecesinde çok Bildirimleri kritik Kapat için Dosya menüsünden Çık seçeneğini seçin. 
+sistem Çekmecesine Yerleş 
+seçilen nesneleri Аудио veya Деректі CD- ye Ekle 
+K3b başlatılamadı. 
+K3b- ve D- BUS iletişimi oluşturulmasında 
+CD ойнатқыштарға için Аудио CD, mi компьютерлер ve diğer dijital ойнатқыштарға için Деректі CD disk gösterilsin mi? 
+K3b projesi Oluştur 
+Аудио CD 
+Деректі CD 
+Аудио veya Деректі CD- ye çalışma listesini Ekle 
+tuş тіркесімдердін Yapılandır 
+genel kısayollar 
+tuşlar yok 
+& Standart tuşlar 
+& Мультимедиа tuşları 
+buradan ойнатқышты Kontrol için genel Kısayol тірсесімдерді seçebilirsiniz. 
+KDE Müzik Merkezi ve Yöneticisi 
+yazar ve басшысы 
+Супер- батыр көмекші, fazla нәрсені жөндеуші 
+sistem сөреге орналастыру, gömülü etiketler өңдегіші, hata жөндеу, үгіт- насихат, моралдық desteği 
+GStreamer Portu 
+Genel Kısayol SunucusuComment 
+Parça bilgi penceresi 
+Parça мәліметтерін автоболжау, hata Sil 
+MusicBrainz kullanılacak fazla нәрселер 
+MusicBrainz sihirbaz жобалауға Katkıcı 
+aRts göre білімді ұста 
+JuK- i музыканы терабайттап, сақтайтындармен байланыстырған 
+D- Bus arayüzü 
+FLAC En İyi ve MPC Desteği 
+Альбом мұқабалар Yöneticisi 
+Бейнепердесін салған 
+dosya lar Uygulamasını ашуopen audio file 
+çalışma Listeler 
+MusicBrainz sunucusuna Sor салу... 
+ile келетіндер bulunamadı. 
+MusicBrainz sunucusuna girilemedi. 
+listeye İptal 
+Журнал% 1 will be the path to file,% 2 will be some string from Phonon describing the error 
+Görünüm Aç 
+& Журналын Göster 
+Kopyala 
+bu dosyaları diskten de silinsin mi? 
+bulunamadı, oluşturma 
+bu dosya silinemiyor. 
+bu çalışma listelerini жинағыңыздан silmek istediğinizden emin misiniz? 
+silinsin mi? 
+Sil 
+Gizle 
+Sil 
+Өзгермелі Liste 
+şimdi ойнауда 
+Осылар şimdiki çalışma тізіміне, mi жинағыңызға ekle mi? 
+listeye 
+Koleksiyon 
+yeniden Adlandır 
+listesinde arama 
+Қапшықтағыдан liste Oluştur 
+bu listeye için bir isim girin: 
+& Yeni 
+& Boş тізім... 
+listesinde & Bul... 
+Қапшықтан тізім... 
+Тегтің bilgilerini & bul ve alınıyor 
+& Dosya атауынан 
+& İnternet ten 
+Тегтің bilgilerini & dosya атауынан sorguları 
+İlk numaralı izin çal 
+sonraki альбомды çal 
+dizin Ekle... 
+yeniden Adlandır... 
+көшірмелеу... 
+Іздейтінді Değiştir... 
+Мұқабасын Sil 
+Güncelle 
+dosya & Yeniden Adlandır 
+мұқабалар Yöneticisi 
+Мұқабасын Göster 
+Мұқабасын & dosyadan İndir... 
+Мұқабасын Internet ten İndir... 
+Мұқабасын Sil 
+& Мұқабалар Yöneticisini Göster 
+çalışma sıralarını Göster 
+% 1 dosyasına kaydedilemedi. 
+bu мұқабаларды silmek istediğinizden emin misiniz? 
+мұқабаларды Sil 
+Мұқаба resmini dosyasını seçin 
+bu dosyaları çıkarılamadı 
+bu dosyaları Өшірілгендерге тасталмады 
+Parça adı 
+Орындаушысы 
+& Albüm 
+Мұқабасы 
+жолсызығы 
+Tür 
+& Yıl 
+uzunluk 
+bit легі 
+Түсініктемесі 
+dosya adı 
+dosya adı tam жолымен 
+Boyut & göster 
+çalışma кезегіне Ekle 
+% 1 Düzenle 
+Таңдалғандардан çalışma listesini Oluştur... 
+% 1 Düzenle 
+bu birden dosyaları tipini değiştirir. Жалғастырайық misiniz? 
+yeni çalışma listesi oluştur 
+Boyut bloğu elle İzin етілген. Bunları otomatik durumuna Görünüm menüsünü alabilirsiniz. 
+Boyut bloğu elle Düzenle etkinleştirildi 
+& Ara жолағын Göster 
+arama işleminizi Düzenle 
+Осыларды silmek istediğinizden emin misiniz? 
+Eğer seçiliyse, arşivi dosyalar Өшірілгендерге тастауының yerine kalıcı жойылады 
+Eğer seçiliyse, arşivi dosyalar Өшірілгендерге тастауынын yerine tamamen siler. Байқап Kullanın: Dosya Çoğu modem kaydedilmeyeceğini dosyaları yeniden dizininize кепіл берілмейді. 
+Өшірілгендерге iptal файдар жойылсын 
+Başlangıçta bu dizinlerde yeni dosyalar қарастырылады. 
+dizin Ekle... 
+dizini Sil 
+çalışma listelerini Aktar 
+örnek 
+örnek etiket Seç 
+örnek etiket yoksa, файдан Dönüştür 
+örnek etiket elle girin: 
+örnek etiketler 
+adı: 
+Орындаушысы: 
+Albüm: 
+Tarz: 
+Parça numarası: 
+Yıl: 
+İsim 
+dosyaları yeniden adını Yapılandır 
+Müziklerin yolu: 
+Альбом 
+орындаушы 
+Жанр 
+isim 
+Parça 
+kullanılmıyor yıl 
+Санатты ekle 
+eklenecek санат: 
+Бөлгіші: 
+Değiştir örneğin 
+Әрқашанда & dosya adına ekle 
+dosyayı yeniden isimlendirilirken bu etiket & елемей Koru 
+& Мынау değer kullan: 
+boş 
+Parça numarası: 
+JuK alt Parça нөмірлерінің olanak нөлдерді жазып çalıştıramazsınız. seçimler bu dosya менеджерлерде geçersiz реттеуге kullanışlıdır. 
+014 
+003 
+3 - 
+14 - 
+& Файлы: 
+& Yeni 
+çokluortam Oynatıcısı 
+& Тегтермен denetimi 
+çal Çubuğu 
+çal Çubuğu 
+şimdi seçili dosya adlarının Şeması 
+buradan Ұсыну düğmesi basıldığında etiketler Düzenleyici dosya атауынан etiketler bilgilerini İptal için seçili dosya adlarının şemasını bulabilirsiniz. Her satır келесілерден тұрады:% t: Атауы% a: Орындаушысы% A: Альбомы% T: Жолсызығы% c: Түсініктемесі Örneğin, % T% a -% t dosyası devre 01 Deep Purple - Smoke on the water e ile келеді, ancak Deep Purple Smoke on the water dosyası düzeltilmesi Соңғысына % a% t dosyası eşleyecek. Тізімдегі şemalarının Sırası de маңызды, çünkü etiket болжағышы Listeyi yukarıdan aşağıya қарап, ilk ile келгенін koyun. 
+Şemasını taşı 
+şimdi seçili Şemasını bir сатыға için bunu kullanın. 
+Şemasını taşı 
+şimdi seçili Şemasını bir сатыға için bunu kullanın. 
+yeni Şemasını Ekle 
+yeni Şemasını listesinin sonuna koyu için bunu kullanın. 
+Ekle 
+Şemasını Düzenle 
+şimdi seçili Şemasını Düzenle için bunu kullanın. 
+Şemasını Düzenle 
+renk Şemasını Sil 
+şimdi seçili Şemasını listeden kaldırmak için bunu kullanın. 
+en ile келетінді таңдауNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Қалыпты Eşleştirme 
+Büyük küçük harf duyarlı 
+үлгіге eşleşen 
+tüm Görünebilir 
+Ara: 
+Yükle 
+Ойнап жатқанға git 
+Қалқымалыны yeniden Göster 
+% 1 дегенді% 2 konumuna 
+& Тегтер өңдегішін Göster 
+Орындаушысы: 
+Parça: 
+Albüm: 
+& Tarz: 
+& Файлы: 
+Parça: 
+Yıl: 
+Ұзындығы: 
+bit легі: 
+& Açıklama: 
+değişiklikleri buna Kaydet: 
+değişiklikleri kaydet 
+etkinleştir 
+etiket болжағыштың Ayarları 
+bilinmeyen 
+dosya Mevcut var. ауыстығыңыз istiyor musunuz? 
+dosya Mevcut 
+yeniden Adlandır 
+sonraki dosyalar değiştirilemiyor. 
+İnternet etiket болжағышы 
+орындаушы 
+жанры 
+альбомы 
+bu файлдарының% 1 дегенін ayarlar üzeresiniz. 
+Parça тегтерін Düzenle 
+çalışma кезегіthe normal viewing mode 
+Ықшам 
+Бұтақ 
+arka uçları 
+Альбомдар 
+Жанрлар 
+Кескіндер ізделуде. Lütfen bekleyiniz... 
+Мұқаба жүктегіші 
+koluyla resim bulunamadı, diğer arama işleminizi girin: 
+yeni arama seçeneklerini girin: 
+yeni arama 
+çalışma тізімі% 1 is Kapak Art,% 2 is the playing track,% 3 is the appname 
+% 1% 2% 3 
+Өшірілмек dosyalar listesi. 
+bu өшірілетіндердің listesi. 
+dizinler 
+dosya adlarının Şeması 
+en kullanılan karakter sayısı: 
+Таңбашаның Yer Tutucu grafik интерфейсте değil 
+Sil тәсілінің Yer Tutucu asla көрсетілмейтін. 
+dosyaları Maksimum Yer Tutucu grafik интерфейсте değil 
+% 1 kodlayıcı 
+kcmaudiocd 
+KDE Аудио CD servisi 
+c 2000 - 2005 Аудио CD geliştiricileri 
+projeyi Yürüten 
+bir керемет орындаушы - аудиофайл мысалы. Wav 
+Аудио CD Аудио CD servisi sizin CD- ROM veya DVD дискілердегіні wav, MP3 veya Ogg Vorbis dosyalarına edecek Yakalama için sağlar. Қызмет uygulaması Konqueror ın adres satırında audiocd: yazarak, özelliğe Bu modülde iletinin kodlama ve aygıt ayarlarını özelleştirebilirsiniz. MP3 ve Ogg Vorbis кодтауы sadece KDE sisteminiz yeni LAME ve Ogg Vorbis жиындарымен құрылғанда uygulanabilir. 
+& Genel 
+Кодердің önceliği 
+en yüksek 
+en küçük 
+normal 
+dev cdrom 
+bağlantı kurulamıyor. Sürücü sürücünüzün Kaynağı girin. genellikle bu dev dizindeki CD veya DVD дискжетектің özel dosyası. 
+CD aygıt: 
+CD құрылғыңыз otomatik байқалғаннан diğer ise bu seçeneği işaretleyin 
+CD- yi yüklenirken hata düzeltmeleri Etkinleştir 
+Құсбелгісін қоймасаңыз bozuk CD- yi yüklenirken hata düzeltmeleri işlemi devre dışı olacak. Кейбірде hatalar fazla мәселелерді туғызады, nedenle seçeneği қоймасаңыз de seçebilirsiniz. 
+hata - өткізу 
+& Атаулары 
+dosya adı жұрнақсыз 
+Cisimler алмастырылады: 
+Tür 
+% year 
+% title 
+& Albüm 
+Шығ. жылы 
+İsim 
+İsim 
+Орындаушысы 
+% albumartist 
+% genre 
+% albumartist 
+% albumtitle 
+жолсызығы 
+% number 
+düzenli ifade ile Değiştir 
+Таңдауы: 
+tüm dosya атауларына kullanılacak düzenli өрнегі. örneğin seçim , алмастыруы _ ise tüm boşlukları Altı сызуымен değiştirilecektir. 
+Кіріс: 
+çıktı: 
+örnek 
+Алмастыруы: 
+АльбомыNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ computer org 
+Кэштің Konumu 
+Айналар тзімі alınamadı. 
+Алынбады 
+Айнаны seçin 
+Айналардың bir seçin 
+HTTP 
+CDDB 
+CDDB veritabanı CD дискілердегі орындаушы, adı, әндер bilgileri Bul için пайдаланылады 
+freedb HTTP protokolünü қолданады, çünkü e- posta мәліметіңіз tam belirtilmedi. Kimden e- postalarınızı tam düzenlemeye eylem tekrar deneyin. 
+E- posta Ayarları geçersiz 
+CDDB Seçenekleri 
+tarayacaktır. 
+SMTP sunucusu: 
+SMTP sunucusu: 
+CD Bilgileri Altavista erdirilecek iletiler CDDB sunucusu: 
+freedb. freedb. org 
+Port: 
+CDDB sunucusuna çıkarıldıklarında порт. 
+& Транспорт: 
+CDDB sunucusuna салынатын Sor türü. 
+& Айналар listesini göster 
+Ayarlar 
+E- posta adresi: 
+Gönder yöntem 
+sunucu: 
+SMTP E- posta 
+sunucu kimlik denetimi gerektiriyor 
+yanıt алушы: 
+SMTP sunucusu: 
+Kullanıcı: 
+teknik Ayrıntılar 
+uzunluk 
+Айырымдылығы 
+Кадрлар yoğunluğu 
+кадр sn 
+Видео кодек 
+Аудио кодек 
+bilinmeyen 
+Hiçbiri 
+Түсініктемесі 
+Орындаушысы 
+İsim 
+& Albüm 
+Tür 
+Parça Numarası 
+Датасы 
+açıklama 
+Ұйымы 
+konum 
+Telif Hakkı 
+teknik Ayrıntılar 
+Арналары 
+Дискретизациясы 
+Hz 
+Тілім genişliği 
+bit 
+orta @ action: inmenu bit легі 
+kb sn 
+uzunluk 
+ID3 Etiketi 
+İsim 
+Орындаушысы 
+& Albüm 
+Шығ. жылы 
+Түсініктемесі 
+жолсызығы 
+Tür 
+teknik Ayrıntılar 
+sürümü 
+MPEG 
+Қабаты 
+CRCCompression method 
+bit легі 
+kb sn 
+Дискретизациясы 
+Hz 
+Kanal 
+Telif құқықты 
+Төлнұсқасы 
+uzunluk 
+Екпіні 
+Түсінктемесі 
+Орындаушысы 
+İsim 
+& Albüm 
+Tür 
+Parça Numarası 
+Датасы 
+açıklama 
+Ұйымы 
+konum 
+Telif Hakkı 
+teknik Ayrıntılar 
+Арналары 
+sürümü 
+Дискретизациясы 
+Hz 
+orta @ action: inmenu bit легі 
+kb sn 
+uzunluk 
+İsim 
+sürümü 
+& Albüm 
+Parça Numarası 
+Орындаушысы 
+Ұйымы 
+açıklama 
+Tür 
+Датасы 
+konum 
+Telif Hakkı 
+Түсініктемесі 
+Parça Numarası 
+teknik Ayrıntılar 
+Kanal 
+Дискретизациясы 
+Hz 
+üst bit легі 
+kb sn 
+alt bit легі 
+Номиналды bit легі 
+orta @ action: inmenu bit легі 
+uzunluk 
+genel 
+İsim 
+Орындаушысы 
+Telif Hakkı 
+teknik Ayrıntılar 
+sürümü 
+PSID v 
+әндер sayısı 
+asıl Şarkı 
+Video Ayrıntılar 
+uzunluk 
+Айырымдылығы 
+Кадрлар yoğunluğu 
+bit легі 
+Kalite 
+Аудио Ayrıntılar 
+Kanal 
+Дискретизациясы 
+teknik Ayrıntılar 
+Тілім Boyutu 
+bit 
+Дискретизациясы 
+Hz 
+Kanal 
+uzunluk 
+протоколдың adı 
+сокеттің adı 
+tam CD 
+bu kısım sunucuya alınamayan değeri: yerine audiocd: biçimini kullanın. 
+Құралдан okuma çakıştığı yok. İzinleri жөндеп seçin. 
+Құралға yazma çakıştığı yok. İzinleri жөндеп seçin. 
+bilinmeyen hata. Eğer sürücüsünde CD disk ise düz root olmayan kullanıcı olarak cdparanoia - vsQ komutu орындап deneyin. Жолсызықтар listesi көрінді musunuz? Hayır ise CD aygıtına erişim құқықтарыңызды edin. Eğer olmayan SCSI эмуляциясын пайдаланып отырсаңыз CD- іңіз жазатын IDE ise olasılığı dev sg0, dev sg1 olarak işaretlenmiş ana SCSI құылғысына жазу- okuma değiştirmek emin Bu de көмектеспесе audiocd: ? device= dev sg0 olarak kio_ audiocd- ye hangi CD- ROM- ыңыз varsa, olup хабарлаңыз. 
+audiocd: bu жолсызықта Rastgele бүлінгені ықтимал. байқалды, veritabanı Hatası 
+CD дискіден% 1 yüklenirken ses деректерде hata oluştu 
+% 1 okunamadı: kodlama çalıştırılamadı 
+% 1 жолсызықNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Басты арнаны Seç 
+Колданыстағы Karıştırıcı 
+Колданыстағы Karıştırıcı 
+Үнділікті etmenize yarayan басшы kanalı: 
+zaten микшерлер: 
+donanım Bilgileri 
+Karıştırıcı penceresini Gizle 
+Kanal & 
+Басты арнаны Seç... 
+% 1 sesi yüksek 
+% 1 sesi taşı 
+үнін Sil 
+Karıştırıcı donanım Bilgileri 
+kmixctrl - kmix sesi Kaydet geri Programı 
+KMixCtrl 
+şimdiki sesi öntanımlı 
+öntanımlı үнділігіне Geç 
+үнін Sil 
+Karıştırıcı bulunamadı 
+ses seviyesi -% 1% 
+Үні silinmiş 
+Karıştırıcı penceresini göster 
+geçersiz Karıştırıcı 
+Панелге & ендірілсін 
+Микшерді KDE paneline ekle 
+үнін kontrolü sistem çekmecesinde göster 
+girişte үн seviyesi geri etkinleştir 
+межелік & çizgiler göster 
+Жүгірткілер шәкілінде межелік satırlarını göster gizle 
+Etiketler göster 
+Сипаттау жарлықтарды жүгірткінің üzerinde göster gizle 
+& Yatay 
+& Dikey 
+kmix - KDE қасиеттрі tam мини микшері 
+kmix 
+c 1996- 2000, Christian Esken c 2000- 2003 Christian Esken, Stefan Schimanski c 2002- 2005 Christian Esken, Helio Chissini de Castro 
+Колданыстағы Karıştırıcı 
+şimdiki дизайны, жетідірушісінің бірі, Alsa 0. 9x бейімдеуі 
+Solaris- ün бейімдеуі 
+* BSD қателерін düzeltmeleri 
+alsa бейімдеуі 
+үнін өшіру, ses düzeyi görmek ve çeşitli hata düzeltmeleri 
+& Gizle 
+kısayol atamalarını Yapılandır... 
+Арналарды & Böl 
+Үні silinmiş 
+жазып alınıyor Kaynağı Seç 
+% 1 үнін Sil Ekle 
+Sil Ekle 
+bilinmeyen 
+alsa микшеріне erişim рұсатыңыз bulunamadı. Tüm alsa paketlere geçersiz құрылғанын edin. 
+alsa микшері bulunamadı. Yardım kartı geçersiz olduğundan ve sürücüsü жүктелгенін edin. 
+kmix: Üzgünüm, bu микшерге izinler yok. Erişim izinlerini alınıyor yolunu işletim sistemi belgelerine bakın. bakınız. 
+kmix: Микшерге yazma kapatıldı. 
+kmix: Микшерден için kapatıldı. 
+kmix: Микшер bulunamadı. Yardım kartı geçersiz olduğundan ve sürücüsü жүктелгенін edin. 
+kmix: Bilinmeyen hata. Burası olmalıdır. жағдайын хабарлаңыз. 
+kmix: Üzgünüm, bu микшерге izinler yok. Bu tür programları çalıştırmak istiyorsanız, için root болыңыз de chmod a+rw dev mixer * komutu gönderin 
+kmix: Микшер bulunamadı. Yardım kartı geçersiz olduğundan ve sürücüsü жүктелгенін edin. sistemi ın драйверді yükleme için insmod қомандасын koyun. Коммерциялық OSS- leri ayarları soundon komutu faydalı olabilir. 
+ses 
+düşük 
+Жіңішке 
+Синтезатор 
+Pcm 
+динамик 
+satır 
+Mono- 
+CD 
+Mix 
+Pcm2 
+ЖазБақ 
+IGain 
+OGain 
+Линия1 
+Линия2 
+Линия3 
+Цифрлық1 
+Цифрлық2 
+Цифрлық3 
+Telefon кірісі 
+Telefon Çıktısı 
+Video 
+Радио 
+Монитор 
+3D- derinliği: 
+3D- orta 
+bak 
+kmix: Микшер bulunamadı. Yardım kartı geçersiz olduğundan ve sürücüsü жүктелгенін edin. sistemi ın драйверді yükleme için insmod қомандасын koyun. Коммерциялық OSS- leri ayarları soundon komutu faydalı olabilir. 
+Басты ses 
+Құрамындағы динамик 
+Құлағылық 
+çıktı satır 
+жазып alınıyor İzleyici 
+girdi satır 
+kmix: bu Karıştırıcı aygıtına erişimi izniniz yok. Sistem yöneticinizle dev audioctl sürücüsüne erişim izinlerini беруін danışın. 
+desteklenen ses sürücü: 
+geçerli ses sürücü: 
+Қалаған & renk 
+Etkin 
+Үнсіз: 
+Дауысты: 
+Аясы: 
+Үні silinmiş 
+& Дауысты: 
+& Аясы: 
+Үнсіз: 
+Үнсіз: 
+& ЖасыруNAME OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Kanal & 
+aygıt Ayarları 
+Karıştırıcı 
+Микшерді Seç 
+Микшерлер 
+zaten микшерлер: 
+Karıştırıcı geçersiz belirtilmedi. 
+Колданыстағы Karıştırıcı 
+KDE CD çalıcısı 
+& Genel kısayolları Yapılandır... 
+gönderiliyor 
+çal Duraklat 
+Тоқтап alındı 
+sonraki 
+Önceki 
+ve çık 
+sesi Yönetimi 
+sesi Yönetimi 
+Rastgele 
+Parça Listesi 
+disk yok 
+General option in the refresh rate configuration dialog 
+KsCD 
+projeyi Yürüten 
+Workman ayarını жаңарту, CDTEXT, CDDA 
+Workman жиыны, yardımcı geliştirici 
+Galore yamalar 
+Workman Kitaplığı 
+Интефейсті düzeltmeleri 
+freedb. org - ün CDDB gibi açık CD veritabanı için алғысымызды айтамыз 
+Ойнауды başlangıç 
+bilinmeyen 
+Sanatçı Yok 
+adı bilinmeyen 
+Ойнап karar CD & алынып göster 
+СКД yazıtipi: 
+& СКД rengi: 
+CD салынғанда ойнай getirir. 
+Eğer seçiliyse, CD aygıtına oluşturulurken otomatik ойнай getirir. 
+Çıkışta CD алынып yazdır. 
+Eğer seçiliyse, tarayıcı oyunu bitti sonra CD otomatik алынып yazdır. 
+СК дисплейінің metin rengi. 
+СК дисплейдегі kutuları yazı tipi. 
+СК дисплейдегі kutuları yazı tipi. 
+name OF TRANSLATORS 
+Serdar SoytetirEMAIL OF TRANSLATORS 
+tulliana@ gmail. com 
+Parça Listesi 
+% 1 жолсызығы 
+İsim 
+ve çık 
+Жолсызықтарды айнала қайталанады. 
+disk yok 
+Rastgele 
+Yinele 
+sonraki 
+ve çık 
+çal 
+Önceki 
+Тоқтап alındı 
+Parça Listesi 
+sesi Yönetimi 
+bilinmeyen 
+İsim 
+орындаушы 
+disk yok 
+koluyla freedb Metni bulunamadı. 
+freedb metnini alınırken hata oluştu. 
+блюз 
+Классикаmusic genre 
+veritabanı 
+фолк 
+Jazz 
+Нью Эйдж 
+Регги 
+рок 
+Parça 
+жолсызығы 
+uzunluk 
+İsim 
+Түсініктемесі 
+Орындаушысы 
+Кодтамасын Değiştir... artist - cdtitle 
+% 1 -% 2 
+bilinmeyen 
+Капелла 
+Қышқыл Jazz 
+Қышқыл панк 
+Қышқыл 
+Акустик 
+Альтернативті 
+Альтернативті рок 
+Эмбиент 
+Анимэ 
+Авангард 
+баллада 
+Bas 
+bit 
+Бибоп 
+Биг Бэнд 
+Black метал 
+Блюграс 
+Бути Bas 
+Бритпоп 
+Кабаре 
+Келтик 
+Камерлық Müzik 
+Шансон 
+Koro 
+христиан гангста- рэп 
+христиан рэп 
+христиан рок 
+Klasik рок 
+Клуб- хауз 
+Клуб 
+Комедия 
+Modern христиан 
+Кроссовер 
+Культ 
+Билеу холл 
+Билеу 
+Дарквейв 
+Death метал 
+Диско 
+Дрим 
+Davul yapılandırması Bas 
+Соло Davul 
+Дуэт 
+Жеңіл 
+Электрондық 
+Халықтық 
+Еуроданс 
+Еуро- хауз 
+Еуро- техно 
+Фаст- фьюжн 
+Фольклор 
+фолк Rock 
+Фристайл 
+Фанк 
+фьюжн 
+Ойын 
+Гангста рэп 
+Гоа 
+Псалом 
+Gotik рок 
+Gotik 
+Грандж 
+Хардкор 
+Хард рок 
+Хеви метал 
+Хип- хоп 
+хауз 
+Әзіл 
+Инди 
+индастриал 
+Аспапты поп 
+Аспапты рок 
+Аспапты 
+Джаз+фанк 
+Джей поп 
+Джангл 
+Латина 
+Lo- Fi 
+Медитация 
+Меренге 
+метал 
+Мьюзикл 
+Ulusal фолк 
+Байырғы американдық 
+Нигерпанк 
+yeni Dalga 
+Gürültü 
+Ескілер 
+Опера 
+diğer 
+Полька 
+Польск панк 
+Поп- фанк 
+поп Фанк 
+поп 
+Порно ритм 
+Поуер баллада 
+Пранкс 
+Примус 
+Прогрессив рок 
+Психоделик рок 
+Психоделик 
+панк рок 
+панк 
+Ритм- энд- блюз 
+рэп 
+Рэйв 
+Retro 
+Жаңғырту 
+Ритмик соул 
+Rock н- ролл 
+Сальса 
+Самба 
+Сықақ 
+Саз 
+Ска 
+Yavaş джем 
+Yavaş рок 
+Соната 
+соул 
+Yardım клипі 
+Güney рок 
+aralıklandırma 
+Сөйлеу 
+Свинг 
+Симфониялық рок 
+Симфония 
+Синтпоп 
+Tango 
+Техно- индастриал 
+техно 
+Террор 
+Трэш метал 
+grup 40 
+үзінді 
+Транс 
+Трайбл 
+Трип- хоп 
+Vokal 
+başarılı 
+sunucu Hatası 
+makine bulunamadı 
+yanıt yok 
+yazma bulunamadı 
+birden fazla yazma Ucu bulunamadı 
+Сақталмады 
+geçersiz kategori 
+bilinmeyen hata 
+Sürüm: 
+adı yoksa орындаушының ad қолданылсын. 
+& Kategori: 
+Есімін тегі, ad olarak olmayan ad Soyad girin Алдындағы The düğmesine ve Kolleksiyonlar için Various girin 
+& Орындаушысы: 
+basın & Yıl: 
+Tarz: 
+disk индентификаторы санатында eşsiz olmalıdır. 
+& fazla arka uçları 
+Açıklama: 
+İsim: 
+Қолдан basın veriyi пайдаланбаған akıllıca - ve verilen olarak CDDB içerisine енгізіледі. 
+disk ID: 
+düzenli ifade 
+öntanımlı değer seçmeli 
+Сілтемелі seçmeli 
+REGEXP 15. 20, 26, 41; 0- 9 +, * 0- 9 +; ; 1 = 26 
+Алмастыратын yeni metin 
+unicode bir metindeki ilk әрібінің юникодын gönderir. 
+unicode metin 
+unicode KDE 75 değerini gönderir 
+UNICHAR işlevi, verilen юникодтың karakteri gönderir. 
+UNICHAR kod 
+UNICHAR 65, A değerini gönderir 
+екі- байттық кодтамадағы karakterler 
+ASC işlevi, verilen екі- байттық full- width кодтамадағы metin eşleşen olarak байттық half- width кодтамасына kopyala verir. 
+ASC metin 
+olarak байттық кодтамадағы karakterler 
+JIS işlevi, verilen olarak байттық half- width кодтамадағы metin eşleşen екі- байттық full- width кодтамасына kopyala verir. 
+JIS metin 
+Text işlevi, тапсырылғанды metin satıra karşılığını verir. 
+FACT sayı 
+Trigonometrik 
+COS işlevi, x радианның cosine değerini gönderir. 
+COS x 
+COS 0, 1. 0 
+COS PI 2 0 
+ACOT fonksiyonu bir sayının Ters котангенсін gönderir. 
+ACOT sayı 
+ACOT 0, 1. 57079633 değerini gönderir 
+SIN işlevi, x радианның sine değerini gönderir. 
+SIN x 
+SIN 0, 0 
+SIN PI 2 1 
+TAN işlevi, x радианның sine değerini gönderir. 
+TAN x 
+TAN 0. 7, 0. 84228838 
+TAN 0, 0 
+ACOS işlevi, değer 0 ve PI Kenarlıklar istediğiniz аралықта жататын радиандағы арккосинусын gönderir. 
+ACOS x 
+ACOS 0. 8 0. 6435011 
+ACOS 0, 1. 57079633 değerini gönderir 
+ASIN işlevi, мәні- PI 2 ve PI 2 Kenarlıklar istediğiniz аралықта жататын радиандағы арксинусын gönderir. 
+ASIN x 
+ASIN 0. 8 0. 92729522 
+ASIN 0, 0 
+ATAN işlevi, мәні- PI 2 ve PI 2 Kenarlıklar istediğiniz аралықта жататын радиандағы арктангенсін gönderir. 
+ATAN x 
+ATAN 0. 8 0. 67474094 
+ATAN 0, 0 
+cosh işlevi, exp x + exp - x 2 olarak sınıflandırılmış x- KStarsın hiperbolik cosine değerini gönderir. 
+cosh x 
+cosh 0. 8 1. 33743495 
+cosh 0, 1 
+sinh işlevi, exp x - exp - x 2 olarak sınıflandırılmış x- KStarsın hiperbolik sine değerini gönderir. 
+sinh x 
+sinh 0. 8 0. 88810598 
+sinh 0, 0 
+the TANH işlevi, sinh x cosh x olarak sınıflandırılmış x- KStarsın hiperbolik sine değerini gönderir. 
+TANH x 
+TANH 0. 8 0. 66403677 
+TANH 0, 0 
+acosh işlevi, x- KStarsın Ters hiperbolik cosine değerini hesaplar. hiperbolik косинусы x- ün eşit değerin sayısı. Eğer x- KStarsın değer 1. 0 den küçük ise acosh işlevi, sayı olmayan NaN hata gönderilecektir. 
+acosh x 
+acosh 5 2. 29243167 
+acosh 0, NaN 
+ASINH işlevi x- KStarsın Ters hiperbolik sine değerini hesaplar. hiperbolik синусы x- ün eşit değerin sayısı. 
+ASINH x 
+ASINH 0. 8 0. 73266826 
+ASINH 0, 0 
+ATANH işlevi, x- KStarsın Ters hiperbolik sine değerini hesaplar. hiperbolik тангенсі x- ün eşit değerin sayısı. Eğer x- KStarsın Modülü 1. 0 den fazla ise ATANH işlevi, sayı olmayan NaN hata gönderilecektir. 
+ATANH x 
+ATANH 0. 8 1. 09861229 
+ATANH 0, 0 
+bu işlev, x y iki değişkeninin Ters hiperbolik sine değerini hesaplar. y x hiperbolik арктангенсін есептеуге benzer, seçeneği dosyayı iki değişkeninin оң- терістігі ескеріліп, değerini hangi квадрантта жататыны tanımlanmıştır. 
+ATAN2 y; x 
+ATAN2 0. 5; 1. 0 1. 107149 
+ATAN2 - 0. 5; 2. 0 1. 815775 
+bu işlev, радиандағы Nokta derece olarak götürür. 
+DEGREES sayı 
+DEGREES 0. 78 değerini 44. 69 
+DEGREES 1 değerini 57, 29 
+Açı derece 
+bu işlev, градустағы Nokta radyan Boyuta götürür. 
+RADIANS sayı 
+RADIANS 75in, 1. 308 
+RADIANS 90 1. 5707 
+PI fonksiyonu PI sayının değeri gönderir. 
+PI 
+PI 3. 141592654... 
+filtre Başlat 
+Ocak 
+Ақпан 
+Наурыз 
+Сәуір 
+Мам 
+Маусым 
+Temmuz 
+Тамыз 
+Қыркүйек 
+Қазан 
+13 Nisan 2002 
+aralık 
+Ayarlar 
+Қайшылық 
+alanlar 
+ek alanlar 
+girdiyi Düzenle 
+olayı değiştir 
+Önplan No: 
+& Тазаланбаған 
+silinmiş 
+Құпия 
+& Архивтелген 
+veritabanı bayraklarını değiştirme işlemi 
+Tüm ögeler 
+önizleme Araç Çubuğu 
+Teşekkürler: 
+Teşekkürler: 
+yedek 
+yazma Seçilmedi 
+Жоспарларды Göster 
+gösteren адрестерінің санатын seçin. 
+not Veritabanı: 
+Kategori: 
+dosyayı seçilen санаттағы tüm Notlar tanımlamak Біреуін түртсеңіз, bu sağ kenarındaki gösterilecektir. 
+Not metni: 
+seçilen notun Metni buraya gösterilecektir. 
+Seyyar Aktar... 
+seçili dosyaları dosyaya Baş- 
+gösteren жоспарларының санатын seçin. 
+dosyayı seçilen санаттағы tüm Ögeleri tanımlamak Біреуін түртсеңіз, bu sağ kenarındaki gösterilecektir. 
+Жоспар мәліметі: 
+Notlar Arasında Göster 
+bulunamadı. Lütfen adresleri Göster 
+buradan gösterilecek IP санатын seçin. 
+Адрестің мәліметі: 
+Seyyar Aktar... 
+bu dosya mevcut. Üzerine Yazılsın mı? 
+dosya ауыстрырылсын mi? 
+Pilot a girdiyi көшірмелеу... 
+takvim veritabanı açılamadı. 
+% 1 ile eşzamanlanıyor. 
+arayüzü 
+adres Defteri 
+Soyad 
+İsim 
+Ұйымы 
+Not 
+Қосымша2 
+Қосымша3 
+Қосымша4 
+ev Telefonu 
+Қалта Telefonu 
+Факсы 
+diğer 
+E- postası 
+ev paketinin 
+Қала 
+Өлке 
+posta indeksi 
+Ел 
+adres Eşleşme Hatası 
+girdiyi Sil 
+Önplan indeksi: 
+KPilot için Posta Kanalı 
+KPilot için Boş Kanalı Yapılandırır 
+veritabanı adı: 
+Орнататын dosyaları: 
+Орнататын dosyalar listesine eklenecek dosyayı seçin. 
+tüm Veritabanları 
+veritabanı genel & Bilgileri 
+silinmiş 
+girdiyi Sil 
+Қалта veritabanı açılamadı. 
+Metni 
+adresi 
+Not 
+veritabanı açılamadı 
+Жоспар Düzenleyici 
+Seyyar Aktar... 
+Seyyar Sil 
+seçili dosyaları sil 
+seçilen Not silinsin mi? 
+Not silinsin mi? 
+Not çıkarılamadı 
+adres Düzenleyici 
+Telefonu 
+Soyadı: 
+Аты: 
+Атағы: 
+Şirket: 
+adresi: 
+Şehir: 
+başlangıç tarihi:% 1 
+posta kodu: 
+Қосымша2: 
+Қосымша3: 
+Қосымша4: 
+metnini Düzenle... 
+Жоспар listesine yeni ekle. 
+Жоспар listeden yapılacak sil. 
+eşzamanlama ihtiyaç 
+seçilen yazma silinsin mi? 
+yazma silinsin mi? 
+yeni adresi adres Defterine ekle. 
+belirlemediniz; алған adresi adres Defterinden sil. 
+Қалта veritabanı açılamadı. 
+adres Defteri açılamadı. 
+KPilot yürüten 
+Pilot veritabanı Hatası 
+шұғыл eşzamanlama 
+Құрылғымен bağlantı Dosyalar içerisindeki Parola Dosyası ından ayarla 
+Hiçbiri 
+İşlem iptal edildi. Veri geri belirtilmedi. 
+KNotes 
+Python 
+KPilot için Python Kanalı 
+KPilot için Python Yapılandırır 
+Yapılandır... 
+Pilot Bilgileri 
+KDE PIM 
+Автобаптау tamamlandı 
+Bir veritabanı қорлар yenilendi 
+yapılandırılmamış 
+yapılacak KMail ve eşzamanlama 
+Күнтізбені KMail ve eşzamanlama 
+adı çok uzun 
+geçersiz 
+Жоспар 
+sonraki eşzamanlama bir - шұғыл қадамдастыру. 
+& hızlı eşzamanlama 
+yapılandırma & Sihirbazı... 
+KPilot u Sihirbazı kullanan yapılandır. 
+sihirbaz kullanılamaz 
+& Sıfırla 
+& Veri қорлары: 
+ek & 4: 
+ek & 2: 
+ek & 1: 
+Önplan & No: 
+eşzamanlama sırasında бағалайтын Perl өрнегін girin. 
+eşzamanlama sırasında бағалайтын Python өрнегін girin. 
+& Açıklama: 
+Kategori: 
+& GNOME- PIM Evolution 
+aygıt kaynağı: 
+& Kullanıcı adı: 
+Құрушысы: 
+veritabanı жалаушалары 
+veritabanı & yedeği değişikliklerini 
+Буылған tablo Adres: 
+Buradan tarihin uygulaması baskı 
+uygulama tablosunu indiriliyor 
+Tablo URL 
+TV AnyWhere кестесінің URL 
+Buradan күннің? 
+sonraki n tarihin 
+PAM güvenlik politikaları Göster 
+zaten қызметтер: 
+Санаты 
+seviyesi 
+Modülü 
+etc pam. d dizini yok. Жүйеңізде PAM desteklenmeyen veya başka yapılandırma Sorunu boşluk алған. 
+Варианттар 
+çoklu варианттарды Seç henüz henüz değildir. 
+Seç geçersiz 
+- Әріп 
+- Әріп değil 
+- Цифр 
+- Цифр değil 
+- boşluk 
+- boşluk değil 
+sayısı 
+аяғы 
+Haberi diğer karakter 
+sonraki bir karakter 
+belirtilen karakterler 
+belirtilen таңбалардан diğer 
+алдын Kısmen iyi, қатарлар 
+Әріп 
+Цифр 
+boşluk 
+Әріп değil 
+Цифр değil 
+boşluk değil 
+tek karakter 
+ek Yaz 
+karakter қатарлары 
+Başlangıç: end of range 
+соңы: 
+Қәдімгі karakter 
+таңбасы. Оналтылық söz dizimindeki Unicode@ info: status 
+Sekizlik@ item: inmenu encoding söz dizimindeki Unicode@ info: status таңбасы. 
+Қоңырау bu a 
+Sayfa sonu bu f 
+Satır sonu bu 
+Күймешені döndür bu r 
+Yatay sekme bu t 
+Dikey sekme bu v 
+İsim: 
+& Açıklama: 
+özelleştirebilirsiniz, otomatik Değiştir 
