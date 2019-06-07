@@ -42,7 +42,7 @@ Edit distance: 35653
 Word error rate (WER): 82,15 %
 Number of position-independent correct words: 21551
 Position-independent word error rate (PER): 62,26 %
-============modelsbadnotags======================
+============modelsbadnotags/also 100%======================
 Statistics about input files
 -------------------------------------------------------
 Number of words in reference: 43398
@@ -72,4 +72,8 @@ Edit distance: 35597
 Word error rate (WER): 82,02 %
 Number of position-independent correct words: 22463
 Position-independent word error rate (PER): 66,01 %
+
+=============models%25=========================
+
+
 
