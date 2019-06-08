@@ -1,1 +1,40 @@
+================modelstags.model=================
+Number of words in reference: 71178
+Number of words in test: 78000
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,67 %
 
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 57214
+Word error rate (WER): 80,38 %
+Number of position-independent correct words: 35381
+Position-independent word error rate (PER): 59,88 %
+
+======================unweighted==============================
+-------------------------------------------------------
+Number of words in reference: 71178
+Number of words in test: 80913
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,54 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 56916
+Word error rate (WER): 79,96 %
+Number of position-independent correct words: 36409
+Position-independent word error rate (PER): 62,52 %
+====================models4.merge4%100=======================
+-------------------------------------------------------
+Number of words in reference: 71178
+Number of words in test: 73181
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,92 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 58243
+Word error rate (WER): 81,83 %
+Number of position-independent correct words: 32953
+Position-independent word error rate (PER): 56,52 %
+=========================
