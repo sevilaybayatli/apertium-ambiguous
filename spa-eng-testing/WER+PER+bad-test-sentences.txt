@@ -51,3 +51,4 @@ Edit distance: 57214
 Word error rate (WER): 80,38 %
 Number of position-independent correct words: 35381
 Position-independent word error rate (PER): 59,88 %
+==================modelsnobad=============================
