@@ -1,0 +1,102 @@
+================modelstags.model=================
+Number of words in reference: 71178
+Number of words in test: 78000
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,67 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 57214
+Word error rate (WER): 80,38 %
+Number of position-independent correct words: 35381
+Position-independent word error rate (PER): 59,88 %
+
+======================unweighted==============================
+-------------------------------------------------------
+Number of words in reference: 71178
+Number of words in test: 80913
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,54 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 56916
+Word error rate (WER): 79,96 %
+Number of position-independent correct words: 36409
+Position-independent word error rate (PER): 62,52 %
+====================models4.merge4%100=======================
+-------------------------------------------------------
+Number of words in reference: 71178
+Number of words in test: 73181
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,92 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 58243
+Word error rate (WER): 81,83 %
+Number of position-independent correct words: 32953
+Position-independent word error rate (PER): 56,52 %
+
+=========================modelsnobadtags==========================
+-------------------------------------------------------
+Number of words in reference: 71178
+Number of words in test: 78000
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,67 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 57214
+Word error rate (WER): 80,38 %
+Number of position-independent correct words: 35381
+Position-independent word error rate (PER): 59,88 %
+==================modelsnobad=============================
+-------------------------------------------------------
+Number of words in reference: 71178
+Number of words in test: 78000
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,67 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 57214
+Word error rate (WER): 80,38 %
+Number of position-independent correct words: 35381
+Position-independent word error rate (PER): 59,88 %
+====================models%75=============================
+Number of words in reference: 71178
+Number of words in test: 79335
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,61 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 57664
+Word error rate (WER): 81,01 %
+Number of position-independent correct words: 35542
+Position-independent word error rate (PER): 61,53 %
+=====================models%50=============================
+Number of words in reference: 71178
+Number of words in test: 73730
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,89 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 58224
+Word error rate (WER): 81,80 %
+Number of position-independent correct words: 33189
+Position-independent word error rate (PER): 56,96 %
+===================models%25=========================
+Number of words in reference: 71178
+Number of words in test: 73434
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,90 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 58205
+Word error rate (WER): 81,77 %
+Number of position-independent correct words: 33153
+Position-independent word error rate (PER): 56,59 
