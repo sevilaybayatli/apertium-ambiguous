@@ -64,3 +64,15 @@ Edit distance: 57214
 Word error rate (WER): 80,38 %
 Number of position-independent correct words: 35381
 Position-independent word error rate (PER): 59,88 %
+====================models%75=============================
+Number of words in reference: 71178
+Number of words in test: 79335
+Number of unknown words (marked with a star) in test: 2866
+Percentage of unknown words: 3,61 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 57664
+Word error rate (WER): 81,01 %
+Number of position-independent correct words: 35542
+Position-independent word error rate (PER): 61,53 %
