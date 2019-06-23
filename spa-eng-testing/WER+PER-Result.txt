@@ -77,31 +77,32 @@ Position-independent word error rate (PER): 66,01 %
 Statistics about input files
 -------------------------------------------------------
 Number of words in reference: 43398
-Number of words in test: 48569
+Number of words in test: 46226
 Number of unknown words (marked with a star) in test: 0
 Percentage of unknown words: 0,00 %
 
 Results when removing unknown-word marks (stars)
 -------------------------------------------------------
-Edit distance: 35653
-Word error rate (WER): 82,15 %
-Number of position-independent correct words: 21551
-Position-independent word error rate (PER): 62,26 %
+Edit distance: 33535
+Word error rate (WER): 77,27 %
+Number of position-independent correct words: 21616
+Position-independent word error rate (PER): 56,71 %
+
 
 ======================models%50============================
 Statistics about input files
 -------------------------------------------------------
 Number of words in reference: 43398
-Number of words in test: 48569
+Number of words in test: 46405
 Number of unknown words (marked with a star) in test: 0
 Percentage of unknown words: 0,00 %
 
 Results when removing unknown-word marks (stars)
 -------------------------------------------------------
-Edit distance: 35653
-Word error rate (WER): 82,15 %
-Number of position-independent correct words: 21551
-Position-independent word error rate (PER): 62,26 %
+Edit distance: 33562
+Word error rate (WER): 77,34 %
+Number of position-independent correct words: 21688
+Position-independent word error rate (PER): 56,95 %
 
 ======================models%75==================
 
