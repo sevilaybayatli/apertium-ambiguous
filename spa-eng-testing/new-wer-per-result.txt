@@ -1,0 +1,30 @@
+perl apertium-eval-translator-line.pl -test /home/sevilay/Documents/machine-translation/transfer.txt -ref /home/sevilay/Documents/machine-translation/ordered-reference.txt 
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 487335
+Number of words in test: 501397
+Number of unknown words (marked with a star) in test: 19429
+Percentage of unknown words: 3,87 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 380841
+Word error rate (WER): 78,15 %
+Number of position-independent correct words: 224942
+Position-independent word error rate (PER): 56,73 %
+
+
+perl apertium-eval-translator-line.pl -test /home/sevilay/Documents/machine-translation/1-transfer.txt -ref /home/sevilay/Documents/machine-translation/ordered-reference.txt 
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 487335
+Number of words in test: 499930
+Number of unknown words (marked with a star) in test: 19429
+Percentage of unknown words: 3,89 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 380620
+Word error rate (WER): 78,10 %
+Number of position-independent correct words: 224339
+Position-independent word error rate (PER): 56,55 %
