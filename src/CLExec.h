@@ -1,77 +1,55 @@
+/*
+ * CLExec.h
+ *
+ *  Created on: Jun 21, 2018
+ *      Author: aboelhamd
+ */
+
 #ifndef SRC_CLEXEC_H_
 #define SRC_CLEXEC_H_
 
 #include <string>
 #include <vector>
 
-//#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
 #include "RuleExecution.h"
 
 using namespace std;
 using namespace pugi;
 
-class CLExec
-{
+class CLExec {
 public:
 
-  static void
-  segmenter (string inFilePath, string outFilePath);
+	static map<string, map<string, vector<float> > >
+	loadYasmetModels(string modelsDest/*, string *localeid*/);
 
-  static void
-  lextor (string inFilePath, string outFilePath);
+	static string
+	toLowerCase(string s, string localeId);
 
-  static void
-  biltrans (string inFilePath, string outFilePath);
+	static string
+	toUpperCase(string s, string localeId);
 
-  static void
-  interchunk (string inFilePath, string outFilePath);
+	static string
+	FirLetUpperCase(string s, string localeId);
 
-  static void
-  postchunk (string inFilePath, string outFilePath);
+	static int
+	compare(string s1, string s2);
 
-  static void
-  transfer (string inFilePath, string outFilePath);
+	static int
+	compareCaseless(string s1, string s2, string localeId);
 
-  static void
-  assignWeights (string inFilePath, string outFilePath);
+	static void
+	beamSearch(vector<pair<vector<RuleExecution::Node*>, float> > *beamTree,
+			unsigned beam, vector<string> slTokens,
+			vector<vector<string> > slTags,
+			vector<RuleExecution::AmbigInfo*> ambigInfo,
+			map<string, map<string, vector<float> > > classesWeights,
+			string localeId);
 
-  static vector<string>
-  getFilesInDir (string dir);
-
-//  static void
-//  runYasmet ();
-
-  static map<string, map<string, vector<float> > >
-  loadYasmetModels (string modelsDest/*, string *localeid*/);
-
-  static void
-  handleDatasets ();
-
-  static string
-  toLowerCase (string word, string localeId);
-
-  static string
-  toUpperCase (string word, string localeId);
-
-  static string
-  FirLetUpperCase (string word, string localeId);
-
-  static int
-  compare (string word1, string word2);
-
-  static int
-  compareCaseless (string word1, string word2, string localeId);
-
-  static void
-  beamSearch (vector<pair<vector<RuleExecution::Node*>, float> > *beamTree, unsigned beam,
-	      vector<string> slTokens, vector<RuleExecution::AmbigInfo*> ambigInfo,
-	      map<string, map<string, vector<float> > > classesWeights, string localeId);
-
-  static void
-  getTransInds (vector<pair<unsigned, float> > *transInds,
-		vector<pair<vector<unsigned>, float> > beamTree,
-		vector<vector<pair<unsigned, unsigned> > > rulesIds);
+	static void
+	getTransInds(vector<pair<unsigned, float> > *transInds,
+			vector<pair<vector<unsigned>, float> > beamTree,
+			vector<vector<pair<unsigned, unsigned> > > rulesIds);
 };
 
 #endif /* SRC_CLEXEC_H_ */

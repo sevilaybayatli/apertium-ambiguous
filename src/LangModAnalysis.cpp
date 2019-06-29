@@ -15,7 +15,6 @@
 #include <sstream>
 #include <algorithm>
 
-//#include "../pugixml/pugixml.hpp"
 #include "pugixml.hpp"
 #include "RuleParser.h"
 #include "RuleExecution.h"
@@ -103,7 +102,7 @@ int main(int argc, char **argv) {
 				<< " [-a analysisFilePath] [-b bestModFilePath] [-r randModFilePath]"
 				<< endl;
 		cout
-				<< "localeId : ICU locale ID for the source language. For Kazakh => kk-KZ"
+				<< "localeId : ICU locale ID for the source language. For Kazakh => kk_KZ"
 				<< endl;
 		cout
 				<< "transferFilePath : Apertium transfer file of the language pair used."
@@ -389,4 +388,3 @@ int main(int argc, char **argv) {
 	}
 	return 0;
 }
-
