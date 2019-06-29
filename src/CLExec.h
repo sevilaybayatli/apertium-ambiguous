@@ -1,10 +1,3 @@
-/*
- * CLExec.h
- *
- *  Created on: Jun 21, 2018
- *      Author: aboelhamd
- */
-
 #ifndef SRC_CLEXEC_H_
 #define SRC_CLEXEC_H_
 
