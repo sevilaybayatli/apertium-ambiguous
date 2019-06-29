@@ -1,10 +1,3 @@
-/*
- * CLExec.cpp
- *
- *  Created on: Jun 21, 2018
- *      Author: aboelhamd
- */
-
 #include <iostream>
 #include <stdexcept>
 #include <stdio.h>
