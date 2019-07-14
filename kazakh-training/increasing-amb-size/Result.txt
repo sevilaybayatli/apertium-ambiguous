@@ -26,3 +26,95 @@ Statistics about the translation of unknown words
 -------------------------------------------------------
 Number of unknown words which were free rides: 12
 Percentage of unknown words that were free rides: 46.15 %
+
+
+Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/ambiguous/chunker2-transfer.txt'
+Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9134
+Number of unknown words (marked with a star) in test: 26
+Percentage of unknown words: 0.28 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 3043
+Word error rate (WER): 32.90 %
+Number of position-independent correct words: 6237
+Position-independent word error rate (PER): 32.57 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 3055
+Word Error Rate (WER): 33.03 %
+Number of position-independent correct words: 6225
+Position-independent word error rate (PER): 32.70 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 12
+Percentage of unknown words that were free rides: 46.15 %
+
+
+
+Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/ambiguous/chunker3-transfer.txt'
+Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9134
+Number of unknown words (marked with a star) in test: 26
+Percentage of unknown words: 0.28 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 3042
+Word error rate (WER): 32.89 %
+Number of position-independent correct words: 6238
+Position-independent word error rate (PER): 32.55 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 3054
+Word Error Rate (WER): 33.02 %
+Number of position-independent correct words: 6226
+Position-independent word error rate (PER): 32.68 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 12
+Percentage of unknown words that were free rides: 46.15 %
+
+
+Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/ambiguous/chunker4-transfer.txt'
+Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9134
+Number of unknown words (marked with a star) in test: 26
+Percentage of unknown words: 0.28 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 3043
+Word error rate (WER): 32.90 %
+Number of position-independent correct words: 6237
+Position-independent word error rate (PER): 32.57 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 3055
+Word Error Rate (WER): 33.03 %
+Number of position-independent correct words: 6225
+Position-independent word error rate (PER): 32.70 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 12
+Percentage of unknown words that were free rides: 46.15 %
+
