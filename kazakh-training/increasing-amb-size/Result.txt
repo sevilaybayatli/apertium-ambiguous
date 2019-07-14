@@ -1,118 +1,28 @@
-Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/test/transfer1.txt'
+Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/ambiguous/chunker1-transfer.txt'
 Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
 
 Statistics about input files
 -------------------------------------------------------
 Number of words in reference: 9249
-Number of words in test: 9129
+Number of words in test: 9136
 Number of unknown words (marked with a star) in test: 26
 Percentage of unknown words: 0.28 %
 
 Results when removing unknown-word marks (stars)
 -------------------------------------------------------
-Edit distance: 2975
-Word error rate (WER): 32.17 %
-Number of position-independent correct words: 6298
-Position-independent word error rate (PER): 31.91 %
+Edit distance: 3042
+Word error rate (WER): 32.89 %
+Number of position-independent correct words: 6246
+Position-independent word error rate (PER): 32.47 %
 
 Results when unknown-word marks (stars) are not removed
 -------------------------------------------------------
-Edit distance: 2987
-Word Error Rate (WER): 32.30 %
-Number of position-independent correct words: 6286
-Position-independent word error rate (PER): 32.04 %
+Edit distance: 3054
+Word Error Rate (WER): 33.02 %
+Number of position-independent correct words: 6234
+Position-independent word error rate (PER): 32.60 %
 
 Statistics about the translation of unknown words
 -------------------------------------------------------
 Number of unknown words which were free rides: 12
 Percentage of unknown words that were free rides: 46.15 %
-
-
-Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/test/transfer2.txt'
-Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
-
-Statistics about input files
--------------------------------------------------------
-Number of words in reference: 9249
-Number of words in test: 9131
-Number of unknown words (marked with a star) in test: 26
-Percentage of unknown words: 0.28 %
-
-Results when removing unknown-word marks (stars)
--------------------------------------------------------
-Edit distance: 2939
-Word error rate (WER): 31.78 %
-Number of position-independent correct words: 6342
-Position-independent word error rate (PER): 31.43 %
-
-Results when unknown-word marks (stars) are not removed
--------------------------------------------------------
-Edit distance: 2951
-Word Error Rate (WER): 31.91 %
-Number of position-independent correct words: 6330
-Position-independent word error rate (PER): 31.56 %
-
-Statistics about the translation of unknown words
--------------------------------------------------------
-Number of unknown words which were free rides: 12
-Percentage of unknown words that were free rides: 46.15 %
-
-Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/test/transfer3.txt'
-Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
-
-Statistics about input files
--------------------------------------------------------
-Number of words in reference: 9249
-Number of words in test: 9128
-Number of unknown words (marked with a star) in test: 26
-Percentage of unknown words: 0.28 %
-
-Results when removing unknown-word marks (stars)
--------------------------------------------------------
-Edit distance: 2833
-Word error rate (WER): 30.63 %
-Number of position-independent correct words: 6461
-Position-independent word error rate (PER): 30.14 %
-
-Results when unknown-word marks (stars) are not removed
--------------------------------------------------------
-Edit distance: 2845
-Word Error Rate (WER): 30.76 %
-Number of position-independent correct words: 6449
-Position-independent word error rate (PER): 30.27 %
-
-Statistics about the translation of unknown words
--------------------------------------------------------
-Number of unknown words which were free rides: 12
-Percentage of unknown words that were free rides: 46.15 %
-
-
-Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/test/transfer4.txt'
-Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
-
-Statistics about input files
--------------------------------------------------------
-Number of words in reference: 9249
-Number of words in test: 9127
-Number of unknown words (marked with a star) in test: 26
-Percentage of unknown words: 0.28 %
-
-Results when removing unknown-word marks (stars)
--------------------------------------------------------
-Edit distance: 2683
-Word error rate (WER): 29.01 %
-Number of position-independent correct words: 6616
-Position-independent word error rate (PER): 28.47 %
-
-Results when unknown-word marks (stars) are not removed
--------------------------------------------------------
-Edit distance: 2695
-Word Error Rate (WER): 29.14 %
-Number of position-independent correct words: 6604
-Position-independent word error rate (PER): 28.60 %
-
-Statistics about the translation of unknown words
--------------------------------------------------------
-Number of unknown words which were free rides: 12
-Percentage of unknown words that were free rides: 46.15 %
-
