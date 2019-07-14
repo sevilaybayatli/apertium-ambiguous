@@ -85,3 +85,34 @@ Statistics about the translation of unknown words
 -------------------------------------------------------
 Number of unknown words which were free rides: 12
 Percentage of unknown words that were free rides: 46.15 %
+
+
+Test file: '/media/sevilay/SAMSUNG/Thesis-Experiments/test/transfer4.txt'
+Reference file '/media/sevilay/SAMSUNG/Thesis-Experiments/test/reference.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9127
+Number of unknown words (marked with a star) in test: 26
+Percentage of unknown words: 0.28 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2683
+Word error rate (WER): 29.01 %
+Number of position-independent correct words: 6616
+Position-independent word error rate (PER): 28.47 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2695
+Word Error Rate (WER): 29.14 %
+Number of position-independent correct words: 6604
+Position-independent word error rate (PER): 28.60 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 12
+Percentage of unknown words that were free rides: 46.15 %
+
