@@ -58,3 +58,33 @@ Number of unknown words which were free rides: 12
 Percentage of unknown words that were free rides: 46.15 %
 
 
+Test file: '/media/sevilay/bee/working/test/nounknnobadtags.txt'
+Reference file '/media/sevilay/bee/working/test/reference.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9129
+Number of unknown words (marked with a star) in test: 26
+Percentage of unknown words: 0.28 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 2967
+Word error rate (WER): 32.08 %
+Number of position-independent correct words: 6306
+Position-independent word error rate (PER): 31.82 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 2979
+Word Error Rate (WER): 32.21 %
+Number of position-independent correct words: 6294
+Position-independent word error rate (PER): 31.95 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 12
+Percentage of unknown words that were free rides: 46.15 %
+
+
