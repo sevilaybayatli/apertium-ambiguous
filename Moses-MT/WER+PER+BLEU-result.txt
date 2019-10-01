@@ -1,0 +1,31 @@
+Bleu= 1.33
+
+Test file: '/home/sevilay/new-moses.txt'
+Reference file '/home/sevilay/ref.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 9187
+Number of unknown words (marked with a star) in test: 13
+Percentage of unknown words: 0.14 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 8420
+Word error rate (WER): 91.04 %
+Number of position-independent correct words: 1307
+Position-independent word error rate (PER): 85.87 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 8420
+Word Error Rate (WER): 91.04 %
+Number of position-independent correct words: 1307
+Position-independent word error rate (PER): 85.87 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0.00 %
+
