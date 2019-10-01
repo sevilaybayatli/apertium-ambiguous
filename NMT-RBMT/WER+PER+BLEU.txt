@@ -1,0 +1,30 @@
+Bleu= 0.05
+
+Test file: '/media/sevilay/bee/new-nmt-pred.txt'
+Reference file '/home/sevilay/ref.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 9249
+Number of words in test: 6658
+Number of unknown words (marked with a star) in test: 1
+Percentage of unknown words: 0.02 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 8958
+Word error rate (WER): 96.85 %
+Number of position-independent correct words: 716
+Position-independent word error rate (PER): 92.26 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 8958
+Word Error Rate (WER): 96.85 %
+Number of position-independent correct words: 716
+Position-independent word error rate (PER): 92.26 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0.00 %
